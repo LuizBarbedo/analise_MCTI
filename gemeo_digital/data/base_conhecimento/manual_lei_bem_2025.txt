@@ -1,0 +1,1670 @@
+
+GUIA LEI DO BEM
+2025
+-346710243205
+345376513969
+00
+Sumário
+ TOC \h \u \z \t "Heading 1,1,Heading 2,2,Heading 3,3,"Apresentação do secretário4
+Apresentação5
+PARTE I - Conceitos e informações gerais6
+1. Por que Inovar?7
+Diferenciação Competitiva7
+Crescimento de Mercado7
+Eficiência e Produtividade7
+Captação e Retenção de Talentos7
+Acesso a Incentivos e Capital7
+Fortalecimento do Ecossistema Nacional7
+2. O que é a Lei do Bem?9
+3. Por que inovar com a Lei do Bem? Quais os benefícios?10
+Incentivos sobre impostos10
+Incentivos sobre investimentos10
+4. Minha Empresa se Qualifica? (Requisitos de Elegibilidade)12
+5. Afinal, o que são atividades de pesquisa e desenvolvimento de inovação tecnológica?13
+O que é Inovação? Contextualização Teórica.13
+Intensidade da Inovação13
+Abrangência da Inovação14
+Inovação Tecnológica de Produto16
+Inovação Tecnológica de Processo17
+Inovação Tecnológica de Serviços18
+O que está contemplado no escopo de inovação da Lei do Bem?19
+A essência da Lei do Bem22
+Inovação em TIC e Serviços23
+O que é P&amp;D e inovação em TIC23
+O que não é P&amp;D em TIC24
+O que é P&amp;D e inovação em Serviços24
+O que não é P&amp;D em Serviços25
+6. Projeto de PD&amp;I27
+6.1 Descrição do projeto30
+6.2 Elemento novo ou inovador (Novidade tecnológica)30
+6.3 Barreira / Desafio tecnológico (Dificuldade técnica)33
+6.4 Métodos empregados35
+6.5  Exemplos de projetos e suas informações necessárias37
+6.6 Ganhos com indicadores objetivos37
+6.7 Vinculação com dispêndios38
+7. Boas Práticas39
+1. Identifique os projetos de PD&amp;I39
+2. Entenda o cronograma e o fluxo de desenvolvimento39
+3. Analise a novidade e a abrangência39
+4. Avalie o esforço tecnológico39
+PONTOS COMPLEMENTARES40
+1. Conceito de Engenharia40
+2. Teste em Escala Industrial41
+3. Nacionalização, Tropicalização e Localização41
+4. Projetos Plurianuais42
+5. Projetos com Rateio de Custos42
+6. Terceirização de Atividades de P&amp;D42
+7. Pesquisador Contratado43
+8. Escalas de Maturidade Tecnológica (TRL, MRL, SRL)43
+      TRL – Nível de Maturidade Tecnológica44
+PARTE II – REQUISITOS E PROCEDIMENTOS.45
+Diretrizes e Sugestões para Preenchimento do FORMP&amp;D58
+➢ Qual é o valor da receita operacional bruta anual da empresa?60
+➢ Qual é o valor da receita líquida da empresa no ano-base?60
+➢ Qual é o total de funcionários com vínculo empregatício?61
+➢ A empresa fechou o ano-base com prejuízo fiscal?61
+➢ Estrutura Organizacional de P&amp;D61
+➢ Título do Projeto de PD&amp;I62
+➢ Descrição do Projeto (INCLUIR MARCADOR DE CAMPO CRÍTICO)63
+➢ Justifique o(s) Nível(is) de Maturidade Tecnológica indicado(s)64
+➢ Área (predominante) do Projeto de PD&amp;I64
+➢ Palavras-chave65
+➢ Natureza predominante do desenvolvimento65
+➢ Elemento tecnologicamente novo ou inovador do projeto66
+➢ Descrição da barreira ou desafio tecnológico superável67
+➢ Descrição da metodologia e métodos utilizados no desenvolvimento do projeto68
+➢ O projeto é contínuo (executado por um período superior a um ano)?69
+➢ Detalhamentos adicionais sobre as informações fornecidas (se necessários)69
+➢ Resultado econômico do projeto70
+➢ Resultado de Inovação71
+➢ Objetivos de Desenvolvimento Sustentável (ODS) contemplados no seu projeto (opcional)72
+➢ Justificativa (ODS) (opcional)72
+➢ Os projetos de PD&amp;I da empresa se alinham com as políticas públicas nacionais? (opcional)72
+➢ Anexo complementar para comprovação da atividade de PD&amp;I (opcional)73
+SEÇÃO 2.1 - Projeto Desenvolvido em Cooperação74
+➢ Projeto Desenvolvido em Cooperação74
+➢ Projeto Com Custos Compartilhados.75
+SEÇÃO 2.2 - Serviços de terceiros76
+➢ Universidade/Instituição de Pesquisa76
+➢ Inventor Independente – Contratado / Valores Transferidos77
+➢ Microempresa/Empresa de Pequeno Porte (CAMPO CRÍTICO)78
+➢ Serviço de apoio técnico, tecnologia industrial básica e despesas operacionais - Pessoa Física79
+➢ Serviço de apoio técnico, tecnologia industrial básica e despesas operacionais - Pessoa Jurídica80
+➢ Material de Consumo81
+➢ Relação de Recursos Humanos81
+SEÇÃO 3 - Dispêndio do Programa83
+➢ Fontes de Financiamento do Projeto de PD&amp;I83
+➢ Especificação dos Gastos84
+➢ Bens Intangíveis85
+SEÇÃO 4 - Pesquisador Exclusivo87
+➢ Pesquisadores com Dedicação Exclusiva (CAMPO CRÍTICO)87
+SEÇÃO 5 - Art. 19-A Da Lei N° 11.196/0588
+➢ Dispêndio com ICT - Art. 19-A Da Lei N° 11.196/0588
+SEÇÃO 6 - Incentivos Fiscais do Programa89
+➢ Incentivos Fiscais do Programa89
+O que observar para evitar indeferimento90
+Erros mais comuns e como evitá-los90
+Checklist prático para evitar indeferimento92
+PARTE III - Como Proceder em Casos de Não Enquadramento ou Glosa94
+Como o recurso é estruturado95
+Apresentação do secretário
+É com grande satisfação que apresentamos este Guia da Lei do Bem, elaborado para apoiar de forma simples e clara todos aqueles que lidam com inovação no Brasil. Este material nasce do compromisso de tornar a legislação mais acessível, traduzindo regras complexas em orientações objetivas e práticas. O objetivo é ampliar a participação das empresas nos incentivos à inovação, estimular novos projetos e fortalecer o ambiente de pesquisa e desenvolvimento no país.
+Mais do que um documento técnico, este guia é um instrumento de apoio para diferentes públicos: gestores, profissionais de inovação, avaliadores e todos que desejam compreender melhor a Lei do Bem. Aqui, você encontrará explicações diretas, exemplos e boas práticas que ajudam a transformar a legislação em oportunidades concretas. Que este material seja um aliado na construção de um Brasil cada vez mais inovador, competitivo e preparado para os desafios do futuro.
+Daniel Gomes de Almeida FilhoSecretário de Desenvolvimento Tecnológico e Inovação – SETEC/MCTI
+Apresentação 
+Inovar deixou de ser apenas uma opção estratégica: tornou-se uma condição essencial para que países e empresas possam crescer, competir e se manter relevantes no cenário global. De acordo com a Organização para a Cooperação e Desenvolvimento Econômico (OCDE), os países que mais prosperam são justamente aqueles que colocam a inovação no centro de suas políticas públicas e estratégias empresariais. A média de investimentos em pesquisa e desenvolvimento (P&amp;D) nos países da OCDE está em torno de 2,7% do PIB, enquanto o Brasil ainda investe aproximadamente 1,2% do PIB. Esse dado revela o enorme potencial que temos de avançar, especialmente quando contamos com instrumentos de apoio capazes de transformar boas ideias em resultados concretos.
+[inserir infográfico comparativo Brasil x OCDE – % do PIB em P&amp;D]
+No Brasil, a Pesquisa de Inovação – PINTEC (IBGE, 2023) mostra que 64,6% da indústria realizou atividades de inovação em 2023, com um volume de investimentos que alcançou R$ 38,3 bilhões em P&amp;D. É um número expressivo, mas que ainda guarda um dado importante: apenas 26,4% das empresas inovadoras utilizaram algum tipo de incentivo fiscal. Isso significa que muitas oportunidades ainda estão sendo perdidas e que há um espaço enorme para ampliar a utilização dos mecanismos já disponíveis.
+Em paralelo, dados do Ministério da Ciência, Tecnologia e Inovação (MCTI, 2024) apontam que, em 2023, a Lei do Bem beneficiou 3.878 empresas, apoiando mais de 13,6 mil projetos em todas as regiões do país. Esses números reforçam o papel da Lei como o principal instrumento de estímulo direto à inovação tecnológica no Brasil, capaz de transformar investimentos em vantagens fiscais, reduzir riscos e ampliar a competitividade das empresas.
+[inserir quadro estatístico consolidado com: taxa de inovação, volume em P&amp;D, % empresas que usam incentivos, nº de empresas e projetos beneficiados pela Lei do Bem]
+17183311102932Este Guia nasce com um objetivo claro: apoiar quem já utiliza a Lei do Bem e quem deseja conhecer melhor o mecanismo, oferecendo uma visão simples, prática e acessível. Queremos que empresas e avaliadores encontrem aqui uma referência segura, que facilite a compreensão das regras, traga clareza aos procedimentos, segurança jurídica e inspire confiança no processo de utilização e análise da Lei.
+LGPD
+As informações compartilhadas no FORMP&amp;D não são públicas. Elas são utilizadas exclusivamente para análise pelo MCTI e são protegidas pela Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
+Os benefícios que a Lei do Bem pode oferecer demonstram como investir em inovação pode se transformar em vantagens diretas para a sua empresa. Vamos descobrir juntos como esses incentivos funcionam e de que maneira podem apoiar o crescimento e a competitividade.
+Dedução de até 60% a 80% dos dispêndios em P&amp;D no IRPJ e na CSLL.
+Redução de 50% do IPI na aquisição de máquinas e equipamentos destinados a P&amp;D.
+Possibilidade de depreciação e amortização acelerada de bens e intangíveis usados em P&amp;D.
+Dedução integral de gastos com pesquisa contratada junto a Instituições Científicas e Tecnológicas (ICTs).
+Redução a zero da alíquota do IRRF em remessas ao exterior para registro e manutenção de marcas, patentes e cultivares.
+Este Guia, portanto, não é apenas um compêndio técnico. É uma ferramenta de engajamento, que pretende ampliar a utilização da Lei do Bem, estimular novos projetos e reforçar a confiança de empresas e avaliadores no processo de incentivo à inovação. Ao longo deste Guia, você encontrará orientações, checklists, fluxogramas e exemplos práticos que irão facilitar cada etapa — do planejamento interno ao preenchimento do FORMP&amp;D.
+Nossa expectativa é que, ao final da leitura, cada empresa sinta-se segura para investir mais em inovação, e cada avaliador encontre neste documento um apoio concreto para conduzir sua análise de forma eficiente e transparente. Afinal, quanto mais a Lei do Bem for utilizada, mais forte se tornará o ecossistema de inovação brasileiro, e esse é um ganho para todos.
+PARTE I - Conceitos e informações gerais
+Por que Inovar?
+Em um cenário de rápidas transformações tecnológicas, sociais e econômicas, inovar deixou de ser uma opção e passou a ser uma necessidade estratégica para as empresas que desejam se manter competitivas. Mais do que acompanhar tendências, a inovação é um instrumento capaz de criar diferenciais sustentáveis, ampliar mercados, otimizar processos e fortalecer o capital humano. Investir em Pesquisa, Desenvolvimento e Inovação (PD&amp;I) significa gerar valor não apenas para o negócio, mas também para a sociedade, contribuindo para o crescimento econômico, a geração de empregos e a construção de um ecossistema nacional mais dinâmico.
+Diferenciação Competitiva
+Empresas que investem em PD&amp;I se posicionam à frente da concorrência, criando produtos, processos e serviços únicos. A inovação gera barreiras de entrada e fortalece a marca, permitindo cobrar preços mais altos ou conquistar novos nichos de mercado.
+Inovar é criar valor onde os outros ainda não chegaram.
+Crescimento de Mercado
+O investimento em inovação abre portas para novos mercados nacionais e internacionais. Produtos inovadores têm maior potencial de exportação e podem captar clientes em setores de rápido crescimento. Segundo a OCDE, países com maior investimento em PD&amp;I registram taxas de crescimento econômico mais estáveis (FRASCATI, 2015)
+Eficiência e Produtividade
+Inovar não é apenas criar novos produtos: é também melhorar processos internos. A automação de rotinas, o uso de tecnologias digitais e a aplicação de novos métodos de produção reduzem custos e aumentam a eficiência. Isso fortalece a margem de lucro e a sustentabilidade da operação.
+Captação e Retenção de Talentos
+Profissionais qualificados preferem trabalhar em ambientes inovadores, que valorizam aprendizado e criatividade. Investir em PD&amp;I atrai e retém os melhores talentos, criando um círculo virtuoso de capital humano altamente engajado e produtivo.
+Acesso a Incentivos e Capital
+Governos, fundos de investimento e organismos internacionais priorizam empresas que investem em inovação. Além da Lei do Bem, existem linhas de crédito, subvenções e parcerias que se tornam mais acessíveis quando a empresa já possui histórico de PD&amp;I.
+Fortalecimento do Ecossistema Nacional
+O impacto não é apenas empresarial. Cada projeto de inovação fortalece a base científica e tecnológica do país, estimula a cadeia produtiva, gera empregos qualificados e contribui para enfrentar desafios sociais (saúde, sustentabilidade, educação, energia limpa). O Manual de Frascati lembra que o investimento em PD&amp;I é reconhecido como capital para o desenvolvimento econômico e social. 
+O que é a Lei do Bem?
+Você já parou para pensar como transformar os investimentos da sua empresa em inovação em vantagens tributárias concretas? É exatamente isso que a Lei do Bem possibilita. Criada pela Lei nº 11.196/2005, ela é hoje o principal mecanismo de incentivo direto à inovação no Brasil, apoiando empresas que acreditam que inovar é fundamental para crescer e se manter competitivas.
+Em poucas palavras, a Lei do Bem é um conjunto de incentivos fiscais oferecidos às empresas que realizam atividades de pesquisa, desenvolvimento e inovação tecnológica (PD&amp;I). Na prática, isso significa que parte do que a empresa investe em inovação pode se transformar em economia tributária, reduzindo custos e ampliando a capacidade de reinvestir em novos projetos. 
+Por que inovar com a Lei do Bem? Quais os benefícios?
+A inovação não é mais um luxo — é uma necessidade. Em um mundo cada vez mais dinâmico, investir em novos produtos, processos e serviços é o que diferencia empresas que crescem das que ficam para trás. Mas inovar exige recursos, planejamento e, muitas vezes, envolve riscos. E se fosse possível reduzir esses riscos com apoio direto do Estado?
+É aqui que a Lei do Bem faz toda a diferença. Ela permite:
+Reduzir a carga tributária de forma significativa.
+Aumentar a capacidade de reinvestimento em novos projetos.
+Estimular a contratação de pesquisadores e especialistas.
+Fortalecer a competitividade da empresa no mercado nacional e internacional.
+Incentivos sobre impostos
+Incentivos sobre investimentos
+Percebe como os benefícios são concretos e aplicáveis em diferentes setores? A Lei do Bem funciona como um parceiro estratégico para as empresas, ajudando a reduzir riscos e transformar cada real investido em inovação em um ganho duplo: avanço tecnológico e economia tributária.
+Para o MCTI, a adesão crescente à Lei fortalece o ecossistema de inovação, melhora a qualidade dos dados coletados via FORMP&amp;D e amplia a confiança no processo de avaliação. Para as empresas, é a oportunidade de transformar inovação em vantagem competitiva de forma sustentável.
+Minha Empresa se Qualifica? (Requisitos de Elegibilidade)
+Talvez você esteja se perguntando: a minha empresa pode utilizar esses incentivos?A resposta depende do cumprimento de alguns requisitos. O benefício se destina a empresas que:
+São tributadas pelo Lucro Real.
+Que realizem atividades de pesquisa e desenvolvimento de inovação tecnológica (desenvolver Atividades de PD&amp;I e comprovar dispêndios: Comprovar a execução de projetos que se enquadrem nos conceitos de pesquisa básica, aplicada ou desenvolvimento experimental, mantendo documentação que comprove os gastos com PD&amp;I (notas fiscais, contratos, holerites, relatórios técnicos).
+Que estejam em dia com suas obrigações fiscais (federais, estaduais e municipais), ou seja, possuir Certidão Negativa de Débitos (CND) ou equivalente em todos os âmbitos. 
+Que apuraram Lucro Fiscal: Ter lucro no período para usufruir dos benefícios de dedução (exceção: há um PL para permitir crédito futuro em anos de prejuízo) .
+Isso significa que microempresas e empresas optantes pelo Simples Nacional ou Lucro Presumido ainda não podem acessar diretamente o benefício. Mas para aquelas que atendem aos requisitos, a Lei representa uma oportunidade única de reduzir custos, ampliar competitividade e fortalecer sua presença no mercado.
+right3988700Quem pode usar?
+✔ Empresas tributadas pelo Lucro Real.
+✔ Que investem em P&amp;D.
+✔ Regulares com o fisco.
+✔ Regulares com o fisco.
+❌ Empresas do Simples Nacional e do Lucro Presumido não são elegíveis.
+Afinal, o que são atividades de pesquisa e desenvolvimento de inovação tecnológica? 
+Comecei bem. Minha empresa é tributada pelo Lucro Real e está em dia com as obrigações fiscais. Agora só resta saber se a minha empresa realiza atividades de pesquisa e desenvolvimento de inovação tecnológica. Mas o que são essas atividades?
+O que é Inovação? Contextualização Teórica.
+Inovação não é um tema novo. Tem muita história por trás.
+Quando falamos em inovação, não estamos tratando apenas de uma palavra da moda, mas de um conceito que há décadas estrutura a forma como pensamos o desenvolvimento econômico. No século XX, o economista Joseph Schumpeter foi um dos primeiros a destacar o papel fundamental das empresas e dos empreendedores nesse processo. Para ele, inovar significava:
+lançar um produto novo ou melhorar de forma significativa um já existente; adotar um método de produção inédito no setor, mesmo que não fosse fruto de uma descoberta científica; ou ainda conquistar novas fontes de insumos para sustentar a produção.
+Mais tarde, organismos internacionais consolidaram esse entendimento. A OCDE (1997) definiu que as inovações de produto e processo acontecem quando surgem produtos e processos tecnologicamente novos ou quando há melhorias significativas nos já existentes. Em termos práticos, isso quer dizer:
+inovação de produto é quando ele chega ao mercado; inovação de processo é quando ele passa a ser usado dentro do sistema produtivo.
+Intensidade da Inovação
+[Incluir a tabela de intensidades e exemplos]
+Seguindo a mesma lógica, a PINTEC (Pesquisa de Inovação do IBGE) destaca que inovação é a introdução de um bem, serviço ou processo tecnologicamente novo ou substancialmente aprimorado para a empresa, mesmo que não seja novidade para o setor como um todo. Assim, uma solução pode ser inovadora para a sua empresa, mesmo que outra já a utilize.
+Abrangência da Inovação
+A inovação pode ser analisada em diferentes níveis de abrangência, a depender do seu alcance e da novidade que representa em relação ao estado do conhecimento e das práticas existentes. A correta caracterização desse alcance é essencial para compreender o impacto efetivo de uma iniciativa de Pesquisa, Desenvolvimento e Inovação (PD&amp;I) e para evitar generalizações ou superestimações.
+Inovação para o Mundo
+Refere-se à criação de um produto, processo, serviço ou modelo organizacional inédito em escala global, ou seja, algo que não possui paralelo em nenhum país. Normalmente envolve descobertas científicas disruptivas, patentes pioneiras ou tecnologias de fronteira, capazes de inaugurar novas áreas de conhecimento ou indústrias. Trata-se do nível mais elevado de inovação, que implica tanto complexidade técnica quanto elevado risco de incerteza, mas que pode gerar impactos de grande amplitude, transformando mercados e sociedades.
+Inovação para o País
+Neste nível, a inovação já pode existir em outros países, mas sua aplicação é inédita no território nacional. O valor está em adaptar, internalizar ou tropicalizar tecnologias externas, tornando-as compatíveis com a realidade do país — seja em termos de infraestrutura, legislação, cultura ou demanda de mercado. A inovação para o país contribui para reduzir a dependência tecnológica externa, amplia a competitividade local e pode gerar soberania em áreas estratégicas, ainda que não seja uma novidade absoluta em escala mundial.
+Inovação para o Setor
+Aqui, a novidade já pode estar consolidada em outras áreas, mas é aplicada pela primeira vez em um setor específico. Por exemplo, uma técnica já empregada na medicina que passa a ser utilizada na indústria de alimentos. Esse tipo de inovação amplia as fronteiras de aplicação do conhecimento, cria novas oportunidades de negócios e pode gerar diferenciais competitivos importantes dentro de um segmento. Muitas vezes, esse nível é marcado pela transferência de tecnologia e pela interdisciplinaridade.
+Inovação para a Empresa
+É a forma mais localizada de inovação. Nesse caso, a tecnologia, processo ou produto já pode estar difundido no setor ou no mercado, mas é novo para a organização que o adota ou desenvolve. O mérito está em internalizar uma prática ou solução que trará ganhos de eficiência, produtividade, qualidade ou competitividade dentro da empresa. Embora não transforme necessariamente o mercado, esse nível de inovação é fundamental para a modernização empresarial e pode ser porta de entrada para inovações mais amplas no futuro.
+[Incluir tabela com os exemplos]
+Essas inovações podem nascer dentro da própria empresa, de novas combinações de tecnologias já conhecidas, de aplicações em usos diferentes ou até da incorporação de conhecimentos adquiridos externamente.
+O Manual de Frascati (2015) reforça essa ideia, explicando que as atividades de inovação tecnológica envolvem um conjunto amplo de ações — científicas, tecnológicas, organizacionais, financeiras e comerciais — que se destinam a gerar novos produtos ou processos ou melhorar os já existentes.
+No Brasil, a Lei do Bem e o Decreto nº 5.798/2006, definem inovação tecnológica como:
+“a concepção de novo produto ou processo de fabricação, bem como a agregação de novas funcionalidades ou características ao produto ou processo que implique melhorias incrementais e efetivo ganho de qualidade ou produtividade, resultando em maior competitividade no mercado.”
+Posteriormente, ainda no Brasil, o Marco Legal de Ciência, Tecnologia e Inovação (Lei nº 13.243/2016) definiu como inovação:
+“a introdução de novidade ou aperfeiçoamento no ambiente produtivo e social que resulte em novos produtos, serviços ou processos ou que compreenda a agregação de novas funcionalidades ou características a produto, serviço ou processo já existente que possa resultar em melhorias e em efetivo ganho de qualidade ou desempenho.”
+Importante observar que, originalmente, a Lei do Bem e o Decreto nº 5.798/2006 não contemplavam serviços como atividade de PD&amp;I. Isso só foi alterado com a Lei nº 13.243/2016, que passou a reconhecer formalmente as inovações também em serviços, além de produtos e processos.
+Inovação Tecnológica de Produto
+Quando falamos em produto, estamos tratando tanto de bens (como máquinas, cosméticos, peças ou embalagens) quanto de serviços (como softwares, plataformas digitais ou soluções de atendimento). Neste Guia, seguimos a orientação do Manual de Frascati e do Marco Legal brasileiro, aplicando o conceito de atividades de PD&amp;I que resultam em inovação tecnológica.
+A inovação tecnológica de produto pode assumir duas formas:
+Produto tecnologicamente novo: algo que nunca existiu antes para a empresa, para o setor ou até para o mercado como um todo.
+Produto tecnologicamente aprimorado: algo que já existia, mas foi significativamente melhorado em termos de desempenho, funcionalidades ou eficiência.
+Essas inovações podem surgir de diferentes caminhos:
+pelo uso de tecnologias radicalmente novas;
+pela combinação criativa de tecnologias já conhecidas, aplicadas de uma nova forma;
+ou ainda pelo aproveitamento de novos conhecimentos adquiridos, que permitem melhorar produtos existentes.
+O impacto aparece quando o produto demonstra uma performance significativamente superior, seja oferecendo melhor desempenho técnico, seja permitindo redução de custos no processo produtivo.
+Exemplos práticos:
+Setor de cosméticos: reformulação de uma linha de cremes e óleos, incorporando novos ativos e óleos essenciais para aumentar a hidratação, a fixação do perfume e oferecer sensoriais diferenciados.
+Setor industrial: desenvolvimento de uma nova família de compressores com maior eficiência energética e redução de ruído em até 10%, a partir da aplicação de novos materiais e tecnologias.
+Setor automotivo: criação de um novo pacote de aditivos para gasolina, combinando um detergente-dispersante (que reduz depósitos no motor e diminui emissões) com um modificador de atrito (que melhora o desempenho do motor e reduz o desgaste das peças).
+Esses exemplos mostram que a inovação tecnológica de produto não se limita a invenções revolucionárias: ela também pode estar em melhorias substanciais que tornam o produto mais competitivo, eficiente e sustentável.
+Inovação Tecnológica de Processo
+Assim como acontece com produtos, a inovação também pode estar nos processos internos das empresas. Nesse caso, falamos em inovação tecnológica de processo: o desenvolvimento ou a aplicação de um processo novo ou significativamente aprimorado, seja ele industrial ou ligado a serviços.
+Esse tipo de inovação pode envolver:
+a criação de uma nova tecnologia de produção;
+a adoção de equipamentos inéditos ou com funcionalidades novas;
+ou ainda o uso de softwares e sistemas digitais que impactam diretamente a forma de produzir ou prestar serviços.
+O objetivo é sempre o mesmo: gerar ganho de competitividade, tornando a empresa mais eficiente na criação de riqueza, seja pela fabricação de bens, seja pela prestação de serviços com mais qualidade e menor custo.
+No setor industrial, as inovações de processo normalmente aparecem em mudanças que melhoram a produção (reduzindo tempo, custo ou falhas) ou até permitem a viabilização de novos produtos. Já no setor de serviços, podem ser mais difíceis de identificar, mas o impacto é igualmente importante: trata-se de melhorar a forma como uma atividade é prestada, tornando-a mais ágil, confiável e eficiente para o cliente.
+Exemplos práticos:
+Telecomunicações: a introdução de redes inteligentes que permitiram diversificar os serviços, trazendo funcionalidades como caixa postal, identificação de chamadas e, posteriormente, o acesso à internet por dispositivos móveis.
+Energia/Petróleo: o desenvolvimento de um inibidor de formação de parafina em poços de petróleo, que reduziu pela metade a necessidade de passagem dos PIGs (equipamentos usados para limpeza das tubulações) e, ao mesmo tempo, diminuiu perdas de óleo. Esse inibidor foi criado a partir de técnicas de arquitetura molecular usando casca de laranja, sendo mais seguro para o meio ambiente e para os operadores.
+Esses exemplos mostram que um projeto pode até combinar inovação de produto e de processo. O inibidor de parafina, por exemplo, é um produto novo que ao mesmo tempo transforma o processo de extração e manutenção dos poços, tornando-o mais eficiente e sustentável.
+Em resumo: a inovação de processo é o que acontece nos bastidores da empresa, mas com efeitos diretos na eficiência, na competitividade e na qualidade dos bens e serviços oferecidos ao mercado.
+Inovação Tecnológica de Serviços
+Falar de inovação tecnológica em serviços é sempre um desafio maior do que no setor industrial. Isso porque, enquanto na indústria existe uma fronteira mais nítida entre as atividades de PD&amp;I e as rotinas de produção, no setor de serviços essas fronteiras são muitas vezes sutis e difíceis de definir.
+Uma característica essencial da inovação em serviços é que ela está muito ligada ao comportamento dos usuários. Entender como as pessoas interagem, quais são suas necessidades e como respondem a novas soluções é um ponto central. Mas esse processo traz desafios práticos: como coletar dados confiáveis, geralmente informados pelo próprio usuário? Como tratá-los e transformá-los em conhecimento válido para apoiar a inovação? Essas questões mostram a complexidade do setor.
+Entre as atividades de serviços, um destaque especial vai para as empresas desenvolvedoras de software, reconhecidas pela PINTEC (2011) como parte do universo da inovação tecnológica. Aqui entram:
+desenvolvimento de software sob encomenda;
+desenvolvimento de software customizável;
+desenvolvimento de software não customizável;
+outros serviços de tecnologia da informação que envolvam riscos tecnológicos.
+Nesses casos, a inovação pode estar tanto em melhorias nos processos de desenvolvimento de software quanto no desenvolvimento de softwares novos ou aprimorados.
+Tipos de Inovação contemplados
+O Manual de Oslo (2018), referência internacional elaborada pela OCDE, apresenta uma visão mais ampla de inovação, que inclui bens, serviços, processos, métodos organizacionais e até práticas de marketing. No entanto, é importante ressaltar que, no Brasil, para fins da Lei do Bem, apenas as inovações com conteúdo tecnológico comprovado são elegíveis. Isso significa que práticas inovadoras de gestão, marketing ou organização, embora relevantes em outros contextos, não se enquadram nos critérios fiscais brasileiros.
+Gostou de conhecer um pouco mais do assunto? Eu sei. Ainda falta falarmos do que a Lei do Bem considera inovação. Então vamos lá.
+O que está contemplado no escopo de inovação da Lei do Bem?
+O Decreto nº 5.798/2006 especifica, em seu artigo 2º, inciso II, que são consideradas atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica aquelas relacionadas a pesquisa básica dirigida, pesquisa aplicada, desenvolvimento experimental, tecnologia industrial básica e serviços de apoio técnico.
+O Decreto traz ainda as definições de cada uma destas atividades conforme quadro abaixo:
+Atividade
+Definição conf. Decreto nº 5.798/2006
+Pesquisa básica dirigida
+Trabalhos executados com o objetivo de adquirir conhecimentos quanto à compreensão de novos fenômenos, com vistas ao desenvolvimento de produtos, processos ou sistemas inovadores;
+Pesquisa aplicada
+Trabalhos executados com o objetivo de adquirir novos conhecimentos, com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas
+Desenvolvimento experimental
+Trabalhos sistemáticos delineados a partir de conhecimentos pré-existentes, visando a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos;
+Tecnologia industrial básica
+Aquelas tais como a aferição e calibração de máquinas e equipamentos, o projeto e a confecção de instrumentos de medida específicos, a certificação de conformidade, inclusive os ensaios correspondentes, a normalização ou a documentação técnica gerada e o patenteamento do produto ou processo desenvolvido;
+Serviços de apoio técnico
+aqueles que sejam indispensáveis à implantação e à manutenção das instalações ou dos equipamentos destinados, exclusivamente, à execução de projetos de pesquisa, desenvolvimento ou inovação tecnológica, bem como à capacitação dos recursos humanos a eles dedicados
+Ainda está complicado? Vamos aos exemplos:
+Pesquisa básica dirigida: Segundo a Lei nº 11.196/2005 e o Manual de Oslo, é o trabalho experimental ou teórico que visa adquirir novos conhecimentos, sem aplicação prática imediata.
+Exemplo prático: laboratório universitário estuda proteínas que podem, futuramente, ser usadas em novos medicamentos.
+Pesquisa aplicada: Busca gerar novos conhecimentos com objetivo prático específico. É uma ponte entre a teoria e a solução concreta, ou seja, tem um objetivo prático específico.
+Exemplo prático: empresa agro contrata um centro de pesquisa para desenvolver sementes mais resistentes à seca.
+Desenvolvimento experimental: É o conjunto de trabalhos sistemáticos baseados em conhecimento prévio para produzir novos materiais, produtos, processos ou serviços. Transforma conhecimento em protótipos, testes e validações. É aqui que as ideias ganham forma prática.
+Exemplo prático: startup de tecnologia cria protótipos de drones autônomos para entregas urbanas.
+Tecnologia industrial básica: Abrange atividades de padronização, metrologia, normalização, certificação e ensaios que dão suporte ao avanço tecnológico e viabilizam a inovação.
+Exemplo prático: empresa de energia solar realiza testes de eficiência em painéis fotovoltaicos para obter certificação do Inmetro.
+Serviços de apoio técnico: São atividades de suporte que viabilizam ou complementam a inovação, como manutenção de infraestrutura laboratorial, ensaios de campo e suporte técnico especializado.
+Exemplo prático: empresa de biotecnologia contrata serviços de bioinformática para análise de grandes bases de dados genômicos.
+Entendeu tudo? Então vamos a um pequeno teste. 
+As atividades a seguir podem ser consideradas dentro do escopo da Lei do Bem?
+Pesquisas de mercado;
+Pesquisas de opinião;
+Customização de software existente, correção de bugs, manutenção rotineira;
+Atividades rotineiras de linha de produção;
+Alterações de engenharia ou design rotineiras e sem ganho tecnológico;
+Transporte, logística e comercialização; e
+Compra ou encomenda pura de tecnologia sem atividade de desenvolvimento associada.
+A essência da Lei do Bem
+De acordo com o Manual de Frascati (2015) e a legislação brasileira (Lei nº 11.196/2005 e Decreto nº 5.798/2006), consideram-se atividades de P&amp;D aquelas que buscam gerar conhecimento novo ou aplicar conhecimento existente de forma inédita, enfrentando barreiras tecnológicas e utilizando métodos sistemáticos de pesquisa, desenvolvimento e validação.
+Ficou complicado? Vamos simplificar:
+A essência da Lei do Bem consiste no reconhecimento de atividades que promovam novidade tecnológica, envolvem barreiras ou incertezas técnicas.
+Com essa definição em mente, você manteria sua resposta? Ou mudaria? Vamos ver cada opção.
+Tabela checklist
+Atividade
+Elegível?
+Justificativa
+Pesquisas de mercado e pesquisas de opinião.
+❌
+Foco mercadológico e não de inovação tecnológica.
+Customização de software existente
+❌
+Não envolve novidade tecnológica, apenas adaptação.
+Correção de bugs, manutenção rotineira, atividades de linha de produção rotineiras
+❌
+Atividades operacionais, sem barreiras técnicas.
+Treinamentos administrativos
+❌
+Rotinas de capacitação sem inovação tecnológica.
+Alterações de design/marketing sem ganho tecnológico
+❌
+Podem ser inovação mercadológica, mas não tecnológica.
+Compra ou encomenda pura de tecnologia sem atividade de desenvolvimento associada, compra de equipamentos sem vínculo com P&amp;D.
+❌
+Só aquisição, sem projeto tecnológico associado.
+Você já deve ter compreendido que nem toda atividade empresarial pode ser considerada inovação para fins da Lei do Bem. É importante separar o que é incentivado do que não é, para evitar riscos de glosa durante a avaliação do MCTI.
+Atividade
+Elegível?
+Justificativa
+Pesquisa básica, aplicada e desenvolvimento experimental
+✅
+Produzem conhecimento novo, enfrentam barreiras técnicas e são o núcleo da Lei do Bem.
+Certificações e TIB ligadas ao projeto
+✅
+Necessárias para validar a inovação e permitir sua aplicação.
+Desenvolvimento de software com barreiras técnicas
+✅
+Envolve algoritmos, segurança, interoperabilidade inédita.
+Veja, no entanto, que há a possibilidade de que o software seja considerado elegível para aplicação dos benefícios da Lei do Bem em alguns casos, embora em outros não. Assim, como distinguir o que seria elegível do não elegível nestes casos?
+Inovação em TIC e Serviços 
+Embora as definições de P&amp;D e inovação sejam comuns a todos os setores, alguns apresentam características singulares que exigem uma atenção diferenciada. Esse é o caso das áreas de Tecnologias da Informação e Comunicação (TIC) e de Serviços, onde a inovação muitas vezes não está associada a produtos físicos, mas sim a ativos intangíveis, software, dados e métodos organizacionais.
+A experiência internacional, refletida no Manual de Oslo (2018), no Manual de Frascati (2015) e em documentos recentes da OCDE, mostra que esses setores podem gerar alto impacto em produtividade e competitividade. No entanto, também trazem desafios de interpretação: o que realmente configura P&amp;D e inovação em TIC e serviços? E, talvez ainda mais importante: o que não configura.
+Separar essa subseção permite oferecer critérios mais claros e objetivos tanto para as empresas, ao descreverem seus projetos, quanto para os avaliadores, ao analisarem se as atividades declaradas cumprem os requisitos legais da Lei do Bem. Com isso, evitam-se ambiguidades, fortalecendo a confiança no processo e ampliando o uso qualificado do incentivo.
+O que é P&amp;D e inovação em TIC
+No campo das TIC, a inovação ocorre quando há incerteza técnica real e necessidade de desenvolvimento sistemático para resolver problemas de desempenho, escalabilidade, interoperabilidade ou segurança.
+Exemplos típicos incluem:
+O desenvolvimento de novos algoritmos de inteligência artificial, capazes de detectar padrões que até então não eram identificáveis.
+A criação de arquiteturas de software inéditas, que suportam grandes volumes de dados com baixa latência.
+A prototipagem de sistemas de cibersegurança baseados em criptografia avançada, testados contra-ataques em cenários reais.
+Nesses casos, há risco tecnológico e resultados incertos até a validação. É exatamente isso que caracteriza P&amp;D: enfrentar barreiras técnicas e aplicar métodos sistemáticos de investigação.
+O que não é P&amp;D em TIC
+Nem tudo o que envolve software ou TI pode ser classificado como inovação para fins da Lei do Bem. É comum que empresas confundam rotinas de manutenção ou customização com atividades de P&amp;D.
+Não configuram inovação:
+Correção de bugs em programas já existentes.
+Customização de software de prateleira para atender a um cliente específico.
+Migração de sistemas ou bancos de dados para novas plataformas, quando não há desenvolvimento tecnológico inédito.
+Atualização estética de interface sem impacto tecnológico.
+Essas atividades são importantes para a operação da empresa, mas não representam avanço científico ou tecnológico.
+Critério objetivo para demarcar o início da inovação tecnológica e o término da engenharia em projetos de TIC
+Nos projetos de Tecnologias da Informação e Comunicação (TIC), a distinção entre atividades de P&amp;D e atividades de engenharia costuma gerar dúvidas. Para apoiar empresas e avaliadores, este Guia apresenta critérios objetivos que permitem identificar quando começa a inovação tecnológica e quando se encerra o caráter experimental, dando lugar à engenharia de detalhamento e à produção.
+Essa demarcação é essencial porque apenas as atividades enquadradas como Pesquisa, Desenvolvimento e Inovação (PD&amp;I) são elegíveis aos incentivos fiscais da Lei do Be
+Quando começa a inovação tecnológica? (Início de PD&amp;I)
+O início da inovação tecnológica ocorre quando o projeto passa a envolver incerteza técnica demonstrável, exigindo investigação estruturada, formulação de hipóteses e execução de experimentos.
+Critérios objetivos:
+Incerteza técnica real: não existe solução conhecida ou rotina consolidada capaz de resolver o problema; há lacunas no estado da arte.
+Hipótese de solução formulada: o projeto precisa testar caminhos possíveis para superar a barreira técnica.
+Plano experimental definido: metodologia, variáveis, prototipagem, critérios de sucesso e roteiros de validação.
+Busca por soluções existentes documentada: revisão de literatura, patentes, referências técnicas, benchmarks.
+Atividades com natureza de P,D&amp;I: experimentos, testes exploratórios, desenvolvimento de protótipos, avaliações preliminares, validação funcional.
+Em síntese: a inovação tecnológica começa onde a rotina termina e onde a experimentação se torna necessária para resolver incertezas científicas ou tecnológicas.
+Quando termina a inovação tecnológica? (Transição para engenharia)
+A fase de P&amp;D chega ao fim quando a incerteza técnica é resolvida e o foco das atividades deixa de ser a investigação, tornando-se padronização, repetição, integração ou preparação para produção.
+Critérios objetivos:
+Incerteza eliminada: as hipóteses foram testadas e os resultados são reprodutíveis.
+Atividades passam a ser de engenharia repetitiva: detalhamento, padronização, documentação, integração e testes de conformidade.
+Especificações finais consolidadas: arquitetura aprovada, procedimentos estabelecidos, critérios de qualidade definidos.
+Ausência de novas hipóteses: não há mais necessidade de investigação científica ou tecnológica.
+Transferência para rotina: industrialização, manutenção, operação, sustentação e suporte passam a dominar o esforço.
+Ou seja: a inovação termina quando o projeto deixa de produzir novo conhecimento e passa a operacionalizar conhecimento já validado.
+CHECKLIST — Início da Inovação Tecnológica (PD&amp;I)
+☐ Objetivo de inovação claramente definido • Documento: escopo técnico, metas mensuráveis.
+☐ Evidência de novidade tecnológica / estado da arte • Documento: revisão bibliográfica, buscas em patentes, benchmarks.
+☐ Identificação formal da barreira técnica (incerteza) • Documento: declaração técnica com hipóteses científicas/tecnológicas.
+☐ Plano experimental ou metodológico estruturado • Documento: protocolo de testes, variáveis, critérios de sucesso, cronograma.
+☐ Comprovação de busca por soluções existentes • Documento: relatórios de pesquisa, levantamentos de literatura, análise de soluções de mercado.
+☐ Evidências de início efetivo das atividades de PD&amp;I • Documento: atas, ordens de serviço, kickoff técnico, alocação de equipe.
+☐ Registros de experimentos iniciais e resultados preliminares • Documento: logs, relatórios de ensaio, versões iniciais de protótipo.
+CHECKLIST — Fim da Inovação Tecnológica / Transição para Engenharia e Rotina
+☐ Relatórios de validação com resultados reprodutíveis • Evidência de que a incerteza técnica foi superada.
+☐ Especificações finais e procedimentos operacionais documentados • Engenharia de detalhe, manuais, diagramas, instruções de operação.
+☐ Registros de padronização, homologação e QA • Indicam caráter repetitivo: testes de integração, relatórios de conformidade.
+☐ Evidência de transferência para produção/implantação • Termos de entrega, change requests concluídas, notas fiscais de componentes finais.
+☐ Declaração técnica formal sobre o encerramento da experimentação • Justifica ausência de novas hipóteses e fim da fase de P&amp;D.
+CHECKLIST — Documentação Contábil e Contratual (quando houver rateio ou cooperação)
+☐ Contratos, termos de cooperação, consórcios ou aditivos • Evidenciam responsabilidades técnicas e financeiras.
+☐ Notas fiscais, faturas e comprovantes de pagamento • Devem estar diretamente vinculados às atividades experimentais.
+☐ Lançamentos contábeis segregados e rastreáveis • Correspondência ECD/ECF ↔ FORMP&amp;D; centros de custo específicos.
+! BOX DE ATENÇÃO - Observação Final (obrigatória)
+Para cada evidência apresentada, confirme a presença dos quatro elementos essenciais de PD&amp;I:
+☐ Descrição clara do objetivo de inovação☐ Elemento novo ou inovador☐ Barreira técnica (incerteza)☐ Métodos utilizados para superar a barreira
+Como diferenciar software de gestão (não incentivável) de solução TIC core (potencialmente incentivável)
+No setor de TIC, uma das dúvidas mais frequentes, e das principais causas de glosa, é a diferença entre:
+software de gestão, normalmente relacionado a atividades administrativas e operacionais, e
+soluções tecnológicas core, que envolvem criação ou avanço de capacidades técnicas e enfrentam incertezas tecnológicas reais.
+A distinção segue os quatro elementos obrigatórios para caracterização de PD&amp;I: objetivo de inovação, elemento novo, barreira técnica e método experimental.
+QUADRO DE ATENÇÃO! 
+Software de gestão 
+(tipicamente não incentivável)
+Solução TIC core (potencialmente incentivável)
+Atividades centradas em automação administrativa, parametrização e integração de sistemas de mercado.
+1. Objetivo
+Automação e organização de rotinas administrativas, financeiras, de RH, ERP, CRM etc.👉 Foco em eficiência e gestão, não em avanço tecnológico.
+2. Novidade tecnológica
+Em geral inexistente:• uso de técnicas consolidadas,• adoção de frameworks conhecidos,• integração de módulos prontos.
+3. Barreira técnica
+Normalmente não há incerteza técnica real.Os problemas são resolvidos por:
+parametrização,
+engenharia de integração,
+configuração,
+implantação.
+4. Método
+Métodos utilizados são operacionais:
+customização,
+integração,
+testes funcionais,
+migração,
+configuração.
+Não há protocolos experimentais, hipóteses ou validação científica.
+5. Evidências típicas (não demonstram PD&amp;I)
+Especificações de requisitos funcionais
+Mapas de processos
+OS de customização
+Testes de aceitação e homologação funcional
+Cronogramas de implantação
+Projetos que criam nova capacidade técnica, exploram fronteiras tecnológicas ou enfrentam incertezas científicas.
+1. Objetivo
+Desenvolver funcionalidade inédita, arquitetura nova ou solução técnica que resolva problema sem solução conhecida.Exemplos:• novos algoritmos,• novas arquiteturas distribuídas,• novos mecanismos de IA,• novos protocolos de segurança/comunicação.
+2. Novidade tecnológica
+Mudança no estado da arte:
+novo método ou abordagem,
+arquitetura inédita,
+inovação em telecom, segurança, IA, data science,
+superação de limitações conhecidas.
+3. Barreira técnica
+Presença de incerteza científica/tecnológica:
+desempenho imprevisível,
+limites matemáticos ou estatísticos,
+falhas em modelos existentes,
+necessidade de prototipagem e comprovação de viabilidade.
+4. Método
+Uso de métodos de pesquisa e experimentação:
+protocolos experimentais,
+hipótese → experimento → validação,
+métricas técnicas definidas,
+testes comparativos,
+análises de reprodutibilidade.
+5. Evidências típicas de PD&amp;I
+Revisão do estado da arte
+Hipóteses formais de solução
+Plano experimental
+Protótipos exploratórios
+Logs de testes, métricas, comparações
+Relatórios de validação técnica
+Checklist— sinais de incentivabilidade
+☐ Existe revisão do estado da arte?☐ Há uma lacuna técnica explícita descrita?☐ Existe uma hipótese a ser testada?☐ Existe um plano experimental (e não apenas cronograma)?☐ Há métricas de sucesso técnico?☐ Existem resultados preliminares que tratam da incerteza técnica?☐ As atividades são de experimentação e desenvolvimento, e não apenas configuração?
+Red flags (sinais de NÃO incentivabilidade)
+☐ Projeto descreve apenas “customização” ou “implantação” de software comercial.☐ Atividades são essencialmente “treinamento”, “migração”, “integração” ou “suporte”.☐ Não há hipótese experimental nem barreira técnica definida.☐ Cronograma lista apenas tarefas operacionais (sprints, deploys, homologações).☐ Não há métricas técnicas, apenas indicadores de negócios (tempo, custo, produtividade).☐ O projeto não gera avanço técnico — apenas organiza ou automatiza rotinas.
+QUADRO 
+Exemplos rápidos
+Não incentivável (gestão):
+Sistema de ponto eletrônico integrado a módulo de RH.
+Customização de ERP para adequação fiscal.
+Migração de banco de dados para a nuvem sem inovação técnica.
+Potencialmente incentivável (TIC core):
+Novo mecanismo de detecção de fraude por machine learning que supera o estado da arte.
+Arquitetura inédita para processamento em baixa latência.
+Novo protocolo de comunicação para IoT com segurança aprimorada.
+Risco tecnológico em projetos que utilizam tecnologias maduras: critérios técnicos e evidências
+É possível caracterizar risco tecnológico e enquadrar um projeto como PD&amp;I mesmo quando ele utiliza tecnologias maduras ou amplamente disponíveis. A legislação e o Guia do Avaliador deixam claro que o critério determinante não é a “novidade absoluta” da tecnologia, mas sim a existência de incerteza técnica real, que exija investigação estruturada, métodos experimentais e geração de conhecimento novo.
+Assim, mesmo soluções baseadas em tecnologias maduras podem configurar inovação tecnológica se enfrentarem desafios que não possuem solução evidente e exigem P&amp;D adicional.
+A seguir, apresentam-se os critérios objetivos organizados pelos quatro elementos essenciais.
+1) Descrição clara do objetivo de inovação (Elemento 1)
+O objetivo deve mostrar que o projeto vai além da simples implantação de tecnologia existente. Exemplos de objetivos válidos:
+alcançar novo nível de desempenho técnico (latência, throughput, robustez);
+adaptar ou integrar a tecnologia em contexto com restrições inéditas;
+operar sob condições específicas de dados, escala, segurança ou regulação;
+combinar tecnologias maduras em arquitetura que gere desafios técnicos reais.
+Documento recomendado:• escopo técnico com metas mensuráveis (KPIs de desempenho, confiabilidade, disponibilidade, latência, acurácia etc.).
+2) Elemento novo / novidade tecnológica (Elemento 2)
+A novidade pode estar:
+na combinação ou adaptação técnica;
+na criação de arquitetura inédita para resolver restrição específica;
+na aplicação em ambiente com requisitos que não foram validados pela tecnologia madura.
+Conforme o Decreto nº 5.798/2006, a novidade para a empresa ou para o setor é suficiente, desde que haja conteúdo técnico.
+Documento recomendado:• revisão do estado da arte e justificativa da lacuna técnica no contexto da empresa ou aplicação.
+3) Barreira / incerteza técnica (Elemento 3)
+Mesmo com tecnologias maduras, pode existir incerteza adicional que exige P&amp;D, como:
+comportamento desconhecido sob alta carga, escala ou baixa latência;
+integração com sistemas legados críticos, com efeitos emergentes imprevisíveis;
+necessidade de treinar modelos de IA com dados proprietários, gerando incerteza de generalização ou convergência;
+requisitos regulatórios ou de confiabilidade que demandam soluções técnicas especiais;
+interoperabilidade em topologias ou ambientes inéditos para a tecnologia.
+Evidências recomendadas:• declaração técnica das hipóteses a serem testadas;• mapeamento de riscos técnicos e potenciais impactos se as incertezas não forem resolvidas.
+4) Métodos empregados: experimentação, testes e validação (Elemento 4)
+Projetos que utilizam tecnologias maduras podem configurar PD&amp;I desde que adotem métodos científicos/experimentais, tais como:
+plano experimental estruturado com métricas, variáveis, cenários e critérios de sucesso;
+testes A/B, análises estatísticas, ensaios em escala, cenários de stress;
+ciclos iterativos de experimentação e ajustes de arquitetura;
+coleta sistemática de dados técnicos e avaliação comparativa.
+Documentos recomendados:• plano experimental formal;• relatórios de ensaio;• análises estatísticas;• registros de versões/iterações.
+BOX - Sinais que sustentam risco tecnológico mesmo com tecnologias maduras
+☐ Necessidade de adaptar algoritmos para dados/escopos inéditos, com incerteza sobre acurácia ou convergência.☐ Exigência de escalabilidade ou desempenho muito acima do validado pela tecnologia.☐ Integração com sistemas legados críticos que podem gerar comportamentos emergentes.☐ Requisitos severos (regulatórios, segurança, tempo real) que exigem soluções técnicas novas.☐ Dependência de componentes externos cujo comportamento combinado é incerto.
+BOX - Sinais que indicam AUSÊNCIA de risco tecnológico
+☐ Atividade limitada a configuração, parametrização, customização ou integração padrão.☐ Problemas resolvíveis por engenharia de rotina, sem hipóteses técnicas.☐ Resultados avaliáveis apenas por testes de aceitação funcional.☐ Ausência de métodos experimentais ou protocolos de validação técnica.
+O que é P&amp;D e inovação em Serviços
+Nos serviços, a inovação é caracterizada quando há novidade tecnológica no método de prestação, e não apenas uma mudança administrativa ou comercial.
+Exemplos elegíveis incluem:
+O desenvolvimento de um sistema de telemedicina que integra sensores vestíveis e algoritmos preditivos, garantindo monitoramento remoto e contínuo de pacientes.
+A criação de modelos analíticos de big data que permitem prever demanda logística em tempo real.
+A implementação de protocolos de interoperabilidade inéditos em plataformas financeiras digitais.
+Essas iniciativas exigem conhecimento científico, envolvem testes de validação e apresentam riscos tecnológicos até sua comprovação.
+O que não é P&amp;D em Serviços
+Assim como em TIC, há muitas atividades em serviços que, embora relevantes para a gestão empresarial, não configuram inovação para fins da Lei do Bem.
+Não são elegíveis:
+Melhorias administrativas ou de atendimento sem componente tecnológico.
+Uso de software pronto para automatizar processos, sem desenvolvimento tecnológico adicional.
+Nesses casos, trata-se de gestão operacional ou de adoção de tecnologias já maduras, sem geração de novo conhecimento ou superação de barreiras técnicas.
+Separar TIC e serviços é fundamental porque são áreas em que as fronteiras entre “inovação tecnológica” e “atividade rotineira” nem sempre são óbvias. Para as empresas, isso significa maior segurança ao descrever seus projetos e clareza sobre quais atividades podem ser enquadradas na Lei do Bem. Para os avaliadores, significa contar com critérios mais objetivos, alinhados às melhores práticas internacionais, para distinguir inovação real de simples manutenção operacional.
+Exemplos: 
+Atividade
+Elegível?
+Justificativa
+TIC
+Desenvolvimento de novos algoritmos de IA
+✅
+Há incerteza técnica e geração de conhecimento novo em IA
+TIC
+Criação de arquiteturas de software inéditas
+✅
+Exige validação tecnológica e envolve barreiras de desempenho
+Serviços
+Desenvolvimento de sistema de telemedicina com sensores vestíveis
+✅
+Apresenta novidade tecnológica e risco até validação em ambiente real
+Serviços
+Modelos de big data para logística em tempo real
+✅
+Exige métodos analíticos inéditos e barreiras técnicas de dados.
+TIC
+Correção de bugs em programas existentes
+❌
+Atividade de manutenção rotineira, sem novidade tecnológica.
+TIC
+Customização de software de prateleira
+❌
+Adaptação de sistema existente, sem desenvolvimento inédito.
+Serviços
+Treinamentos administrativos ou operacionais
+❌
+Rotina de gestão, sem componente de P&amp;D tecnológico.
+LEMBRETE:
+No Brasil, para fins da Lei do Bem, apenas as inovações com conteúdo tecnológico comprovado são elegíveis. 
+Práticas inovadoras de gestão, marketing ou organização, embora relevantes em outros contextos, não se enquadram nos critérios fiscais brasileiros.
+Vale reforçar também que tanto as inovações radicais (novos produtos, processos ou serviços) quanto as incrementais (melhorias e novas funcionalidades nos já existentes) podem ser beneficiadas pelos incentivos.
+Com relação à abrangência, sabemos que quanto maior a abrangência (inovação para o mundo), maior a novidade e a incerteza, mas também maior o potencial de impacto disruptivo. Por outro lado, inovações mais restritas (no nível da empresa) tendem a ter riscos menores, mas ainda assim desempenham papel essencial na evolução incremental e na competitividade organizacional. O requisito essencial é que as atividades de pesquisa tecnológica e desenvolvimento de inovação (PD&amp;I) tenham sido executadas no Brasil, seja dentro da própria empresa ou em parceria com terceiros, como prevê a Lei.
+REGRA DE OURO
+Não é “inovação” porque parece inovador. É PD&amp;I quando há:
+Novidade tecnológica + Barreira técnica + Método 
+Para as empresas, estruturar seus projetos dessa forma é fundamental para garantir que fiquem claros os aspectos de novidade tecnológica, os desafios enfrentados e as estratégias de superação.
+Para os avaliadores do MCTI, essa clareza é indispensável para diferenciar atividades incentivadas daquelas que não têm caráter inovador.
+O próximo capítulo contribui para a estruturação de projetos de PD&amp;I que evidenciem os pontos essenciais a serem contemplados.
+Projeto de PD&amp;I
+O relato de um projeto precisa deixar explícitos quatro pontos centrais:
+Descrição clara do projeto: qual é o objetivo de inovação (produto, processo, serviço)?
+Elemento novo ou inovador: o que há de inédito em termos de tecnologia, função ou aplicação?
+Barreiras/desafios tecnológicos: quais incertezas precisam ser superadas?
+Métodos empregados: quais estratégias e ferramentas técnicas estão sendo utilizadas para vencer os desafios?
+Por serem parte fundamental do FORMP&amp;D, detalharemos cuidadosamente cada um desses itens.
+Exemplos práticos por setor – Em boxes ou tabela: 
+Setor farmacêutico
+Projeto: Desenvolvimento de um novo medicamento oncológico baseado em biotecnologia.
+Elemento novo: Uso de proteínas recombinantes com mecanismo de ação inédito.
+Barreira tecnológica: Incerteza sobre estabilidade da molécula em testes clínicos iniciais.
+Método: Ensaios laboratoriais, simulações in vitro e estudos toxicológicos preliminares.
+Setor agro
+Projeto: Criação de sementes resistentes à seca para cultivo em regiões semiáridas.
+Elemento novo: Modificação genética que confere tolerância à baixa disponibilidade hídrica.
+Barreira tecnológica: Desconhecimento sobre o impacto do gene inserido no rendimento agrícola.
+Método: Testes em estufa, experimentos de campo controlados e análises de rendimento.
+Setor de software
+Projeto: Desenvolvimento de um algoritmo de machine learning para diagnóstico médico por imagem.
+Elemento novo: Algoritmo capaz de identificar padrões precoces em exames de ressonância magnética.
+Barreira tecnológica: Falta de acurácia nos modelos iniciais e incerteza na generalização dos resultados.
+Método: Modelagem computacional, treinamento com bases de dados ampliadas, validação clínica.
+Setor de energia
+Projeto: Protótipo de turbina eólica para baixa velocidade de ventos.
+Elemento novo: Design de pás adaptado para maior eficiência em regiões de vento fraco.
+Barreira tecnológica: Dificuldade em garantir geração estável de energia com baixo fluxo de ar.
+Método: Construção de protótipos, testes em túnel de vento, simulações computacionais.
+Setor de serviços
+Projeto: Plataforma de telemedicina com integração a wearables (relógios, sensores).
+Elemento novo: Capacidade de monitoramento contínuo e remoto de pacientes crônicos.
+Barreira tecnológica: Garantia de interoperabilidade entre dispositivos e segurança de dados.
+Método: Desenvolvimento de APIs, testes de integração, protocolos de segurança digital.
+6.1 Elemento novo ou inovador (Novidade tecnológica)
+Um dos pontos mais importantes da Lei do Bem é a exigência de que o projeto tenha um elemento tecnologicamente novo ou inovador. Mas o que exatamente significa isso?
+O Decreto nº 5.798/2006, que regulamenta a Lei do Bem, não trouxe uma definição rígida do termo. No entanto, ao conceituar inovação tecnológica em seu art. 2º, deixa pistas valiosas: trata-se da concepção de um novo produto ou processo de fabricação, ou ainda da agregação de novas funcionalidades ou características a produtos ou processos já existentes, de forma a gerar melhorias significativas em qualidade, produtividade e competitividade.
+O Manual de Frascati reforça esse entendimento ao explicar que atividades de inovação tecnológica envolvem não apenas pesquisa e desenvolvimento, mas também esforços científicos, tecnológicos, organizacionais, financeiros e comerciais voltados à criação de produtos e processos tecnologicamente novos ou melhores. O critério essencial é que exista novidade real e incerteza tecnológica: ou seja, um desafio cuja solução não seja óbvia para alguém que já domina os conhecimentos comuns do setor.
+Esse é o ponto-chave: para haver enquadramento como PD&amp;I, é preciso demonstrar que existe uma barreira tecnológica a ser superada e que o projeto está testando uma hipótese capaz de gerar progresso científico ou tecnológico.
+Importante: o elemento inovador não precisa ser inédito para o mercado. É suficiente que represente um aprimoramento substancial para a própria empresa, como reconhece o próprio MCTI. Isso significa que, mesmo que outra organização já tenha desenvolvido solução semelhante, se a sua empresa nunca a implementou e precisou enfrentar desafios técnicos relevantes para fazê-lo, há inovação tecnológica para fins da Lei do Bem.
+Exemplos de elementos tecnologicamente novos ou inovadores
+Nova metodologia científica de análises ou testes, que aumenta a confiabilidade dos resultados.
+Nova formulação ou uso de matérias-primas (ex.: nanomateriais, embalagens funcionais inovadoras) que melhoram desempenho, reduzem impacto ambiental ou ampliam aplicações.
+Novos processos produtivos ou rotas tecnológicas que permitem maior eficiência ou menor custo.
+Desenvolvimento de software com funcionalidades inéditas ou ganhos expressivos de desempenho.
+Novos serviços digitais que utilizam barreiras tecnológicas, como arquitetura híbrida ou inteligência artificial aplicada a problemas complexos.
+Novos modelos geológicos ou simulações complexas, que ampliam a compreensão científica de fenômenos e suportam decisões produtivas.
+Ao descrever este item no FORMP&amp;D, a empresa deve mostrar qual é a novidade gerada pelo projeto. Esse elemento não pode ser apenas uma melhoria genérica, mas precisa representar um progresso científico ou tecnológico real.
+O que significa progresso científico ou tecnológico?
+Esse progresso pode se manifestar em diferentes estágios de PD&amp;I:
+Pesquisa Básica Dirigida → aquisição de novos conhecimentos sobre fenômenos ainda pouco compreendidos.
+Pesquisa Aplicada → geração de conhecimentos voltados ao desenvolvimento ou aprimoramento de produtos, processos ou sistemas.
+Desenvolvimento Experimental → comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas ou serviços, ou ainda um aperfeiçoamento significativo dos já existentes.
+Aqui estamos falando de hipóteses que são testadas para superar uma barreira tecnológica. Mesmo que o resultado final não seja positivo, o simples fato de o projeto demonstrar que determinada solução não funciona já representa um avanço de conhecimento — e, portanto, é um resultado válido.
+Atenção! 
+Nem toda melhoria ou projeto chamado de “inovação” dentro da empresa será considerado elegível para os incentivos da Lei do Bem. É preciso analisar cuidadosamente o que de fato constitui inovação tecnológica.
+Uma regra prática: não basta afirmar que algo é inovação, é necessário mostrar comparações ou benchmarks que justifiquem por que aquilo é novo ou significativamente aprimorado para a empresa.
+Para apoiar essa análise, algumas perguntas-chave ajudam a identificar se existe um elemento inovador:
+Qual é o produto, processo ou serviço novo?
+Qual é a funcionalidade ou característica inédita ou aprimorada?
+Qual é o ganho significativo que a solução trouxe?
+Exemplos de ganhos que podem evidenciar um elemento inovador
+a) Melhoria de performance dos equipamentos de produção. b) Redução de custos de fabricação ou operação. c) Postergação de investimentos pela adoção de soluções mais eficientes. d) Otimização de processos internos. e) Aumento da qualidade de produtos ou serviços. f) Ganho de produtividade da equipe ou do sistema produtivo. g) Redução de reclamações de clientes ou aumento da satisfação. h) Melhoria em ferramentas de gestão de projetos. i) Inclusão de novos insumos, produtos ou equipamentos após homologação/qualificação de tecnologias. j) Geração de novos conhecimentos técnicos que levam a melhorias futuras. k) Redução de impactos ambientais, como menor consumo de energia, água ou emissão de resíduos.
+6.2 Barreira / Desafio tecnológico (Dificuldade técnica)
+Todo projeto de inovação encontra obstáculos no caminho. Esses obstáculos, chamados de barreiras ou desafios tecnológicos, são os pontos que podem determinar o sucesso ou o insucesso do desenvolvimento. Reconhecê-los e descrevê-los com clareza é fundamental para demonstrar o esforço de Pesquisa, Desenvolvimento e Inovação (PD&amp;I) da empresa.
+Mas o que significa, na prática, uma barreira tecnológica?
+Pode ser a falta de informações técnicas ou de profissionais qualificados para avançar em determinada etapa;
+Pode ser a não comprovação de uma hipótese em testes, quando os resultados obtidos não confirmam o esperado;
+Pode até estar no alto custo de desenvolvimento de uma nova tecnologia, que inviabiliza sua aplicação comercial;
+Ou em qualquer outro desafio técnico que exige investigação, experimentação e busca de novos conhecimentos.
+Essas barreiras podem ou não ser superadas. Mas o importante, no contexto da Lei do Bem, é que a empresa consiga mostrar como lidou com o desafio: se buscou novas soluções, se investigou alternativas ou se chegou à conclusão de que determinada rota tecnológica não funcionava.
+O que se espera neste item
+Ao descrever a barreira ou desafio tecnológico no FORMP&amp;D, a empresa deve apresentar de forma clara e objetiva:
+Qual foi o problema tecnológico enfrentado;
+Qual foi a abordagem utilizada para resolvê-lo;
+Se foi necessário recorrer a investigação científica e tecnológica, ou se o problema pôde ser resolvido com os conhecimentos já dominados pela equipe.
+Química e biotecnologia: desequilíbrio químico em formulação com novos insumos, resultando em precipitação indesejada; uso de biologia sintética para desenvolver biocombustíveis de segunda geração a partir da cana-de-açúcar.
+Energia: integração e simulação de sistemas elétricos híbridos (solar, eólica, biomassa) em Smart Grids; desenvolvimento de soluções para reduzir a frequência de manutenção em processos de extração de petróleo.
+Tecnologia da Informação: combinação de técnicas distintas em computação quântica (ex.: quantum annealing e gates quânticos); dificuldade em desenvolver arquiteturas que funcionem tanto em sistemas locais (on-premise) quanto em nuvem, mantendo a segurança dos dados.
+Construção civil: confecção de estruturas pré-fabricadas modulares que facilitem a instalação sem comprometer requisitos mecânicos; desenvolvimento de modelos construtivos para transporte em veículos comuns, reduzindo custos logísticos.
+Indústria de alimentos: aplicação de materiais alternativos em embalagens para manter a durabilidade e resistência sem comprometer a segurança; uso de hidrogéis nanoestruturados para aplicações em medicina regenerativa.
+Indústria automotiva: incorporação de novos materiais em pneus para reduzir massa, com ganhos ambientais e sociais.
+Recomendações
+Ao descrever as barreiras tecnológicas no projeto, é recomendável:
+✅ Dar exemplos concretos dos problemas observados durante o desenvolvimento;
+✅ Explicar tecnicamente o desafio e quais seriam as consequências de não solucioná-lo;
+✅ Indicar se esse problema também é enfrentado por outras empresas e como o mercado ou a literatura técnica vêm tratando a questão;
+✅ Mostrar que os conhecimentos existentes não eram suficientes e que foi necessário avançar em novas soluções;
+✅ Refletir se a barreira enfrentada era de fato tecnológica (foco da Lei do Bem) e não apenas mercadológica.
+❌ Evite descrições vagas como “tivemos dificuldades técnicas” sem detalhar o que foi feito para superar ou investigar o problema.
+6.4 Métodos empregados 
+Toda pesquisa ou projeto de inovação precisa de um método: é ele que dá cientificidade ao processo e garante que os resultados tenham consistência e possam ser avaliados de forma objetiva. Em outras palavras, o método é o caminho escolhido pela empresa para enfrentar a barreira tecnológica e alcançar a inovação.
+Quando falamos em metodologia dentro da Lei do Bem, estamos nos referindo ao conjunto de técnicas, procedimentos e atividades que mostram como a empresa pretende superar os desafios identificados, seja para gerar um produto, processo ou serviço novo, ou para melhorar significativamente os que já existem.
+O que deve ser descrito neste item?
+A empresa deve apresentar de forma clara e objetiva:
+Quais atividades foram executadas;
+Quais procedimentos ou processos foram utilizados;
+Quais competências técnicas foram exigidas para implementar o projeto.
+Importante: a descrição deve focar nas etapas de pesquisa, desenvolvimento e experimentação. Não basta citar metodologias genéricas de inovação ou ferramentas de gestão. O avaliador precisa entender como a hipótese foi testada, quais foram os experimentos realizados e onde surgiram as barreiras enfrentadas.
+Exemplos de métodos empregados
+Estudos bibliográficos para levantar o estado da arte da tecnologia.
+Modelos matemáticos e simulações para prever resultados e validar hipóteses.
+Testes em escala laboratorial e piloto antes da aplicação em grande escala.
+Definição de procedimentos de validação para a pesquisa.
+Ensaios experimentais em condições controladas.
+Medições de desempenho em protótipos ou processos.
+Estudos físico-químicos de amostras para comprovação de resultados.
+A metodologia é o que garante transparência e objetividade ao projeto de PD&amp;I. Ela mostra como o pesquisador ou a equipe estão avançando e permite até que outros possam replicar ou seguir os mesmos passos no futuro.
+Ao descrever a metodologia no FORMP&amp;D, recomenda-se:
+✅ Ser claro e conciso, sem textos excessivos;
+✅ Apresentar o passo a passo das etapas principais do projeto;
+✅ Relacionar diretamente cada método às hipóteses testadas e às barreiras enfrentadas;
+✅ Explicar as hipóteses que foram abandonadas e por quê;
+❌ Não utilizar metodologias padronizadas de gestão (ex.: “Scrum”, “PMBOK”) como se fossem metodologias de PD&amp;I — elas não substituem a descrição científica/experimental necessária.
+Caminho recomendado para descrever o método
+Identificação do problema ou oportunidade → o que motivou a pesquisa?
+Hipótese levantada → qual possível solução foi considerada?
+Coleta de dados → quais informações ou experimentos apoiaram a análise?
+Testes, ensaios e técnicas utilizadas → como a hipótese foi validada ou refutada?
+Análise da resposta → a hipótese se mostrou viável ou não?
+Hipóteses descartadas → quais caminhos foram abandonados e por quê?
+6.4  Exemplos de projetos e suas informações necessárias
+Para que um projeto seja reconhecido como Pesquisa, Desenvolvimento e Inovação (PD&amp;I) no âmbito da Lei do Bem, é preciso que suas atividades apresentem elementos tecnologicamente novos ou inovadores, envolvam a superação de barreiras tecnológicas e façam uso de métodos sistemáticos de investigação, prototipagem ou validação.
+Isso significa que não basta descrever uma rotina operacional ou a simples aquisição de equipamentos: é necessário demonstrar, de forma clara, qual o problema tecnológico enfrentado, qual o conhecimento novo buscado e como a empresa está tentando superá-lo. Para o MCTI, esse detalhamento é fundamental, pois separa as atividades realmente inovadoras daquelas que são apenas melhorias organizacionais ou operacionais.
+Explicitar esses quatro elementos ajuda a empresa a estruturar seu relato de forma clara e objetiva, aumentando as chances de correta caracterização da atividade no FORMP&amp;D. Para os avaliadores, esses mesmos elementos funcionam como filtros de análise, permitindo identificar se há de fato conteúdo tecnológico novo, barreira real e método de superação.
+A Lei do Bem não é um bicho de sete cabeças. Ao contrário: com a informação correta, ela se torna uma ferramenta acessível e poderosa para transformar inovação em vantagem competitiva. 
+6.6 Vinculação com dispêndios 
+O projeto de PD&amp;I está pronto. Ele já possui os 4 pontos necessários, quais sejam:
+Descrição do projeto
+Elemento novo ou inovador
+Barreira/desafio tecnológico
+Métodos empregados
+Mas quais foram os recursos (humanos, tecnológicos, de infraestrutura) que a empresa utilizou para chegar aos resultados (sejam eles positivos ou negativos)?
+Agora chegou o momento de descrever estes recursos. A Lei do Bem entende que as empresas podem:
+Realizar Projetos em cooperação com outras empresas;
+Realizar Projetos com custos compartilhados;
+Contratar Universidades e ICTs (colocar nome completo)
+Contratar inventores independentes;
+Contratar micro e pequenas empresas;
+Contratar serviços de pessoas físicas e jurídicas;
+Contratar equipe para trabalhar nos projetos de PD&amp;I;
+Comprar bens móveis e imóveis, assim como materiais de consumo;
+Construir infraestrutura necessária.
+Todos esses gastos devem ser incluídos em cada projeto de PD&amp;I.  Trataremos deles mais adiante. 
+PONTOS COMPLEMENTARES
+Neste capítulo, reuniremos conceitos e orientações adicionais para apoiar empresas no correto relato de seus projetos de P&amp;D no FORMP&amp;D. O objetivo é tornar mais claros alguns pontos frequentemente utilizados como critério de avaliação e evitar equívocos comuns no preenchimento.
+A seguir, são apresentados os tópicos complementares, com explicações, exemplos práticos e notas explicativas para facilitar a compreensão.
+1. Conceito de Engenharia
+As atividades de engenharia são parte essencial dos projetos de P&amp;D. Elas correspondem à aplicação prática do conhecimento científico e tecnológico para transformar uma ideia ou descoberta em protótipos, plantas-piloto, processos industriais ou serviços testáveis.
+Nota explicativa: nem toda atividade de engenharia é considerada inovação. A atividade só se enquadra quando busca resolver uma incerteza tecnológica ou validar em ambiente real um resultado de pesquisa.
+Exemplos:
+Setor automotivo: desenvolvimento de protótipo de motor elétrico com novo sistema de refrigeração.
+Setor de alimentos: produção em linha piloto de embalagem biodegradável com controle de oxigênio.
+Setor de software: desenvolvimento de arquitetura escalável para suportar milhões de usuários simultâneos.
+2. Teste em Escala Industrial
+O teste em escala industrial consiste em avaliar, em condições próximas às reais de produção, se uma solução tecnológica pode ser fabricada, replicada e mantida em larga escala.
+Nota explicativa: esses testes diferem de experimentos laboratoriais ou pilotos reduzidos, pois são realizados em ambiente de produção real ou simulado em escala industrial.
+Exemplos:
+Energia: validar turbinas eólicas adaptadas a ventos de baixa intensidade em parque experimental.
+Farmacêutico: produção de lotes experimentais em escala semi-industrial para análise de estabilidade de um medicamento.
+Teste em larga escala (incentivável)
+Validação experimental, em ambiente real ou ampliado, para comprovar:
+desempenho,
+escalabilidade,
+robustez,
+manutenção de propriedades tecnológicas.
+➤ Sempre envolve geração de conhecimento novo e teste de hipóteses.
+Implantação/homologação (não incentivável)
+Atividade de aceitação funcional, parametrização e integração para colocar o sistema em operação no ambiente produtivo.➤ Não tem objetivo de investigação; foca em operação e conformidade.
+Evidências típicas
+Teste em larga escala (incentivável)
+✔ Relatórios de ensaio em ambiente ampliado✔ Métricas de desempenho comparadas a metas✔ Logs analíticos e análise estatística✔ Testes A/B e testes de stress✔ Protocolos experimentais e resultados exploratórios
+Implantação/homologação (não incentivável)
+✔ Termo de aceite✔ Plano de rollout✔ Registros de parametrização e configuração✔ Treinamentos e manuais✔ Chamados de suporte e tickets de correção funcional
+Checklist — sinais de TESTE EM LARGA ESCALA (incentivável)
+☐ Existe definição explícita de hipóteses a serem testadas?☐ Há métricas técnicas de sucesso previamente estabelecidas?☐ Existe plano experimental com variáveis, cenários e metodologia de análise?☐ Os resultados permitem concluir algo novo sobre capacidade técnica, e não apenas confirmar funcionamento?☐ Há incerteza não resolvida sobre desempenho, robustez ou escalabilidade?
+Checklist — sinais de IMPLANTAÇÃO / HOMOLOGAÇÃO (não incentivável)
+☐ As atividades consistem em rollout, parametrização ou configuração?☐ Os testes são apenas de aceitação do usuário final?☐ Não existem hipóteses experimentais ou lacunas técnicas a resolver.☐ Os resultados são de conformidade funcional, não de investigação técnica.☐ O objetivo é apenas colocar o sistema em operação.
+BOX - Exemplos rápidos
+Exemplo de teste em larga escala (incentivável)
+Plataforma de IA é submetida a testes de stress com 10× o volume real para validar comportamento, latência e precisão. Há métricas, hipóteses e protocolo experimental.
+Exemplo de implantação (não incentivável)
+Sistema ERP é configurado, parametrizado e implantado no cliente. Há treinamentos, ajuste de perfis, migração de banco e testes de aceitação funcional — sem experimentação tecnológica.
+3. Nacionalização, Tropicalização e Localização
+Nacionalização: adaptação de tecnologias estrangeiras para serem produzidas localmente, reduzindo dependência de importações.
+Tropicalização: ajustes para que tecnologias importadas funcionem adequadamente nas condições locais (clima, normas técnicas, padrões de consumo).
+Localização: customização para mercados específicos (ex.: idioma, requisitos legais, hábitos de uso).
+Exemplos:
+Setor agrícola: adaptar um trator europeu para operar em solos tropicais.
+Tecnologia da informação: traduzir e ajustar um software de gestão europeu para normas fiscais brasileiras.
+Saúde: nacionalizar insumos laboratoriais para reduzir custos de importação.
+4. Projetos Plurianuais
+Projetos de P&amp;D frequentemente se estendem por mais de um ano. Nesses casos, é essencial que o relato seja atualizado a cada exercício, trazendo o andamento real das atividades.
+Nota explicativa: não se deve repetir a mesma descrição de anos anteriores. Cada atualização deve refletir avanços, dificuldades superadas e próximos passos.
+Exemplo:
+Ano 1: desenvolvimento conceitual de uma nova molécula.
+Ano 2: testes pré-clínicos e ensaios laboratoriais.
+Ano 3: início da produção em escala piloto.
+5. Projetos com Rateio de Custos
+Quando mais de uma empresa ou unidade participa de um projeto, os custos devem ser rateados proporcionalmente às atividades de P&amp;D realizadas.
+Nota explicativa: é importante descrever claramente como o rateio foi feito, garantindo rastreabilidade e evitando dupla contagem de dispêndios.
+Exemplo:
+Duas empresas desenvolvem em conjunto um sistema de sensores para agricultura. A empresa A investe em hardware; a empresa B em software. Os dispêndios são reportados de forma proporcional ao esforço de cada uma.
+6. Terceirização de Atividades de P&amp;D
+Empresas podem contratar terceiros (universidades, ICTs, startups, laboratórios) para desenvolver partes do projeto de P&amp;D.
+Nota explicativa: nesse caso, a empresa contratante continua sendo a responsável pelo projeto, devendo reportar as atividades terceirizadas com clareza.
+Exemplo:
+Setor farmacêutico: contratação de ICT para realizar ensaios clínicos de fase 1.
+Indústria química: terceirização de testes de novos catalisadores em laboratório especializado.
+7. Pesquisador Contratado
+A Lei do Bem também incentiva empresas a ampliarem seu quadro de pessoal qualificado. É considerado pesquisador contratado aquele que atua em atividades de P&amp;D na empresa.
+Exemplo prático: uma startup de inteligência artificial contrata doutores em ciência de dados para desenvolver novos algoritmos de machine learning.
+8. Escalas de Maturidade Tecnológica (TRL, MRL, SRL)
+As escalas internacionais permitem classificar a evolução de uma tecnologia desde a fase conceitual até sua aplicação em escala comercial.
+Tabela Resumida
+Escala
+Níveis
+Descrição resumida
+TRL (Technology Readiness Level)
+1 a 9
+Mede a maturidade tecnológica, do conceito (nível 1) até o produto validado em operação real (nível 9).
+MRL (Manufacturing Readiness Level)
+1 a 10
+Mede a prontidão do processo de manufatura, desde a prova de conceito até a produção em larga escala.
+SRL (System Readiness Level)
+1 a 9
+Mede a integração do sistema, desde a definição inicial até a operação plena em campo.
+A aplicação correta desses conceitos e práticas contribui para maior clareza, objetividade e aderência dos relatos de P&amp;D. Além de facilitar o processo de avaliação, ajuda as empresas a organizarem melhor seus projetos e a demonstrar de forma transparente a relevância e a maturidade de suas iniciativas tecnológicas.
+TRL – Technology Readiness Level (Nível de Maturidade Tecnológica)
+Para facilitar a vida de quem desenvolve e de quem avalia, o FORMP&amp;D 2025 usa a escala TRL para indicar em que estágio de maturidade está a sua solução tecnológica. Pense no TRL como uma régua que vai do primeiro lampejo de ideia testável até o produto/serviço pronto para o mercado. Essa régua ajuda a contar a história do projeto de forma objetiva, a enquadrar PD&amp;I (e não rotina) e a alinhar evidências com o estágio correto.
+Por que o TRL importa na Lei do Bem?
+Diferencia PD&amp;I de operação: níveis baixos e médios costumam concentrar as atividades com novidade e incerteza tecnológica.
+Conecta etapa ↔ evidência: cada nível pede um tipo de prova (relatório, protótipo, ensaio, validação em campo).
+Organiza projetos plurianuais: mostra a evolução ano a ano (TRL inicial → TRL alvo) e evita narrativas repetidas.
+Ajuda na análise: empresas enxergam melhor onde estão as barreiras; avaliadores verificam se as evidências condizem com o nível declarado.
+A tabela a seguir ilustra essa correspondência:Pesquisa Básica → TRL 1–2 (princípios observados, formulação de conceito)Pesquisa Aplicada → TRL 3–4 (prova de conceito, validação em laboratório)Desenvolvimento Experimental → TRL 5–7 (protótipo, validação em ambiente relevante e real)Inovação pronta para o mercado → TRL 8–9 (sistema completo e testado, comercialização)
+Conceito
+TRL correspondente (FORMP&amp;D 2025)
+Pesquisa Básica
+TRL 1–2 (princípios observados, formulação de conceito)
+Pesquisa Aplicada
+TRL 3–4 (prova de conceito, validação em laboratório)
+Desenvolvimento Experimental
+TRL 5–7 (protótipo, validação em ambiente relevante e real)
+Inovação pronta para o mercado
+TRL 8–9 (sistema completo e testado, comercialização)
+Com o TRL, você “aperta o foco” do projeto: o que já foi comprovado, o que ainda precisa ser validado e quais evidências sustentam cada passo. Ele organiza a narrativa técnica e dá segurança para a empresa e para o avaliador de que o projeto está no caminho certo.
+PARTE II – REQUISITOS E PROCEDIMENTOS. 
+1) Quem pode participar 
+Você sabia que muitas empresas deixam de aproveitar os benefícios da Lei do Bem porque acreditam, equivocadamente, que se trata de um incentivo “apenas para grandes grupos” ou “complexo demais”? Na prática, o acesso é mais simples do que parece. A legislação foi desenhada justamente para apoiar quem está disposto a investir em pesquisa, desenvolvimento e inovação, e o primeiro passo é entender quem pode participar.
+O ponto de partida é a forma de tributação: apenas empresas que apuram o Imposto de Renda com base no Lucro Real podem acessar os incentivos. Isso porque é nesse regime que se torna possível aplicar os ajustes fiscais previstos em lei. Outro requisito é estar em situação fiscal regular: ou seja, em dia com a Receita Federal e demais obrigações tributárias.
+Mas não basta cumprir apenas os requisitos fiscais. A empresa precisa, de fato, investir em PD&amp;I. Isso significa desenvolver projetos que tragam novidade tecnológica, enfrentem barreiras ou incertezas técnicas e gerem ganhos objetivos em qualidade, produtividade ou competitividade. É aqui que está a beleza da Lei do Bem: ela valoriza o esforço de transformar conhecimento em soluções concretas.
+Além disso, é essencial manter a contabilidade em ordem. Isso inclui escriturar corretamente a ECD (Escrituração Contábil Digital) e a ECF (Escrituração Contábil Fiscal), evidenciando claramente os dispêndios com PD&amp;I. Cada real investido precisa estar bem documentado, mostrando o vínculo direto entre o gasto e o projeto.
+Em resumo: se a sua empresa é tributada pelo Lucro Real, está em dia com o fisco, investe em inovação tecnológica e organiza bem sua contabilidade, então já reúne as condições para participar. A Lei do Bem é, sim, para você.
+-17526085090
+00
+Checklist de elegibilidade
+✅ Lucro Real
+✅ Regularidade fiscal
+✅ Projetos de PD&amp;I com novidade tecnológica e barreira técnica
+✅ ECD/ECF consistentes com os dispêndios de P&amp;D
+✅ Dossiê técnico (projeto, métodos, TRL, resultados, vínculos de gastos)
+Dica: Nomeie centros de custo/projetos de P&amp;D de forma única e mantenha a correspondência ECD/ECF ↔ FORMP&amp;D.
+Erros comuns (levam à glosa)
+❌ Pleitear incentivo sem ser Lucro Real.
+❌ Descrever rotina como P&amp;D (sem barreira técnica).
+❌ Gastos sem vínculo objetivo com o projeto.
+❌ Falhas de conciliação entre ECD/ECF e FORMP&amp;D.
+2. Incentivos: o que a Lei do Bem oferece
+A grande motivação para as empresas investirem em P&amp;D com apoio da Lei do Bem está justamente nos incentivos fiscais. Eles representam uma forma concreta de o governo reconhecer o esforço de quem aposta em inovação, permitindo que parte dos valores investidos seja recuperada ou deduzida dos tributos.
+O benefício mais conhecido é a dedução adicional no IRPJ e na CSLL: os gastos com pesquisa e desenvolvimento podem ser lançados com um peso maior na apuração desses impostos. Em termos práticos, isso significa redução da carga tributária para quem investe em inovação. É como se cada real investido em P&amp;D pudesse valer mais na hora de calcular os tributos.
+Além disso, a Lei do Bem garante outras vantagens complementares:
+Redução de 50% do IPI na compra de máquinas e equipamentos destinados a PD&amp;I.
+Depreciação e amortização acelerada de bens e intangíveis usados em projetos de inovação, permitindo recuperar mais rápido o investimento.
+Dedução integral de valores pagos a Instituições de Ciência e Tecnologia (ICTs) em pesquisas contratadas.
+Alíquota zero de IRRF para remessas ao exterior destinadas ao registro ou manutenção de marcas, patentes e cultivares.
+Esses mecanismos formam um pacote robusto de estímulos. Para a empresa, o impacto é duplo: de um lado, ganha competitividade tecnológica; de outro, reduz custos tributários e libera recursos para reinvestir em novos projetos.
+O mais importante é que todos esses benefícios só se concretizam se a empresa souber comprovar adequadamente a natureza de PD&amp;I dos seus projetos. Aqui entra a boa prática de vincular os incentivos ao que foi efetivamente desenvolvido, garantindo clareza para a empresa e segurança para o avaliador.
+Em resumo: a Lei do Bem funciona como uma alavanca financeira para a inovação. Quanto mais a empresa investe em P&amp;D de qualidade, mais ela pode usufruir dos incentivos e fortalecer sua posição no mercado.
+Dica: Quanto mais estruturado e bem comprovado o seu projeto de PD&amp;I, maior será a segurança de aproveitar plenamente os benefícios.
+3. Requisitos legais e fiscais: ECD e ECF
+Se a Lei do Bem oferece benefícios valiosos, ela também exige da empresa organização e transparência. É aqui que entram dois documentos indispensáveis: a ECD (Escrituração Contábil Digital) e a ECF (Escrituração Contábil Fiscal). Ambos funcionam como a “espinha dorsal” que conecta a contabilidade da empresa aos projetos de PD&amp;I declarados no FORMP&amp;D.
+A ECD deve registrar, de forma clara e detalhada, os dispêndios com pesquisa e desenvolvimento. Isso significa que cada centro de custo, cada lançamento e cada despesa atribuída a PD&amp;I precisam estar corretamente segregados. É como se a empresa contasse a história dos seus projetos através da contabilidade, permitindo que qualquer avaliador ou auditor entenda a origem e o destino de cada recurso.
+Já a ECF é o documento que faz a ponte entre a contabilidade e o fisco, refletindo o impacto dos dispêndios de PD&amp;I na apuração do IRPJ e da CSLL. Aqui, é fundamental que os ajustes fiscais (exclusões e adicionais previstos na Lei do Bem) estejam devidamente amarrados às informações da ECD e, por consequência, ao FORMP&amp;D.
+Para as empresas, cumprir esse requisito significa ter segurança jurídica e reduzir riscos de questionamentos. Para os avaliadores, significa contar com uma trilha contábil consistente, capaz de confirmar que os benefícios fiscais foram aplicados com base em projetos de inovação reais e bem documentados.
+Em resumo: a Lei do Bem não se apoia apenas em relatórios técnicos, mas também na coerência entre contabilidade, obrigações fiscais e informações prestadas no FORMP&amp;D. É essa convergência que dá credibilidade ao processo e confiança às empresas que investem em inovação.
+Apresentação dos projetos de PD&amp;I via FORMP&amp;D
+O FORMP&amp;D é o coração do processo de prestação de contas da Lei do Bem. Criado pela Portaria MCT nº 327/2010, ele é o instrumento eletrônico por meio do qual as empresas registram seus projetos de pesquisa, desenvolvimento e inovação, detalhando tanto os aspectos técnicos quanto os investimentos realizados.
+Preencher o formulário vai muito além de uma obrigação burocrática: é a oportunidade de mostrar com clareza o valor da inovação desenvolvida. É nele que a empresa apresenta seus objetivos, descreve as barreiras tecnológicas enfrentadas, detalha os métodos utilizados, explica os resultados alcançados e vincula todos esses elementos aos dispêndios declarados.
+O FORMP&amp;D está estruturado em blocos lógicos que orientam a narrativa do projeto:
+Identificação da empresa;
+Descrição dos projetos de PD&amp;I (objetivos, novidade tecnológica, barreiras, métodos, resultados esperados);
+Recursos humanos envolvidos;
+Dispêndios vinculados aos projetos;
+Parcerias com ICTs ou terceiros;
+Resultados obtidos e indicadores de inovação.
+Um aspecto importante é que o FORMP&amp;D não é estático. Ele passa por um processo de melhoria contínua, conduzido pelo MCTI. Esse processo considera tanto a experiência acumulada pelos técnicos avaliadores quanto a escuta ativa das próprias empresas participantes da Lei do Bem. Isso garante que o formulário evolua ao longo do tempo, tornando-se cada vez mais claro, eficiente e aderente às práticas internacionais de avaliação de inovação.
+Para as empresas, isso significa contar com um instrumento cada vez mais acessível e transparente. Para os avaliadores, significa ter em mãos um relatório mais completo, padronizado e alinhado com os critérios técnicos exigidos.
+Em resumo: o FORMP&amp;D é a ponte entre quem inova e quem avalia, e quanto mais clara, objetiva e bem documentada for a apresentação, maiores as chances de um processo de análise rápido, seguro e sem glosas.
+62865100965
+00
+Dicas rápidas para preencher o FORMP&amp;D sem sustos
+✅ Conte a história do projeto: descreva objetivos, novidade tecnológica, barreira enfrentada, métodos utilizados e resultados obtidos.
+✅ Explique a barreira técnica de forma clara: mostre por que não era trivial resolver o problema.
+✅ Use o TRL para indicar em que estágio de maturidade tecnológica o projeto se encontra.
+✅ Relacione cada gasto a um entregável técnico (protótipo, ensaio, relatório, certificação etc.).
+✅ Destaque resultados mesmo quando parciais: um protótipo que falhou também é evidência de P&amp;D.
+✅ Documente vínculos de parcerias e contratações (contratos, termos, notas fiscais com escopo técnico).
+✅ Revise a consistência contábil: os números do FORMP&amp;D devem estar amarrados à ECD e à ECF.
+5) Passo a passo completo (da decisão ao pós-avaliação)
+Objetivo: dar um roteiro claro e acionável para estruturar, executar, evidenciar e reportar projetos de PD&amp;I, garantindo coerência técnica, contábil-fiscal e aderência ao FORMP&amp;D e ao ciclo de avaliação do MCTI
+Etapa 1 — Decisão estratégica e escopo de PD&amp;I
+O que fazer: alinhar objetivos de inovação com a estratégia da empresa; confirmar elegibilidade (Lucro Real, regularidade fiscal), definir linhas de projeto, metas tecnológicas e indicadores de sucesso.
+Como caracterizar: produto/processo tecnologicamente novo (ou com novas funcionalidades) + barreira técnica + ganho objetivo (qualidade, produtividade, competitividade).
+Planeje TRL inicial e alvo (e, quando pertinente, MRL/SRL).
+Dica rápida: comece com um portfólio enxuto de projetos-âncora (alto impacto técnico e boa capacidade de evidência).
+Alerta de glosa: classificar rotina operacional como inovação (sem incerteza técnica).
+Minichecklist (imagem de prancheta)
+☐ Confirma que a empresa está no Lucro Real
+☐  Regularidade fiscal em dia
+☐  Projetos definidos com novidade tecnológica e barreira técnica
+☐ TRL inicial e TRL alvo definidos
+Etapa 2 — Desenho técnico do projeto
+O que fazer: redigir escopo técnico: objetivo, estado da arte interno/externo, hipótese tecnológica, critérios de sucesso, riscos e mitigação, marcos e cronograma (gates por TRL).
+Resultados esperados: PoC/protótipo/ensaios/validações; como mediremos (métricas técnicas).
+Dica rápida: use a matriz “4 perguntas de PD&amp;I”: o que é novo? qual a barreira? como será enfrentada? qual evidência/resultado?
+Alerta de glosa: descrever demandas mercadológicas/requisitos de cliente sem conteúdo tecnológico.
+Minichecklist (imagem de prancheta)
+☐ Escopo técnico redigido (objetivo, hipótese, risco, cronograma)
+☐ Critérios de sucesso claros e mensuráveis
+☐ Barreira tecnológica descrita
+☐ Resultados esperados identificados
+Etapa 3 — Estruturação contábil-fiscal (ECD/ECF) e centros de custo
+O que fazer: criar centros de custo por projeto e uma taxonomia de gastos (RH, materiais, serviços, equipamentos, ICT, TIB etc.); definir critérios objetivos de rateio (quando houver).
+Conciliação: preparar trilha ECD ↔ ECF ↔ FORMP&amp;D (mesma linguagem: projeto/centro/atividade/entregável/período).
+Dica rápida: mantenha uma matriz de vínculos: Gasto → Atividade → Entregável → Projeto → TRL → Período fiscal.
+Exemplo prático: 
+Alerta de glosa: rateio sem critério técnico/documentado; gastos fora do período; contas genéricas sem amarração ao projeto.
+Minichecklist (imagem de prancheta)
+☐ Centros de custo criados por projeto
+☐  Naturezas de gasto padronizadas (RH, materiais, serviços, etc.)
+☐ Critérios de rateio objetivos e documentados
+☐  Conciliação ECD ↔ ECF ↔ FORMP&amp;D planejada
+Etapa 4 — Contratações e parcerias (ICT/terceiros)
+O que fazer: formalizar contratos com escopo técnico claro, entregáveis, marcos, medição e aceite; prever PI, confidencialidade e LGPD; enquadrar TIB e serviços de apoio quando indissociáveis do projeto.
+Provas: contratos, propostas, statements of work, atas de aceite, relatórios.
+Dica rápida: destaque no contrato os deliverables técnicos vinculados ao projeto e ao TRL (ex.: relatório de ensaio, protótipo, modelo validado).
+Alerta de glosa: contrato genérico (“horas técnicas”) sem descrição técnica/entregáveis; TIB sem vínculo ao projeto de P&amp;D.
+Minichecklist (imagem de prancheta)
+☐ Contratos com escopo técnico claro e deliverables
+☐ Cláusulas de PI, confidencialidade e LGPD incluídas
+☐ Relatórios/termos de aceite previstos
+☐ Evidências vinculadas ao projeto e TRL
+Etapa 5 — Execução técnica e registro das evidências
+O que fazer: manter diários de bordo, atas, cadernos de lab, versionamento (repositórios), relatórios de ensaio, fotos de protótipos, datasets e scripts, evidências de falhas e iterações; atualizar TRL.
+Foque no método e no aprendizado (mesmo de resultados parciais).
+Dica rápida: organize as evidências por marco/gate: planejado, executado, evidenciado, decisão.Alerta de glosa: documentação apenas narrativa sem evidência técnica (ensaios, protótipos, logs).
+Minichecklist (imagem de prancheta)
+☐  Diários de bordo e atas de reuniões mantidos
+☐ Relatórios de ensaio, logs e protótipos documentados
+☐  Iterações e falhas registradas (não apenas sucessos)
+☐ TRL atualizado conforme avanço
+Etapa 6 — Gestão dos dispêndios e vinculação aos projetos
+O que fazer: classificar lançamentos por projeto/natureza; anexar NF/contratos/timesheets; controlar depreciação/amortização acelerada; aplicar redução de IPI (quando couber); tratar remessas com IRRF zero quando aplicável.
+Conferir: câmbio, tributos, período fiscal, correspondência com ECD/ECF.
+Dica rápida: padronize etiquetas no ERP (Projeto, Natureza, Período, Entregável) e guarde o dossiê por projeto.Alerta de glosa: equipamento sem vínculo com PD&amp;I; dispêndio não rastreável ao entregável; datas desencontradas.
+Minichecklist (imagem de prancheta)
+☐  Lançamentos contábeis separados por projeto/natureza
+☐  NFs, contratos e timesheets anexados
+☐  Benefícios aplicados (IPI reduzido, depreciação acelerada) registrados
+☐  Correspondência com ECD/ECF garantida
+Etapa 7 — Testes, validações, qualificações e TIB
+O que fazer: planejar e executar testes e certificações necessários; registrar laboratórios e normas; quando cabível, usar MRL (manufatura) e SRL (sistema) para maturidade adicional.
+Evidências: protocolos, relatórios, certificados, raw data, traceability.
+Dica rápida: para cada teste, documente “o que este teste prova” e “qual risco técnico ele endereça”.
+Alerta de glosa: considerar piloto comercial como PD&amp;I sem componente de desenvolvimento/validação tecnológica.
+Minichecklist (imagem de prancheta)
+☐  Protocolos de testes planejados e documentados
+☐  Relatórios de validação e certificados arquivados
+☐  MRL/SRL usados quando aplicável
+☐  Riscos técnicos endereçados em cada teste
+Etapa 8 — Projetos plurianuais: atualização, não repetição
+O que fazer: no relatório do ano corrente, atualize objetivos, métodos, resultados, TRL e custos; descreva avanços e mudanças (inclusive lições aprendidas).
+Evidências: comparativos ano a ano; novos marcos e decisões (go/no go).
+Dica rápida: use um quadro “Evolução do Projeto”: Ano N → N+1: o que mudou?Alerta de glosa: copiar e colar descrições do ano anterior sem mostrar evolução/resultado.
+Minichecklist (imagem de prancheta)
+☐ Atualizações do ano corrente registradas
+☐  Avanços e mudanças documentados
+☐  TRL evolutivo mostrado
+☐   Lições aprendidas incluídas
+Etapa 9 — Preparação do FORMP&amp;D (Portaria MCT nº 327/2010)
+O que fazer: preencher blocos do FORMP&amp;D com a narrativa técnica (objetivo, novidade, barreira, método, resultados) e dispêndios vinculados; mapear RH (pesquisadores/horas), parcerias e TIB.
+Coerência: texto técnico ↔ dispêndios ↔ ECD/ECF ↔ evidências.
+Dica rápida: escreva com verbos de ação e métricas (“validamos X em condições Y; alcançamos Z% em…”); posicione o TRL.
+Alerta de glosa: descrição genérica (sem método/risco), RH sem tarefas técnicas, dispêndios sem amarração.
+Minichecklist (imagem de prancheta)
+☐  Objetivos e barreiras descritos claramente
+☐  Métodos e resultados evidenciados
+☐  RH detalhado (função, horas, vínculo ao projeto)
+☐  Dispêndios amarrados a entregáveis
+Etapa 10 — Revisão interna 360º (técnica, contábil, fiscal e jurídica)
+O que fazer: rodar peer review técnico; checar conciliação ECD/ECF; revisar contratos (ICT/terceiros) e compliance; validar checklist de glosas.
+Saída: pacote pronto para envio, com trilha de auditoria.
+Dica rápida: use um checklist único para todos os projetos; economiza tempo e evita inconsistências.
+Alerta de glosa: divergências numéricas/terminológicas entre áreas (P&amp;D, fiscal, contabilidade, jurídico).
+Minichecklist (imagem de prancheta)
+☐  Revisão técnica por pares realizada
+☐  Conferência contábil-fiscal feita (ECD/ECF ↔ FORMP&amp;D)
+☐  Contratos e evidências checados
+☐  Checklist de glosas revisado
+Etapa 11 — Envio, protocolo e diligências (Portaria MCTI nº 6.536/2022)
+O que fazer: enviar dentro do prazo; monitorar protocolo; preparar respostas objetivas a diligências, com evidências anexas; manter sala de dados organizada.
+Tom: técnico, direto, endereçando cada ponto levantado pelo MCTI.
+Dica rápida: responda diligências com estrutura em tópicos (pergunta → resposta → evidência anexada).
+Alerta de glosa: respostas genéricas sem prova; ausência de documentos solicitados.
+Minichecklist (imagem de prancheta)
+☐  FORMP&amp;D entregue dentro do prazo
+☐  Protocolo salvo e monitorado
+☐  Sala de dados organizada para diligências
+☐   Respostas a diligências com provas objetivas anexadas
+Etapa 12 — Pós-decisão e governança do pipeline de inovação
+O que fazer: arquivar decisão e dossiês; registrar lições aprendidas; refinar processos; planejar próximos ciclos (portfólio, TRL, MRL, SRL); monitorar prazos legais de guarda.
+Cultura: retroalimentar o pipeline de PD&amp;I com os aprendizados da avaliação.
+Dica rápida: mantenha um dashboard de indicadores (tempo de diligência, % gastos vinculados, maturidade média TRL, glosas evitadas).
+Alerta de glosa: perda de evidências por falta de gestão documental; não endereçar recomendações para o ciclo seguinte.
+Minichecklist (imagem de prancheta)
+☐  Decisão final arquivada com dossiê completo
+☐  Lições aprendidas registradas
+☐  Indicadores de PD&amp;I atualizados (TRL médio, glosas evitadas)
+☐  Pipeline de novos projetos ajustado
+Visão geral 
+Decisão de investir em PD&amp;I (alinhamento estratégico).
+Planejamento técnico (objetivo, novidade, barreira, método; estimativa TRL).
+Plano de custos (centros de custo por projeto; critérios de rateio quando aplicável).
+Contratações (RH, ICT, terceiros) com escopo técnico e entregáveis definidos.
+Execução + registro (diários de bordo, ensaios, protótipos, atas, fotos, versões).
+Conciliação ECD/ECF (amarrar lançamentos contábeis/fiscais aos projetos).
+Preparação do FORMP&amp;D (campos técnicos e dispêndios por projeto).
+Revisão interna (técnica + contábil + fiscal; checklist de glosas).
+Envio do FORMP&amp;D no prazo.
+Atendimento a diligências (se houver): responder tecnicamente, anexar evidências.
+Decisão (acompanhar e arquivar).
+Lições aprendidas (retroalimentar pipeline de PD&amp;I).
+[inserir Fluxograma do passo a passo]
+right198120
+00
+Boxes de “dicas rápidas” (coloridos)
+Dica #1: amarre cada gasto a um entregável técnico do projeto.
+Dica #2: escreva para quem avalia: destaque novidade → barreira → método → resultado.
+Dica #3: use TRL como régua de maturidade (consistência ano a ano).
+Dica #4: em projetos plurianuais, atualize o relato (não repita).
+-38098-10159
+Box — Erros clássicos de glosa
+“Projeto” descrito como rotina de TI/manutenção.
+Terceirização sem contrato/escopo técnico.
+Rateios sem critério técnico e documentação.
+Resultados não demonstram ganho/validação.
+[inserir Checklist visual “FORMP&amp;D sem sustos”
+✅ Barreira técnica descrita
+✅ Métodos/ensaios/validações
+✅ TRL coerente
+✅ Dispêndios amarrados ao projeto
+✅ Evidências anexadas
+Diretrizes e Sugestões para Preenchimento do FORMP&amp;D
+📲 QR Code: inserir o QR Code que levará ao Manual Completo.
+O FORMP&amp;D é a principal ferramenta de registro e análise dos projetos de PD&amp;I no âmbito da Lei do Bem. Desde a sua criação pela Portaria MCT nº 327/2010, ele vem passando por um processo de melhoria contínua, que considera tanto a experiência prática do MCTI na análise quanto a escuta ativa das empresas participantes e dos avaliadores.
+Essa evolução reflete um esforço para tornar o formulário mais intuitivo, objetivo e alinhado às melhores práticas internacionais de avaliação de PD&amp;I. Ainda assim, há campos que continuam sendo desafiadores para as empresas e, ao mesmo tempo, críticos para o avaliador. Aqui trazemos orientações propositivas e exemplos práticos para apoiar um preenchimento seguro e claro.
+Estrutura atual do FORMP&amp;D (visão prática)
+O formulário está organizado em blocos principais:
+Identificação da empresa;
+Descrição dos projetos de PD&amp;I (objetivos, novidade, barreira, métodos, resultados);
+Recursos humanos (pesquisadores, horas dedicadas, atribuições);
+Dispêndios vinculados aos projetos (pessoas, materiais, serviços, equipamentos, ICT, TIB, etc.);
+Parcerias com universidades, ICTs e terceiros;
+Resultados obtidos (protótipos, relatórios, certificações, validações).
+BOX - Dica: Durante todo o preenchimento do FORM&amp;D utilize linguagem clara e técnica, evitando jargões excessivos.
+(INCLUIR PRINT DA TELA INICIAL)
+SEÇÃO 1 - Identificação da Empresa 
+Identificação / Características da Empresa
+Qual o típo de empresa? 
+Aqui, você deverá informar se a empresa que está submetendo os projetos ao MCTI se enquadra como privada, pública ou de capital misto. 
+Qual é a situação da empresa?
+Aqui você deve indicar a condição atual da sua empresa, especialmente em relação à sua continuidade e a eventuais mudanças estruturais. Basta escolher a opção que melhor descreve o momento da organização:
+Em operação: a empresa segue funcionando normalmente, sem alterações relevantes na estrutura societária.
+Fusão ou cisão total: a empresa deixou de existir na forma original, seja porque se uniu a outra (fusão) ou porque foi totalmente dividida (cisão total).
+Incorporação de/por outra empresa: houve incorporação, ou seja, a empresa passou a integrar outra companhia, ou absorveu outra empresa, assumindo seus ativos e operações.
+Cisão parcial: apenas parte do patrimônio foi transferida para outra organização, mas a empresa original continua existindo.
+Alteração de CNPJ (outras razões): quando houve mudança de CNPJ por motivos diferentes dos anteriores, como ajustes administrativos internos ou exigências regulatórias.
+Nos termos do Art. 26 da Lei nº 11.196/2005: A empresa se beneficia dos incentivos da Lei nº 8.248/1991 (relacionada à informática e automação)?
+Esse campo é um “sim” ou “não”. Informe se a sua empresa já utiliza ou não os incentivos fiscais previstos na Lei nº 8.248/1991. 
+Dica rápida: confirme com sua área contábil/fiscal se a empresa já usufrui dos incentivos da Lei de Informática.
+Qual é a origem do capital controlador da empresa? 
+Aqui você deve indicar de onde vem o capital que controla a empresa, levando em conta a nacionalidade do acionista majoritário ou da entidade que exerce o controle efetivo.
+Se o controle é totalmente brasileiro, marque Nacional.
+Se o controle é totalmente estrangeiro, marque Estrangeiro.
+Se o controle é dividido entre investidores nacionais e estrangeiros, marque Misto e informe se há predominância de capital nacional ou estrangeiro.
+Dica rápida: verifique o contrato social ou os registros societários antes de preencher.Erro comum: marcar “Nacional” ou “Estrangeiro” em casos de controle compartilhado, sem observar a regra do “Misto”.
+Qual é a relação da empresa com o grupo?
+Aqui você deve indicar como a empresa se relaciona com o grupo econômico ao qual pertence.
+Se ela é a principal empresa que comanda as demais, marque Controladora.
+Se ela é administrada por outra empresa do grupo, marque Controlada.
+Se mantém vínculo por participação relevante, mas sem controle, marque Coligada.
+Se não houver vínculo, escolha a opção Independente.
+Qual é o valor da receita operacional bruta anual da empresa?
+Informe o valor total das receitas geradas pela empresa ao longo do ano-base, antes dos descontos e deduções. Isso inclui todas as vendas de bens e serviços, mesmo que ainda não tenham sido recebidas.
+Qual é o valor da receita líquida da empresa no ano-base?
+Aqui você deve informar o valor da receita líquida, ou seja, a receita bruta menos os descontos, devoluções, impostos e abatimentos.
+Esse valor representa o que realmente ficou como receita da empresa no ano-base.
+Qual é o total de funcionários com vínculo empregatício?
+Informe o número de empregados contratados diretamente pela empresa, com vínculo formal (CLT ou regime equivalente). Não inclua estagiários, terceirizados ou prestadores de serviço.
+Dica rápida: utilize como referência a RAIS ou o e-Social. Erro comum: incluir terceirizados e estagiários como empregados da empresa.
+A empresa fechou o ano-base com prejuízo fiscal?
+Indique se, ao final do ano-base, a empresa apresentou resultado negativo para fins fiscais.
+Dica rápida: certifique-se de que o valor declarado esteja de acordo com a escrituração contábil e fiscal da empresa.
+Estrutura Organizacional de P&amp;D
+Este campo serve para mostrar como a empresa organiza e conduz suas atividades de Pesquisa &amp; Desenvolvimento (P&amp;D). A ideia é evidenciar se existe uma estrutura sólida, contínua e qualificada dedicada à inovação.
+Atenção: este campo deve ser preenchido com até 1000 caracteres.
+Para preencher corretamente, siga estes pontos:
+Área formal de P&amp;D → Informe se existe um setor, centro, núcleo ou departamento oficialmente voltado para P&amp;D.
+Localização da estrutura → Indique onde essa área funciona (na sede, em filiais, centros de pesquisa ou unidades especializadas).
+Principais atividades → Liste o que é realizado: pesquisa básica, pesquisa aplicada, desenvolvimento experimental, prototipagem, testes, validação tecnológica, entre outros.
+Funcionamento prático → Descreva como essa estrutura opera no dia a dia e de que forma ela apoia diretamente os projetos de inovação da empresa.
+Investimentos específicos → Caso existam, detalhe recursos destinados ao P&amp;D, como laboratórios, softwares técnicos, bancos de dados, bibliotecas especializadas, etc.
+Processos e governança → Informe se há métodos ou rotinas internas que organizam as atividades de P&amp;D, como uso de metodologias ágeis, comitês de inovação, indicadores de desempenho ou estruturas formais de governança tecnológica.
+SEÇÃO 2 - Programa/Atividades de PD&amp;I
+Título do Projeto de PD&amp;I
+Informe o nome do projeto de Pesquisa, Desenvolvimento e Inovação (PD&amp;I) que está sendo submetido para a prestação de contas da Lei do Bem. O título deve ser claro, objetivo e representar de forma fiel as atividades desenvolvidas.
+Atenção: o texto deste campo deve ter no máximo 150 caracteres.
+O que considerar ao definir o título:
+Seja específico e evite nomes genéricos como “Projeto de Inovação” ou “Pesquisa Tecnológica”.
+Use palavras que descrevam a finalidade ou a tecnologia central do projeto.
+Prefira títulos que ajudem o avaliador a entender, de imediato, o foco do trabalho.
+Exemplos de títulos adequados:
+“Desenvolvimento de Plataforma de Inteligência Artificial para Diagnóstico Precoce de Doenças Respiratórias”
+“Sistema de Monitoramento Climático com Sensoriamento Remoto para Otimização da Produtividade Agrícola”
+Dica rápida: use termos técnicos na medida certa. O título deve ser compreensível tanto para especialistas quanto para avaliadores que não dominam profundamente a área.
+Descrição do Projeto 
+Este é um dos campos mais importantes do formulário. Ele será analisado com atenção pelos avaliadores e costuma ser decisivo para a aprovação do benefício da Lei do Bem. 
+Respostas superficiais ou incompletas podem gerar indeferimentos ou glosas.
+Atenção: o texto deste campo deve ter no máximo 3000 caracteres.
+Ao preencher, descreva de forma clara, objetiva e detalhada o projeto de Pesquisa, Desenvolvimento e Inovação (PD&amp;I). Procure estruturar sua resposta considerando os seguintes pontos:
+Classificação da pesquisa → Informe se o projeto é Pesquisa Básica Dirigida, Pesquisa Aplicada ou Desenvolvimento Experimental.
+Etapas do projeto → Descreva as principais fases ou etapas estratégicas, destacando a sequência lógica das atividades.
+Elementos tecnologicamente inovadores → Detalhe os avanços científicos ou tecnológicos que diferenciam o projeto em relação ao que já existe no mercado ou no estado da arte.
+Caracterização como P&amp;D → Explique de que forma o projeto se enquadra como atividade de P&amp;D, ressaltando a incerteza tecnológica, a geração de novos conhecimentos ou a criação de soluções inovadoras.
+Marcos críticos → Identifique os principais desafios enfrentados e os obstáculos tecnológicos que precisaram (ou precisarão) ser superados.
+Dica rápida: use linguagem objetiva, mas sem ser genérica. É fundamental deixar claro por que o projeto representa uma atividade de P&amp;D e não apenas de rotina operacional. Erro comum: descrever o projeto como se fosse apenas um “plano de melhorias” ou “atividade produtiva”, sem destacar o caráter inovador e os riscos tecnológicos envolvidos.
+Categoria predominante no projeto, considerando as atividades desenvolvidas no ano-base
+Neste campo, você deve indicar em qual estágio se enquadra o projeto de Pesquisa, Desenvolvimento e Inovação (PD&amp;I), conforme definido pelo Decreto nº 5.798/2006, Art. 2º.  Escolha a categoria que melhor descreve as atividades realizadas: Pesquisa Básica Dirigida; Pesquisa Aplicada ou Desenvolvimento Experimental. Para explicações mais detalhadas, vide pág. X.
+Indicação do Nível de Maturidade Tecnológica (Inicial e Final) do projeto de Pesquisa, Desenvolvimento e Inovação (PD&amp;I)
+Vide pág. X.
+Dica rápida: escolha sempre o nível que melhor descreve o estágio do projeto no início e o nível correspondente ao estágio alcançado ao final.
+Erro comum: indicar o nível final como menor que o inicial ou selecionar um nível sem considerar evidências reais do estágio do projeto.
+Justifique o(s) Nível(is) de Maturidade Tecnológica indicado(s)
+Explique de forma clara os motivos que levaram à indicação do Nível de Maturidade Tecnológica inicial e final do projeto no ano-base.
+Atenção: o texto deste campo deve ter no máximo 1000 caracteres.
+O que deve ser considerado na resposta:
+Avanços alcançados: descreva a evolução do projeto ao longo do período.
+Evidências técnicas: cite experimentos, validações, testes ou resultados que comprovam a classificação escolhida.
+Riscos e incertezas: explique os principais desafios tecnológicos enfrentados e como foram (ou estão sendo) mitigados.
+Resultados concretos: sempre que possível, faça referência a protótipos, relatórios técnicos ou registros que demonstrem a evolução do projeto.
+ Dica rápida: Você pode incluir anexo detalhando e evidenciando sua classificação; .
+Área (predominante) do Projeto de PD&amp;I
+Selecione a área que melhor representa o foco principal do projeto de Pesquisa, Desenvolvimento e Inovação (PD&amp;I). Essa informação é essencial porque garante que a análise do projeto seja feita por avaliadores especializados na mesma área de conhecimento.
+Caso o projeto não se encaixe exatamente em nenhuma das categorias disponíveis, escolha a opção “Outros” e, em seguida, detalhe a área específica no campo “Especificação da área do projeto”.
+Dica rápida: escolha a área de maior peso no projeto, mesmo que ele envolva aspectos multidisciplinares.Erro comum: selecionar uma área secundária ou periférica, o que pode levar a análise por avaliadores de perfil inadequado.
+Palavras-chave
+Indique até 5 palavras-chave que melhor representem o projeto de Pesquisa, Desenvolvimento e Inovação (PD&amp;I).
+Atenção: cada palavra-chave deve ter no máximo 50 caracteres.
+As palavras-chave ajudam a classificar o projeto, facilitam a análise e garantem sua associação com especialistas da área correta.
+Use termos que expressem os diferenciais tecnológicos, os setores de aplicação ou as metodologias utilizadas.Evite palavras muito genéricas como “inovação” ou “tecnologia”. Prefira termos específicos, como “inteligência artificial”, “biotecnologia”, “sensoriamento remoto” ou “aprendizado de máquina”.
+Erro comum: repetir termos amplos que não diferenciam o projeto de outros semelhantes.
+Natureza predominante do desenvolvimento 
+Selecione a natureza principal da inovação do projeto..
+Inovação de Produto – Bens:  Use esta opção quando o projeto cria ou melhora significativamente um bem (tangível ou baseado em conhecimento), tornando-o diferente do que já existia no mercado.
+Inovação de Produto – Serviços:  Marque quando houver melhorias relevantes na prestação do serviço (mais eficiente, acessível ou conveniente). Serviços são intangíveis e costumam envolver coprodução com o usuário.
+Inovação de Processos:  Escolha quando o projeto introduz ou aprimora de forma significativa um processo interno (uma ou mais funções empresariais) em relação ao que a empresa fazia antes, e já foi implementado.
+Dica rápida: se o projeto tocar mais de um tipo, selecione o que melhor representa o foco central do desenvolvimento.
+Elemento tecnologicamente novo ou inovador do projeto 
+Neste campo, você deve destacar os aspectos que comprovam a inovação e o avanço tecnológico trazidos pelo projeto.
+Atenção: o texto deste campo deve ter no máximo 1500 caracteres.
+Como estruturar sua resposta:
+Tecnologia desenvolvida → explique a tecnologia criada ou aprimorada, suas funcionalidades e características que a diferenciam das soluções já existentes. Indique também o contexto ou setor em que será aplicada.
+Novidade tecnológica → mostre por que a solução é nova em relação ao estado da arte. Detalhe se envolve:
+a compreensão de novos fenômenos (Pesquisa Básica Dirigida);
+o desenvolvimento ou aprimoramento de produtos, processos ou sistemas (Pesquisa Aplicada);
+a comprovação de viabilidade técnica ou funcional de algo novo ou significativamente melhorado (Desenvolvimento Experimental).
+Comparação com soluções existentes → cite quais soluções similares já existem no mercado ou na literatura técnica, mostre suas limitações e explique como o projeto supera essas barreiras.
+Justificativa do desenvolvimento → apresente os motivos que levaram à criação dessa tecnologia. Destaque benefícios como eficiência, redução de custos, melhoria de desempenho, sustentabilidade ou impacto social positivo.
+Não obviedade → explique por que a solução proposta não é trivial ou óbvia, ressaltando os elementos criativos ou inovadores que tornam o projeto único.
+Dica rápida: sempre que possível, use dados quantitativos (por exemplo, ganhos de eficiência em %, aumento de desempenho, tempo de resposta, redução de custos) e relacione o projeto com os objetivos da Lei do Bem, destacando seu alinhamento com o avanço tecnológico e a inovação. Erro comum: descrever o projeto de forma genérica, sem mostrar claramente a inovação tecnológica frente ao que já existe.
+Descrição da barreira ou desafio tecnológico superável 
+Neste campo, descreva de forma clara os obstáculos tecnológicos enfrentados durante o projeto de PD&amp;I e as estratégias adotadas para superá-los.
+Atenção: o texto deste campo deve ter no máximo 1500 caracteres.
+Como organizar sua resposta:
+Problema tecnológico → detalhe qual foi a dificuldade enfrentada (ex.: limitações técnicas, custos adicionais, atrasos) e explique seu impacto no andamento do projeto.
+Status de superação → indique se a barreira já foi superada ou se ainda está em estudo:
+Se já foi superada: descreva os resultados obtidos e como beneficiaram o projeto.
+Se ainda não foi superada: informe as hipóteses em teste, as etapas planejadas e os recursos necessários (humanos, financeiros, tecnológicos).
+Relevância do desafio → explique por que superar esse obstáculo é essencial para o sucesso do projeto e como isso se conecta aos seus objetivos gerais.
+Dados e evidências → inclua resultados de testes, métricas de desempenho ou comparações que comprovem a eficácia da abordagem adotada.
+📦 Dica rápida: sempre que possível, use dados quantitativos (por exemplo, ganhos de eficiência em %, aumento de desempenho, tempo de resposta, redução de custos) e relacione o projeto com os objetivos da Lei do Bem, destacando seu alinhamento com o avanço tecnológico e a inovação.  ⚠️ Erro comum: descrever o desafio de forma genérica, sem relacioná-lo aos impactos reais no desenvolvimento do projeto ou sem evidências técnicas.
+Descrição da metodologia e métodos utilizados no desenvolvimento do projeto 
+Aqui você deve detalhar as técnicas, métodos e procedimentos adotados para superar os desafios tecnológicos e alcançar os objetivos do projeto de PD&amp;I.
+Atenção: o texto deste campo deve ter no máximo 1500 caracteres.
+Como organizar sua resposta:
+Atividades realizadas → descreva as principais ações do projeto (ex.: estudos bibliográficos, experimentos em laboratório, testes em bancada, desenvolvimento de protótipos) e explique como cada uma ajudou a enfrentar os desafios tecnológicos.
+Métodos e técnicas → indique quais métodos científicos e técnicos foram aplicados (ex.: modelagem computacional, análises estatísticas, ensaios físicos). Mostre como esses métodos garantiram a confiabilidade e validade dos resultados.
+Processo de desenvolvimento experimental → apresente o caminho seguido, da concepção da ideia até a validação da solução. Inclua informações sobre os recursos, equipamentos e etapas de teste utilizadas.
+Competências exigidas → descreva o perfil técnico e científico necessário para o projeto, mencionando a qualificação da equipe e eventuais parcerias com instituições de pesquisa.
+Superação do desafio → explique como os métodos aplicados ajudaram a resolver a barreira tecnológica e destaque os resultados que representam uma melhoria em relação ao que já existia.
+Dados e evidências → inclua resultados concretos, métricas de desempenho ou comparações que comprovem a eficácia da metodologia adotada.
+Dica rápida: se o projeto ainda estiver em andamento, descreva também as etapas futuras planejadas e os métodos que serão usados até a conclusão.
+O projeto é contínuo (executado por um período superior a um ano)? 
+Neste campo, você deve informar se o projeto tem duração superior a um ano, ou seja, se é um projeto plurianual ou continuado. Isso vale para qualquer tipo de projeto — seja de pesquisa básica, aplicada ou de desenvolvimento experimental.
+Como identificar um projeto contínuo:
+Existe planejamento de longo prazo, com etapas bem definidas;
+Há acompanhamento e registro das atividades ao longo dos anos;
+O projeto possui fluxo de caixa específico;
+As atividades continuam além de um único exercício fiscal.
+Como demonstrar a evolução do projeto:
+Atualize a metodologia/métodos utilizados a cada ano para refletir o que foi feito no período;
+Acrescente descrição complementar, destacando alterações no projeto ao longo dos anos;
+Revise o relatório se houver mudanças significativas de escopo, desafios ou resultados;
+Registre dificuldades e barreiras ainda não superadas e indique perspectivas de solução;
+Apresente um cronograma geral, com objetivos anuais detalhados.
+Se o projeto atender a esses critérios, marque SIM e registre sua evolução anualmente de forma clara e justificada. Caso contrário, marque NÃO.
+Detalhamentos adicionais sobre as informações fornecidas (se necessários)
+Neste campo, você pode incluir detalhes complementares que ajudem a esclarecer pontos importantes do projeto de PD&amp;I e que não tenham sido totalmente explicados nos campos anteriores.
+Atenção: o texto deste campo deve ter no máximo 2000 caracteres.
+O que pode ser detalhado aqui:
+Principais ações executadas no ano-base e os avanços obtidos;
+Desafios enfrentados e como foram tratados;
+Mudanças no planejamento original, explicando os motivos;
+Continuidade das etapas para projetos plurianuais, destacando o progresso alcançado no ano em avaliação;
+Alterações significativas no escopo ou nos objetivos, justificando os ajustes feitos.
+Dica rápida: use este espaço como um complemento para dar clareza e evitar dúvidas na análise.Erro comum: repetir informações já apresentadas em outros campos, sem acrescentar novos elementos.
+Resultado econômico do projeto 
+Neste campo, descreva de forma clara e objetiva o objetivo principal do projeto e os resultados econômicos que ele trouxe ou deverá trazer para a empresa.
+Atenção: o texto deste campo deve ter no máximo 2000 caracteres.
+O que deve ser informado:
+Como o projeto impactou (ou vai impactar) a competitividade da empresa nos mercados nacional e internacional;
+Quais são as expectativas econômicas, como:
+aumento de receita;
+redução de custos;
+tempo estimado para retorno do investimento;
+ganhos de eficiência e produtividade;
+abertura de novos mercados ou nichos de atuação;
+melhoria na posição competitiva frente aos concorrentes.
+Dica importante: se possível, inclua métricas, indicadores ou projeções financeiras (ex.: crescimento percentual de receita, economia gerada em custos, prazo previsto de retorno sobre o investimento). Esses números fortalecem a justificativa e demonstram objetivamente o impacto do projeto.
+Erro comum: usar descrições vagas como “o projeto aumentará a competitividade da empresa”, sem apresentar evidências ou projeções que comprovem os benefícios econômicos.
+Resultado de Inovação
+Neste campo, descreva de forma clara e objetiva o principal resultado de inovação do projeto de PD&amp;I — seja ele esperado ou já obtido.
+Atenção: o texto deste campo deve ter no máximo 2000 caracteres.
+O que deve ser informado:
+Produto, tecnologia ou processo desenvolvido → detalhe o que foi criado ou aprimorado e quais avanços tecnológicos foram alcançados.
+Contribuição para a empresa → explique como a inovação fortalece a empresa, seja por:
+aumento da competitividade;
+diferenciação no mercado;
+ganhos de eficiência operacional;
+criação de novas oportunidades de negócio.
+Impactos setoriais → destaque como a inovação pode beneficiar a indústria ou o segmento de atuação (ex.: geração de novas demandas, mudanças no mercado, impacto sobre concorrentes e fornecedores).
+Impactos sociais → indique se a inovação gera empregos, promove inclusão social, melhora a qualidade de vida ou traz outros benefícios relevantes.
+Impactos ambientais → informe se há ganhos de sustentabilidade, como redução de emissões, economia de recursos naturais, maior eficiência energética ou outras melhorias ambientais.
+Dica rápida: Seja específico. Em vez de dizer apenas “aumenta a competitividade”, explique como isso acontece (ex.: redução de custos em 20%, abertura de um novo mercado internacional, menor tempo de produção).Erro comum: usar descrições genéricas sem demonstrar o impacto real da inovação para a empresa, o setor ou a sociedade.
+Objetivos de Desenvolvimento Sustentável (ODS) contemplados no seu projeto (opcional)
+Neste campo, você deve selecionar um ou mais dos 17 Objetivos de Desenvolvimento Sustentável (ODS) da ONU que tenham relação direta com o seu projeto, quando cabível..
+Dica rápida: escolha apenas os ODS que realmente estejam alinhados às metas e resultados do projeto, evitando marcar de forma genérica.
+Justificativa (ODS) (opcional) 
+Neste campo, explique de forma objetiva e direta como o projeto contribui para cada ODS selecionado.
+Atenção: o texto deste campo deve ter no máximo 1000 caracteres.
+O que informar:
+Relacione a contribuição do projeto com metas específicas do(s) ODS escolhido(s);
+Destaque de que forma os resultados ou impactos do projeto se conectam a esses objetivos (ex.: geração de empregos, redução de emissões, inclusão social, eficiência energética etc.).
+Dica rápida: não faça descrições genéricas. Mostre de maneira clara qual é a ligação entre o projeto e o ODS, evidenciando resultados ou benefícios concretos.
+Os projetos de PD&amp;I da empresa se alinham com as políticas públicas nacionais? (opcional)
+Neste campo, você deve indicar se os projetos de PD&amp;I da empresa têm relação com políticas públicas nacionais. Selecione SIM caso haja alinhamento. Selecione NÃO caso não exista relação identificada.
+Alinhamento do Projeto com Políticas, Programas e Estratégias Governamentais (opcional) 
+Neste campo, identifique as políticas públicas nacionais que têm relação com o projeto de PD&amp;I.
+Atenção: o texto deste campo deve ter no máximo 1000 caracteres
+O que informar:
+Cite a(s) política(s), programa(s) governamental(is), estratégia(s) setorial(is) ou marco(s) regulatório(s) relevantes;
+Explique de forma clara como o projeto contribuiu para os objetivos dessas políticas;
+Destaque os resultados ou impactos do projeto que demonstram esse alinhamento.
+Dica rápida: priorize informações objetivas e específicas, evitando descrições genéricas.
+Anexo complementar para comprovação da atividade de PD&amp;I (opcional)
+Se necessário, utilize este campo para anexar documentos que comprovem as atividades de PD&amp;I realizadas no ano-base.
+O que pode ser anexado:
+Relatórios técnicos detalhando as atividades de PD&amp;I;
+Artigos técnico-científicos ou patentes resultantes do projeto;
+Evidências de testes experimentais e validações tecnológicas;
+Documentação de protótipos (fotos, esquemas técnicos, registros de teste);
+Declarações ou pareceres técnicos de especialistas externos;
+Certificações ou registros de propriedade intelectual vinculados ao projeto.
+Atenção:
+O arquivo deve ter caráter técnico e estar relacionado diretamente à comprovação da inovação.
+Não inclua apresentações institucionais genéricas ou documentos sem vínculo técnico com o projeto.
+SEÇÃO 2.1 - Projeto Desenvolvido em Cooperação
+Projeto Desenvolvido em Cooperação
+Esta sessão deve ser preenchido com muita atenção, pois trata de um ponto crítico que costuma gerar dúvidas e glosas. Aqui você deve indicar se o projeto foi desenvolvido em cooperação com uma ou mais empresas.
+Atenção: o texto para o campo de descrição deve ter no máximo 1000 caracteres.
+O que informar:
+Razão Social e CNPJ da(s) empresa(s) parceira(s);
+Descrição clara e objetiva das atividades realizadas por cada empresa no ano-base e com o papel de cada parceira no desenvolvimento do projeto de PD&amp;I.
+Importante: a empresa deve declarar apenas os dispêndios da sua parte no projeto, e não os valores das demais parceiras.
+Anexo obrigatório (PDF): Anexe documento que comprove a cooperação, contendo, sempre que possível:
+Contrato, convênio ou termo de cooperação (ou MoU, se não houver contrato formal);
+Relatórios técnicos ou plano de trabalho conjunto, com cronograma e divisão de tarefas;
+Evidências de interação (atas, registros de reuniões, trocas de e-mails, relatórios de acompanhamento);
+Evidências financeiras (notas fiscais, faturas, ordens de serviço, registros de investimento conjunto);
+Resultados conjuntos (protótipos, testes, publicações técnicas, registros de patentes ou novos produtos/tecnologias gerados pela cooperação).
+Dica rápida: seja objetivo e registre apenas as informações essenciais dentro do limite de 1000 caracteres, detalhando melhor nos documentos anexados.
+Projeto Com Custos Compartilhados. 
+Esta sessão também deve ser preenchido com muita atenção, pois trata de um ponto crítico que costuma gerar dúvidas e glosas.  Se o projeto de PD&amp;I tiver sido realizado em modelo de custos compartilhados dentro de um mesmo grupo econômico, a empresa deve garantir que os dispêndios sejam proporcionais, elegíveis e em conformidade com a Lei do Bem.
+Atenção: o texto para o campo de descrição do rateio deve ter no máximo 1000 caracteres.
+O que informar:
+Estrutura de rateio: explique como os custos do projeto foram distribuídos entre as empresas participantes.
+Papel de cada CNPJ: detalhe quais atividades de P&amp;D cada empresa executou e sua contribuição específica para o avanço tecnológico.
+Critérios de rateio: demonstre como foram definidos, mostrando que evitam duplicação de incentivos ou alocações indevidas.
+Justificativa do modelo: apresente os benefícios do rateio (eficiência, sinergia, otimização de recursos).
+Conformidade: informe se existem pareceres jurídicos ou auditorias independentes que assegurem a aderência às normas da Lei do Bem.
+Anexo obrigatório (PDF): É indispensável anexar o termo de convênio de rateio de custos comuns, assinado pelas partes, contendo:
+Identificação das empresas participantes e seus representantes legais;
+Declaração de que o convênio visa ratear custos comuns de PD&amp;I;
+Lista dos custos compartilhados e comprovação de conformidade com a Lei nº 11.196/2005;
+Critérios de divisão dos custos e obrigações de cada parte.
+Dica rápida: seja objetivo no texto e detalhe melhor os aspectos técnicos e jurídicos no documento em PDF.
+SEÇÃO 2.2 - Serviços de terceiros
+Universidade/Instituição de Pesquisa 
+Se a empresa tiver contratado universidades ou instituições de pesquisa para apoiar atividades do projeto de P&amp;D, é necessário registrar informações detalhadas sobre essa colaboração (Art. 17, § 2º da Lei nº 11.196/2005).
+Informações obrigatórias a serem prestadas:
+Tipo de instituição contratada (Universidade ou Instituição de Pesquisa);
+Situação do serviço (Contratado – Não iniciado, Contratado – Em execução ou Contratado – Concluído);
+Razão Social e CNPJ da instituição;
+Centro, departamento ou grupo de pesquisa responsável (máx. 150 caracteres);
+Valor total (em R$) repassado no ano-base;
+Caracterização do serviço realizado (máx. 1000 caracteres) → descreva as atividades executadas, a contribuição técnica da instituição e os resultados esperados ou já obtidos;
+Indique se a instituição contratada é credenciada pela Embrapii.
+Dica rápida: seja claro e objetivo — destaque como a instituição efetivamente contribuiu para o desenvolvimento do projeto.Erro comum: registrar informações genéricas sem mostrar a conexão real entre o serviço prestado e os objetivos de P&amp;D.
+Anexo obrigatório (PDF): inclua documentos que comprovem a contratação e execução, como:
+Contrato ou convênio com escopo detalhado;
+Data de assinatura e vigência;
+Plano de trabalho técnico (objetivos, justificativa, equipe, entregáveis e cronograma);
+Registros de pagamentos e comprovantes;
+Relatórios de progresso, resultados intermediários ou finais;
+Evidências de execução (ensaios, protótipos, publicações, registros de PI, quando aplicável);
+Documentos que comprovem o impacto da contratação para o projeto.
+Inventor Independente – Contratado / Valores Transferidos
+Caso a empresa tenha contratado ou transferido valores para inventor(es) independente(s) com o objetivo de executar atividades no projeto de P&amp;D, é necessário apresentar informações detalhadas sobre essa colaboração (Art. 17, § 2º da Lei nº 11.196/2005).
+Informações obrigatórias:
+Tipo de inventor (Contrato ou Valores Transferidos);
+Nome completo e CPF de cada inventor independente envolvido;
+Valor total (em R$) destinado às atividades realizadas;
+Descrição das atividades realizadas pelo(s) inventor(es) (máx. 1000 caracteres);
+Explicação clara e objetiva sobre:
+as atividades desempenhadas no projeto;
+a contribuição técnica do inventor;
+os resultados esperados ou já alcançados.
+Dica rápida: a resposta deve ser específica e objetiva. Evite descrições genéricas e destaque a relevância do inventor para o avanço do projeto de P&amp;D.
+Anexo obrigatório (PDF): inclua documentos que comprovem a contratação ou a transferência de valores, como:
+Contrato de prestação de serviços, indicando obrigações e escopo da colaboração;
+Data de assinatura e vigência do contrato;
+Plano de trabalho técnico (objetivos, justificativa, metodologia, expertise, metas e cronograma);
+Registros de pagamentos efetuados;
+Correspondência entre os valores pagos e os serviços prestados;
+Relatórios técnicos e evidências de execução (progressos, resultados intermediários/finais, protótipos ou registros técnicos, quando disponíveis);
+Publicações ou registros de propriedade intelectual resultantes (se aplicável), destacando a coautoria ou contribuição técnica do inventor;
+Evidências de impacto no projeto (ex.: justificativa da contratação, benefícios concretos obtidos).
+Microempresa/Empresa de Pequeno Porte (CAMPO CRÍTICO)
+Este é um campo crítico, que deve ser preenchido com máxima atenção, pois erros aqui podem gerar glosas. Ele deve informar se há a participação de microempresas ou empresas de pequeno porte na execução de atividades no projeto de P&amp;D.
+O que informar:
+Tipo de empresa prestadora de serviços (Microempresa ou Empresa de Pequeno Porte);
+Situação do serviço (Contratado – Não iniciado, Em execução ou Terminado);
+Razão Social e CNPJ da(s) empresa(s);
+Valor total (em R$) repassado no ano-base;
+Descrição das atividades realizadas (máx. 1000 caracteres): detalhe de forma objetiva e específica quais atividades foram desempenhadas, explicando a contribuição técnica para o projeto e os resultados esperados ou já obtidos.
+Dica rápida: destaque o valor agregado pela micro ou pequena empresa para o avanço do projeto, sempre em caráter complementar e não de substituição das atividades centrais de PD&amp;I da contratante.
+Anexo obrigatório (PDF): inclua documentos que comprovem a colaboração, como:
+Contrato de prestação de serviços, com escopo e obrigações claras;
+Data de assinatura e vigência;
+Plano de trabalho técnico (objetivos, justificativa, atividades, metodologia, equipe e cronograma);
+Registros de pagamentos efetuados;
+Correspondência entre valores pagos e serviços prestados;
+Relatórios técnicos e evidências de execução (progressos, resultados intermediários e finais, vínculo com os objetivos do projeto de PD&amp;I);
+Publicações ou registros de PI resultantes da parceria (quando houver), destacando a coautoria ou contribuição técnica da microempresa;
+Provas de impacto no projeto (benefícios concretos alcançados pela empresa contratante com a colaboração).
+Atenção: certifique-se de que a descrição demonstre contribuição efetiva e não uma terceirização completa do PD&amp;I (não permitida para fins de benefícios fiscais pela Legislação da Lei do Bem).
+Serviço de apoio técnico, tecnologia industrial básica e despesas operacionais - Pessoa Física
+Se a empresa contratou ou repassou valores a pessoas físicas para apoiar o projeto de P&amp;D, este campo deve detalhar as atividades realizadas.
+O que informar:
+Tipo de Serviço: 
+Serviços de Apoio Técnico: atividades indispensáveis à implantação/manutenção de instalações ou equipamentos voltados exclusivamente para P&amp;D, incluindo capacitação de recursos humanos. (Decreto 5.798/2006, Art. 2º):Tecnologia Industrial Básica: aferição e calibração de máquinas e equipamentos, projeto e confecção de instrumentos de medição específicos, certificações de conformidade, normalização, documentação técnica ou patenteamento de produto/processo.(Decreto 5.798/2006, Art. 2º)
+Situação da atividade: (Contratado – Não iniciado, Em execução ou Teminado);
+Nome completo e CPF da pessoa física contratada;
+Valor total (em R$) pago no ano-base;
+Descrição objetiva das atividades (máx. 1000 caracteres):
+Quais serviços foram prestados, de forma específica e sem generalizações;
+Qual a contribuição técnica para o desenvolvimento do projeto;
+Resultados esperados ou obtidos.
+Anexo obrigatório (PDF) com comprovação da execução dos serviços, contendo:
+Contrato ou documento formal de prestação de serviços (escopo e relação entre as partes);
+Data de contratação e período de execução;
+Plano de trabalho técnico (objetivos, justificativa, atividades, metodologia, equipe técnica e cronograma);
+Comprovantes de pagamento (recibos, notas fiscais ou extratos bancários);
+Correspondência entre valores pagos e serviços realizados;
+Relatórios técnicos ou evidências de execução (progresso das atividades, resultados alcançados, vínculo com o projeto de P&amp;D);
+Prova do impacto no projeto (benefícios concretos obtidos pela empresa).
+Atenção: descreva sempre de forma clara, objetiva e técnica, evitando termos genéricos.
+Serviço de apoio técnico, tecnologia industrial básica e despesas operacionais - Pessoa Jurídica
+Se a empresa contratou ou repassou valores a pessoas jurídicas (empresas prestadoras de serviço) para apoiar atividades no projeto de P&amp;D, devem ser fornecidas informações detalhadas sobre essa contratação.
+O que informar: a) Tipo de serviço contratado:
+Serviços de Apoio Técnico: atividades indispensáveis para implantação e manutenção de instalações ou equipamentos utilizados exclusivamente em P&amp;D, bem como capacitação de recursos humanos envolvidos;
+Tecnologia Industrial Básica: serviços como aferição e calibração de equipamentos, projeto e confecção de instrumentos de medição, certificação de conformidade, ensaios técnicos, normalização, documentação técnica e patenteamento de produtos ou processos desenvolvidos.
+b) Situação da atividade: Contratado – Não iniciado, Em execução ou Terminado; c) Razão social e CNPJ da empresa contratada; d) Valor total (R$) pago à pessoa jurídica no ano-base; e) Descrição das atividades realizadas (até 1000 caracteres), incluindo:
+Quais serviços foram prestados de forma objetiva e específica;
+Como esses serviços contribuíram tecnicamente para o desenvolvimento do projeto;
+Quais resultados foram esperados ou obtidos.
+Anexos obrigatórios (PDF):
+Contrato de prestação de serviços, evidenciando o vínculo entre as partes e o escopo da contratação;
+Data da assinatura e período de execução do contrato;
+Plano de trabalho técnico (objetivos, justificativa da contratação, serviços prestados, metodologia utilizada, equipe técnica e qualificações, cronograma e entregáveis);
+Comprovantes de pagamento à empresa contratada;
+Documentos que relacionem os valores pagos aos serviços prestados;
+Relatórios técnicos e evidências de execução (progresso das atividades, resultados alcançados e vínculo com os objetivos do projeto de P&amp;D);
+Evidências de impacto no projeto (benefícios concretos obtidos pela empresa a partir dos serviços prestados).
+Atenção: a descrição deve ser clara, objetiva e específica, evitando generalizações. O foco deve sempre estar na contribuição técnica da empresa contratada para o avanço do projeto de P&amp;D.
+Material de Consumo
+Se a empresa utilizou materiais de consumo no desenvolvimento do projeto de PD&amp;I, é necessário detalhar como esses itens foram aplicados e sua importância para a pesquisa.
+Informações obrigatórias: a) Identificação do material (até 150 caracteres): nome, tipo ou especificação básica do material de consumo utilizado no projeto; b) Valor total (R$) investido nos materiais no ano-base; c) Vinculação com o projeto (até 1000 caracteres):
+Descrição detalhada dos materiais (nome, características técnicas, quantidade adquirida e motivo da escolha);
+Forma de aplicação no projeto e benefícios esperados/obtidos;
+Justificativa da aquisição no contexto do PD&amp;I;
+Impacto direto na pesquisa, evidenciando como os materiais foram fundamentais para o avanço do projeto.
+Recomenda-se anexar (em PDF):
+Notas fiscais e comprovantes de aquisição;
+Registros de uso dos materiais no projeto;
+Relatórios técnicos detalhando a aplicação dos insumos.
+Atenção: o texto deve ser claro, objetivo e específico, evitando descrições genéricas. O foco deve estar sempre em como os materiais de consumo contribuíram para os resultados do projeto de PD&amp;I.
+Relação de Recursos Humanos 
+Se a empresa destinou profissionais para atuar no projeto de PD&amp;I, é necessário apresentar informações detalhadas sobre cada um deles e sua contribuição efetiva para os resultados.
+A empresa pode escolher uma das duas formas de preenchimento:
+Informação individual no formulário: inserir manualmente os dados de cada profissional e suas atividades no projeto; ou
+Importação via planilha padrão (.CSV): baixar o modelo disponível, preenchê-lo conforme as regras estabelecidas e importar diretamente. Um PDF com instruções de preenchimento também está disponível para apoio.
+Dados obrigatórios por profissional: a) CPF b) Nome completo c) Sexo d) Última titulação:Doutor; Mestre; Pós-Graduado; Graduado; Tecnólogo; Técnico de Nível Médio; Apoio Técnico e) Função desempenhada no projeto (até 100 caracteres) f) Total de horas trabalhadas no ano em PD&amp;I g) Dedicação ao projeto (parcial ou exclusiva) h) Valor total (R$) recebido pelo trabalho no projeto i) Descrição das atividades (até 3000 caracteres): detalhar funções, atividades realizadas, contribuição individual para o projeto, justificativa da necessidade de sua atuação, principais contribuições técnicas/científicas e impacto de suas atividades no desenvolvimento do projeto.
+Anexos obrigatórios:
+Documentos comprobatórios de dedicação, como contratos de prestação de serviços, termos de compromisso, planos de trabalho executados ou equivalentes;
+Informações sobre programas de formação e capacitação em PD&amp;I existentes na empresa, demonstrando:
+Valorização da capacidade tecnológica interna;
+Investimento contínuo na qualificação técnica e científica (doutores e mestres são fortemente incentivados pelo MCTI);
+Maturidade organizacional para condução de atividades estruturadas de PD&amp;I;
+Existência de cultura de inovação voltada ao desenvolvimento de competências sustentáveis;
+Esforço estratégico em capacitação tecnológica, fortalecendo a argumentação técnica e fiscal para usufruto dos incentivos da Lei do Bem.
+Atenção:
+Este é um campo crítico: o MCTI recomenda fortemente a apresentação de equipe técnica robusta, com ênfase na participação de doutores e mestres.
+Informe apenas atividades diretamente vinculadas ao projeto de PD&amp;I.
+BOX DE ATENÇÃO!!!! 
+Regra prática de proporcionalidade da equipe de P&amp;D
+A determinação da proporcionalidade da equipe alocada em projetos de P,D&amp;I é fundamental para assegurar a correta apuração dos dispêndios com pessoal, evitando excessos, glosas e inconsistências entre o escopo técnico e os custos reportados.
+Regra prática ideal (métrica base)
+A proporcionalidade deve ser calculada com base na relação:
+Horas efetivamente dedicadas às atividades de P,D&amp;I no período÷Horas totais trabalhadas pelo profissional no mesmo período
+Esse percentual determina o nível de participação do profissional no projeto
+Critérios de proporcionalidade
+1. Dedicação majoritária (≥ 50%)
+Quando 50% ou mais das horas do profissional estão vinculadas a atividades experimentais ou desenvolvimento tecnológico:
+o profissional pode ser considerado pesquisador dedicado majoritariamente ao projeto;
+a alocação dos dispêndios é integral ou predominante, conforme o caso.
+2. Dedicação parcial (20% a 50%)
+Quando a alocação fica entre 20% e 50%:
+os dispêndios devem ser proporcionais ao tempo dedicado;
+exige-se justificativa técnica clara das atividades de P&amp;D realizadas;
+deve existir coerência entre o nível de complexidade técnica e a proporção registrada.
+3. Participação marginal (&lt; 20%)
+Quando menos de 20% do tempo é dedicado ao projeto:
+o profissional tende a ser classificado como apoio ou participação indireta;
+normalmente não é elegível como pesquisador pleno;
+recomenda-se descrição técnica detalhada, demonstrando tarefas específicas e limitadas no processo experimental.
+Tratamento de funções de suporte
+Atividades administrativas, comerciais, operacionais ou de produção rotineira não devem ser classificadas como P,D&amp;I, mesmo se o profissional interagir com o projeto.
+Apoio técnico operacional (laboratório, ensaios, instrumentação) pode ser elegível, desde que:
+exista registro das horas vinculadas aos experimentos, e
+a participação seja coerente com o papel técnico desempenhado.
+Evidências indispensáveis
+A proporcionalidade deve ser suportada por documentação rastreável e consistente, incluindo:
+Registros de horas: timesheets, ordens de serviço, planilhas de alocação, sistemas de apontamento.
+Contratos ou termos de dedicação, quando houver definição formal de carga destinada ao projeto.
+Descrição técnica individual, indicando:
+tarefas realizadas;
+relação com atividades de P&amp;D;
+entregáveis correspondentes.
+Coerência entre entregáveis técnicos e pessoal envolvido: commits, relatórios de ensaio, versões de protótipo, documentos de validação.
+BOX – Pense criticamente: 
+A complexidade das atividades justifica a proporção de horas informada?
+A documentação comprova a participação técnica do profissional? 
+Há  comprovação formal para pesquisadores exclusivos, (ex.: contrato, declaração de dedicação exclusiva), conforme metodologia prevista? 
+Todos esses pontos são fundamentais para evitar a glosa dos dispêndios! 
+BOX DE ATENÇÃO – Não há , nos normativos da Lei do Bem, um limite único e universal definido para a proporcionalidade da contratação de serviços de apoio no orçamento total de P&amp;D. 
+SEÇÃO 3 - Dispêndio do Programa
+Fontes de Financiamento do Projeto de PD&amp;I
+Neste campo, a empresa deve detalhar de onde vieram os recursos usados para custear o projeto de Pesquisa, Desenvolvimento e Inovação (PD&amp;I).
+É importante mostrar tanto a proporção de recursos próprios quanto os financiamentos externos, além de identificar claramente as instituições financiadoras.
+ O que preencher:
+Recursos Próprios (%)
+Informe o percentual do projeto financiado exclusivamente com recursos da própria empresa.
+Financiamentos (%)
+Indique a porcentagem do projeto custeada com recursos externos, como financiamentos governamentais, subvenções, créditos especiais ou empréstimos.
+A soma entre recursos próprios e financiamentos deve ser 100%.
+Fontes de Financiamento
+Identifique as instituições onde a empresa buscou apoio para o projeto (ex.: FINEP, BNDES, agências estaduais, fundos privados, bancos internacionais).
+Caso marque “Outras”, detalhe a instituição ou fonte utilizada.
+Descrição das Fontes de Financiamento Aqui você deve aprofundar a explicação sobre cada fonte selecionada. Descreva, de forma objetiva e clara:
+Atenção: o texto deste campo deve ter no máximo 2000 caracteres.
+Justificativa e Impacto: por que a empresa escolheu essa fonte e como os recursos ajudaram no avanço do projeto de P&amp;D&amp;I.
+Recursos Não Reembolsáveis (Subvenção/Fomento Direto): indique se os valores vieram de chamadas públicas, editais ou apoios diretos. Exemplos: EMBRAPII, FINEP, CNPq, SEBRAE, agências estaduais.
+Financiamento Reembolsável (Crédito para Inovação): detalhe as linhas de crédito utilizadas, como FINEP, BNDES ou outros programas de financiamento de longo prazo.
+Fundos de Investimento: explique o tipo de fundo envolvido (FIP, FIDC, Venture Capital, Private Equity) e, se possível, cite o nome do fundo e sua participação no projeto.
+Financiamento Internacional: identifique instituições como BID, Banco Mundial ou agências estrangeiras, e explique como os recursos se conectam às atividades de PD&amp;I da empresa.
+Incentivos Fiscais e Regulatórios: informe os programas usados (Lei de Informática, Rota 2030/Programa Mover, PADIS, PPB, Regimes Automotivos Regionais etc.) e destaque as contrapartidas, obrigações ou metas de inovação exigidas.
+Dica rápida: detalhe mais as fontes que tiveram maior impacto no projeto, mostrando claramente o vínculo entre o recurso e as atividades de inovação. Erro comum: declarar apenas “financiamento externo” sem especificar a origem, a proporção ou os impactos no projeto.
+Patentes e Registros – Concessões
+Nesta subseção, você deve informar se, no ano-base, e como resultado do(s) projeto(s) de Pesquisa, Desenvolvimento e Inovação (PD&amp;I), a empresa obteve a concessão de registros de propriedade intelectual
+O que preencher:
+Especifique o(s) tipo(s) de registro(s) concedido(s) (ex.: patente, cultivar, desenho industrial, software etc.);
+Informe o número do registro e uma breve descrição/especificação.
+Base Legal:
+Art. 19 da Lei nº 11.196/2005: a empresa pode excluir até 60% dos dispêndios com P&amp;D da base do Lucro Real e da CSLL.
+§ 3º do mesmo artigo: quando houver patente concedida ou cultivar registrado, a exclusão pode ser acrescida de mais 20% sobre os dispêndios vinculados.
+Especificação dos Gastos
+Aqui, você deve detalhar os gastos da empresa com registros e manutenção de marcas, patentes e cultivares, incluindo valores pagos no exterior (conforme Art. 17, inciso VI da Lei nº 11.196/2005).
+Atenção: o texto deste campo deve ter no máximo 500 caracteres.
+O que preencher:
+Descrição dos dispêndios realizados (ex.: taxas de depósito de patentes, anuidades de manutenção, registros de cultivares, despesas no exterior relacionadas à propriedade intelectual).
+Valor Total (R$): some todos os gastos declarados e informe no campo próprio.
+Dica rápida: mantenha notas fiscais, comprovantes de pagamento e recibos organizados, pois podem ser solicitados em eventual fiscalização.Erro comum: informar valores de P&amp;D gerais neste campo. Lembre-se: aqui devem constar apenas despesas diretamente ligadas a marcas, patentes e cultivares.
+Atenção: se a empresa não realizou esse tipo de gasto no ano-base, o campo pode ser deixado em branco.
+Bens Intangíveis
+Neste campo, você deve informar os dispêndios relacionados a bens intangíveis que estejam exclusivamente vinculados às atividades de Pesquisa Tecnológica e Desenvolvimento de Inovação Tecnológica (PD&amp;I), conforme o Art. 17, inciso IV da Lei nº 11.196/2005.
+O que preencher:
+Descrição do bem intangível → detalhe qual é o ativo (ex.: software, patente, licença, direito de exploração). 
+Atenção: o texto deste campo deve ter no máximo 1000 caracteres.
+Justificativa da vinculação → explique de forma objetiva como esse bem foi utilizado diretamente nas atividades de P&amp;D&amp;I.
+Atenção: o texto deste campo deve ter no máximo 1000 caracteres.
+Valor do dispêndio realizado → informe o montante gasto pela empresa no ano-base.
+Relação com projetos → indique quais projetos de P&amp;D&amp;I estão vinculados ao bem intangível listado.
+Exemplos de bens intangíveis que podem ser informados:
+Direitos de exploração de serviços técnicos especializados;
+Aquisição ou licenciamento de marcas, patentes e softwares;
+Outros direitos intangíveis aplicados diretamente nos projetos de P&amp;D&amp;I.
+Dica rápida: descreva apenas os ativos que tenham uso comprovado nos projetos de inovação.Erro comum: declarar bens intangíveis de uso administrativo ou comercial, sem vínculo direto com projetos de P&amp;D&amp;I.
+Atenção: apenas devem ser informados bens intangíveis que estejam diretamente vinculados às atividades de pesquisa tecnológica ou de desenvolvimento de inovação tecnológica.
+Relação de equipamentos nacionais adquiridos no ano base
+Neste campo, você deve informar os equipamentos de fabricação nacional adquiridos no ano-base que foram utilizados diretamente em atividades de Pesquisa Tecnológica e Desenvolvimento de Inovação (P&amp;D&amp;I), conforme o Art. 17, incisos II e III da Lei nº 11.196/2005.
+O que preencher para cada equipamento:
+Identificação do Equipamento → nome, modelo e função principal.
+Número da Nota Fiscal de aquisição.
+Valor da aquisição (em R$).
+Especificação técnica resumida (até 500 caracteres).
+Relação dos projetos de P&amp;D que utilizaram o equipamento.
+Se um mesmo equipamento for usado em mais de um projeto, liste todos eles.
+Dica rápida: organize previamente a lista de equipamentos com as respectivas notas fiscais para agilizar o preenchimento.Erro comum: incluir equipamentos que não estão diretamente vinculados às atividades de P&amp;D ou de origem estrangeira, que não devem ser informados neste campo.
+Relação de equipamentos importados adquiridos no ano base
+Neste campo, você deve informar os equipamentos importados adquiridos no ano-base que foram utilizados diretamente em atividades de Pesquisa Tecnológica e Desenvolvimento de Inovação (P&amp;D), conforme o Art. 17, incisos II e III da Lei nº 11.196/2005.
+O que preencher para cada equipamento:
+Identificação do Equipamento → nome, modelo e função principal.
+Número da Declaração de Importação (DI).
+Valor da aquisição (em R$).
+Especificação técnica resumida (até 500 caracteres).
+Relação dos projetos de P&amp;D que utilizam o equipamento.
+Se um mesmo equipamento for usado em mais de um projeto, todos devem ser listados.
+Dica rápida: mantenha os documentos de importação organizados (DI, notas e comprovantes), pois podem ser solicitados em eventual auditoria.
+SEÇÃO 4 - Pesquisador Exclusivo
+Pesquisadores com Dedicação Exclusiva (CAMPO CRÍTICO) 
+Neste campo, você deve informar todos os pesquisadores que atuaram em regime de dedicação exclusiva em projetos de Pesquisa, Desenvolvimento e Inovação Tecnológica (PD&amp;I) no ano-base e no ano-base anterior, conforme o Art. 8º do Decreto nº 5.798/2006.
+-108585132080A Lei do Bem incentiva a formação de um corpo técnico robusto, especialmente com mestres e doutores dedicados exclusivamente a projetos de P&amp;D.
+O que preencher:
+Identifique os pesquisadores com dedicação exclusiva no ano-base, informando:
+Nome completo;
+CPF;
+Formação acadêmica (titulação);
+Data de admissão;
+Data de demissão (se aplicável);
+Número de meses trabalhados no ano-base.
+Informe dados equivalentes para o ano-base anterior, permitindo a comparação e a verificação de incremento no número de pesquisadores.
+Regras para apuração do incremento:
+Considere apenas os pesquisadores dedicados exclusivamente a projetos incentivados pela Lei do Bem.
+Podem ser incluídos tanto novos contratados quanto empregados já existentes que tenham passado a atuar em dedicação exclusiva em P&amp;D.
+O cálculo do incremento deve comparar a quantidade de pesquisadores com contrato ativo em 31/12 do ano-base com a quantidade em 31/12 do ano anterior.
+Dica rápida: prepare uma planilha com os dados de todos os pesquisadores para garantir consistência na informação entre os dois anos.Erro comum: incluir profissionais que apenas participaram parcialmente de projetos de P&amp;D, mas não estavam em dedicação exclusiva — o que pode resultar em glosa do benefício.
+SEÇÃO 5 - Art. 19-A Da Lei N° 11.196/05
+Dispêndio com ICT - Art. 19-A Da Lei N° 11.196/05
+Esta seção tem como objetivo identificar os investimentos que a empresa realizou em projetos de pesquisa e desenvolvimento tecnológico conduzidos por Instituições Científicas e Tecnológicas (ICTs) públicas ou privadas sem fins lucrativos, conforme previsto no Art. 19-A da Lei nº 11.196/2005 (Lei do Bem).
+Box de destaque:O uso de ICTs é especialmente incentivado pela Lei do Bem, pois fortalece a cooperação entre empresas e instituições de pesquisa.
+Como preencher:
+Indique se houve dispêndio com ICT pública ou privada sem fins lucrativos no ano-base.
+Em caso positivo, preencha obrigatoriamente:
+Número da Portaria de Aprovação do projeto;
+CNPJ da ICT beneficiária;
+Nome da ICT (Instituição Científica e Tecnológica);
+Descrição do Projeto apoiado, detalhando as atividades realizadas;
+Atenção: o texto deste campo deve ter no máximo 4000 caracteres.
+Valor transferido (R$) para a ICT no ano-base.
+Observações importantes:
+É obrigatório anexar documentação comprobatória, como contratos, convênios, termos de parceria ou comprovantes de repasse de valores.
+Apenas projetos com portaria de aprovação vigente podem ser informados para aproveitamento do benefício fiscal.
+O investimento deve estar diretamente relacionado a atividades de pesquisa tecnológica e desenvolvimento de inovação.Consulte a Instrução Normativa RFB nº 1.187/2011, especialmente os artigos 12, 13 e 14, para verificar a elegibilidade dos dispêndios.
+Erro comum: declarar valores repassados sem a devida portaria de aprovação ou sem vínculo direto com atividades de P&amp;D, o que pode levar à glosa do benefício.
+SEÇÃO 6 - Incentivos Fiscais do Programa
+Incentivos Fiscais do Programa 
+Este conjunto de questões tem como objetivo identificar quais incentivos fiscais previstos na Lei nº 11.196/2005 foram efetivamente utilizados pela empresa no ano-base, conforme regulamenta o Decreto nº 5.798/2006.
+O que você deve observar ao preencher:
+A apresentação correta dessas informações é essencial para comprovar a aderência da empresa aos critérios da legislação e reforçar a transparência na utilização dos benefícios fiscais.
+Todos os campos devem ser preenchidos, mesmo quando não houver valores a declarar.
+Se a empresa não utilizou determinado incentivo fiscal, registre o valor como “zero” (R$ 0,00).
+Dica rápida: antes de preencher, confirme com o setor contábil/fiscal os valores exatos relacionados a cada incentivo.
+Ao concluir, é só FINALIZAR o envio para que o FORMP&amp;D vá para a avaliação do MCTI.
+O que observar para evitar indeferimento
+Um dos maiores motivos de indeferimento de projetos no âmbito da Lei do Bem é a falta de clareza. Muitas vezes, o problema não está na atividade em si, mas na forma como ela foi descrita. Por isso, é essencial entender onde as empresas mais erram e como corrigir esses pontos já na primeira submissão.
+Erros mais comuns e como evitá-los
+🔹 Falta de clareza sobre o elemento novo
+Erro: falar do objetivo ou do benefício, mas não deixar claro “o que é novo” tecnologicamente (algoritmo, arquitetura, formulação, protocolo etc.).
+Como resolver: nomeie o elemento (ex.: algoritmo próprio X, módulo Y desenvolvido internamente), mostre protótipo/PoC, resultados de validação, cite patente ou comparação técnica.
+🔹 Falta de clareza sobre a barreira/desafio tecnológico
+Erro: dizer “melhoramos/otimizamos” sem detalhar riscos técnicos, incertezas ou limitações.
+Como resolver: descreva o problema específico, por que soluções conhecidas não bastavam, e mostre evidências de testes que superaram a barreira.
+🔹 Inovação narrada sem P&amp;D
+Erro: apresentar só o resultado (produto/processo novo) sem relatar pesquisa, experimentação e desenvolvimento.
+Como resolver: estruture em termos de P&amp;D: hipóteses, testes, protótipo → piloto → produção, sempre com metodologia e métricas.
+🔹 Metodologia vaga
+Erro: descrever apenas “o que faz” e “por que é útil”, sem mostrar “como foi feito”.
+Como resolver: detalhe métodos (ensaios, modelagem, datasets, protocolos, métricas de aceitação), cronograma técnico e critérios de validação.
+🔹 Projetos de engenharia sem PD&amp;I
+Erro: narrar apenas implantação/aplicação (instalação, comissionamento).
+Como resolver: evidencie o experimental: integração não trivial, calibração complexa, controle/algoritmo próprio.
+🔹 Implantação de softwares de prateleira (ERP/CRM/BI etc.)
+Erro: contar apenas parametrização ou treinamento.
+Como resolver: destaque módulos ou algoritmos próprios, integrações inéditas, tratamento de dados avançado.
+🔹 Uso de tecnologias maduras sem novidade
+Erro: só combinar tecnologias já conhecidas
+Como resolver: explique a originalidade: restrições severas, novos parâmetros, combinações inéditas, avanço em TRL.
+🔹 “Melhoria de processo” sem P&amp;D
+Erro: narrar ganho de eficiência sem mostrar desenvolvimento técnico.
+Como resolver: vincule a uma rota de P&amp;D: nova formulação, novo controle, novo processo validado em testes.
+🔹 Projetos continuados mal descritos
+Erro: repetir a mesma narrativa em anos diferentes, parecendo manutenção.
+Como resolver: separe entregáveis de cada fase (protótipo → piloto → produção) e os riscos superados em cada etapa.
+🔹 Funcionalidades sem parte técnica
+Erro: focar só no que o produto “faz” para o usuário.
+Como resolver: conte o como: técnicas usadas, dados, testes, integrações e limitações superadas.
+🔹 Modernização tratada como P&amp;D
+Erro: upgrade/substituição tecnológica sem mostrar desafio.
+Como resolver: explique o desenvolvimento interno, as adaptações com incerteza e os testes realizados.
+🔹 Diferença entre P&amp;D e atividades correlatas (Frascati)
+Erro: misturar operação, TI e rotina com PD&amp;I.
+Como resolver: alinhe aos critérios do Frascati: novidade, incerteza, criatividade, sistematicidade e transferibilidade.
+🔹 Tropicalização/localização simplificada
+Erro: descrever só tradução ou configuração para o Brasil.
+Como resolver: evidencie os desafios técnicos da adaptação (normas, clima, materiais), com testes e redesign.
+🔹 Repetição de texto
+Erro: usar a mesma descrição em diferentes projetos/anos.
+Como resolver: destaque as diferenças de objetivos, tecnologias e resultados em cada ciclo.
+🔹 Custos operacionais como P&amp;D
+Erro: focar em contratação de pessoal ou rotina.
+Como resolver: vincule horas e insumos a tarefas técnicas de PD&amp;I, experimentos e entregáveis.
+Checklist prático para evitar indeferimento
+Antes de enviar seu projeto, verifique se você respondeu claramente:
+ ✅ Qual é o elemento tecnologicamente novo? ✅ Qual é o desafio/barreira técnica enfrentado? ✅ Qual foi a metodologia usada (como foi feito, não só o que faz)? ✅ Quais evidências você trouxe (protótipo, testes, validação, comparação)? ✅ O que é realmente P&amp;D e o que é apenas implantação ou rotina? ✅ As fases/anos têm objetivos e resultados distintos? ✅ O texto evita jargão de marketing e está focado no como técnico?
+5. Ciclo de Avaliação dos Projetos pelo MCTI
+Depois que os projetos de PD&amp;I são apresentados pelas empresas por meio do FORMP&amp;D, eles passam por um processo estruturado de avaliação realizado pelo Ministério da Ciência, Tecnologia e Inovação (MCTI). Esse ciclo é essencial para garantir que os incentivos da Lei do Bem sejam aplicados de forma justa, transparente e alinhada ao objetivo central da política: estimular a inovação tecnológica no Brasil.
+O ciclo de avaliação é regido atualmente pela Portaria MCTI nº 6.536/2022 (em processo de atualização) e conta com etapas bem definidas:
+Envio do FORMP&amp;D pela empresa.
+Triagem inicial para verificar se as informações foram entregues corretamente e se a documentação está completa.
+Análise técnica: especialistas avaliam se os projetos apresentados cumprem os requisitos legais, se existe novidade tecnológica, se foram descritas barreiras técnicas reais, quais métodos foram empregados e quais resultados foram obtidos.
+Diligências: caso haja dúvidas ou informações insuficientes, o MCTI pode solicitar esclarecimentos ou complementações. Essa é a oportunidade da empresa ajustar, detalhar ou apresentar documentos adicionais.
+Parecer técnico: após as análises e eventuais diligências, o MCTI emite um parecer sobre a elegibilidade dos projetos e dos dispêndios apresentados.
+Comunicação dos resultados à empresa, encerrando o ciclo de avaliação.
+Esse processo é importante tanto para as empresas quanto para os avaliadores. Para as empresas, ele dá segurança jurídica de que seus projetos foram validados por critérios técnicos claros. Para os avaliadores, ele garante um processo de análise padronizado e transparente, reduzindo subjetividades e fortalecendo a credibilidade da Lei do Bem.
+📌 É importante lembrar: a avaliação não busca apenas aprovar ou indeferir. Ela também funciona como um processo de aprendizado coletivo. A experiência acumulada pelo MCTI, somada às interações com as empresas e avaliadores, permite que critérios sejam constantemente ajustados e que o próprio FORMP&amp;D seja melhorado ao longo do tempo.
+11049097790
+Como evitar indeferimentos no ciclo de avaliação
+✅ Seja claro na descrição técnica: detalhe a novidade, a barreira e o método.
+✅ Anexe evidências concretas (protótipos, relatórios de ensaio, contratos com ICTs).
+✅ Garanta consistência contábil e fiscal: ECD, ECF e FORMP&amp;D devem estar alinhados.
+✅ Em projetos plurianuais, atualize as informações: mostre os avanços de cada ano, não copie a descrição anterior.
+✅ Responda diligências com agilidade e objetividade, sempre anexando documentação de suporte.
+INCLUIR fluxograma visual do ciclo de avaliação (mostrando cada etapa em sequência: Envio → Triagem → Análise técnica → Diligências → Parecer → Comunicação)
+PARTE III - Como Proceder em Casos de Não Enquadramento ou Glosa
+Como funciona o sistema de contestação
+Se a empresa receber um parecer técnico desfavorável, ela tem o direito de apresentar sua contestação. O passo a passo completo está disponível no documento Manual do Usuário – Apresentar Contestação Lei do Bem (MCTI), mas aqui resumimos os principais pontos.
+O sistema foi pensado para que a empresa possa incluir justificativas adicionais, enviar documentos complementares e até apresentar cálculos alternativos. Tudo isso de forma estruturada, em guias que seguem uma lógica simples:
+Projeto de PD&amp;I → primeiro, questiona-se o mérito: houve ou não inovação tecnológica?
+Dispêndios financeiros → depois, são analisados os gastos vinculados ao projeto.
+Incentivos fiscais (art. 19-A) → em seguida, verificam-se as deduções aplicadas.
+Observações gerais e documentos → por fim, são incluídas evidências adicionais e comentários finais.
+Essa organização mostra como a Lei do Bem integra dois olhares complementares: o técnico (se há inovação de fato) e o contábil-tributário (se os incentivos foram aplicados corretamente). É justamente essa característica híbrida — jurídica, técnica e econômica — que torna a Lei única no cenário brasileiro.
+-108585122555
+Vale lembrar: o sistema também possui travamentos automáticos, impedindo, por exemplo, que a empresa avance se extrapolar os percentuais legais de dedução. Isso garante mais segurança e transparência no processo.
+Como funciona o recurso administrativo. 
+Enquanto a contestação é a primeira oportunidade de resposta ao parecer técnico do MCTI, o recurso administrativo funciona como uma segunda instância de defesa. Ele é acionado quando a empresa deseja questionar a análise feita sobre sua contestação. É, portanto, a formalização de uma etapa recursal dentro do procedimento administrativo. O passo a passo operacional completo está disponível no documento Manual do Usuário – Recurso administrativo - Lei do Bem (MCTI).
+Conceito: o recurso administrativo aplica os princípios do devido processo legal na esfera administrativa e tributária, garantindo à empresa o direito ao contraditório e à ampla defesa.
+Como o recurso é estruturado
+O sistema organiza o fluxo do recurso em diferentes guias, que refletem a lógica da análise:
+Programa e Atividade de PD&amp;I → análise do mérito técnico-científico: houve inovação de fato?
+Dispêndios → verificação se os gastos informados estão adequados à legislação.
+Art. 19-A da Lei nº 11.196/2005 → aplicação direta da norma legal.
+Incentivos Fiscais do Programa → análise do impacto tributário e das deduções realizadas.
+Observações Gerais → espaço para anexar documentos, evidências e justificativas adicionais.
+Cada guia exige que a empresa insira justificativas formais, detalhe valores e anexe documentos de suporte. Isso reforça a importância de uma defesa organizada tanto do ponto de vista técnico quanto jurídico.
+Assim como na contestação, o recurso mostra a interseção entre avaliação tecnológica (ciência, inovação) e avaliação fiscal (deduções, limites, percentuais). A Lei do Bem não é apenas um incentivo econômico, mas também um mecanismo regulador da política de inovação.
+A defesa da empresa vai além de um simples ato de discordância: trata-se de demonstrar conformidade técnica e documental, alinhada às exigências da lei.
+O sistema possui travamentos automáticos: não permite avançar quando os valores de deduções ultrapassam os limites legais. Isso garante que a defesa seja construída dentro dos parâmetros normativos, antes mesmo da análise humana.
+Passo a passo para análise de recomendações incluídas no parecer recebido pelas empresas;
+Passo a passo para a elaboração de recurso.
+FAQ
+Inclusão de QR Code para o site do FAQ
+REFERÊNCIAS
+BRASIL. Ministério da Ciência, Tecnologia e Inovação. Relatório de Gestão Integrado MCTI 2024 – Parte 1. Brasília: MCTI, 2025.
+IBGE. Pesquisa de Inovação – PINTEC 2023. Rio de Janeiro: IBGE, 2023.
+OCDE. Global Trends in Government Innovation 2024: Fostering Human-Centred Public Services. Paris: OECD Publishing, 2024.
+OCDE. Manual de Oslo: Diretrizes para coleta e interpretação de dados sobre inovação. 4. ed. Paris: OECD Publishing/Eurostat, 2018. Versão Finep, 2019.
+OCDE. Manual de Frascati: tipo de metodologia proposta para levantamentos sobre pesquisa e desenvolvimento experimental.
+Frascati: ORGANIZAÇÃO DE COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO. OCDE., 2002.

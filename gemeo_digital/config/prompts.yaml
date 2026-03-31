@@ -1,0 +1,220 @@
+# Templates de Prompts - Gêmeo Digital Lei do Bem
+# Estes prompts são usados para instruir a LLM na avaliação de projetos
+
+# =============================================================================
+# SYSTEM PROMPT - Persona do Avaliador
+# =============================================================================
+system_prompt: |
+  Você é um avaliador técnico especialista do MCTI (Ministério da Ciência, Tecnologia e Inovação),
+  responsável por analisar projetos de P&D&I submetidos à Lei do Bem (Lei 11.196/2005).
+
+  Sua área de especialização é: {area}
+
+  ## Sua Missão
+  Avaliar se os projetos apresentados caracterizam genuínas atividades de Pesquisa,
+  Desenvolvimento e Inovação Tecnológica, conforme os critérios da legislação brasileira
+  e do Manual de Frascati.
+
+  ## Princípios de Avaliação
+  1. **Objetividade**: Base suas análises em evidências técnicas, não em intenções
+  2. **Rigor**: Aplique os critérios de forma consistente e fundamentada
+  3. **Construtividade**: Identifique problemas, mas também sugira melhorias
+  4. **Imparcialidade**: Avalie o mérito técnico, não o tamanho ou prestígio da empresa
+
+  ## O que você DEVE verificar
+  - Novidade tecnológica real (não apenas comercial)
+  - Incerteza técnica que exigiu investigação
+  - Metodologia experimental estruturada
+  - Barreiras técnicas claramente identificadas
+
+  ## O que você DEVE rejeitar
+  - Rotinas operacionais disfarçadas de P&D
+  - Customização/parametrização sem desenvolvimento
+  - Inovações apenas mercadológicas
+  - Descrições genéricas sem substância técnica
+
+  ## Formato de Resposta
+  Sempre estruture sua avaliação de forma clara e fundamentada, citando os critérios
+  aplicáveis e fornecendo justificativas específicas para cada pontuação.
+
+# =============================================================================
+# PROMPT DE AVALIAÇÃO PRINCIPAL
+# =============================================================================
+avaliacao_prompt: |
+  ## Projeto a Avaliar
+
+  **Título:** {titulo}
+
+  **Descrição do Projeto:**
+  {descricao}
+
+  **Elemento Tecnologicamente Novo ou Inovador:**
+  {elemento_novo}
+
+  **Barreira ou Desafio Tecnológico:**
+  {barreira_tecnologica}
+
+  **Metodologia Utilizada:**
+  {metodologia}
+
+  ---
+
+  ## Contexto Relevante (Legislação e Exemplos)
+
+  {contexto_rag}
+
+  ---
+
+  ## Exemplos de Referência
+
+  ### Projetos APROVADOS (padrão a seguir):
+  {exemplos_aprovados}
+
+  ### Projetos REJEITADOS (padrões a evitar):
+  {exemplos_rejeitados}
+
+  ---
+
+  ## Sua Tarefa
+
+  Avalie o projeto acima seguindo EXATAMENTE esta estrutura:
+
+  ### 1. AVALIAÇÃO POR PILAR (0-10 cada)
+
+  **1.1 Descrição do Projeto** (Peso: 15%)
+  - Score: [X/10]
+  - Justificativa: [Análise específica]
+  - Pontos fortes: [Lista]
+  - Pontos fracos: [Lista]
+
+  **1.2 Elemento Novo/Inovador** (Peso: 30%)
+  - Score: [X/10]
+  - Justificativa: [Análise específica]
+  - Pontos fortes: [Lista]
+  - Pontos fracos: [Lista]
+
+  **1.3 Barreira Tecnológica** (Peso: 30%)
+  - Score: [X/10]
+  - Justificativa: [Análise específica]
+  - Pontos fortes: [Lista]
+  - Pontos fracos: [Lista]
+
+  **1.4 Metodologia** (Peso: 25%)
+  - Score: [X/10]
+  - Justificativa: [Análise específica]
+  - Pontos fortes: [Lista]
+  - Pontos fracos: [Lista]
+
+  ### 2. ANÁLISE FRASCATI
+
+  Para cada critério, responda SIM ou NÃO com justificativa:
+
+  - [ ] Inovadora: [SIM/NÃO] - [Justificativa]
+  - [ ] Criativa: [SIM/NÃO] - [Justificativa]
+  - [ ] Incerta: [SIM/NÃO] - [Justificativa]
+  - [ ] Sistemática: [SIM/NÃO] - [Justificativa]
+  - [ ] Transferível: [SIM/NÃO] - [Justificativa]
+
+  Critérios Frascati atendidos: [X/5]
+
+  ### 3. SCORE FINAL E DECISÃO
+
+  **Score Ponderado:** [Cálculo: 0.15*desc + 0.30*novo + 0.30*barreira + 0.25*metodo = X.XX]
+
+  **Decisão:** [APROVADO / DILIGÊNCIA / REJEITADO]
+
+  **Probabilidade de Aprovação:** [X%]
+
+  ### 4. PARECER TÉCNICO
+
+  **Resumo (1 parágrafo):**
+  [Síntese da avaliação]
+
+  **Pontos Fortes do Projeto:**
+  1. [Ponto 1]
+  2. [Ponto 2]
+  ...
+
+  **Pontos a Melhorar:**
+  1. [Ponto 1]
+  2. [Ponto 2]
+  ...
+
+  ### 5. SUGESTÕES DE MELHORIA
+
+  Se o projeto for para DILIGÊNCIA ou REJEITADO, sugira melhorias específicas:
+
+  **Para o Elemento Novo:**
+  [Sugestão de como descrever melhor]
+
+  **Para a Barreira Tecnológica:**
+  [Sugestão de como descrever melhor]
+
+  **Para a Metodologia:**
+  [Sugestão de como descrever melhor]
+
+# =============================================================================
+# PROMPT PARA ANÁLISE DE SIMILARIDADE
+# =============================================================================
+similaridade_prompt: |
+  Compare o seguinte projeto com os exemplos de referência e determine
+  qual categoria ele mais se aproxima:
+
+  **Projeto em Análise:**
+  {projeto}
+
+  **Exemplos Aprovados:**
+  {aprovados}
+
+  **Exemplos Rejeitados:**
+  {rejeitados}
+
+  Responda:
+  1. Similaridade com projetos aprovados (0.0 a 1.0): [valor]
+  2. Similaridade com projetos rejeitados (0.0 a 1.0): [valor]
+  3. Justificativa: [explicação]
+
+# =============================================================================
+# PROMPT PARA SUGESTÃO DE REESCRITA
+# =============================================================================
+reescrita_prompt: |
+  O seguinte trecho de um projeto Lei do Bem foi considerado insuficiente:
+
+  **Trecho Original ({campo}):**
+  {texto_original}
+
+  **Problemas Identificados:**
+  {problemas}
+
+  **Contexto do Projeto:**
+  {contexto}
+
+  Reescreva este trecho de forma que:
+  1. Atenda aos critérios da Lei do Bem
+  2. Seja técnico e específico
+  3. Demonstre claramente o caráter de P&D&I
+  4. Mantenha consistência com o contexto do projeto
+
+  **Sugestão de Reescrita:**
+
+# =============================================================================
+# PROMPT PARA EXTRAÇÃO DE CAMPOS
+# =============================================================================
+extracao_prompt: |
+  Extraia os seguintes campos do texto do projeto abaixo:
+
+  **Texto do Projeto:**
+  {texto_completo}
+
+  Extraia e estruture:
+
+  1. **Título:** [extrair ou inferir]
+  2. **Descrição do Projeto:** [resumo das atividades principais]
+  3. **Elemento Novo/Inovador:** [o que há de tecnologicamente novo]
+  4. **Barreira Tecnológica:** [desafios técnicos enfrentados]
+  5. **Metodologia:** [como foi/será desenvolvido]
+  6. **TRL Inicial:** [nível de maturidade inicial, 1-9]
+  7. **TRL Final:** [nível de maturidade alcançado, 1-9]
+  8. **Classificação:** [Pesquisa Básica / Pesquisa Aplicada / Desenvolvimento Experimental]
+
+  Se algum campo não estiver claramente descrito, indique: "[NÃO IDENTIFICADO]"

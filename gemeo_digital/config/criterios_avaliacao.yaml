@@ -1,0 +1,197 @@
+# Critérios de Avaliação - Gêmeo Digital Lei do Bem
+# Área: Eletroeletrônica
+# Baseado em: Manual Lei do Bem 2025, Manual de Frascati, Lei 11.196/2005
+
+area: eletroeletronica
+
+# =============================================================================
+# PILARES DE AVALIAÇÃO (FORMP&D)
+# =============================================================================
+pilares:
+  descricao_projeto:
+    peso: 0.15
+    nome: "Descrição do Projeto"
+    criterios:
+      - objetivo_claro: "O objetivo de inovação está claramente definido?"
+      - classificacao_correta: "A classificação (Pesquisa Básica/Aplicada/Desenvolvimento Experimental) está correta?"
+      - trl_coherente: "O TRL inicial e final são coerentes com as atividades descritas?"
+      - escopo_definido: "O escopo técnico está bem delimitado?"
+    red_flags:
+      - "Descrição genérica sem detalhes técnicos"
+      - "Confunde rotina operacional com P&D"
+      - "Foco apenas em benefícios comerciais"
+    green_flags:
+      - "Etapas do projeto bem definidas"
+      - "Marcos técnicos identificados"
+      - "Cronograma com gates por TRL"
+
+  elemento_novo:
+    peso: 0.30
+    nome: "Elemento Tecnologicamente Novo ou Inovador"
+    criterios:
+      - novidade_identificada: "O elemento novo está claramente identificado e nomeado?"
+      - comparacao_estado_arte: "Há comparação com o estado da arte (literatura, patentes, mercado)?"
+      - progresso_cientifico: "Demonstra progresso científico ou tecnológico real?"
+      - nao_obviedade: "A solução não é óbvia para um profissional da área?"
+    red_flags:
+      - "Apenas descreve funcionalidades sem mostrar o que é novo"
+      - "Melhoria genérica sem especificar tecnologia"
+      - "Inovação apenas mercadológica/comercial"
+      - "Customização de produto existente"
+    green_flags:
+      - "Algoritmo/arquitetura/protocolo próprio identificado"
+      - "Comparação quantitativa com soluções existentes"
+      - "Patente depositada ou em análise"
+      - "Publicação científica associada"
+
+  barreira_tecnologica:
+    peso: 0.30
+    nome: "Barreira ou Desafio Tecnológico"
+    criterios:
+      - incerteza_tecnica: "Há incerteza técnica real que exigiu investigação?"
+      - problema_especifico: "O problema tecnológico está claramente descrito?"
+      - nao_trivial: "O problema não é resolvível por engenharia de rotina?"
+      - abordagem_superacao: "A abordagem para superar a barreira está descrita?"
+    red_flags:
+      - "Desafio apenas de prazo/custo/gestão"
+      - "Problema resolvível com conhecimento padrão da área"
+      - "Barreira apenas de implementação/integração"
+      - "Descrição vaga: 'otimizamos', 'melhoramos'"
+    green_flags:
+      - "Hipóteses técnicas testadas documentadas"
+      - "Descrição de falhas e iterações"
+      - "Métricas técnicas de sucesso definidas"
+      - "Referência a limitações do estado da arte"
+
+  metodologia:
+    peso: 0.25
+    nome: "Metodologia e Métodos Utilizados"
+    criterios:
+      - metodo_experimental: "Há protocolo experimental estruturado?"
+      - hipoteses_testes: "Hipóteses foram formuladas e testadas?"
+      - validacao_resultados: "Os resultados foram validados com métricas técnicas?"
+      - documentacao: "O processo está documentado de forma reprodutível?"
+    red_flags:
+      - "Apenas metodologias de gestão (Scrum, PMBOK)"
+      - "Descrição apenas do 'que faz', não 'como foi feito'"
+      - "Ausência de testes/validações"
+      - "Metodologia vaga ou genérica"
+    green_flags:
+      - "Ensaios laboratoriais documentados"
+      - "Prototipagem com iterações"
+      - "Métricas quantitativas de validação"
+      - "Estudos comparativos/benchmarks"
+
+# =============================================================================
+# CRITÉRIOS FRASCATI (Manual de Frascati 2015)
+# =============================================================================
+frascati:
+  minimo_obrigatorio: 4  # Mínimo 4 de 5 critérios devem ser atendidos
+  criterios_essenciais:
+    - inovadora    # OBRIGATÓRIO
+    - incerta      # OBRIGATÓRIO
+
+  criterios:
+    inovadora:
+      nome: "Inovadora"
+      descricao: "Visa resultados novos"
+      pergunta: "O projeto busca gerar conhecimento ou solução tecnológica não existente?"
+      obrigatorio: true
+
+    criativa:
+      nome: "Criativa"
+      descricao: "Baseia-se em conceitos e hipóteses originais e não evidentes"
+      pergunta: "A abordagem é original e não óbvia para especialistas da área?"
+      obrigatorio: false
+
+    incerta:
+      nome: "Incerta"
+      descricao: "Apresenta incerteza quanto ao resultado final"
+      pergunta: "Havia incerteza real sobre a viabilidade técnica?"
+      obrigatorio: true
+
+    sistematica:
+      nome: "Sistemática"
+      descricao: "É planejada e orçamentada"
+      pergunta: "O projeto seguiu metodologia estruturada com recursos definidos?"
+      obrigatorio: false
+
+    transferivel:
+      nome: "Transferível/Reprodutível"
+      descricao: "Conduz a resultados possíveis de reproduzir"
+      pergunta: "Os resultados estão documentados de forma que outros possam reproduzir?"
+      obrigatorio: false
+
+# =============================================================================
+# THRESHOLDS DE DECISÃO
+# =============================================================================
+thresholds:
+  aprovado:
+    score_minimo: 7.0
+    frascati_minimo: 4
+    pilares_minimos:
+      elemento_novo: 6.0
+      barreira_tecnologica: 6.0
+
+  diligencia:
+    score_minimo: 5.0
+    score_maximo: 6.99
+    descricao: "Projeto com potencial, mas precisa de esclarecimentos"
+
+  rejeitado:
+    score_maximo: 4.99
+    descricao: "Projeto não demonstra características de P&D&I"
+
+# =============================================================================
+# PADRÕES ESPECÍFICOS - ELETROELETRÔNICA
+# =============================================================================
+padroes_area:
+  eletroeletronica:
+    exemplos_validos:
+      - "Desenvolvimento de novo circuito integrado com arquitetura proprietária"
+      - "Criação de algoritmo de controle embarcado para eficiência energética"
+      - "Desenvolvimento de sensor com nova tecnologia de detecção"
+      - "Sistema de comunicação com protocolo IoT proprietário"
+      - "Firmware com funcionalidades inéditas de processamento de sinal"
+
+    exemplos_invalidos:
+      - "Montagem de placas com componentes comerciais"
+      - "Integração de módulos prontos sem desenvolvimento"
+      - "Customização de software embarcado de terceiros"
+      - "Teste de conformidade/certificação sem P&D"
+      - "Manutenção ou upgrade de equipamentos existentes"
+
+    tecnologias_relevantes:
+      - "Sistemas embarcados"
+      - "IoT/IIoT"
+      - "Processamento de sinais"
+      - "Eletrônica de potência"
+      - "Sensores e atuadores"
+      - "Comunicação sem fio"
+      - "Microcontroladores/FPGA"
+      - "Machine Learning embarcado"
+
+    barreiras_comuns:
+      - "Consumo energético vs. desempenho"
+      - "Miniaturização com dissipação térmica"
+      - "Precisão de medição em ambientes hostis"
+      - "Comunicação em tempo real com baixa latência"
+      - "Robustez eletromagnética (EMI/EMC)"
+
+# =============================================================================
+# FORMATO DE SAÍDA
+# =============================================================================
+output:
+  campos:
+    - score_geral: "float (0-10)"
+    - scores_pilares: "dict com score por pilar"
+    - frascati_atendidos: "list de critérios atendidos"
+    - decisao: "APROVADO | DILIGENCIA | REJEITADO"
+    - probabilidade_aprovacao: "float (0-100%)"
+    - parecer_resumido: "string (1 parágrafo)"
+    - parecer_detalhado: "string (análise por pilar)"
+    - pontos_fortes: "list"
+    - pontos_fracos: "list"
+    - sugestoes_melhoria: "list"
+    - similaridade_aprovados: "float (0-1)"
+    - similaridade_rejeitados: "float (0-1)"
