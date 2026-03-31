@@ -1,0 +1,32 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8209 - DIGICON S A CONTROLE ELETRONICO PARA MECANICA - ANO :2021
+ID_PROJETO: 63417 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: MetrôRio - SBE - Adequações para utilização de cartões Mifare Plus em modo SL3
+DESCRIÇÂO: O projeto aqui apresentado visa à inovação do Sistema de Bilhetagem Eletrônica (SBE) do Metrô Rio para utilização de cartões de tecnologia Mifare Plus, utilizando a camada máxima de segurança chamada SL3 e o desenvolvimento de novo PDV (Ponto de Venda) para as bilheterias do Metrô Rio. Este projeto proporciona uma vantagem para a empresa pelo fato de que o mercado concorrente não utiliza esta camada de segurança em suas soluções. Deste modo, após a finalização do projeto, o Sistema de Bilhetagem Eletrônica  para Metrôs desenvolvido pela Digicon se apresentará mais  seguro contra fraudes em cartões utilizados por usuários deste modal.
+PALAVRAS CHAVE: SL3; Mifare Plus; Segurança; Fraude; Ponto de Venda.
+ELEMENTO TECNOLÓGICO: O presente projeto apresente os seguintes elementos tecnologicamente inovadores: (i)  Adoção de nova tecnologia de segurança de informação no processamento dos cartões Mifare Plus utilizados pelos usuários do Metrô Rio para evitar a fraude de cartões de usuário. Para isto utilizou-se, além da camada SL1 utilizada no processamento atual dos cartões, a tecnologia de camada de segurança SL3 ao realizar operações de leitura ou escrita em cartões Mifare Plus, utilizando criptografia AES nestas operações; (ii)  Adoção de novo equipamento do Ponto de Venda do Metrô Rio com sistema Operacional Android e tela gráfica colorida touch Screen, possibilitando uma maior usabilidade ao operador do ponto de venda e à operadora do Metrô.
+DESAFIO TECNOLÓGICO: As principais barreiras ou desafios tecnológicos enfrentados neste projeto ocorreram em relação a evolução da tecnologia utilizada nos cartões smart card contactless de acesso às áreas pagas das estações com o Sistema de Bilhetagem Eletrônica (SBE) do Metrô Rio, de modo que se faz necessário que o sistema se torne mais robusto contra a clonagem de seus cartões. Também pode ser considerado um desafio técnico a evolução do equipamento utilizado nas bilheterias do Metrô Rio para processamento de cartões de tecnologia Mifare Plus com segurança SL3. A fim de solucionar os desafios identificados, foi necessário realizar a  alteração dos firmwares dos validadores VMT e DGSmart para processar Smart card contactless Mifare Plus SL3. Também foi necessária a alteração dos firmwares dos validadores VMT e dqSmart para implementar as funções do novo SAM de obter chaves AES para cartões Mifare Plus SL3, assinar os dados dos cartões do usuário após utilização de créditos e assinar o registro das transações e, por fim, também foi necessário desenvolver um aplicativo de Ponto de Venda em Android no POS Veloh Smart para realizar as operações de bilheteria com cartões de usuário do Metrô Rio, assim como  implementar novas funcionalidades de segurança nas aplicações do SAM.
+METODOLOGIA: A metodologia utilizado no decorrer do desenvolvimento do presente projeto ocorreu em diversas etapas.  Na primeira etapa, chama de etapa de gestão de projeto, foi utilizada a Metodologia ágil baseada em Scrum, a qual realiza o planejamento do projeto a cada duas semanas e as atividades devem ser refletidas no cronograma do projeto. Na etapa de desenvolvimento de Firmware, inicialmente, foi realizada a elaboração da modelagem do sistema, para posteriormente realizar a  codificação desta modelagem e,  por fim, executar os testes das funcionalidades, os quais ocorrem através  da criação de casos de teste e execução dos casos. Assim, a arquitetura consistiu na elaboração de casos de uso, assim como a codificação se constituiu no desenvolvimento em linguagem C para Linux embarcado e desenvolvimento em Java para Android.
+INFORMAÇÃO COMPLEMENTAR: Através do desenvolvimento do presente projeto, espera-se o incremento de faturamento, pois será disponibilizada aos clientes nova tecnologia de segurança para processamento de cartões Mifare, evitando que o sistema sofra alguma fraude em seus cartões. Com esse projeto, esperasse que os validadores estejam na vanguarda de tecnologia quanto aos meios de segurança contra fraude de cartões inteligentes sem contato, assim como a evolução tecnológica do equipamento utilizado no Ponto de Venda das estações. Informações adicionais inseridas em arquivo Anexo I.
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

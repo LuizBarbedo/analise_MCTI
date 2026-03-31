@@ -1,0 +1,99 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8890 - MULTILASER INDUSTRIA DE EQUIPAMENTOS DE INFORMATICA, ELETRONICOS E OPTICOS LTDA - ANO :2021
+ID_PROJETO: 66111 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: DESENVOLVIMENTO DO PROCESSO PRODUTIVO DE MOLDING PARA CIRCUITOS INTEGRADOS DE MEMÓRIA DDR4/DRAM 
+DESCRIÇÂO: A Multilaser é uma empresa brasileira que busca se desenvolver por meio de aplicações tecnológicas em seus processos e produtos, capacitando seus colaboradores para atuar com as ferramentas mais modernas de controle. Atualmente a empresa possui mais de 3.500 produtos ativos em seu portfólio, comercializados em mais de 40.000 pontos de venda distribuídos por todo o território nacional. Em constante crescimento a empresa conta com uma moderna estrutura fabril para manufatura, armazenagem e distribuição. Localizada na cidade de Extrema – MG, o complexo tem 45.000 m² de área construída, onde atuam aproximadamente 2.700 colaboradores.
+
+A Multilaser Componentes, conhecida também como Brasil Componentes, braço do grupo Multilaser, atua na área de componentes semicondutores, com foco em circuitos integrados de memórias para dispositivos eletrônicos, principalmente smartphones, tablets, computadores e pendrives. A planta fabril da empresa conta com ampla estrutura de salas limpas (Classe 6 e Classe 8), que atendem a parâmetros internacionais de controle - Certificação ISO 14644, conta ainda com um moderno laboratório para análise de falhas em tempo real e testes de confiabilidade.
+
+Para garantir o mais alto nível de qualidade contamos com um experiente corpo técnico de engenheiros asiáticos, fornecedores com os recursos mundiais mais avançados e um rigoroso e contínuo processo de controle de qualidade da cadeia produtiva, certificado pela ISO 9001:2015. Possuímos também certificações ISO 14001:2015 e Green Partner, mantendo o compromisso com legislações ambientais e preocupação socioambiental.
+
+Sendo a única empresa 100% nacional a atuar neste ramo, a organização necessita de constante investimento em Pesquisa e Desenvolvimento para inovar no mercado local, evoluir seus produtos, processos produtivos e sistemas de controle. Para isso a Multilaser conta com uma equipe capacitada, com competência técnica e conhecimentos profundo da indústria global de semicondutores.
+
+PALAVRAS CHAVE: Molding, semicondutores, ddr4, dram, wire swee
+ELEMENTO TECNOLÓGICO: Atualmente a Multilaser é a única empresa com capital 100% nacional a produzir circuitos integrados de memória no país, o que garante uma importante vantagem competitiva, considerando as exigências legais de conteúdo nacional mínimo na produção de eletrônico, alinhado à base cientifica, técnica e de mercado sólida. Esse domínio ocorreu graças ao plano da empresa de industrializar internamente os circuitos integrados de memórias utilizados na manufatura de equipamentos eletrônicos, além de outras estratégias comerciais. Apesar disso, a organização sabe que precisa desenvolver e implementar constantemente tecnologias inovadoras em seus produtos e processos para se manter competitiva.
+
+A demanda por circuitos integrados de memória permaneceu alta em 2021, com vendas ano a ano aumentando substancialmente, atingindo recordes históricos de vendas. As paralisações globais, a leitura equivocada da demanda por eletrônicos, a subestimação da demanda dos clientes por tecnologia de forma geral foram alguns dos principais problemas que causaram o caos no setor. De acordo com o último levantamento da Semiconductor Industry Association (SIA), responsável pelas políticas que ajudam a indústria a crescer e une empresas de semicondutores em torno de desafios comuns, as vendas globais aumentam 18% ano a ano. A demanda global por semicondutores permanece em alta, com vendas ano a ano aumentando fortemente em todos os principais mercados regionais e categorias de produtos.
+
+
+DESAFIO TECNOLÓGICO: Diante da demanda contínua e das limitações dos processos produtivos atuais da empresa na produção de circuitos integrados de memória, a inovação dos processos exigirá pesquisa, design e novas abordagens para alcançar um processo mais eficiente e totalmente adaptado às mudanças do mercado. Para manter um crescimento estável e estabilizar sua produção a empresa deve enfrentar vários desafios no desenvolvimento de soluções inovadoras no melhoramento dos processos.
+
+A transformação da economia global atrelada a um ambiente de fabricação em constante mudança tecnológica e a capacidade de introduzir produtos de qualidade no menor tempo possível é um fator decisivo para a empresa continuar competitiva no mercado. A crescente competitividade, velocidade de inovação e demanda mais rápida no setor produtivo de circuitos integrados trouxe novos desafios para o processo produtivo.
+
+Neste cenário econômico extremamente competitivo, o objetivo principal do projeto é desenvolver e implementar um processo produtivo de molding para circuitos integrados DDR4/DRAM eficiente, com baixo índice de falhas e maior produtividade.
+
+Uma das etapas críticas do processo é o de molding, também chamado de encapsulamento. O molding por transferência é usado para encapsular e proteger os conjuntos de CI (Circuitos integrados) frágeis com seus fios de interconexão muito finos e para manter alto isolamento elétrico entre condutor, interconexões, componentes e outras partes elétricas. Devido à alta precisão das ferramentas de molding por transferência e ao baixo tempo de ciclo do processo, a moldagem por transferência é usada no encapsulamento de semicondutores.
+
+Nesse contexto, através da inovação e desenvolvimento de novos processos produtivo e teste, este projeto busca pesquisar e desenvolver soluções para desenvolvimento do processo de molding, interferindo no desempenho e funcionamento ideal dos circuitos integrados de memória DDR4/DRAM. Espera-se aumentar a produtividade e qualidade dos circuitos integrados, reduzindo o número de falhas em processo produtivo e aumentar a confiabilidade de seus produtos.
+
+Para tanto é preciso superar desafios tecnológicos complexos a começar da pesquisa aplica aos materiais envolvidos no processo, que envolve mapeamento, coleta e organização dos dados de composição do material, volume, custo, fornecedores, disponibilidade nos mercados nacional e estrangeiro, metodologias de obtenção e certificação, grau de importância e aceitação frente ao cliente, todos esses indispensáveis para se desenvolver um processo eficiente.
+
+O processo de molding necessitava de atenção quanto a otimização de seus parâmetros e materiais, pois cada vez mais é preciso reduzir o diâmetro dos fios que realizam a interconexão de die com o substrato. Assim, o wire sweep, que é o arraste de fio de solda devido ao escoamento do encapsulante, se tornou um problema, com sucateamento constante de componentes. As taxas de falhas de wire sweep chegaram a alcançar 3%, enquanto estudos de grandes empresas globais representavam média de 0,5%.
+
+METODOLOGIA: Nesse contexto, através da inovação e desenvolvimento de novos processos produtivo e teste, este projeto busca pesquisar e desenvolver soluções para desenvolvimento do processo de molding, interferindo no desempenho e funcionamento ideal dos circuitos integrados de memória DDR4/DRAM. Espera-se aumentar a produtividade e qualidade dos circuitos integrados, reduzindo o número de falhas em processo produtivo e aumentar a confiabilidade de seus produtos.
+
+A equipe analisou que o número de prensas do equipamento atual torna o processo ineficiente, o sistema atual tem apenas 1 molde de prensa, isso prejudica muito a capacidade produtiva pois em caso de qualquer parada devido a falha ou manutenção todo o processo precisava parar. A necessidade de parada para manutenção ou conversão é constante na operação da empresa, trazendo, portanto, um grande impacto.
+
+A demanda de produção de circuitos integrados de memória DDR4/DRAM é acima da capacidade produtiva atual da empresa, apesar do equipamento do processo atual ter alta capacidade a falta de flexibilidade no controle de prensas causa um gargalo no processo de molding e afeta diretamente nos níveis de produção.
+
+O sistema de identificação visual do processo atual de molding é inadequado para circuitos integrados de memória DDR4/DRAM, devido aos novos substratos que este produto utiliza o sistema de manuseio de produto através de identificação visual com câmeras possui dificuldades no reconhecimento o que torna o processo vagaroso.
+
+Foi identificado um índice de falhas de 0,7% no selamento a vácuo da etapa de molding, causando bolhas, trincas ou deformação na superfície. O problema é devido à falta de recursos e configurações do processo de molding atual, o controle da pressão de transferência possui parâmetros de configuração limitados, diminuindo a eficiência produtiva.
+
+Outro problema encontrado pela equipe é a interface do equipamento possui difícil usabilidade com poucos recursos, tornando a operação complicada.
+
+A Multilaser decidiu realizar investimentos no ano-base de 2021 e desenvolver um processo produtivo de molding otimizado, para a produção e testes de circuitos integrados, que trará novos investimentos na ampliação e na modernização de equipamentos laboratoriais e ainda implementando processos inovadores na produção de circuitos integrados de memória, permitindo o aumento de eficiência produtiva e melhorando a competitividade no mercado nacional.
+
+Este projeto demandará pesquisa de materiais, fornecedores, normas do segmento, técnicas de qualidade, procedimentos produtivos e testes, para a partir de então desenvolver um novo processo de molding eficiente e testes que permitam alcançar níveis de qualidade exigidos pelo mercado, melhorando significativamente a produtividade e qualidade dos produtos.
+
+INFORMAÇÃO COMPLEMENTAR: Para garantir a entrega de produtos de qualidade alinhado ao dinamismo do mercado, com celeridade, foram realizados estudos para gerar conhecimento, aplicação prática e dirigida a solução de problemas, combinando diversos princípios de excelência, como inteligência de processos, automação e controle de qualidade que permitiram desenvolver soluções capazes de responder aos novos desafios de mercado.
+
+As principais atividades executadas durante esta fase foram:
+a)	Realização da reunião de alinhamento das expectativas do projeto,
+b)	Realização de estudos e pesquisas bibliográficas para identificação de conceitos técnicos do processo de molding,
+c)	Identificação das normas, recomendações técnicas, folhas de dados de componentes e produtos aplicáveis ao projeto,
+d)	Análise e preparação da infraestrutura laboratorial e de ambiente de pesquisa e desenvolvimento,
+e)	Desenvolvimento e implementação do novo processo de molding,
+f)	Gestão financeira, da qualidade, dos riscos, das partes interessadas, do escopo e do cronograma do projeto,
+g)	Documentação técnica das atividades.
+
+APENSO
+
+Atividade 1: Estudos, planejamento e preparação
+Período: 04/01/2021 a 26/02/2021
+Foi elaborado cronograma de atividades, orçamento e definida a equipe de projeto.
+
+Atividade 2: Desenvolvimento do processo de molding
+Período: 01/03/2021 a 31/08/2021
+Foram realizadas pesquisas no processo produtivo de circuitos integrados, utilizando técnicas avançadas para coletar informações para desenvolvimento do processo produtivo de molding mais eficiente e preciso. Realizou-se também estudos sobre etapas de testes, utilizando pesquisas, ensaios e métodos estatísticos aplicados à melhoria da qualidade. Concluídas essas análises, foram realizadas as atividades de desenvolvimento, em conjunto foram realizadas as validações dos produtos, e analisados os impactos da utilização do novo processo
+
+Atividade 3: Implementação e testes
+Período: 01/09/2021 a 12/11/2021
+Essa etapa garante que todos os equipamentos, processos e recursos humanos executem a primeira produção. Esta etapa consiste em implementar todos os procedimentos/testes junto da equipe de produção com o auxílio dos recursos de desenvolvimento para validar todo o processo. Através da implementação de um lote piloto que tem também como foco o treinamento, controle e aprovação dos procedimentos.
+
+Atividade 4: Documentação e conclusão do Projeto
+Período: 16/11/2021 a 31/12/2021
+Reunião de encerramento, com entrega e validação dos artefatos do projeto. Foi desenvolvida a documentação final do projeto e ajuste finos do novo processo de molding. Homologação do processo completo com validação de procedimentos, equipamentos, seguranças e atendimento as normas.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de ensino superior e pesquisa, assim como a colaboração com pesquisadores com mestrado e doutorado.&nbsp;</p><p>A empresa não descreveu a relação entre cada integrante dos RH declarados e a Linha de Pesquisa</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: 
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: 
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

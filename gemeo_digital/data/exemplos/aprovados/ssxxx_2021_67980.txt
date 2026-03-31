@@ -1,0 +1,32 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9363 - NIDEC MOBILIDADE BRASIL INDUSTRIA DE AUTOPECAS LTDA. - ANO :2021
+ID_PROJETO: 67980 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: RMCD 5980
+DESCRIÇÂO: Desenvolveu-se um interruptor por sinal com a função de controlar a intensidade do ar condicionado para os ocupantes do banco traseiro do veículo - com a utilização de uma única placa eletrônica, evitando quantidade significativa de resíduos gerados, sem sobrecarregar o sistema. A peça remete a um sinal eletrônico – que envia um sinal para a central que o repassa para o motor da caixa de ar. O dispositivo contém iluminação led com acendimento gradual conforme o nível de velocidade. Para a superação dos problemas de iluminação e com o sinal eletrônico, foi necessário desenvolver labirintos internos para evitar fuga de luz entre os ideogramas de velocidade, elaborar cálculos de resistores para validação dos comandos e realizar testes com resistores e coloração de led.
+PALAVRAS CHAVE: 
+ELEMENTO TECNOLÓGICO: Trata-se do desenvolvimento de um controlador da intensidade do ar condicionado para os ocupantes do banco traseiro do veículo. O novo produto será aplicado no veículo da Stellantis Jeep Comander, localizando-se no console central voltado frontalmente para os ocupantes do banco traseiro. Essa peça tem um conceito de sinal eletrônico, pois manda um sinal para uma central que repassa para o motor da caixa de ar. Ademais, dispõe de um sistema de iluminação por Led que tem seu acendimento gradativo conforme o nível de velocidade acionado. Para a elaboração do produto, houve o desenvolvimento de labirintos internos para evitar fuga de luz entre os ideogramas de velocidade. Por ser um interruptor comutador de sinal, é o primeiro interruptor que a Nidec desenvolve sem a utilização de terminais de cobre para o contato e lâmpadas incandescentes para iluminação, utilizando uma única placa eletrônica tanto para sinal como alta corrente, evitando, dessa forma, quantidade significativa de resíduos gerados. Anteriormente, a empresa utilizava-se de comutadores de potência. O RMCD 5980 consiste em um produto inovador por ser um interruptor por sinal, com uma placa PCB que utiliza um PWM para determinar as funções de identificação da velocidade. Assim, o produto envia um sinal para a central, que ativa as funções no veículo sem sobrecarregar o sistema.
+DESAFIO TECNOLÓGICO: Durante o desenvolvimento do RMCD 5980, os níveis de PWM (Modulação por Largura de Pulso) não estavam compatíveis com as especificações do projeto, o que implica dizer que o sinal enviado não era o mesmo sinal recebido. Outra adversidade constatada foi a restrição das coordenadas cromáticas da iluminação especificadas pelo cliente, o que acarretou dificuldades de encontrar a especificação do led para atendimento ao projeto. Com o objetivo de superar os problemas verificados, realizaram-se cálculos de resistores para as entradas para o CI de comando, além da troca de resistor para a iluminação com o uso de diversos Bins (coloração) de leds para realização de teste.
+METODOLOGIA: Almejando a validação do novo produto, foi realizado teste de EMC (Compatibilidade Eletromagnética) para legitimação da construção da placa eletrônica pela Nidec, conforme requisitos de cliente, que envia as normas e procedimentos que devem ser seguidos e os resultados esperados. Os testes de EMC validam tudo o que foi detectado como obstáculo, ou seja, os resultados desses testes indicam o quanto o produto está apto para ser utilizado, pois atestam que os processos de fabricação e montagem são robustos e eficazes, que os materiais utilizados suportam os parâmetros exigidos e que as modificações realizadas foram eficazes. Ademais, houve a utilização de outros testes para a legitimação do controlador: teste de durabilidade; teste climático; teste de eficiência elétrica; teste de vibração; teste de iluminação. Observou-se, ainda, produção de amostras, desenvolvimento de protótipos, análise de medição de iluminação e avaliação das condições de funcionamento do novo produto.  
+INFORMAÇÃO COMPLEMENTAR: O desenvolvimento do novo produto reduziu a quantidade de ferramentas fabricadas para sua viabilização e diminuiu a utilização de cobre no projeto.
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: 
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: 
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

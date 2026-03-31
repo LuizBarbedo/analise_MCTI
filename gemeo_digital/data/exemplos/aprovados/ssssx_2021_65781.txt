@@ -1,0 +1,74 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8791 - SERRA DA MESA TRANSMISSORA DE ENERGIA S. A. - ANO :2021
+ID_PROJETO: 65781 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento de um Sistema de Monitoramento de Transientes em transformadores de Corrente
+DESCRIÇÂO: Estudos recentes têm procurado avaliar o número crescente de falhas de transformadores de corrente (TC) relacionadas à sua natureza, como a interação desse equipamento com o sistema de potência ao longo de sua vida útil e possíveis medidas mitigadoras dessas falhas. Nos últimos anos houve uma evolução significativa em instrumentação, hardware e software dedicados à avaliação da condição operacional desses equipamentos, por meio de novas técnicas de monitoramento e diagnóstico, permitindo a utilização de ferramentas diagnósticas não invasivas.
+Entretanto, observou-se que algumas famílias específicas de TCs apresentam altos índices de falha que ocorrem repentinamente, dificultando a identificação das possíveis causas. Em resposta a este problema, a proposta deste projeto de P&D objetiva o desenvolvimento e integração de metodologias de diagnóstico e técnicas de monitoramento capazes de identificar e avaliar o efeito cumulativo da interação do sistema elétrico com os TCs, notadamente no seu sistema de isolamento. Portanto, busca-se desenvolver e aplicar um sistema de monitoramento de transitórios em conjunto com o monitoramento de descargas parciais em Transformadores de Corrente em subestações, sendo que para isso medições laboratoriais em relação ao sistema de medição de transitórios foram realizadas com apoio do Laboratório de Alta Tensão do CEPEL.
+A Serra da Mesa Transmissora de Energia participa de forma conjunta do desenvolvimento deste projeto com outras empresas do Grupo SGBH. Com isso, no ano de 2021 ela colaborou para o desenvolvimento de técnica para medição, referente a metodologia, executando atividades, como:
+• Instalação de protótipos para monitoramento transitório contínuo.
+• Característica do sistema de monitoramento de transitórios.
+• Monitoramento periódico do sistema de isolamento com DGA e DP.
+
+PALAVRAS CHAVE: Sistema de isolamento,  corrente de fuga para transformadores,  impedância do TC,  simulações computacionais,  transitórios rápidos de corrente,
+
+ELEMENTO TECNOLÓGICO: O presente projeto busca adquirir novos conhecimentos, com vistas ao desenvolvimento de processos e sistemas, onde a proposta é desenvolver um sistema com base na corrente de fuga para transformadores de instrumentos de monitoramento (TI), com a finalidade de identificar eventuais fragilidades geradas por eventos elétricos e térmicos sobre o equipamento evitando possíveis falhas catastróficas. Isto inclui desenvolver, aplicar e validar um sistema de monitoramento, testes de site e laboratório, bem como o desenvolvimento de software e perfis para identificar falhas e simulações dos locais mais sensíveis para aplicação dos dispositivos de monitoramento.
+Como elemento de novidade, as informações de resposta em frequência e impedância do TC permitirão o aprimoramento das simulações computacionais e, juntamente com as informações sobre a taxa de ocorrência dos transientes, serão utilizadas para avaliar a criticidade das solicitações e, assim, identificar e indicar a instalação de sistemas de monitoramento nos pontos mais críticos.
+Especificamente no ano-base de 2021, a Serra da Mesa Transmissora de Energia realizou o desenvolvimento da instalação do sistema de monitoramento do projeto, através da realização de manobras de seccionadores sob demanda.  Adquiriu conhecimento para desenvolver as configurações gerais do sistema e as plataformas, programação LabView, estação de trabalho e interface em laptop, aquisição por demanda durante às manobras com nível de trigger ajustado com alta taxa de amostragem permitindo obter sinais com espectro de frequência de até aproximadamente 10 mhz, compactação dos dados minimizando o uso de memória e tratamento dos dados em matlab.
+Considerando que a transferência de tecnologia é uma premissa para que as inovações propostas tenham êxito, o trabalho possui uma característica singular que une desenvolvimentos experimentais e práticos pois, se propõe a desenvolver sensores para a medição dos sinais transitórios de corrente, onde se realizou atividades laboratoriais que permitiram mapear todas as possíveis dificuldades encontradas em campo e as devidas incursões para a aplicação direta de todo o seu desenvolvimento em favor do monitoramento dos TCs através dos diversos elementos testados em laboratório e avaliados através de resultados experimentais e de simulação.
+
+DESAFIO TECNOLÓGICO: Ainda há diversas incertezas sobre as pesquisas, principalmente em relação aos estudos sobre os melhores materiais a serem utilizados para construção do protótipo de medição de transientes, pois os materiais precisam atender a diversas características a fim de garantir o funcionamento correto do equipamento em campo durante a corrente de fuga para transformadores de instrumentos de monitoramento, as informações de resposta em frequência e impedância serão essenciais para a escolha destes materiais.
+Os sistemas de medição e monitoramento de transitórios na etapa inicial do projeto foi estabelecida mediante a experiência e expertise iniciais do CEPEL em relação à sistemas de medição e monitoramento de transitórios já aplicados em subestações de transmissão no setor elétrico nacional.
+Porém conforme foi realizado os testes e análises, foi observado complexidade na cadeia de medição, pois tratava-se de monitoramentos através do tap das buchas de transformadores de potência. Entretanto, para solucionar o desafio, o sistema de aquisição e o software foram propostos de serem adaptados para o projeto, além de considerar todo o aspecto novo por se tratar de transformadores de corrente.
+Desta forma O CEPEL e a Serra da Mesa Transmissora de Energia propuseram no desenvolvimento da pesquisa a avaliação de três elementos sensores para o sistema de monitoramento de transitórios de tensão, sendo O HFCT (High Frequency Current Transformer), já utilizado nos sistemas de medição de
+sinais em alta frequência, Um shunt de baixa impedância e de alto desempenho dinâmico e térmico, Um TC com núcleo de ar em conjunto com um shunt de baixa indutância. Além disso, após a pesquisa e realização de testes para o desenvolvimento dos sensores, foi utilizado o conhecimento e a experiência do IMA – DP no monitoramento de descargas parciais em outros ativos, como geradores e transformadores de potência ao longo do projeto, sendo propostos outros testes com outros elementos e sensores para que fosse possível unir ambos os sistemas de monitoramento (monitoramento de transitórios e de DPs) e torná-los aplicáveis a transformadores de corrente.
+METODOLOGIA: O desenvolvimento do presente projeto iniciou-se com estudos e pesquisas bibliográficas,  em seguida, estudou-se a viabilidade de aplicação técnica com elaboração do escopo e análise de riscos e objetivos.
+Etapa 1: Desenvolvimento de técnica para medição e monitoramento online de tensões transientes:
+1.1. Definição do sistema de medição e monitoramento dos transientes rápidos de corrente que passam pela conexão de aterramento dos TCs para obtenção de sinais de tensões transitórias,  (2019)
+1.2. Desenvolvimento de software de monitoramento que permite medir, reconhecer e armazenar eventos transitórios nos TCs instalados em uma subestação e acessá-los remotamente,  (2020)
+1.3. Desenvolvimento e montagem de um protótipo para monitoramento de transientes,  (2020)
+1.4. Identificação dos limites do sistema de medição por meio de avaliações laboratoriais para: Caracterização no domínio da frequência do sistema de medição,  Avaliação do fator de escala do sistema de medição,  Avaliação dinâmica do sistema de medição,  Comparação do sistema de medição com transdutores de tensão padrão em laboratório,  (2020/2021)
+1.5. Validação do protótipo do sistema de monitoramento em campo na subestação de 500 kV. (2020/2021)
+Etapa 2: Interação transitória de alta frequência entre os transformadores de corrente e o sistema elétrico de potência:
+2.1. Investigação e avaliação das características das subestações que apresentaram, ou não, falhas nos TCs,  (2019)
+2.2. Simulações de manobras de sequenciamento com modelos de TC simplificados,  (2020)
+2.3. Medições e testes para caracterização de TCs permitindo uma avaliação de modelos para simulação, (2020)
+2.4. Definição de modelos para simulação e comparação com medidas transitórias,  (2020/2021)
+2.5. Definição do procedimento de modelagem e análise das sobretensões e verificação com as medições transitórias efetuadas. (2021)
+Etapa 3: Instalação de ramal real com CT e seccionadora de 500kV:
+3.1. Solicitação de alterações ao fabricante de CTs para fornecer montagens mais eficazes,  (2019)
+3.2. Aquisição de equipamentos de alta tensão para montagem da estação de teste,  (2019)
+3.3. Instalação de protótipos para monitoramento transitório contínuo,  (2020)
+3.4. Registro de dados transitórios experimentais,  (2020)
+3.5. Monitoramento periódico do sistema de isolamento com DGA e DP. (2020/2021)
+Etapa 4: Desenvolvimento do sistema de medição de PD:
+4.1. Implementação de um sistema otimizado para medição de PD,  (2019/2020)
+4.2. Montagem do protótipo PD para realização de testes de bancada,  (2019/2020)
+4.3. Validações do protótipo em laboratório e na subestação, envolvendo avaliação da interferência eletromagnética causada por ruído externo,  (2020)
+4.4. Definição de critérios para avaliar as condições do equipamento que indica o grau de deterioração do equipamento em avaliação a partir dos dados obtidos pelos métodos de DGA e PD. (2021)
+Durante o ano de 2021, a Serra da Mesa Transmissora de Energia realizou atividades relacionadas a etapa 3 da metodologia exposta acima, contribuindo com definições para posterior desenvolvimento de software para monitoramento que permite analisar os critérios obtidos a partir dos métodos de DGA e PD.
+
+INFORMAÇÃO COMPLEMENTAR: O projeto trata do desenvolvimento de um sistema de monitoramento de transitórios em Transformadores de Corrente e apresentou várias fases e etapas técnicas. Desta forma, no ano-base de 2021 as etapas do projeto desenvolvidas pela Serra da Mesa Transmissora de Energia foram da etapa 3 “O monitoramento periódico do sistema de isolamento com DGA e DP”. O Sistema de aquisição e monitoramento dos sinais de DP instalado na sala de comando da SE Cuiabá ocorreu de duas formas: Medição no domínio do tempo nas três fases simultaneamente. A cada minutos o sistema era capaz de registrar 10 pulsos quando estes ultrapassavam um limiar preestabelecido pelo usuário,  Medição na forma de onde completa dos sinais nas três fases simultaneamente. A cada 60 minutos o sistema era capaz de registrar a forma de onda dos sinais durante 120 ciclos na frequência de 60Hz.
+Dessa forma, obteve-se a seguinte contagem de registros: Sinais no domínio do Domínio do Tempo: 3850 sinais e Medições com a Forma de Onda Completa: 81 sinais.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

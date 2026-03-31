@@ -1,0 +1,74 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8144 - ITUMBIARA TRANSMISSORA DE ENERGIA S/A - ANO :2021
+ID_PROJETO: 63147 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento e inserção de um Sistema de transmissão de Ultra Alta Tensão no Brasil
+DESCRIÇÂO:
+Como continuação dos estudos realizados anteriormente referente a viabilidade da inserção de um sistema de Tensão de Transmissão em Ultra Alta Tensão (UHVAC) no Sistema Elétrico Brasileiro para exportar o excedente da geração de energia renovável (fotovoltaica e eólica) pela Eletrobras Eletronorte e State Grid, o presente projeto considerará os estudos das suposições iniciais em relação à quantidade de energia a ser transmitida e o projeto de compensação reativa do planejamento em desenvolvimento pela Empresa de Pesquisa Energética (EPE) e uma nova alternativa de linha 1000 kV AC será desenvolvida com base em testes laboratoriais de UHV mais otimizados, visando oferecer uma configuração customizada que atenderá não só economicamente às demandas do planejamento da EPE, mas também do Setor Elétrico Brasileiro. Para atingir essa meta, serão realizados testes de laboratório de isolamento de UHV e estudos relacionados a campos elétricos. Além disso, estão previstos estudos do sistema de potência para seleção do shunt e compensação em série visando uma otimização geral do sistema. A especificação do equipamento 100O kV e seus principais componentes serão verificados e analisados de acordo com a prática internacional IEC e com a considerável experiência chinesa neste nível de tensão.
+Nesse contexto, as hidrelétricas de maior potencial de geração, como Belo Monte e o Complexo do Rio Madeira (Santo Antônio e Jirau), localizam-se na Região Norte, enquanto os maiores centros de consumo do país estão no Sudeste e no Sul. Isso vale para as energias eólica e solar, cujos maiores potenciais encontram-se no Nordeste. Com o desenvolvimento do projeto, as linhas em UAT permitirão maximizar o aproveitamento de todos esses recursos energéticos naturais para obter energia. Desse modo, atenderão ao Plano Nacional de Expansão (PNE), e usufruirão das sazonalidades existentes no país. O desenvolvimento dessa tecnologia no Brasil tem grande viabilidade devido às distâncias entre a geração e os centros de consumo, assim como a necessidade de potencialização das linhas de transmissão existentes reduzindo os custos de construção de novos empreendimentos.
+A Itumbiara Transmissora de Energia participou de forma conjunta do desenvolvimento deste projeto com outras empresas do Grupo SGBH, colaborando durante o ano-base de 2021 no desenvolvimento técnico da metodologia e executando atividades, como:
+• Avaliação dos estudos de planejamento em desenvolvimento pela Empresa de Pesquisa Energética, levando em consideração a geração máxima prevista para a região NE, de forma a permitir a definição da capacidade do sistema UHVAC a ser otimizado.
+• Avaliações preliminares dos equipamentos para a base deste projeto, que serão feitas usando os softwares de simulação Anarede, Anatem e Anafas, para a realização dos cálculos elétricos correspondentes, como fluxo de potência, estabilidade, corrente de curto-circuito etc. Esta atividade inclui reuniões com a EPE, para definição dos valores nominais básicos da frequência fundamental do sistema de transmissão UHVAC.
+
+PALAVRAS CHAVE: Ultra Alta Tensão em Corrente Alternada (UATCA),  1000kv AC,  Transmissão de Energia.
+
+ELEMENTO TECNOLÓGICO:
+Um dos elementos de novidade desta linha de pesquisa refere-se ao ganho de conhecimentos técnicos gerados através dos estudos e detalhamentos tecnológicos realizados da modalidade de transmissão de 1.000 kV em corrente alternada (UAT CA), para que seja considerada como alternativa segura, confiável e econômica, tanto para a transmissão em longa distância como para um eixo de transmissão de alta capacidade para transferência de energia entre regiões do Brasil.
+A tecnologia de UAT CA em âmbito mundial somente é utilizada na China, Japão e, em bases laboratoriais na Índia. Dessa forma, o projeto torna a inserção desta tecnologia no Brasil uma iniciativa pioneira que permitirá oferecer à Empresa de Pesquisa Energética (EPE), uma nova alternativa para a expansão do sistema interligado no setor energético e aquisição de novos conhecimentos para a equipe técnica de pesquisa e desenvolvimento.
+É importante ressaltar que o projeto inclui testes de protótipos de linha de UHVAC (1000 kV) no Brasil (CEPEL) sendo uma atividade pioneira de execução de tais testes no hemisfério sul. Embora o projeto esteja focado na transmissão dos excedentes de energia no nordeste do Brasil, os resultados permitirão a sua plena utilização no Planejamento Estratégico em termos de futuras aplicações no Sistema Interligado Nacional.
+A modalidade de transmissão de 1.000 kV corrente alternada poderá ser aplicada no Sistema Interligado Nacional tanto para a transmissão em longas distâncias, como atuando como um tronco central de transmissão para a coleta e transporte de grandes excedentes de energia entre regiões do Brasil. Além de trazer grandes avanços tecnológicos a Itumbiara Transmissora de Energia, pois viabilizam o progresso das atividades voltados aos sistemas de transmissão em ultra alta tensão do projeto e resultará em valioso ganho de conhecimento técnico para a equipe de pesquisa e desenvolvimento, que irá auxiliar no desenvolvimento de novas soluções para a proposta.
+O principal elemento de novidade no ano base 2021 foi o ganho de conhecimento técnico com relação as análises de contingência durante os testes realizados com a LT de 1000 kV composta por 3 trechos de 520, 410 e 480 km de extensão, passando pelas subestações Milagres-Ourolândia-Igaporã- Pirapora, de modo a identificar e propor soluções para os problemas relacionado as tensões no final e no meio da linha em caso de rejeição de carga evento (abra uma extremidade da linha).
+Com base, na experiencia obtida através das simulações, serão analisadas a sobretensão de operação, para linhas de transmissão UHV ponto a ponto, o barramento tensão em ambos os lados em 1100kV, e o comprimento limitado da falta à terra monofásica sobretensão serão analisados. Para esse propósito, as condições de limite de um conjunto de MOA e a compensação de alta impedância serão utilizados ??em ambas as extremidades da linha, com um grau de compensação da linha de 80%.
+Para a amplitude máxima de sobretensão de operação de aterramento monofásico pode ser obtida quando a linha UHV muda de 100-600km do ponto de vista da sobretensão operacional, porém o comprimento da linha deve ser inferior a 500 km. Semelhante a isso, várias outras formas de sobretensão limitarão o comprimento da linha, serão analisadas em detalhes de acordo com as condições e parâmetros reais do sistema.
+
+DESAFIO TECNOLÓGICO:
+Durante as atividades realizadas, o desafio técnico encontrado no projeto decorre da falta de conhecimento sobre tecnologias da modalidade de transmissão de 1.000 kV em corrente alternada (UAT CA) no Brasil. De modo a sanar esses desafios, a Itumbiara Transmissão de Energia empenhou-se em estudos sobre as particularidades envolvidas com o tema UAT CA através de pesquisas na literatura internacional, de forma a intercambiar contribuições do cenário brasileiro e conhecer a experiência de outros países. Assim elevar maior capacitação da equipe para estudos e projetos além dos ganhos acadêmicos.
+Outro desafio está atrelado a realização das análises de contingência durante o caso base adotado, com relação a propor soluções para os problemas relacionado as tensões no final e no meio da linha, em caso de rejeição de carga evento e abrir uma extremidade da linha, formas de onda de corrente da primeira descarga e da descarga subsequente e incidência a meio do vão.
+A fim da equipe superar os desafios relacionados a contingência de perda do 3º trecho da LT 1000 kV (Igaporã-Pirapora), a vazão na Transformador de Igaporã sobe para aproximadamente 2.500 MW, o que exigiria 3.000 MW transformador. Umas soluções alternativas encontrada pela equipe técnica seria duplicar esta seção de LT, mantendo este transformador em torno de 1000 MW. O que seria mais econômico, mudando a transformação em Igapora de 1.000 para 3.000 MW, ou dobrando o trecho da LT de 1.000 kV em Igapora-Pirapora.
+
+METODOLOGIA:
+A metodologia adotada neste projeto consistirá nas seguintes oito etapas principais:
+1. Definição dos parâmetros do circuito principal na frequência fundamental- (2021)
+Avaliação dos estudos de planejamento em desenvolvimento pela Empresa de Pesquisa Energética, levando em consideração a geração máxima prevista para a região NE, de forma a permitir a definição da capacidade do sistema UHVAC a ser otimizado.
+2. Avaliação de esquemas de compensação reativa e valores nominais – (2022)
+Avaliação dos benefícios técnicos e econômicos utilizando métodos de compensação em série e shunt, comparando economicamente as diversas alternativas e as novas tecnologias com o objetivo de avaliar sua aplicabilidade na rede UHVAC em estudo. A análise considerará compensação série fixa, compensação série controlável, STATCOM ou SVC, através do cálculo elétrico correspondente e comparação econômica, propondo configurações a serem recomendadas.
+3. Testes em Laboratórios de UHV em escala real e estudos teóricos para definir as características da linha de transmissão, incluindo campos elétricos e critérios de RoW – (2021)
+Realização de testes em UHV em escala real em laboratórios de UHV e pesquisas teóricas para determinar a configuração da torre e os parâmetros elétricos da linha de transmissão, incluindo RoW (recursos humanos e instalações do CEPEL).
+4. Definição das características dos equipamentos de 1.000 kV usados nas subestações – (2022)
+Investigação das condições ambientais nas localizações das possíveis subestações. Determinar os tipos de equipamentos elétricos principais usados em subestações e determinar as faixas dos valores nominais dos principais equipamentos e parâmetros, incluindo estudos de coordenação de isolamento. Investigação da capacidade de fabricação nacional e internacional de equipamentos elétricos UHV.
+5. Confiabilidade e Ciclo de Vida das GIS, AIS e Subestações Híbridas (HGIS) – (2022/2023)
+Analisar e comparar diferentes conexões elétricas principais da subestação 1000 / 500kV. Analisar e comparar diferentes arranjos de conexão de GIS, AIS e HGIS de acordo com as condições socioambientais locais, requisitos de operação e manutenção. Estudo de confiabilidade e ciclo de vida de subestação 1000 / 500kV com GIS, AIS e HGIS. Analisar a melhor conexão do transformador monofásico standby ou reator shunt.
+6. Avaliação de transitórios muito rápidos (VFTO). (2022/2023)
+Avaliação do nível estimado de VFTO e analisar seu efeito sobre os equipamentos de acordo com procedimentos de coordenação de isolamento, usando uma aproximação mais próxima do layout da subestação proposta.
+7. Adaptar aos padrões de condições brasileiras usados em projetos UHVAC (2022/2023)
+Investigação das normas, procedimentos e especificações técnicas utilizadas em projetos de UATCA em todo o mundo para a concepção e construção de linhas de transmissão. Selecionar e propor melhorias em normas, procedimentos e especificações técnicas de forma a se adequarem às condições brasileiras e à exigência do sistema de elétrico brasileiro. Conforme apropriado, traduzir ou publicar os documentos em inglês, incluindo a adaptação dos padrões chineses para o Brasil
+8. Transferência de tecnologia e publicações acadêmicas (2022/2023)
+Os resultados da pesquisa serão publicados mediante publicação de livro, relatórios, artigos técnicos, dissertações de doutorado ou dissertações de mestrado e outros trabalhos acadêmicos. A transferência de tecnologia será promovida com a realização de seminários e com visitas às instalações do UHVAC existentes.
+
+INFORMAÇÃO COMPLEMENTAR:
+No ano-base de 2021, a Itumbiara Transmissão de Energia conduziu a realização das análises do estado estacionário do caso base adotado, com a LT de 1000 kV composta por 3 trechos de 520, 410 e 480 km de extensão, passando pelas subestações Milagres-Ourolândia-Igaporã- Pirapora, avaliou-se as tensões no final e no meio da linha, em caso de rejeição de carga evento (abra uma extremidade da linha).
+Para a realização das análises de contingência, utilizou-se o programa Anarede, considerou se as emergências mais relevantes ao redor a LT de 1000 kV, com a mesma base original. Através das simulações preliminares de EMT (usando ATP) da linha autônoma de 1000 kV, a equipe de pesquisa obteve capacidade para avaliar os resultados em relação aos trechos de linhas longas de 1000 kV, com 520 km.
+Para a base adotada utilizou-se trechos longos incomuns de 1000 kV linhas e algumas simulações preliminares de EMT na seção de 520 km que mostraram o risco previsto realizado situações (excedendo a energia dos para-raios de ZnO). Desse modo, a ITE decidiu-se explorar outras possibilidades para a rota da LT 1000 kV. Alternativas da LT 1000 kV serão testadas e simuladas com Anarede.
+Próximos passo para o ano base 2022: Realização da simulação de contingências para verificar o desempenho do sistema de algumas alternativas e reavaliação da localização das novas subestações 500/1000 kV, dependendo da simulação dos resultados de trechos longos da linha de 1000 kV (por exemplo, para 520 km).
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

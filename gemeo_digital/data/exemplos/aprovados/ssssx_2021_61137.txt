@@ -1,0 +1,57 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7616 - ELEKTRO REDES S.A. - ANO :2021
+ID_PROJETO: 61137 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Módulo de Medição - Desenvolvimento de Tecnologia Nacional para Redes Elétricas Inteligentes
+DESCRIÇÂO: Modulo de medição abrange o desenvolvimento de metodologia e laboratórios para a validação de protocolo de medição e comunicação, garantindo interoperabilidade para todas as camadas do modelo OSI. Na camada de aplicação, será desenvolvido o padrão brasileiro do protocolo DLMS. Nas camadas mais baixas, propõe-se o uso dos protocolos PRIME e WI-SUN.
+PALAVRAS CHAVE: Medição Inteligente; Rede Elétrica; Sistema de comunicação;
+ELEMENTO TECNOLÓGICO: A inovação do produto principal deste projeto caracteriza-se pelo desenvolvimento e testes de padrões de hardware e software embarcado para comunicação interoperável, voltados para aplicações de medição inteligente. Complementarmente, haverá o desenvolvimento de laboratórios de referência para os protocolos de rádio e comunicação pela rede elétrica que serão disponibilizados para certificação de interoperabilidade para as soluções de comunicação disponíveis no mercado.
+DESAFIO TECNOLÓGICO: Atualmente, o mercado de comunicação para REI (Rede Elétrica Inteligente) carece de definições para a interoperabilidade entre os dispositivos em campo. Este problema torna-se maior quando da implantação massiva de sistemas inteligentes na distribuição, que acaba por direcionar para soluções proprietárias. A interoperabilidade é vital quando se leva em conta questões de competitividade e liberdade de escolha das distribuidoras. Visando atacar esse problema, existem iniciativas internacionais que buscam a interoperabilidade para diferentes meios de comunicação. Entre estas destacam-se os protocolos WI-SUN para rádios e PRIME para PLC. Além dos protocolos citados, ressalta-se, também, o protocolo DLMS para camada de aplicação entre medidores de energia. Atualmente, alguns destes protocolos encontram-se em fase de validação.
+METODOLOGIA: A seguir as principais etapas realizadas durante a execução do projeto:
+
+1-BENCHMARK DOS SISTEMAS DE COMUNICAÇÃO DLMS/COSEM, PLC PRIME E WI-SUN E SEU ESTÁGIO ATUAL DE INTEROPERABILIDADE NO MUNDO
+
+2-TRADUÇÃO E DEFINIÇÃO DA VERSÃO BRASILEIRA DO PROTOCOLO DLMS/COSEM
+
+3-ETAPA ANÁLISE CRÍTICA DO INS E NORMAS PARA SMART METERS DA NEOENERGIA E PROPOSIÇÃO DE MELHORAMENTOS E COMPATIBILIZAÇÃO COM A REALIDADE BRASILEIRA
+
+4- ETAPA: CRIAÇÃO DE CASOS DE USO DE REQUISITOS MÍNIMOS PARA CERTIFICAÇÃO DE MEDIDORES DLMS/COSEM
+
+5- ETAPA: ELABORAÇÃO DO CADERNO DE TESTES PARA VALIDAÇÃO DO PROTOCOLO DLMS/COSEM
+
+6- ETAPA: AQUISIÇÃO E MONTAGEM DA INFRAESTRUTURA DO LABORATÓRIO DE CERTIFICAÇÃO DLMS/COSEM, EM ANDAMENTO.
+
+7- ETAPA: VERIFICAÇÃO DOS PROCEDIMENTOS DE TESTES DOS PROTOCOLOS PRIME E WI-SUN ESPECIFICADOS PELAS RESPECTIVAS ALIANÇAS, EM ANDAMENTO.
+
+
+INFORMAÇÃO COMPLEMENTAR: NEOENERGIA ELEKTRO - CNPJ 02.328.280/0001-97
+NEOENERGIA COSERN – CNPJ 08.324.196/0001-81
+NEOENERGIA COELBA – CNPJ 15.139.629/0001-94
+NEOENERGIA PERNAMBUCO – CNPJ 10.835.932/0001-08
+Atividade em 2021: Acompanhamento das atividades executadas no projeto, por meio de reuniões semanais com as equipes; gestão financeira com base no cronograma físico-financeiro do projeto e análise técnica dos relatórios entregue, referente a cada etapa concluída no projeto.
+De cada empresa cooperada, participam colaboradores-pesquisadores com dedicação parcial na finalidade de contribuir para o desenvolvimento do projeto, contando com as especificidades locais.
+Resultado econômico:
+Espera-se obter maior concorrência e, consequentemente, menor Capex e Opex para implantação de sistemas AMI nas distribuidoras. No Grupo Neoenergia, estima-se uma redução de 2,5% no valor dos medidores inteligentes pela livre concorrência entre fabricantes. O investimento previsto com AMI, no citado Grupo, até 2030, é de 15 Milhões de medidores que representaria R$ 3.375.000.000. Uma redução de 2,5% representaria uma redução de R$ 84.000.000 deste total.
+
+Resultado de inovação: (Devido o projeto estar em fase de execução) espera-se a construição de um laboratório de referência para os protocolos de rádio e comunicação pela rede elétrica; e o desenvolvimento  e testes de padrões de hardware e software embarcado para comunicação interoperável.
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>O projeto objetiva o desenvolvimento e testes de padrões de hardware e software embarcado para comunicação voltados para redes elétricas inteligentes. A descrição, o elemento tecnologicamente novo, as barreiras ou desafios tecnológicos e a metodologia são apresentadas de forma clara e preenchem os requisitos estabelecidos na Lei do Bem. Após análise, o parecer exarado enquadra o projeto na categoria de projeto de pesquisa e inovação tecnológica. Sugere-se a participação de instituições de ensino superior em colaboração aos projetos enviados.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO: <p>O projeto objetiva o desenvolvimento e testes de padrões de hardware e software embarcado para comunicação voltados para redes elétricas inteligentes. A descrição, o elemento tecnologicamente novo, as barreiras ou desafios tecnológicos e a metodologia são apresentadas de forma clara e preenchem os requisitos estabelecidos na Lei do Bem. Após análise, o parecer exarado enquadra o projeto na categoria de projeto de pesquisa e inovação tecnológica. Sugere-se a participação de instituições de ensino superior em colaboração aos projetos enviados.</p> / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: <p>O projeto objetiva o desenvolvimento e testes de padrões de hardware e software embarcado para comunicação voltados para redes elétricas inteligentes. A descrição, o elemento tecnologicamente novo, as barreiras ou desafios tecnológicos e a metodologia são apresentadas de forma clara e preenchem os requisitos estabelecidos na Lei do Bem. Após análise, o parecer exarado enquadra o projeto na categoria de projeto de pesquisa e inovação tecnológica. Sugere-se a participação de instituições de ensino superior em colaboração aos projetos enviados.</p> / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: <p>O projeto objetiva o desenvolvimento e testes de padrões de hardware e software embarcado para comunicação voltados para redes elétricas inteligentes. A descrição, o elemento tecnologicamente novo, as barreiras ou desafios tecnológicos e a metodologia são apresentadas de forma clara e preenchem os requisitos estabelecidos na Lei do Bem. Após análise, o parecer exarado enquadra o projeto na categoria de projeto de pesquisa e inovação tecnológica. Sugere-se a participação de instituições de ensino superior em colaboração aos projetos enviados.</p> / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

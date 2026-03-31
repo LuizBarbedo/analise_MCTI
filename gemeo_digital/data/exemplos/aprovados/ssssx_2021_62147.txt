@@ -1,0 +1,51 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62147 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 320400154-Desenvolver processo de fabricação gerador MK3E 4,5 MW Vestas
+DESCRIÇÂO: O projeto consiste em desenvolvimento do processo de fabricação, capacitando a fabrica da WEN para produzir 8 geradores 4,5 MW da Vestas por semana.
+Na área de usinagem além do estudo de capacitação será proposto dispositivo para estabilidade do processo e assegurar a qualidade através de ferramentas da qualidade com o MSA e CPK, nesta etapa o principal desafio esta em assegurar o pré-requisito de circularidade do diâmetro interno da carcaça.
+Na fabricação do rotor temos como desafio o processo de inserir o eixo no pacote de chapas o qual possui cola entre as laminas de chapa e não é permitido o uso de prensa para manter o eixo na posição conforme padrão WEG. A cola entre as laminas de chapa também altera o processo padrão de brasagem do anel de curto e travamento das barras de cobre, demandando cuidados especiais e desenvolvimento de dispositivos.
+O estator possui bobinas e ligação diferentes do padrão WEN demandando desenvolvimento de diversos dispositivos para conformação de bobinas e método/equipamento especial para fazer a ligação das bobinas e assegurar os pré-requisito de controle de torque nas ligações e medição da integridade do estator completo nas diferentes etapas do processo de fabricação com padrões de medição diferentes ao utilizado na produção regular da WEN.
+Na montagem o principal desafio é atender o processo de crimpagem e pré-requisito de montagem dos cabos no anel de ligação onde envolve desenvolvimento de equipamentos / dispositivo especiais.
+
+PALAVRAS CHAVE: Desenvolvimento processo fabricação; Capacitação fabril
+ELEMENTO TECNOLÓGICO: Desenvolver processo de fabricação de gerador eólico capaz de produzir 4,5 MW de energia integrado a torre de geração de energia eólica da Vestas, um dos maiores fabricantes de arerogeradores do mundo.
+O projeto do gerador será fornecido pelo cliente (Vestas) e a equipe WEG estará desenvolvendo o processo de fabricação do gerador o qual se difere do padrão atual devido as especificações do projeto Vestas e normas europeias a ser seguidas ou convertidas para normas brasileiras.
+As ligações das bobinas do estator são isentas de solda o que difere do padrão WEG. Neste projeto as bobinas são crimpadas e utilizado um anel de ligação extremamente inovador para WEG Energia. Outro conceito inovador é o rotor que é formado com cola entre as laminas do pacote e isento de usinagem antes e após a brasagem dos anéis de curto.
+As especificações do projeto devem ser seguidas rigorosamente visando reduzir custos, mantendo o padrão de qualidade e buscando o máximo de estabilidade no processo.
+
+
+DESAFIO TECNOLÓGICO: O mercado de geração de energia eólica é altamente competitivo e a manutenção extremamente complexa e consequentemente elevado custo de manutenção.
+Para ser competitivo buscando o menor custo por KWh gerado e atender os padrões de qualidade que é um dos requisitos do projeto Vesta é aplicar metodologia da industria automobilística  através de um programa APQP4wind onde o foco é a redução de custo e qualidade assegurada.
+Atualmente o principal foco da WEG Energia está na fabricação de produtos engenheirados ou seja fabricação de geradores e motores com lote unitário ou pequenos lotes de maquinas onde o tempo de processo não é algo tão relevante.
+O projeto Vestas tem como foco preparar a fabrica para produzir um grande lote de geradores de 4,5 MW sem comprometer a atual produção de geradores e motores de médio e grande porte projetado e produzido pela WEG Energia.
+O sucesso do projeto Vestas depende da superação dos desafios de implementar processos de fabricação seriado, dentro de uma planta com produção engenheirada.
+Quando se fala em produção seriada, estamos falando em tempos de fabricação minimizados e qualidade assegurada através da estabilidade dos processos de fabricação.
+Em meio a implementação da produção seriada esta o desenvolvimento do processo de prensagem e brasagem do rotor com cola entre as chapas no pacote do rotor e o processo de fabricação do estator com crimpagem dos cabos e anel de ligação das bobinas diferenciado do processo padrão WEG.
+METODOLOGIA: Mantendo o foco na metodologia APQP4wind principalmente nos pontos que visam assegurar a qualidade e produtividade com redução de custo de fabricação para fortalecer a competitividade diante o mercado, foi dado continuidade ao estudo de célula de solda robotizada para carcaças, Elaborado estudo de layout customizado para linha de bobinagem, estudo de layout para melhorar o fluxo de ensaios elétrico dos geradores, Ensaios para substituir processo de retifica pelo processo de torneamento no assento do pacote dos eixos, Desenvolvimento bobinadeira automática para melhor produtividade e segurança operacional.
+
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de pesquisa e ensino superior, assim como a participação de colaboradores com mestrado e doutorado.</p><p>A “Vinculação entre Recursos Humanos e a Linha de Pesquisa” não corresponde com o RH apresentado no formulário.&nbsp;</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO: <p>A “Vinculação entre Recursos Humanos e a Linha de Pesquisa” não corresponde com o RH apresentado no formulário.&nbsp;</p> / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:
+As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:
+As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

@@ -1,0 +1,114 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9615 - EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A. - ANO :2021
+ID_PROJETO: 68971 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Novas Abordagens para a Regulação de Receitas Irrecuperáveis no Setor de Distribuição de Energia Elétrica
+DESCRIÇÂO: O estudo possui como objetivos a realização de diagnóstico do problema de receitas irrecuperáveis no setor de distribuição e elaboração de abordagens regulatórias alternativas as implementadas pela ANEEL.
+PALAVRAS CHAVE: Receitas irrecuperáveis; Regulação; Diagnóstico
+ELEMENTO TECNOLÓGICO: Não se identifica na base de dados de PeD disponível no site da ANEEL outro projeto com escopo similar ao proposto nesse estudo. O único projeto identificado que abordou o tema de inadimplência (PD-00390-1037), nao teve como foco a regulação da ANEEL e analisou apenas a área de concessão da Eletropaulo. Em pesquisa realizada em diversos fontes (ex. google scholar) foram identificados poucos estudos sobre o tema e nenhum tratando sobre o setor elétrico brasileiro e/ou a regulação aqui adotada.
+DESAFIO TECNOLÓGICO: Apesar do elevado impacto financeiro, observa-se pouco esforço e recursos alocados na compreensão do problema da inadimplência, e tampouco no estudo de alternativas regulatórias que sejam adequadas. A ANEEL, por exemplo, vem adotando uma abordagem muito simplificada para o problema, sem a realização de estudos que visam explicar os diferentes níveis de receitas irrecuperáveis observadas entre as empresas. Em geral, assume-se uma correspondência direta entre os níveis de perdas não técnicas e inadimplência, que são fenômenos distintos, apesar de estarem provavelmente correlacionados. A importância do tema, sobretudo devido ao seu elevado impacto em termos de custos e receitas, requer um estudo dedicado exclusivamente a compreensão do problema e elaboração de modelos regulatórios específicos.
+METODOLOGIA: Construção de Base de Dados
+Benchmarking Internacional
+Estudo Econométrico: Variáveis que Explicam RI; Efeitos da Regulação sobre RI
+Proposta Regulatória: Formulação de Alternativas Regulatórias; Elaboração de Artigo Acadêmico
+
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Não Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado. <br/><br/>a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada.<br/><br/>a empresa não descreveu com clareza qual a barreira ou o desafio tecnológico que foi superado. Os projetos de P&D buscam apresentar resultados para superar um determinado problema ou dificuldade. O esforço realizado para superá-lo constitui a atividade de P&D, que, como resultado, apresentará uma solução, ou não, para o problema dado. Essa atividade sempre apresentará um resultado, mesmo que seja um apontamento de que a premissa adotada e testada para superação da barreira ou problema não deve ser mais seguida, pois não funciona. Assim, é necessário descrever com clareza a barreira ou o desafio tecnológico que é o objeto da atividade, para caracterizar adequadamente um projeto como de P&D.<br/><br/>a empresa não descreveu com clareza a metodologia/métodos utilizados no projeto. Para descrever com clareza a empresa deve, resumidamente, descrever as atividades executadas, o processo utilizado, bem como demonstrar as competências que foram exigidas para implementação do projeto.<br/><br/>a empresa não evidenciou com clareza qual o elemento tecnologicamente novo ou inovador do projeto. O elemento tecnologicamente novo deve representar um progresso científico ou tecnológico. Por progresso científico ou tecnológico entende-se a aquisição de conhecimentos quanto à compreensão de novos fenômenos (Pesquisa Básica Dirigida); a aquisição de novos conhecimentos, com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas (Pesquisa Aplicada); assim como a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, um evidente aperfeiçoamento dos já produzidos ou estabelecidos (Desenvolvimento Experimental). 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME: Descrição de implementação de ferramentas de gestão que envolvem tecnologia || Descreveu a funcionalidade do produto/processo/serviço || Falta de Clareza na descrição da barreira ou desafio tecnológico superados no projeto || Falta de Clareza na descrição da metodologia/ métodos utilizados no projeto || Falta de Clareza na descrição do elemento tecnologicamente novo ou inovador do projeto TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada. || a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado.  || a empresa não descreveu com clareza qual a barreira ou o desafio tecnológico que foi superado. Os projetos de P&D buscam apresentar resultados para superar um determinado problema ou dificuldade. O esforço realizado para superá-lo constitui a atividade de P&D, que, como resultado, apresentará uma solução, ou não, para o problema dado. Essa atividade sempre apresentará um resultado, mesmo que seja um apontamento de que a premissa adotada e testada para superação da barreira ou problema não deve ser mais seguida, pois não funciona. Assim, é necessário descrever com clareza a barreira ou o desafio tecnológico que é o objeto da atividade, para caracterizar adequadamente um projeto como de P&D. || a empresa não descreveu com clareza a metodologia/métodos utilizados no projeto. Para descrever com clareza a empresa deve, resumidamente, descrever as atividades executadas, o processo utilizado, bem como demonstrar as competências que foram exigidas para implementação do projeto. || a empresa não evidenciou com clareza qual o elemento tecnologicamente novo ou inovador do projeto. O elemento tecnologicamente novo deve representar um progresso científico ou tecnológico. Por progresso científico ou tecnológico entende-se a aquisição de conhecimentos quanto à compreensão de novos fenômenos (Pesquisa Básica Dirigida); a aquisição de novos conhecimentos, com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas (Pesquisa Aplicada); assim como a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, um evidente aperfeiçoamento dos já produzidos ou estabelecidos (Desenvolvimento Experimental).  RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+PARECER_AVALIACAO: Não Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado. <br/><br/>a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada.<br/><br/>a empresa não descreveu com clareza qual a barreira ou o desafio tecnológico que foi superado. Os projetos de P&D buscam apresentar resultados para superar um determinado problema ou dificuldade. O esforço realizado para superá-lo constitui a atividade de P&D, que, como resultado, apresentará uma solução, ou não, para o problema dado. Essa atividade sempre apresentará um resultado, mesmo que seja um apontamento de que a premissa adotada e testada para superação da barreira ou problema não deve ser mais seguida, pois não funciona. Assim, é necessário descrever com clareza a barreira ou o desafio tecnológico que é o objeto da atividade, para caracterizar adequadamente um projeto como de P&D.<br/><br/>a empresa não descreveu com clareza a metodologia/métodos utilizados no projeto. Para descrever com clareza a empresa deve, resumidamente, descrever as atividades executadas, o processo utilizado, bem como demonstrar as competências que foram exigidas para implementação do projeto.<br/><br/>a empresa não evidenciou com clareza qual o elemento tecnologicamente novo ou inovador do projeto. O elemento tecnologicamente novo deve representar um progresso científico ou tecnológico. Por progresso científico ou tecnológico entende-se a aquisição de conhecimentos quanto à compreensão de novos fenômenos (Pesquisa Básica Dirigida); a aquisição de novos conhecimentos, com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas (Pesquisa Aplicada); assim como a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, um evidente aperfeiçoamento dos já produzidos ou estabelecidos (Desenvolvimento Experimental). 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME: Falta de Clareza na descrição da metodologia/ métodos utilizados no projeto || Descreveu a funcionalidade do produto/processo/serviço || Descrição de implementação de ferramentas de gestão que envolvem tecnologia || Falta de Clareza na descrição da barreira ou desafio tecnológico superados no projeto || Falta de Clareza na descrição do elemento tecnologicamente novo ou inovador do projeto TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa não descreveu com clareza a metodologia/métodos utilizados no projeto. Para descrever com clareza a empresa deve, resumidamente, descrever as atividades executadas, o processo utilizado, bem como demonstrar as competências que foram exigidas para implementação do projeto. || a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado.  || a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada. || a empresa não descreveu com clareza qual a barreira ou o desafio tecnológico que foi superado. Os projetos de P&D buscam apresentar resultados para superar um determinado problema ou dificuldade. O esforço realizado para superá-lo constitui a atividade de P&D, que, como resultado, apresentará uma solução, ou não, para o problema dado. Essa atividade sempre apresentará um resultado, mesmo que seja um apontamento de que a premissa adotada e testada para superação da barreira ou problema não deve ser mais seguida, pois não funciona. Assim, é necessário descrever com clareza a barreira ou o desafio tecnológico que é o objeto da atividade, para caracterizar adequadamente um projeto como de P&D. || a empresa não evidenciou com clareza qual o elemento tecnologicamente novo ou inovador do projeto. O elemento tecnologicamente novo deve representar um progresso científico ou tecnológico. Por progresso científico ou tecnológico entende-se a aquisição de conhecimentos quanto à compreensão de novos fenômenos (Pesquisa Básica Dirigida); a aquisição de novos conhecimentos, com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas (Pesquisa Aplicada); assim como a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, um evidente aperfeiçoamento dos já produzidos ou estabelecidos (Desenvolvimento Experimental).  RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: PROJETO 36: NOVAS ABORDAGENS PARA A REGULAÇÃO DE RECEITAS IRRECUPERÁVEIS NO SETOR DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA
+
+INTRODUÇÃO
+
+A presente contestação tem por objetivo responder aos questionamentos levantados no Parecer Técnico nº 5409/2024, que não recomendou os incentivos fiscais solicitados para o projeto "Novas Abordagens para a Regulação de Receitas Irrecuperáveis no Setor de Distribuição de Energia Elétrica". O parecer indicou que o projeto não demonstrou de forma clara os desafios tecnológicos superados, a metodologia aplicada, bem como os elementos inovadores da atividade desenvolvida.
+
+Diante disso, apresentamos a seguir uma exposição detalhada que evidencia o enquadramento do projeto como Pesquisa, Desenvolvimento e Inovação (P,D&I), atendendo aos requisitos estabelecidos na Lei do Bem (Lei nº 11.196/2005) e no Decreto nº 5.798/2006.
+
+1. ELEMENTO TECNOLOGICAMENTE NOVO OU INOVADOR?
+
+O projeto "Novas Abordagens para a Regulação de Receitas Irrecuperáveis" apresenta um elemento tecnologicamente inovador ao desenvolver uma metodologia pioneira para o estudo da inadimplência no setor de distribuição de energia elétrica. Diferente de abordagens tradicionais, que assumem correlação direta entre perdas não técnicas e receitas irrecuperáveis, o projeto propõe um modelo regulatório alternativo baseado em análises econométricas e benchmarking internacional, aspectos inexplorados pela atual regulação da ANEEL.
+
+Ao investigar novos padrões de comportamento e mecanismos regulatórios mais eficazes, o projeto representa um avanço científico e tecnológico. Importante ressaltar que não há, na base de dados de P&D da ANEEL, qualquer iniciativa semelhante ao projeto apresentado. O único estudo identificado (PD-00390-1037) analisou inadimplência de forma limitada à área de concessão da Eletropaulo, sem considerar impactos regulatórios amplos ou modelos preditivos robustos.
+
+Dessa forma, fica evidente que o projeto traz um progresso científico ao propor novos métodos para compreensão e regulação de receitas irrecuperáveis, tema pouco estudado, e que apresenta grande relevância para o setor elétrico brasileiro.
+
+
+2. BARREIRA OU DESAFIO TECNOLÓGICO SUPERADO?
+
+O principal desafio tecnológico abordado pelo projeto está na elaboração de modelos regulatórios inovadores para lidar com receitas irrecuperáveis no setor elétrico. Atualmente, a regulação da ANEEL emprega uma abordagem simplificada que não reflete as nuances da inadimplência. O projeto visa preencher essa lacuna por meio do desenvolvimento de um modelo preditivo mais robusto e adaptável a diferentes realidades empresariais.
+
+Os desafios enfrentados incluem:
+
+Falta de um modelo regulatório consolidado para receitas irrecuperáveis no Brasil;
+
+Necessidade de compreensão detalhada dos fatores que impactam inadimplência;
+
+Ausência de referências bibliográficas abrangentes sobre regulação da inadimplência no setor elétrico;
+
+Integração de variáveis macroeconômicas e setoriais em um modelo de previsão regulatória.
+
+A superação desses desafios foi viabilizada por meio de análises estatísticas avançadas, pesquisas empíricas e desenvolvimento de um novo framework regulatório, o que caracteriza o projeto como atividade de P&D.
+
+
+3. METODOLOGIA UTILIZADA?A metodologia adotada no projeto seguiu um rigoroso processo de pesquisa, que envolveu as seguintes etapas:
+
+Construção de Base de Dados:
+
+Coleta e organização de dados históricos sobre inadimplência e receitas irrecuperáveis;
+
+Consolidação de informações regulatórias da ANEEL e de empresas do setor.
+
+Benchmarking Internacional:
+
+Estudo de modelos regulatórios aplicados em outros países para gestão de inadimplência;
+
+Identificação de melhores práticas regulatórias e adaptação ao contexto brasileiro.
+
+Estudo Econométrico:
+
+Desenvolvimento de modelos preditivos para identificação de variáveis que influenciam receitas irrecuperáveis;
+
+Avaliação dos efeitos da regulação sobre os níveis de inadimplência e perdas.
+
+Proposta Regulatória:
+
+Formulação de alternativas regulatórias baseadas nos resultados obtidos;
+
+Elaboração de artigo acadêmico para divulgação dos avanços científicos e tecnológicos alcançados.
+
+
+Dessa forma, a metodologia empregada garante que o projeto atenda aos critérios de P&D exigidos pela Lei do Bem, demonstrando um esforço sistemático para desenvolver novos conhecimentos e aplicações inovadoras para o setor.
+
+O projeto "Novas Abordagens para a Regulação de Receitas Irrecuperáveis no Setor de Distribuição de Energia Elétrica" não se trata da implementação de uma ferramenta de gestão, mas sim de uma pesquisa aplicada que busca desenvolver novos modelos regulatórios para o tratamento das receitas irrecuperáveis no setor elétrico brasileiro. Diferente de uma solução meramente operacional, o projeto investiga padrões econômicos e regulatórios por meio de análises econométricas e benchmarking internacional, visando criar alternativas inovadoras para a regulação do setor.
+
+O foco principal do projeto é o desenvolvimento de um conhecimento científico e tecnológico inédito no Brasil, a partir de novos modelos de previsão regulatória para receitas irrecuperáveis. A pesquisa realizada busca suprir lacunas existentes na abordagem da ANEEL, que atualmente adota modelos simplificados e sem embasamento empírico robusto. Portanto, trata-se de um projeto de P&D que busca gerar avanços regulatórios, e não de uma mera ferramenta de gestão.
+
+Com isso, fica claro que o projeto se enquadra nos critérios da Lei do Bem ao propor uma pesquisa aplicada voltada para o aprimoramento regulatório e a inovação em modelos econômicos, diferenciando-se completamente de uma simples implementação de software ou ferramenta de gestão operacional.
+
+CONCLUSÃO
+
+Com base nas informações apresentadas, solicitamos a reconsideração do parecer técnico, pois:
+
+- O projeto propõe um modelo regulatório inovador e inédito para receitas irrecuperáveis;
+- Supera desafios tecnológicos significativos, ao integrar novas variáveis econômicas e regulatórias na análise da inadimplência;
+- Apresenta uma metodologia científica estruturada e avançada, caracterizando-se como pesquisa aplicada e desenvolvimento experimental.
+
+Assim, reafirmamos que o projeto atende aos critérios estabelecidos para enquadramento como P&D e solicitamos a aprovação no âmbito da Lei do Bem.
+
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

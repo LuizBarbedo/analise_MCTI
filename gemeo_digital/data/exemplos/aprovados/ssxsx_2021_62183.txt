@@ -1,0 +1,36 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62183 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 320400170-Estudo do comportamento de variáveis de fabricação do sistema de isolação, visando melhoria das características dielétricas, térmicas e de durabilidade
+DESCRIÇÂO: Máquinas elétricas rotativas, em seu conceito básico, devem garantir o fornecimento da energia, mecânica ou elétrica, para as diversas atividades existentes na indústria. O sistema de isolação é parte vital de uma máquina elétrica rotativa, sendo sua durabilidade um fator primordial, com influência direta sobre a vida útil da máquina e, por consequência, sobre a robustez e confiabilidade dos processos. O principal benefício deste projeto é compreender o impacto do processo de fabricação nas características dielétricas e térmicas do sistema de isolação e, portanto, identificar o impacto na durabilidade do isolamento em diferentes condições, gerando assim uma base de conhecimento que será usada para melhorias de produto e desenvolvimento de novos produtos. No âmbito dos produtos já existentes, é fundamental diagnosticar os mecanismos que influenciam na durabilidade do sistema de isolação, de modo a viabilizar a realimentação do projeto e dos processos produtivos, suportando a melhoria contínua do produto e dos processos, para manutenção ou mesmo melhora da competitividade. Do ponto de vista tecnológico, o projeto fornecerá informações, até então indisponíveis, a respeito de práticas presentes no processo produtivo dos sistemas de isolação. Com essas informações, novas práticas ou melhorias poderão ser implementadas no processo produtivo de forma a melhorar a qualidade do produto oferecido, estabelecendo novas abordagens no que tange o desempenho do sistema de isolação. Estima-se que seja possível reduzir em 10 a 15% a espessura da isolação, somente com base nas melhorias da fabricação. Em adição, estima-se ser possível elevar a condutividade térmica da isolação entre 10 e 30%, bem como reduzir em mais de 50% a magnitude dos pulsos de descargas parciais medidos, e a respectiva taxa de repetição. Em outras palavras, três ganhos que, se obtidos em conjunto, poderão elevar a potência de determinada máquinas entre 5 e 15%, reduzir material ativo ou reduzir a temperatura absoluta. Do ponto de vista econômico, destaca-se uma melhor negociação técnica dos projetos no que tange aos critérios definidos pelos clientes, além da garantia da boa imagem do produto perante o mercado, além de opções para maior competitividade em custos, haja vista a maior durabilidade e performance do sistema de isolação. Trata-se de um conjunto de conhecimentos que, em momento oportuno, poderá ser convertido em ações de projeto e fabricação, assegurando a evolução do produto. Do ponto de vista ambiental, cabe destacar que dentre as melhorias que podem resultar do projeto está a possibilidade de redução do consumo de matéria prima, uma vez que ao aumentar a durabilidade do sistema de isolação, mais tempo levará para que ocorra a falha e desgaste do mesmo. Em adição, há possibilidade de redução no consumo de cobre e aço silício (material ativo).
+
+PALAVRAS CHAVE: Sistema de isolação, propriedades térmicas, propriedades dielétricas.
+ELEMENTO TECNOLÓGICO: O sistema de isolação é elemento vital para o funcionamento das máquinas elétricas girantes, tratando-se de máquinas de média tensão aumenta-se consideravelmente a severidade dos fenômenos elétricos envolvidos que atuam diretamente sobre a vida o sistema de isolação e por consequência na vida útil do produto final. Visto isso, o controle de variáveis no processo de fabricação do sistema de isolação deve ser rigoroso, de modo a garantir qualidade, produtividade e repetibilidade dos produtos. Nos últimos anos os estudos de projetos de máquinas elétricas veem crescendo gradativamente, visando melhorias como a redução de material ativo e aumento da densidade de potência, junto a isso, surge a necessidade de desenvolver os métodos de controle da manufatura, visando equalizar os ganhos econômicos e técnicos na fabricação. O projeto visa estudar e desenvolver experimentos de temas pouco conhecidos referente a fabricação do sistema de isolação, fato que eleva a dificuldade do estudo, pois existe pouca referência de parâmetros iniciais. Do tema principal se extrai os assuntos específicos a serem desenvolvidos, como o efeito teor de resina contido na isolação principal de uma máquina e seus efeitos sobre as características dielétricas, durabilidade e condutividade térmica da isolação, junto disso, para tornar possível a análise se faz necessário estudar métodos e variáveis para controlar o teor de resina da isolação. Outro subtema previsto no estudo é a avaliação da pré-compactação da isolação principal e seus efeitos nas características de condutividade térmica, características dielétricas e de durabilidade. A pesquisa visa gerar conhecimento das variáveis estudadas de forma que permita ser aplicado no desenvolvimento de novos processos de fabricação de sistemas de isolação, bem como aperfeiçoamento dos processos atuais, visando melhoria das características dielétricas e térmicas juntamente com o aumento da durabilidade da isolação.
+
+DESAFIO TECNOLÓGICO: Atualmente não existem muitas referências para controle das variáveis do processo, basicamente tem-se o cenário atual de parâmetros e histórico de correções dos parâmetros do processo, dessa forma, realizou-se uma avaliação prévia das condições mais relevantes para estudo, onde é necessário desenvolver método para induzir as variáveis desejadas e medir seu efeito no produto final por meio dos experimentos a serem elaborados. A tentativa de controle de variáveis em alguns casos pode promover efeitos adversos, de forma que, à medida que uma variável é alterada, pode-se gerar desvio em outro parâmetro de fabricação.
+
+METODOLOGIA: 2021: Fundamentação teórica; Caracterização dos corpos de prova; Fabricação dos Corpos de prova; Elaboração do plano de ensaios
+
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de ensino e pesquisa e pesquisadores com mestrado e doutorado.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Aguardando Analise
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

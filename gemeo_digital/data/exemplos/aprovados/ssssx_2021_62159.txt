@@ -1,0 +1,37 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62159 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 320400159-Estudo dos fatores críticos durante o processo de fabricação de Alternadores até 1kVA para a ocorrência de curtos elétricos no estator principal
+DESCRIÇÂO: Devido a grande reincidência de falhas de campo referentes ao curto elétrico no estator principal (principal problema da linha de Alternadores referente a custos), e a dificuldade na identificação da causa raiz devido ao estado do estator após o curto (geralmente a região onde ocorreu o curto é destruída, eliminando as evidencias da causa do problema), sempre trabalhamos com hipóteses da ocorrência da falha, como exemplos: fases em contato, isolante do fio danificado, filmes isolantes danificados, corpo estranho no bobinado (cavacos, fuligem, algum material metálico...), temperatura elevada do estator, aplicação em campo, entre outros, porem sem uma comprovação real da causa raiz, dificultando assim o estudo de uma solução eficaz.
+Diante deste cenário estamos propondo realizar um estudo de caso, aplicando algumas ferramentas da metodologia Sex sigma, visando a geração da falha em laboratório de testes WEG, identificando quais variáveis de processos e aplicação são as mais críticas para a geração da falha, através das combinações de variáveis direcionadas pelo DOE. Serão fabricados entre 4 e 8 estatores para simulação da falha, com testes em laboratório (possivelmente testes destrutivos).
+O objetivo final do projeto será conseguir replicar a falha internamente, e após identificarmos os fatores críticos, desenvolver e implantar melhorias nos processos de fabricação e possivelmente o desenvolvimento de um produto mais robusto (sistema de isolação ou conceito de projeto) visando eliminar ou reduzir a ocorrência da falha em campo.
+
+PALAVRAS CHAVE: Alternadores; Curto elétrico; Estator Principal; Six sigma; 
+ELEMENTO TECNOLÓGICO: Estudar e compreender o efeito das variáveis geradas durante o processo de fabricação do Alternador (até 1 kVA) na ocorrência do curto elétrico no estator principal. Alguns potenciais desvios serão inseridos durante o processo de fabricação dos estatores para que se possa conhecer a resposta obtida, e caracterizar quais são os fatores mais críticos para a ocorrência da falha – curto elétrico. Serão utilizadas algumas ferramentas da metodologia Six sigma (DOE) para a definição dos experimentos e análise dos resultados. Além da avaliação do estator, o experimento permitirá detectar possíveis problemas em outros componentes do Alternador, como o rotor principal, estator e rotor da excitatriz.
+
+DESAFIO TECNOLÓGICO: Devido a complexidade do tema e a ampla gama de possíveis causadores da falha, um dos principais desafios será garantir a inserção das variáveis de forma que sejam fiéis as que ocorrem no processo produtivo, de forma aleatória, podendo não haver assertividade e repetibilidade nas falhas geradas nos estatores. Também não há certeza de que os ensaios realizados nos protótipos conseguirão gerar o fenômeno de forma clara, pois não conseguiremos replicar 100% dos fatores encontrados em campo devido as limitações internas de nossos laboratórios (limitação de vibração, condições climáticas como umidade e salinidade, entre outros), podendo levar a um resultado não confiável ou inconclusivo.
+
+METODOLOGIA: Fabricação dos corpos de prova conforme definidos pela metodologia Six Sigma, realização de ensaios de tipo visando replicar as condições de aplicação em campo com posterior dissecação do estator (corte, retirada dos materiais isolantes, resina, fios...). Parte dos materiais foram enviados para laboratórios específicos para diversas análises dos componentes (degradação, danos, micro-estrutura...) visando identificar os pontos falhos do Produto/Processo que geram a ocorrência da falha para que o time possa atuar nestes pontos e propor soluções
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de pesquisa e ensino superior, assim como a participação de colaboradores com mestrado e doutorado.</p><p>A “Vinculação entre Recursos Humanos e a Linha de Pesquisa” não corresponde com o RH apresentado no formulário.&nbsp;</p><p>Na descrição está escrito “sex sigma”.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO: <p>A “Vinculação entre Recursos Humanos e a Linha de Pesquisa” não corresponde com o RH apresentado no formulário.&nbsp;</p><p>Na descrição está escrito “sex sigma”.</p> / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

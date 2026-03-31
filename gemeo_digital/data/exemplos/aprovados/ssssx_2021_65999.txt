@@ -1,0 +1,131 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8850 - DIAMANTE GERACAO DE ENERGIA LTDA. - ANO :2021
+ID_PROJETO: 65999 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento experimental de soluções de instrumentação, aplicadas ao monitoramento, proteção e controle remoto de usinas termelétricas.
+DESCRIÇÂO: Nos últimos anos, a Diamante Geração de Energia vem atravessando uma importante etapa de transformação digital na sua operação, com significativos esforços na evolução tecnológica dos sistemas de monitoramento, controle e automação das usinas, sempre buscando maior eficiência e segurança nos processos de geração de energia termelétrica, mitigando os riscos de falhas que podem causar acidentes ou perdas financeiras devido a interrupções na geração.
+
+As três iniciativas apresentadas neste documento, fazem parte dos investimentos da Diamante em desenvolvimentos experimentais na área de instrumentação, base da automação aplicada a usinas de geração de energia. São elas:
+
+1. Evolução dos transmissores de posição de válvulas e comportas de usinas termelétricas:
+A iniciativa propôs a evolução dos atuais transdutores para medição de deslocamento linear (LDTV), utilizados no controle de posição das válvulas e comportas das unidades 5 e 6 do CTJL, que apresentavam muita oscilação e baixa confiabilidade nas medições. A solução proposta é agregada a um microcontrolador que garante medições mais exatas e compatíveis com a malha de controle das unidades, independente do curso da válvula. A eletrônica responsável pela conversão do sinal de controle e a configuração do novo transmissor é o principal elemento inovador desta iniciativa. A necessidade de encontrar uma maneira de converter o sinal de saída para uma faixa de valores adequada à comunicação com o supervisório, representou o principal desafio desta iniciativa. Todo o desenvolvimento, desde a concepção da solução, até os testes finais em ambiente de operação, ocorreu ao longo do ano de 2021 e já se encontra plenamente validada e em operação.
+
+2. Desenvolvimento de solução para calibração ágil de megômetros:
+O megômetro é um instrumento de medição de fluxo de corrente elétrica, bastante usado nos testes de isolação, e por isso considerado um importante equipamento para garantia da segurança de instalações elétricas. Dada a importância deste instrumento, é necessário que o mesmo esteja sempre disponível e calibrado. Porém, o processo anterior de calibração dos megômetros exigia longos períodos de indisponibilidade do equipamento, já que era necessário o envio do mesmo para uma empresa certificada. Desta forma, o elemento inovador desta iniciativa foi o desenvolvimento de uma placa eletrônica com circuito divisor de tensão (múltiplos resistores), capaz de dividir a alta tensão aplicada sobre a mesma, permitindo realizar a leitura da corrente com equipamento de calibração padrão certificado. Uma vez calibrada a placa desenvolvida, é feita a calibração do megômetro, de maneira indireta. O desafio tecnológico de agilizar o processo de calibração de megômetros é agravado pelos requisitos de segurança do projeto que devem prever os testes envolvendo altíssimas tensões. Todo o projeto foi concebido e validado no ano de 2021.
+
+3. Validação da eficácia do sistema de proteção ‘Arcflash’ aplicado à Cubículos de Média Tensão:
+O cubículo de média tensão é a solução aplicada para a proteção de instalações elétricas e para a distribuição de energia, comportando diversos elementos de modo organizado e protegido. Os cubículos devem ser equipados com sistemas de proteção que atuem rapidamente, interrompendo a energia, no caso de detecção de sobrecarga. O elemento inovador desta iniciativa é a adoção de um sistema de proteção em cubículos, com detecção de arco elétrico (arcflash). O sistema combina a tecnologia de detecção de luz em alta velocidade com uma proteção de sobrecorrente ultra-rápida, diminuindo significativamente o tempo de atuação do relé de proteção. Apesar de não ser uma tecnologia recente, esta foi a primeira aplicação em Cubículos de Média Tensão de sistemas de geração de energia no Brasil. O principal desafio foi identificar a forma mais adequada de teste de funcionalidade da instalação, de forma segura e assertiva. Todo o desenvolvimento ocorreu ao longo de 2021.
+
+PALAVRAS CHAVE: Sensoriamento, Microcontrolador ESP; Conversão de Sinais Digitais/Analógicos; Calibração; Megômetro
+ELEMENTO TECNOLÓGICO: A seguir são apresentados os principais elementos inovadores das iniciativas relacionadas à instrumentação das usinas geradores de energia termelétrica:
+
+1. Evolução dos transmissores de posição de válvulas e comportas de usinas termelétricas:
+A inovação desta iniciativa refere-se à solução encontrada para medição da posição de válvulas e comportas das unidades 5 e 6 do CTJL. Os transdutores até então utilizados, eram do tipo LVDT (do inglês, Linear Variable Differential Transformer) para medição de deslocamentos lineares. Estes transmissores apresentavam medições imprecisas e grandes oscilações das medidas, além da ocorrência constante de defeitos de difícil reparação, diante da pouca disponibilidade de peças de reposição. Isso motivou o estudo para avaliar possíveis soluções substitutivas, disponíveis no mercado. Porém, diante de algumas particularidades dos requisitos para a nova solução (espaço reduzido para a instalação e faixa de operação específica de 0 a 20 mA, para garantir comunicação com o sistema de controle da unidade), fez-se necessário desenvolver uma solução própria e inovadora. Assim, a partir da estrutura do sensor angular indutivo da marca Turck, utilizado como base, foi realizado um projeto de hardware e software que permitissem atender às premissas particulares da aplicação. Foi desenvolvida uma placa eletrônica, solidária ao novo sensor, com microcontrolador ESP8266 programado para realizar a leitura do sinal digital do sensor (0 a 10Vcc) e convertê-lo para uma saída analógica (0 a 20mA) tornando assim, a solução compatível para comunicação com o supervisório da planta. Pela programação lógica realizada no microcontrolador, é possível ajustar a posição de abertura, fechamento e sentido de giro de forma simples e prática, sem a necessidade de desmontagem do equipamento. Outra novidade do novo transmissor desenvolvido é a possibilidade de realizar a configuração do mesmo via wi-fi, por meio de um tablet no modo ponto a ponto, trazendo ainda mais agilidade no momento da instalação e manutenção. Cabe ainda dizer que o projeto do novo sensor também contemplou a estrutura mecânica do suporte e da conexão do mesmo à válvula ou comporta.
+
+2. Desenvolvimento de solução para calibração ágil de megômetros:
+O elemento inovador desta iniciativa partiu da ideia de melhoria no processo de calibração de megômetros. Desta forma, foi concebida, projetada e construída uma inédita placa eletrônica, passível de calibração por um instrumento padrão, de modo que, estando esta placa calibrada, a mesma se tornasse um padrão para calibração dos megômetros.
+
+Assim como outros dispositivos, os megômetros impactam diretamente na qualidade e segurança dos trabalhos executados na usina, e por isso, necessitam de calibrações periódicas (bi anuais) para garantir a confiabilidade metrológica da operação. No processo anterior, os megômetros eram enviados para laboratórios externos credenciados para serem calibrados, e assim, estarem em conformidade com as normas ISO 9001 e ABNT NBR ISO/IEC 17025. Porém, o envio destes equipamentos para calibração externa sempre causava transtornos à operação, pois os mesmos ficavam indisponíveis por um período de 30 dias, sendo que todos eles têm uso diário. Com isso, propôs-se melhoria neste processo de calibração, a partir do desenvolvimento de uma inédita placa eletrônica, que uma vez calibrada por um calibrador multifunções (Fluke 5500A), se tornasse um padrão para calibração dos megômetros. A vantagem do uso dos calibradores multifunções é sua maior versatilidade e disponibilidade, sendo o mesmo usado para calibrar diversos equipamentos como multímetros, amperímetros e sensores de temperatura na usina, porém não está apto a calibrar os megômetros de forma direta, diante dos altos valores de tensão exigidos.
+
+3. Validação da eficácia do sistema de proteção ‘Arcflash’ aplicado à Cubículos de Média Tensão:
+O Elemento Inovador desta iniciativa está detalhado no campo de Informações Complementares
+
+DESAFIO TECNOLÓGICO: Os projetos de instrumentação desenvolvidos ao longo do ano de 2021, enfrentaram desafios tecnológicos detalhados a seguir:
+
+1. Evolução dos transmissores de posição de válvulas e comportas de usinas termelétricas:
+O principal desafio tecnológico desta iniciativa foi de desenvolver uma solução para medição da posição das válvulas e comportas, com precisão, estabilidade e confiabilidade, cuja saída fosse compatível com a faixa de leitura do sistema de controle legado, já que não havia um sensor disponível no mercado com saídas nesta faixa demandada. Isto exigiu o desenvolvimento de uma solução com placa eletrônica e microcontrolador programado para realizar a conversão do sinal digital (PWM) em analógico, na faixa adequada à comunicação com o supervisório da usina. A programação do microcontrolador ESP nunca havia sido realizada antes pela equipe de automação da usina, o que se tornou um desafio adicional do projeto.
+
+Durante o desenvolvimento, foi feito o projeto e construção da placa eletrônica de conversão do sinal e a programação do microcontrolador, ambos internamente. Estes foram validados inicialmente em bancada, antes dos testes no piloto em campo, já em ambiente relevante. Nos primeiros testes com o piloto em campo, os valores de leitura diferiram dos obtidos em bancada devido a interferências eletromagnéticas de outros sinais do local, fazendo-se necessário alterar a configuração da placa eletrônica. Também o painel de entrada dos sinais dos sensores da planta precisou ser adaptado para suportar um novo nível de corrente (de 50mA para 200 mA).
+
+2. Desenvolvimento de solução para calibração ágil de megômetros:
+O desafio desta iniciativa era agilizar o processo de calibração dos megômetros, aumentando a disponibilidade destes importantes equipamentos de certificação de segurança na operação da usina. Para tanto, a solução encontrada foi desenvolver o projeto e construção de uma placa eletrônica com circuito divisor de tensão, passível de sofrer calibração por um instrumento padrão (calibrador multifunções Fluke 5500A), tornando-se assim um padrão para calibração dos megômetros. O projeto da nova placa deveria prever altíssimas tensões do megômetro e evitar riscos de curto circuitos ou sobrecargas do sistema que pudessem danificar o calibrador multifunções e, em último caso, causar acidentes.
+
+3. Validação da eficácia do sistema de proteção ‘Arcflash’ aplicado à Cubículos de Média Tensão:
+O principal desafio esteve relacionado à dificuldade de executar o ensaio do sistema para avaliar sua eficácia. Não existiam maneiras de provocar um curto circuito em um cubículo, de forma segura para o equipamento, garantindo sua integridade após os testes. A fim de testar o novo sensor, e o tempo de resposta do relé de proteção, a solução encontrada foi utilizar um flash proveniente de fonte externa, que simulasse o flash provocado por eventual arco elétrico. O teste simulado confirmou a interrupção da energia de forma imediata, em tempo bastante inferior à solução analógica anterior.
+
+METODOLOGIA: As iniciativas citadas seguiram metodologias de desenvolvimento distintas, conforme as necessidades e desafios próprios da trajetória tecnológica de cada projeto.
+
+1. Evolução dos transmissores de posição de válvulas e comportas de usinas termelétricas: O projeto percorreu as seguintes etapas de desenvolvimento até sua conclusão em 2021:
+-Estudo e pesquisa para levantamento do sensor mais adequado a servir de base para o projeto
+-Conceituação de solução, projeto mecânico (desenho da instalação), projeto do circuito eletrônico
+-Adequação do hardware do sensor (estrutura de suporte e montagem do sensor à válvula). Projeto e fabricação dos componentes
+-Programação do microcontrolador ESP para leitura do sinal digital (PWM)
+-Projeto e construção da placa eletrônica para conversão do sinal digital (PWM) para analógico Primeiro realizado o protótipo em protoboard e posteriormente a confecção da placa protótipo, internamente
+-Adequação do painel de sinais de sensores da unidade
+-Instalação do sistema em ambiente operacional relevante, para testes em uma das válvulas da unidade, escolhida devido à alta frequência de atuação durante a operação da usina
+
+Todas as etapas envolveram testes em bancada simulando a posição da válvula a ser lida. Os circuitos eletrônicos desenvolvidos foram sempre testados em protoboard antes da confecção da placa. Testes in loco muitas vezes indicavam necessidade de alterações no projeto, que voltavam para a fase de testes em bancada. Uma vez validado o protótipo em bancada e com os primeiros resultados positivos em ambiente relevante de operação, seguiram-se com 2 meses de monitoramento operacional em campo, com um piloto instalado em uma válvula bastante atuante. Com o sucesso desta última validação, a solução foi produzida e aplicada a outras válvulas e comportas da usina, 52 no total.
+
+2. Desenvolvimento de solução para calibração ágil de megômetros
+O desenvolvimento experimental da solução seguiu as seguintes etapas, todas realizadas ao longo de 2021:
+-Especificação dos requisitos, com os valores mínimos e máximos de tensão dos magômetros
+-Estudo e simulação virtual da solução
+-Projeto da placa do circuito divisor de tensão - elaboração do layout
+-Confecção das placas (2) com apoio de um fornecedor
+-Montagem das placas - solda dos componentes eletrônicos (resistores, bornes, etc.) realizada pela equipe interna do projeto
+-Testes utilizando um megômetro certificado para validação da funcionalidade e calibração da placa
+
+No novo processo concebido, a calibração da placa é realizada com a aplicação de 1kV na entrada da mesma a partir do calibrador multifunções, e medido 1V na saída da placa com um multímetro de precisão. Para calibração do megômetro, é retirado o calibrador padrão multifunção da entrada da placa e conectado o megômetro que será calibrado.
+
+Dados:
+-Resistência Equivalente de 16Mohm
+-Circuito Série de Série de 106 resistores 150k/5Watts
+-Trimpot de precisão para ajuste fino
+
+Tensão Máxima=60kVcc
+Corrente nominal do circuito=3,748mA
+
+A)Conjunto Série Equivalente de 16Mohm
+Resistência de ajuste fino 8,004kohm (Precisão de Calibração)
+B)Tensão de Entrada-Simulada 60kV
+C)Simulação Final
+Tensão entrada=60kV
+Tensão saída=60V
+
+Em resumo, para cada 1kV aplicado na entrada da placa tem-se precisamente 1V na saída, dividindo por 1.000 o valor da entrada.
+
+3. Validação da eficácia do sistema de proteção ‘Arcflash’ aplicado à Cubículos de Média Tensão:
+As seguintes etapas foram realizadas neste desenvolvimento experimental:
+-Definição de requisitos de segurança
+-Pesquisa de tecnologias de proteção elétrica para média tensão disponíveis no mercado
+-Definição da tecnologia mais adequada, conforme requisitos definidos
+-Parametrização do relé, seguindo norma de proteção IEC ANSI 50 – ArcFlash
+-Definição dos procedimentos de teste da eficácia do novo sistema (principal desafio do projeto)
+-Testes sobre piloto, em ambiente relevante
+-Instalação do sistema nos demais cubículos da unidade
+
+INFORMAÇÃO COMPLEMENTAR: - Descrição do Elemento Inovador – (3) Validação da eficácia do sistema de proteção ‘Arcflash’ aplicado à Cubículos de Média Tensão:
+A inovação está no pioneirismo de uso do sistema de proteção ‘arcflash’ no barramento de cubículos de média tensão em usinas de geração de energia no país. Este sistema conta com um sensor óptico para detecção do arco eléctrico e comunicação via fibra ótica com o relé que faz o corte da corrente. A partir da detecção do arco elétrico, a interrupção da corrente ocorre em 10 ms. O sistema de proteção utilizado anteriormente era analógico, à base de transistores, com tempo de resposta de aproximadamente 1 segundo (100 vezes mais lento). Além disso, a iniciativa inovou na forma de realização dos testes de validação da funcionalidade do sistema, realizados de forma segura, sem precisar colocar em risco os elementos do cubículo.
+
+-------
+
+Resultados alcançados
+1. Evolução dos transmissores de posição de válvulas e comportas de usinas termelétricas: Aumento significativo na disponibilidade e confiabilidade dos sensores e atuadores das unidades 5 e 6 do CTJL, maior agilidade nos reparos dos transmissores, e a eliminação do efeito "zona morta", onde a válvula inicia seu curso de abertura, porém o transmissor não envia de forma imediata para a malha de controle a informação dessa abertura, podendo comprometer a operação.
+
+2. Desenvolvimento de solução para calibração ágil de megômetros;
+Aumento na praticidade e agilidade no momento da calibração dos megômetros por não exigir envio do equipamento para calibração externa, bem como a redução dos custos de calibração.
+
+3. Validação da eficácia do sistema de proteção ‘Arcflash’ aplicado à Cubículos de Média Tensão:
+Aumento da segurança em cubículos de média tensão, evitando acidentes que poderiam colocar em risco vidas e incorrer em perdas de equipamentos.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

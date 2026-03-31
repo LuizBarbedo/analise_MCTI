@@ -1,0 +1,50 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6822 - AFRY BRASIL LTDA. - ANO :2021
+ID_PROJETO: 56765 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento de nova metodologia de projeto para implementação de tecnologias de geração de energia e iluminação sustentáveis
+DESCRIÇÂO: O segmento de energia vem ampliando o desenvolvimento e o consumo de novas tecnologias a fim de utilizar algumas formas de geração de energia renováveis. Existem diversas tecnologias com o foco na geração de energia renovável,  a Pöyry se posiciona com uma plataforma de tecnologia com objetivo do progresso no fornecimento de sustentabilidade e soluções sustentáveis para a próxima geração.
+Desse modo, a linha de pesquisa visa a construção de tecnologias avançadas para análise, interpretação e criação micro usinas de geração de energia solar para atender as demandas de carregadores de baterias para empilhadeiras ou carros elétricos que possam existir no site do cliente visando a economia de energia elétrica, incluindo ainda a aplicação do conceito de iluminação mista, ou seja, uma mesclagem de iluminação natural e artificial, sendo que a iluminação artificial teria a capacidade de medir a intensidade da natural e compensar essa intensidade caso a mesma baixe dos níveis preestabelecidos.
+Com a junção das tecnologias descritas acima, além de disponibilizar um sistema de geração de energia renovável, a empresa possibilitou uma análise para melhoria de produtividade com complemento do projeto junto a outros para os sistemas atuais de geração e para utilização de energia que possa ser aplicada a diversos clientes.
+PALAVRAS CHAVE: Energia solar,  iluminação Natural/Artificial,  Piezoeletricidade.
+ELEMENTO TECNOLÓGICO: Este projeto apresenta as seguintes iniciativas e novidades:
+Desenvolvimento de novo processo para a implementação conjunta de sensores para captação de movimento e luminosidade, além de outros meios que possam distinguir a necessidade de correção da iluminação, distribuição das energias renováveis captadas para destruição nos setores necessários para economia de energia elétrica, fazendo com que permita a utilização das energias renováveis como complemento para os sistemas atuais de geração e utilização de energia.
+Para alcançar esse objetivo, foram realizadas diversas pesquisas teóricas acerca dos conceitos de piezeletricidade, uma forma de geração de energia que se baseia na obtenção de uma diferença de potencial elétrico a partir da deformação de materiais específicos que, ao sofrerem deformação, esses materiais geram uma carga elétrica que pode ser armazenada e posteriormente utilizada, e estudos sobre aplicação de iluminação mista, além do desenvolvimento de projetos conceituais e projeções em Dialux, Excel e AutoCad para a simulação dos efeitos previstos e esperados. Com isso, o projeto também buscou utilização do conceito de piezeletricidade para chegada do objetivo, na qual seriam aplicados elementos que convertem a movimentação de pessoas no piso utilizando diferenças de potencial mecânico para geração da tensão elétrica, permitindo a geração e armazenamento dessa energia para utilização de formas dentro do consumo na empresa.
+Para isso, foi concebido o desenvolvimento de um projeto piloto com o objetivo de verificar e simular as necessidades e limitações das novas tecnologias, com foco especial no desenvolvimento de uma portaria autossustentável que seria energizada através de placas na entrada de caminhões utilizando o conceito apresentado anteriormente. O piloto compreenderia todas as etapas de um projeto padrão, visando verificar a funcionalidade e requerimentos mínimos das tecnologias e validando a pesquisa teórica, além de garantir a viabilidade econômica da aplicação real destas tecnologias dentro da nova metodologia de projeto.
+DESAFIO TECNOLÓGICO: A principal barreira da linha de pesquisa era a falta de conhecimento da Pöyry com relação a essas tecnologias, um fator que foi ainda mais agravado pelo baixo know-how presente no mercado brasileiro. Assim, foram realizadas buscas em catálogos e especificações de fabricantes no exterior, além de estudos acerca dos conceitos básicos de cada tecnologia para garantir o entendimento da real aplicação de cada uma e como os projetos deveriam ser montados.
+Após essas análises, devido ao alto custo de implantação identificado, foi necessário repensar a metodologia de desenvolvimento de projetos envolvendo essas tecnologias de modo a garantir sua viabilidade. Para solucionar essa questão buscou-se encontrar alternativas a metodologia existente, realizando simulações nos softwares Dialux e AutoCad do posicionamento e dimensionamento dos ambientes e tecnologias, além de mais pesquisas teóricas, envolvendo normas técnicas e outras possíveis restrições e certificações que pudessem interferir em projetos futuros. Uma vez finalizado esse processo, foi realizado uma prova de conceito com os softwares descritos visando a validação do processo.
+Visto que a Pöyry nunca havia lidado com esses tipos de tecnologias, também foi necessário realizar uma série de estudos acerca dos fornecedores existentes no país, uma vez que seria importante identificar as peculiaridades não só dos produtos criados por cada um, mas também identificar a capacidade produtiva e a maturidade de cada um. Esse passo se mostrou crítico na reavaliação da metodologia de montagem de projetos, uma vez que afeta todo o processo de decisão e modelagem da estrutura dependente da tecnologia, podendo até inviabilizar certos projetos caso as especificações não possam ser atendidas.
+METODOLOGIA: 1) Pesquisa sobre o estado da arte das tecnologias (2021)
+2) Realização de simulações iniciais para prova de conceito (2021)
+3) Verificação de normas técnicas e certificações para aplicação das tecnologias (2021)
+4) Realização de estudos luminotécnicos (2021)
+5) Desenvolvimento de piloto para validação das pesquisas (2021)
+6) Estudo de viabilidade inicial (2021)
+7) Estudo e desenvolvimento de fornecedores (2021 – 2022)
+8) Desenvolvimento de projeto básico (2021 – 2022)
+9) Validação do projeto e fixação de especificações (2022)
+INFORMAÇÃO COMPLEMENTAR: Com as pesquisas realizadas até o momento, verificou-se que existe um grande potencial de utilização como uma fonte de energia eficiente para periféricos dos processos industriais.
+A iluminação pertencente a área industrial será instalada antes do início da montagem da máquina, portanto estará em desenvolvimento, contará com 1162 luminárias na área industrial com uma potência a ser instalada para o sistema de iluminação: 260kW (quilowatts). Alinhado ao conceito de indústria 4.0 a infraestrutura do sistema de iluminação permitirá o controle inteligente dos níveis de iluminação. Com relatórios, dimerização total ou parcial manual/ automaticamente, remota/local.
+Vale destacar que a iniciativa do projeto luminotécnico em 3D diminui a distância entre o real e o projetado, permitindo a visualização e participação por parte do cliente nas simulações dos cenários de iluminação, considerando as principais interferências e influências das áreas adjacentes. Tendo como foco principal a segurança, produtividade e eficiência energética
+A integração entre os softwares de cálculo luminotécnico (DialuxEvo) e de modelagem (E3D) permite, além do ganho de qualidade no projeto, uma verificação mais completa das interferências interdisciplinares.
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p><span style="font-family:Verdana, Geneva, sans-serif;">Adicionalmente, recomenda-se a colaboração com instituições de ensino superior e pesquisa, assim como a colaboração com pesquisadores com mestrado e doutorado em áreas correlatas do estudo.</span></p> / A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes.
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO: <p><span style="font-family:Verdana, Geneva, sans-serif;">Adicionalmente, recomenda-se a colaboração com instituições de ensino superior e pesquisa, assim como a colaboração com pesquisadores com mestrado e doutorado em áreas correlatas do estudo.</span></p> / A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes.
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: <p><span style="font-family:Verdana, Geneva, sans-serif;">Adicionalmente, recomenda-se a colaboração com instituições de ensino superior e pesquisa, assim como a colaboração com pesquisadores com mestrado e doutorado em áreas correlatas do estudo.</span></p> / A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes.
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: <p><span style="font-family:Verdana, Geneva, sans-serif;">Adicionalmente, recomenda-se a colaboração com instituições de ensino superior e pesquisa, assim como a colaboração com pesquisadores com mestrado e doutorado em áreas correlatas do estudo.</span></p> / A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes.
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

@@ -1,0 +1,49 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9532 - THERMO STAR EQUIPAMENTOS LTDA - ANO :2021
+ID_PROJETO: 68632 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Substituição de polias
+DESCRIÇÂO: A Thermo Star produz equipamentos de refrigeração para transporte de alta performance e com o melhor custo-benefício do mercado, atuando em todo território nacional e em países da América do Sul, América do Norte e na Ásia. Os equipamentos produzidos são sinônimo de qualidade e prestígio, aliando matérias-primas de última geração e entrega rápida.
+Assim, visando entregar o melhor produto do mercado, a empresa investe em tecnologias que geram melhorias aos equipamentos. No caso em pauta, os avanços foram criados no equipamento diesel, indicado para veículos de médio a grande porte, para continuar gerando segurança e tranquilidade em longas viagens.
+Desse modo, o projeto de pesquisa e desenvolvimento buscou criar correias para o equipamento diesel. O objetivo é desenvolver correias para padrão canal “A”, adequando todo o sistema de polias e reprojetando os componentes e suportes necessários, de modo a garantir melhor funcionamento e confiabilidade do equipamento instalado no cliente final.
+Se tratando do desenvolvimento de melhorias a um produto da empresa com novas tecnologias, desafios apareceram durante as criações e tiveram que ser superados pelos pesquisadores, os quais precisaram se empenhar em estudos, pesquisas e testes.
+PALAVRAS CHAVE: desenvolvimento; tecnologia; melhorias; equipamento diesel; correias; desafios.
+ELEMENTO TECNOLÓGICO: A Thermo Star busca frequentemente por inovação e tecnologias que acrescentem melhorias aos seus equipamentos. Dessa maneira, a empresa inova no projeto em pauta ao melhorar o equipamento diesel, de modo a proporcionar melhor funcionamento e confiabilidade do equipamento instalado no cliente final.
+Desse modo, desenvolvendo novas correias para o equipamento, com padrão canal “A”, adequando todo o sistema de polias e reprojetando os componentes e suportes necessários, a empresa consegue reduzir o desgaste prematuro de correias nos equipamentos a diesel (linha TSD), devido a rotação do conjunto elétrico e diesel.
+Assim, após longa avaliação e análise, foi realizado no projeto a troca de polias do modelo 6PK/8PK para polias modelo 2A. Portanto, a inovação proposta neste projeto foi a realização de nova usinagem dos componentes conforme especificações feitas pelos clientes para atingir um melhor funcionamento e confiabilidade do equipamento.
+DESAFIO TECNOLÓGICO: Mesmo com grande reconhecimento da Thermo Star na produção de equipamentos de refrigeração para transporte de alta performance, a empresa enfrentou diversas adversidades no decorrer do desenvolvimento do projeto, vez que as melhorias realizadas no equipamento diesel, representaram verdadeiras inovações.
+Desse modo, o primeiro desafio encontrado foi identificar qual a principal causa do desgaste prematuro, rompimento e escorregamento das correias do canal PK, que geravam paradas indesejadas no equipamento durante o deslocamento de cargas refrigeradas no cliente.
+Assim, os índices de falhas e as informações relevantes para a identificação do problema chave foram levantados pelo setor de Assistência Técnica, por meio de visitas “in loco” às redes autorizadas espalhadas pelo Brasil, coletando informações relevantes para a identificação do principal fator causador da falha, trazendo ao setor de engenharia evidências com vídeos e imagens para representar o dia-a-dia de operação do equipamento em campo.
+
+Como solução para estes problemas, foi calculado com ajuda de terceiros e projetado internamente nova solução com a utilização de correias canal “A” para transmitir potência de todo o conjunto motor elétrico, diesel, alternador e compressor, gerando a compressão do Fluido refrigerante R404A no compressor. 
+METODOLOGIA: Para execução do projeto, realizaram-se estudos, pesquisas bibliográficas e análises de mercado no gênero para identificação das opções atualmente disponíveis de equipamentos necessários para elaboração do novo produto, bem como suas configurações técnicas.
+Nessa perspectiva, adotou-se uma abordagem ampla na coleta de informações, baseada nas seguintes atividades:
+1.	Realização de levantamento de dados técnico de falha para identificar a principal causa dos problemas com as correias 6PK/8PK;
+2.	Realizado pesquisas e estudos para avaliar a melhor característica construtiva na usinagem dos componentes de transmissão de potência;
+3.	Após o embasamento técnico nas normas, foi realizado pelo departamento de engenharia o modelamento matemático em software de todo o conjunto de polias do sistema;
+4.	Foi realizado desenho técnico para fabricação e encaminhado aos fornecedores para a confecção das peças especificas para projeto;
+5.	Após fabricação, o novo conjunto foi instalado na máquina de testes por um período estimado de 120 dias, acompanhando semanalmente o funcionamento do sistema;
+Nesse âmbito, primeiro foi realizado um estudo de viabilidade das novidades do projeto, ou seja, uma análise fundamentada em dados e pesquisas para enxergar os possíveis resultados de uma ação ou projeto, isto é, observar eram válidas ou não as ações do projeto. Tal estudo foi importante uma vez que evitou possíveis perdas, gastos e traçou uma estratégia assertiva. No mesmo sentido, foram feitos estudos de ambiente, técnico, financeiro e análise de Custo-benefício.
+Em seguida, houve o desenvolvimento dos novos elementos necessários para efetivação do projeto. Ato contínuo, ocorreu a realização de testes em processo e os respectivos acompanhamento de resultados em laboratórios. Por fim, os últimos passos para concretização das melhorias do processo consistiram em validar e verificar os dados obtidos para conclusão.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

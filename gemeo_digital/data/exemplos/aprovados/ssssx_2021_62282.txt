@@ -1,0 +1,37 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62282 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 340300024-Desenvolvimento de sistema automático para isolamento de condutores de cobre 
+DESCRIÇÂO: O projeto compreende a instalação de sistema de movimentação no sentido longitudinal de um carro que realize a cobertura do condutor com papel isolante, na quantidade pré determinada para atendimento das especificações de projeto, através de um sistema de servo motor acionado por comando lógico programável. Atualmente esta atividade é realizada pelo operador, e depende exclusivamente da habilidade e conhecimento do mesmo, e por se tratar de atividade com elevado grau de exigência de qualidade e grande risco de falha do transformador caso não seja executada corretamente, se faz necessária a modernização deste sistema. A meta deste projeto é a automação da atividade, onde através de sistema logico o operador especifica a espessura de isolamento e o comprimento do condutor e a máquina realiza automaticamente o isolamento do condutor.
+
+PALAVRAS CHAVE: Automação, Isolamento, qualidade e tecnologia.
+ELEMENTO TECNOLÓGICO: Desenvolvimento de sistema automático para isolamento de condutores de cobre extra flexível com utilização de papel kraft. A tecnologia compreende a automação de sistema de isolamento para toda a gama de bitolas de condutores otimizando o processo e garantindo a qualidade do isolamento, com a criação de sistema de movimentação longitudinal do dispenser de papel, além de sensores e display onde o operador irá inserir informações como comprimento e espessura do cabo e espessura do isolamento e a máquina realizará o isolamento automaticamente. A máquina atualmente utilizada realiza o movimento giratório motorizado, porém o movimento longitudinal e o passo do isolamento é realizado pelo operador, e depende da habilidade do mesmo para garantir a qualidade do isolamento e a velocidade da operação. Como vantagens à realização deste trabalho é possível destacar a padronização da qualidade do isolamento visto que o passo é contínuo além da produtividade constante, pois os parâmetros de velocidade de isolamento é constante para cada tipo de cabo.
+
+DESAFIO TECNOLÓGICO: Principais desafios tecnológicos:
+- Inexistência de tecnologia nacional para esta aplicação, sendo necessário o desenvolvimento de protótipos e testes preliminares;
+- Dificuldade na construção da lógica e de programação devido às variáveis do processo, sendo possível a aplicação de tecnologia avançada e aumento dos custos do projeto;
+- Necessidade de tempo reduzido de preparação de máquina, mínima interação humana e elevado grau de precisão. Para a redução desta interação, é necessário testes de possíveis equipamentos devido à falta de conhecimento do comportamento da máquina, podendo elevar custos e tempo de desenvolvimento.
+METODOLOGIA: Principais métodos: - Avaliação técnica do processo e análise das variáveis do processo, como transposição de 50% sobre a camada anterior, velocidade e espessura do isolamento; - Desenvolvimento de projeto mecânico, eletroeletrônico e lógico, mencionando possíveis equipamentos a serem utilizados através da contratação de equipe técnica especializada, com conhecimentos de mecânica eletroeletrônica e automação. - Realização de teste de conceito, com correção de possíveis variáveis que comprometam a qualidade do produto; - Ampliação da tecnologia para demais unidades da WEG.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

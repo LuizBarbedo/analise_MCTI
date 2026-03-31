@@ -1,0 +1,37 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7482 - WEG DRIVES & CONTROLS - AUTOMACAO LTDA - ANO :2021
+ID_PROJETO: 60646 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 360600174-Estudo para Compreender e otimizar variáveis do processo de solda a onda
+DESCRIÇÂO: Os parâmetros do processo de solda a onda são, usualmente, ajustados por meio do conhecimento prático utilizando-se do método de tentativa e erro. Como resultado, cerca de 75% dos problemas detectados na inspeção visual pós-solda são defeitos de solda e cerca de 30% dos problemas detectados no teste elétrico do circuito são, também, defeitos de solda. O projeto tem o propósito de desenvolver uma combinação e parametrização otimizada de valores de variáveis de processo por meio de técnicas Seis Sigma com a estruturação de experimentos planejados (DoE). Espera-se uma maior robustez e confiabilidade no processo, garantindo uma melhoria no nível de qualidade especificado e aumento da eficiência da operação de solda a onda de cartões eletrônicos.
+O processo de solda a onda possui um número elevado de fatores e variáveis de produto e processo que influenciam de forma independente ou de forma combinada no resultado final da qualidade da solda. O conhecimento atual é superficial e há pouco conhecimento científico do processo químico e físico que ocorre na máquina no momento da solda, bem como a influência de cada uma das variáveis e a combinação entre elas. O principal desafio é identificar, dentre todos os fatores e variáveis, aqueles que mais impactam nas variáveis de saída, bem como identificar quais os ajustes ótimos e quais as variáveis que precisam ser controladas. Será necessário realizar experimentos e simulações com o objetivo de compreender o comportamento do processo de solda a onda e o emprego de técnicas de investigação Seis Sigma tem o propósito de oferecer robustez e reduzir o tempo de investigação.
+Neste projeto serão utilizadas técnica de investigação Seis Sigma apoiada na metodologia PDSA (Plan, Do, Study, Act) com a utilização de ferramentas como mapa de raciocínio, mapa de processo e produto, análise e validação do sistema de medição (MSE), estruturação de estratégia de amostragem e execução de experimentos planejados (COV para fontes de variação, DoE - Planejamento de Experimentos), com a identificação das combinações entre os parâmetros e validação da solução. Metodologia de gestão de Projetos com a utilização das principais ferramentas para gerenciamento e acompanhamento dos resultados.
+PALAVRAS CHAVE: Placa eletrônica; solda a onda; Seis Sigma; processo produtivo
+ELEMENTO TECNOLÓGICO: Os parâmetros do processo de solda a onda são, usualmente, ajustados por meio do conhecimento prático utilizando-se do método de tentativa e erro. Como resultado, cerca de 75% dos problemas detectados na inspeção visual pós-solda são defeitos de solda e cerca de 30% dos problemas detectados no teste elétrico do circuito são, também, defeitos de solda. O projeto tem o propósito de desenvolver uma combinação e parametrização otimizada de valores de variáveis de processo por meio de técnicas Seis Sigma com a estruturação de experimentos planejados (DoE). Espera-se uma maior robustez e confiabilidade no processo, garantindo uma melhoria no nível de qualidade especificado e aumento da eficiência da operação de solda a onda de cartões eletrônicos.
+
+DESAFIO TECNOLÓGICO: O processo de solda a onda possui um número elevado de fatores e variáveis de produto e processo que influenciam de forma independente ou de forma combinada no resultado final da qualidade da solda. O conhecimento atual é superficial e há pouco conhecimento científico do processo químico e físico que ocorre na máquina no momento da solda, bem como a influência de cada uma das variáveis e a combinação entre elas. O principal desafio é identificar, dentre todos os fatores e variáveis, aqueles que mais impactam nas variáveis de saída, bem como identificar quais os ajustes ótimos e quais as variáveis que precisam ser controladas. Será necessário realizar experimentos e simulações com o objetivo de compreender o comportamento do processo de solda a onda e o emprego de técnicas de investigação Seis Sigma tem o propósito de oferecer robustez e reduzir o tempo de investigação.
+
+METODOLOGIA: -Estudar fisica da falha do processo de soldagem por onda; -Desenvolver mapa do processo; -Desenvolver mapa de racíocinio sobre interação dos fatores na resultante da solda; -Definir experimentos necessários para variáveis; -Planejar experimentos;
+
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>O projeto objetiva a melhoria do processo de solda. Foram identificados itens de descrição, elemento tecnologicamente novo, desafio tecnológico e metodologia em consonância com a Lei do Bem. Após análise, este parecer recomenda o projeto 71 – “Estudo para Compreender e otimizar variáveis do processo de solda a onda" como projeto de pesquisa e inovação tecnológica.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO: <p>O projeto objetiva a melhoria do processo de solda. Foram identificados itens de descrição, elemento tecnologicamente novo, desafio tecnológico e metodologia em consonância com a Lei do Bem. Após análise, este parecer recomenda o projeto 71 – “Estudo para Compreender e otimizar variáveis do processo de solda a onda" como projeto de pesquisa e inovação tecnológica.</p> / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: A empresa apresentou em sua contestação informações novas que pudessem qualificar algumas das despesas como dedutíveis pela Lei do Bem. Todavia, foram apresentadas despesas com eletricidade, gastos médicos com colaboradores e despesas de manutenção. Esses gastos não podem ser ligados diretamente ao desenvolvimento da pesquisa e, geralmente, são contrapartidas ou benefícios da empresa. Por este motivo, tais rubricas não foram recomendadas para aprovação na contestação realizada. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: A empresa apresentou em sua contestação informações novas que pudessem qualificar algumas das despesas como dedutíveis pela Lei do Bem. Todavia, foram apresentadas despesas com eletricidade, gastos médicos com colaboradores e despesas de manutenção. Esses gastos não podem ser ligados diretamente ao desenvolvimento da pesquisa e, geralmente, são contrapartidas ou benefícios da empresa. Por este motivo, tais rubricas não foram recomendadas para aprovação na contestação realizada. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

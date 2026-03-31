@@ -1,0 +1,84 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8144 - ITUMBIARA TRANSMISSORA DE ENERGIA S/A - ANO :2021
+ID_PROJETO: 63143 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento de um Sistema de Monitoramento de Transientes em transformadores de Corrente
+DESCRIÇÂO:
+Os Transformadores de Corrente (TCs) desempenham duas funções significativas nas subestações e nos Sistemas Elétricos de Potência em geral: medição e proteção. Eles permitem medições precisas dentro de uma ampla faixa de correntes, de normal até várias vezes os valores operacionais atuais, e fornecem sinal para acionar funções de proteção associadas a condições anormais ou de falha, garantindo então a integridade operacional do sistema.
+Estudos recentes têm procurado avaliar o número crescente de falhas de transformadores de corrente (TC) relacionadas à sua natureza, como a interação desse equipamento com o sistema de potência ao longo de sua vida útil e possíveis medidas mitigadoras dessas falhas. Nos últimos anos houve uma evolução significativa em instrumentação, hardware e software dedicados à avaliação da condição operacional desses equipamentos, por meio de novas técnicas de monitoramento e diagnóstico, permitindo a utilização de ferramentas diagnósticas não invasivas.
+Entretanto, observou-se que algumas famílias específicas de TCs apresentam altos índices de falha que ocorrem repentinamente, dificultando a identificação das possíveis causas. Em resposta a este problema, a proposta deste projeto objetiva o desenvolvimento e integração de metodologias de diagnóstico e técnicas de monitoramento capazes de identificar e avaliar o efeito cumulativo da interação do sistema elétrico com os TCs, notadamente no seu sistema de isolamento. Portanto, busca-se desenvolver e aplicar um sistema de monitoramento de transitórios em conjunto com o monitoramento de descargas parciais em Transformadores de Corrente em subestações, sendo que para isso medições laboratoriais em relação ao sistema de medição de transitórios foram realizadas com apoio do Laboratório de Alta Tensão do CEPEL.
+A Itumbiara Transmissora de Energia participa de forma conjunta do desenvolvimento deste projeto com outras empresas do Grupo SGBH. Com isso, no ano de 2021 ela colaborou para o desenvolvimento de técnica para medição, referente a metodologia, executando atividades, como:
+• Análise dos Gases Dissolvidos em Óleo Mineral Isolante nos TCs do Bay 9TC9018 antes e após as Manobras na SE Cuiabá.
+• Instalação e Comissionamento dos Sistemas de Monitoramento de Transitórios e de descargas Parciais (IMA-DP) na SE Cuiabá.
+• Definição de modelos para simulação e comparação com medidas transitórias.
+• Definição do procedimento de modelagem e análise das sobretensões e verificação com as medições transitórias efetuadas.
+• Comissionamento dos sistemas de monitoramento de Descargas Parciais IMA-DP e de Transitórios, utilizando apenas HFCTs (Transformadores de Corrente de Alta Frequência).
+
+PALAVRAS CHAVE: Sistema de isolamento,  corrente de fuga para transformadores,  impedância do TC,  simulações computacionais,  transitórios rápidos de corrente,
+
+ELEMENTO TECNOLÓGICO:
+O presente projeto busca adquirir novos conhecimentos, com vistas ao desenvolvimento de processos e sistemas, onde a proposta é desenvolver um sistema com base na corrente de fuga para transformadores de instrumentos de monitoramento (TI), com a finalidade de identificar eventuais fragilidades geradas por eventos elétricos e térmicos sobre o equipamento evitando possíveis falhas catastróficas. Isto inclui desenvolver, aplicar e validar um sistema de monitoramento, testes de site e laboratório, bem como o desenvolvimento de software e perfis para identificar falhas e simulações dos locais mais sensíveis para aplicação dos dispositivos de monitoramento.
+Como elemento de novidade, as informações de resposta em frequência e impedância do TC permitirão o aprimoramento das simulações computacionais e, juntamente com as informações sobre a taxa de ocorrência dos transientes, serão utilizadas para avaliar a criticidade das solicitações e, assim, identificar e indicar a instalação de sistemas de monitoramento nos pontos mais críticos.
+Especificamente no ano-base de 2021, a Itumbiara Transmissora de Energia atuou sobre os sistemas de monitoramento de Descargas Parciais IMA-DP e de Transitórios, utilizando apenas HFCTs (Transformadores de Corrente de Alta Frequência). Durante a instalação com o shunt, a equipe técnica observou a limitação de 20m de cabo triaxial, sendo este comprimento inferior à distância necessária para levar parte do sistema de aquisição (Receptor de F.O. + Osciloscópio digital (PicoScope) + Computador) para a sala de comando em função dos problemas encontrados pela forte indução eletromagnética durante as manobras dos seccionadores.
+Os sistemas de monitoramento de transitórios e o IMA-DP correspondem fisicamente a um conjunto de equipamentos entre componentes, hardware e software que formam cadeias de monitoramento distintas, porém instaladas em um mesmo local, desde o pátio da subestação até os computadores finais localizados na casa de comando. Ambos os sistemas iniciam com sensores instalados na cordoalha de aterramento dos TCs que, ao receberem uma dada solicitação de tensão transitória nos seus terminais de alta tensão, escoam por seus cabos de aterramento correntes também de origem transitória e que podem ser mensuradas com o devido cuidado técnico necessário para que a sua magnitude e característica possam ser as mais verossímeis o possível.
+Além disso, a Itumbiara Transmissora de Energia realizou o desenvolvimento e adquiriu conhecimentos na etapa de análise de sensibilidade dos sensores e do software de medição, em conjunto com a CEPEL, onde foram identificados possíveis fragilidades na isolação dos três TCs monitorados durante e após as manobras.
+Dessa forma, foram realizadas análises onde foi possível por meio de dados obter informações sobre as características dos sinais resultantes do chaveamento nas subestações, que podem ser comparadas com dados de simulação obtidos para análise transitória em transformadores, fazendo com que, aliado à sincronização, colaborasse na análise na amplitude das correntes, frequência e nas tensões entre cada uma das manobras, sendo possível a simulação.
+
+DESAFIO TECNOLÓGICO:
+Ainda há diversas incertezas sobre as pesquisas, principalmente em relação aos estudos sobre os melhores materiais a serem utilizados para construção do protótipo de medição de transientes, pois os materiais precisam atender a diversas características a fim de garantir o funcionamento correto do equipamento em campo durante a corrente de fuga para transformadores de instrumentos de monitoramento, onde as informações de resposta em frequência e impedância serão essenciais para a escolha destes materiais.
+No ano base de 2021, a Itumbiara Transmissora de Energia realizou medições sob demanda Comutando com IMA-DP e sistema de monitoramento de transientes Interruptor de desconexão, análise de óleo antes e depois de todas as operações, medição Impedância no domínio da frequência das calhas e após o exercício Instalação de sistemas de monitoramento (DP e Transitório) na sala de controle para aquisições independentes.
+Um dos principais desafios foi tratar a necessidade de isolação dos TCs em relação às suas estruturas treliçadas que compõem suas bases. Antes da segunda incursão de campo, foi realizado uma programação para a suspensão e isolação dos equipamentos através de placas de material isolante. A medida pressupõe que, como os sensores instalados são transformadores de corrente e que precisam medir a maior parcela possível da corrente transitória que flui pela capacitância distribuída do TC durante as sobretensões geradas, a solução pretendida era não permitir que parte dela circulasse também na referida estrutura que apóia os TCs nas subestações.
+Outro desafio está relacionado as aquisições até o ponto de calibração e ajustes de acionamento necessários para o sistema de monitoramento de trânsito, deparando-se com problemas com o controle remoto dos seccionadores. Este fato, aliado à falta de sincronização perfeita entre os tempos de abertura e fechamento dos seccionadores, colaborou na existência de diferenças significativas na amplitude das correntes, frequência e nas tensões entre cada uma das fases de cada manobra, o que demanda investigações.
+
+METODOLOGIA:
+O desenvolvimento do presente projeto iniciou-se com estudos e pesquisas bibliográficas,  em seguida, estudou-se a viabilidade de aplicação técnica com elaboração do escopo e análise de riscos e objetivos.
+Etapa 1: Desenvolvimento de técnica para medição e monitoramento online de tensões transientes:
+1.1. Definição do sistema de medição e monitoramento dos transientes rápidos de corrente que passam pela conexão de aterramento dos TCs para obtenção de sinais de tensões transitórias,  (2019)
+1.2. Desenvolvimento de software de monitoramento que permite medir, reconhecer e armazenar eventos transitórios nos TCs instalados em uma subestação e acessá-los remotamente,  (2020)
+1.3. Desenvolvimento e montagem de um protótipo para monitoramento de transientes,  (2020)
+1.4. Identificação dos limites do sistema de medição por meio de avaliações laboratoriais para: Caracterização no domínio da frequência do sistema de medição,  Avaliação do fator de escala do sistema de medição,  Avaliação dinâmica do sistema de medição,  Comparação do sistema de medição com transdutores de tensão padrão em laboratório,  (2020/2021)
+1.5. Validação do protótipo do sistema de monitoramento em campo na subestação de 500 kV. (2020/2021)
+Etapa 2: Interação transitória de alta frequência entre os transformadores de corrente e o sistema elétrico de potência:
+2.1. Investigação e avaliação das características das subestações que apresentaram, ou não, falhas nos TCs,  (2019)
+2.2. Simulações de manobras de sequenciamento com modelos de TC simplificados,  (2020)
+2.3. Medições e testes para caracterização de TCs permitindo uma avaliação de modelos para simulação, (2020)
+2.4. Definição de modelos para simulação e comparação com medidas transitórias,  (2020/2021)
+2.5. Definição do procedimento de modelagem e análise das sobretensões e verificação com as medições transitórias efetuadas. (2021)
+Etapa 3: Instalação de ramal real com CT e seccionadora de 500kV:
+3.1. Solicitação de alterações ao fabricante de CTs para fornecer montagens mais eficazes,  (2019)
+3.2. Aquisição de equipamentos de alta tensão para montagem da estação de teste,  (2019)
+3.3. Instalação de protótipos para monitoramento transitório contínuo,  (2020)
+3.4. Registro de dados transitórios experimentais,  (2020)
+3.5. Monitoramento periódico do sistema de isolamento com DGA e DPD. (2020/2021)
+Etapa 4: Desenvolvimento do sistema de medição de PD:
+4.1. Implementação de um sistema otimizado para medição de PD,  (2019/2020)
+4.2. Montagem do protótipo PD para realização de testes de bancada,  (2019/2020)
+4.3. Validações do protótipo em laboratório e na subestação, envolvendo avaliação da interferência eletromagnética causada por ruído externo,  (2020)
+4.4. Definição de critérios para avaliar as condições do equipamento que indica o grau de deterioração do equipamento em avaliação a partir dos dados obtidos pelos métodos de DGA e PD. (2021)
+Durante o ano de 2021, a Itumbiara Transmissora de Energia realizou atividades relacionadas a etapa 2 da metodologia exposta acima, contribuindo com definições para posterior desenvolvimento de simulações que permite medir e analisar modelagens das medidas transitórias.
+
+INFORMAÇÃO COMPLEMENTAR:
+No ano-base de 2021, a Itumbiara Transmissora de Energia conduziu a Etapa 2 “Configuração dos Sistemas de Monitoramento”. O HFCT foi adotado para o monitoramento das sobrecorrentes transitórias pois, em função da tentativa de mudança no osciloscópio digital (PicoScope série 5000), com melhor capacidade de resolução e diferente do empregado na primeira etapa de medição de campo (série 6000) com blindagem externa, os problemas decorrentes da forte indução eletromagnética durante as manobras inviabilizaram o uso do shunt como opção na cadeia de medição de transitórios na segunda etapa. Entendeu-se que o equipamento PicoScope 5000 precisaria estar a no máximo 20 metros do ponto de aquisição dos sinais em função das limitações de comprimento do cabo triaxial que ligava rede compensadora ao atenuador do shunt. Desta forma, constatou-se que 20 metros ainda correspondiam à uma região de forte influência da indução eletromagnética sobre o osciloscópio digital adotado.
+Frente à estes problemas, adotou-se a aquisição dos sinais pelo HFCT utilizando Fibra Óptica (F.O.) e afastando o osciloscópio digital série 5000 até a casa de comando. Além disto, foi necessário a adaptação de uma blindagem para que durante as manobras o sistema de aquisição não fosse interrompido e os sinais transitórios fossem salvos.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

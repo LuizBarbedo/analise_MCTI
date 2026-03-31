@@ -1,0 +1,39 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62134 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 320400093-Desenvolvimento da isolação da solda dos cabos em estatores com base em fitas autofusão
+DESCRIÇÂO: A demanda por estatores aptos a ensaios de spray test, principalmente oriunda de clientes da indústria de óleo e gás, nos motivam a desenvolver uma isolação mais robusta para as conexões dos cabos em estatores bobinados. Poucas empresas estão aptas a ofertar máquina garantidamente robustas para aplicações severas. O processo atual, baseado em fitas de mica e pastas de resina com mica + impregnação vpi, é instável e muito sujeito à mão-de-obra que o executa, levando a possibilidades de reprovação em ensaios, bem como a possíveis problemas de campo no futuro. As fitas autofusão de silicone surgem como alternativa para o processo de isolação. Dois tipos de fita são usados, sendo um deles para nivelamento das juntas, como se fosse um enchimento, e o outro como acabamento, tratando-se de uma fita reforçada com filamento ondulados de vidro, que garantirá a qualidade mecânica do material e da solução.
+As incertezas referentes às classes mais altas de tensão, às propriedades mecânicas das fitas, bem como ao custo dos materiais-candidatos, poderão ser obstáculos e demandarão empenho adicional, caso não sejam obtidos os resultados esperados.
+PALAVRAS CHAVE: Sistemas de isolação; Fitas autofusão; Brasagem; Spray Test; Cabos; Estatores Bobinados; Motores; Geradores.
+ELEMENTO TECNOLÓGICO: Como elemento tecnologicamente inovador temos o desenvolvimento de um processo de isolação da solda de cabos de ligação ao enrolamento do estator,. que garanta resistência à água após a soldagem. Isso demanda a combinação de materiais e processo visando atendimento dos critérios de aprovação em ensaios de spray de água. Também é pretendida a eliminação do sistema que usa impregnação VPI como processo, para ganho de competitividade, redução do tempo de espera e menor variabilidade dos resultados obtidos.
+
+DESAFIO TECNOLÓGICO: Como desafio tecnológico superável temos: 1) Necessidade de ensaios de desempenho através de alguns meses de testes de envelhecimento acelerado que correspondam ao tempo esperado de vida útil de 20 anos. A correlação do tempo de vida em laboratório com o tempo de vida em serviço é sempre dificultosa. 2) Viabilidade econômica das soluções propostas. 3) Baixa resistência mecânica deste tipo de material, ocasionando muitos retestes. 4) Indisponibilidade de critérios quanto aos métodos de ensaio presentes em normas. 5) Indisponibilidade de materiais fabricados no mercado local.
+
+METODOLOGIA: Finalizar acompanhamento Spray test.
+Competências envolvidas: elétrica, mecânica, química, fabricação e laboratorial.
+INFORMAÇÃO COMPLEMENTAR: As incertezas que envolvem a durabilidade dessa solução em serviço implicam em redirecionamentos frequentes dos trabalhos, dificultando o andamento.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de pesquisa e ensino superior, assim como a participação de colaboradores com mestrado e doutorado.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:
+As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:
+As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

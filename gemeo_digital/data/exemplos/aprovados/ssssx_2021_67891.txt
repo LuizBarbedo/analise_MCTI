@@ -1,0 +1,92 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9338 - CESP - COMPANHIA ENERGETICA DE SAO PAULO - ANO :2021
+ID_PROJETO: 67891 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento de metodologia de monitoramento de encostas com a utilização de VNT’s (Aquático e Aéreo)
+DESCRIÇÂO: O Brasil é o terceiro maior país do mundo em capacidade de geração de energia hidroelétrica. Em 2020, a energia hidrelétrica correspondeu a 63,8% da geração de energia elétrica no Brasil. Para tanto, faz-se necessária a instalação e operação de reservatórios de diferentes portes e sistemas de operação, os quais possuem uma série de aspectos ambientais relevantes envolvidos na sua gestão.
+
+Um destes aspectos ambientais relevantes é a questão das erosões marginais em reservatórios. Esse tema também vem sendo considerado como um tema ambiental de grande importância no que se refere à gestão de empreendimentos hidrelétricos. Essa questão é interessante pela sua complexidade e pela sua abrangência, pois trata-se de uma questão que atinge potencialmente a praticamente todos os empreendimentos hidrelétricos, em maior ou menor escala. Além disso, trata-se de uma questão de grande relevância social, posto que envolve os agentes de geração; os órgãos públicos, sobretudo os ambientais, e a sociedade civil.
+
+Especificamente no caso da Auren, é importante ressaltar que a empresa monitora 343 processos erosivos e 51 obras de contenção no reservatório da UHE Porto Primavera. Estes pontos possuem diferentes periodicidades de monitoramentos, conforme seus graus de criticidade. Contudo, pode-se afirmar que ao menos uma vez ao ano todos os pontos são vistoriados, sendo que em 83 destes processos, além da inspeção visual, também são realizados levantamentos topográficos.
+
+Os levantamentos topográficos de processos erosivos, em geral, são atividades laborais de grande risco, dadas as condições de declividade e instabilidade dos terrenos em que são realizadas, bem como pela necessidade de deslocamentos aquáticos. A busca de técnicas que aumentem a precisão dos levantamentos e reduzam os riscos aos trabalhadores é, portanto, fundamental neste tipo de trabalho.
+
+Este Projeto de P&D ataca exatamente estes aspectos de melhoria da precisão e de redução dos riscos laborais.  O objetivo do Projeto é o desenvolvimento de técnicas e metodologias para monitoramento, modelagem e mensuração da evolução de processos de erosão marginal com base em dados de aerolevantamento, imageamento de custa distância e batimetria com sensores embarcados em plataformas autônomas (drone e embarcação aquática).
+
+Neste contexto, o Projeto em tela é muito importante porque, apesar de tamanha importância e complexidade, ainda se verifica uma baixa produção acadêmica sobre esse assunto e pouca profundidade nos programas de gestão dos empreendimentos hidrelétricos.
+PALAVRAS CHAVE: VNT’s, inspeção subaquática, gestão de processos erosivos
+ELEMENTO TECNOLÓGICO: A originalidade deste projeto encontra-se na integração de dados de diferentes fontes, e adquiridos com uso de diferentes sensores e técnicas, para a modelagem e monitoramento dos processos erosivos e de seu entorno, seja em áreas secas ou submersas, utilizando-se veículos autônomos.
+
+A utilização de plataformas aéreas autônomas para aquisição de dados para fins de monitoramento de processos erosivos por si só já é uma inovação no setor elétrico. Já a utilização de plataformas autônomas aquáticas para a aquisição de dados batimétricos é uma novidade no mercado e não há registro de sua aplicação em estudos envolvendo processos erosivos e o impacto destes no entorno.
+
+Portanto, tal originalidade poderá ser encontrada em alguns produtos deste projeto, os quais não existem ou não estão disponíveis para as empresas do setor, tais como:
+?	Uso de veículos não tripulados para o monitoramento de erosões marginais em reservatórios;
+?	Desenvolvimento de processamento de nuvens de pontos geradas a partir de imagens fotográficas obtidas com câmeras RGB;
+?	Desenvolvimento de configuração de aplicação em sistema WebGis para realização de estudo comparativo, de rápida e fácil aplicação, para avaliação da evolução dos processos erosivos em margens de reservatórios;
+?	Desenvolvimento de metodologia para a aquisição e processamento integrado de dados de aerolevantamento e batimetria visando a modelagem tridimensional dos processos erosivos;
+?	Desenvolvimento de critérios de análise e criticidade da evolução dos processos erosivos baseados em dados de levantamentos periódicos.
+
+Conforme exposto, com detalhe, no item Pesquisas Correlatas, no geral, há pouca ou nenhuma produção e divulgação técnica e científica dos procedimentos e metodologias propostos para este projeto, especialmente para a elaboração dos produtos descritos acima. Posto que eles estão concentrados no estudo de técnicas de recuperação dos processos erosivos, porém, nem sempre baseados em uma base de dados confiável do comportamento destes processos, em relação à sua evolução.
+
+Tal ineditismo também pôde ser comprovado por meio levantamentos realizados em bibliotecas de grandes universidades brasileiras, em Anais de edições do CITENEL - Congresso de Inovação Tecnológica em Energia Elétrica e em publicações da Revista de P&D ANEEL. Além destes levantamentos, a troca de informações com outros agentes do setor, também comprovam a ausência de pesquisas e projetos com o escopo ou a finalidade prevista nesta proposta.
+DESAFIO TECNOLÓGICO: O primeiro desafio tecnológico, vencido nesse primeiro ano do projeto, foi a adaptação de uma embarcação remotamente pilotada concebida para uso em lagos e lagoas para a operação num reservatório de UHE sujeita às condições operacionais (vento e ondas) completamente distintas. Inicialmente avaliou-se a montagem total de uma embarcação autônoma ou a adaptação de uma alternativa disponível no mercado. Optou-se pela segunda opção em virtude dos custos e do tempo para implantação das adequações necessárias. Os primeiros testes do equipamento confirmaram que a vedação do equipamento era o grande desafio no uso deste equipamento, devido a exposição a navegação em ambientes de ondas severas.  . Foram realizadas duas etapas de adequação até a sua versão final. Também se fez necessária a adequação de conexões elétricas   de forma a proteger melhor estas conexões da ação da água, devido ao espaço interno da embarcação ser reduzido e não permitir alterações estruturais.
+
+Outro desafio tecnológico do Projeto, a se desenvolver durante o ano de 2022, é a integração, com precisão, dos dados de diversos sensores (3 câmeras fotográficas, 1 ecobatímetro e 3 receptores GNSS), para o desenvolvimento de modelos tridimensionais dos processos erosivos que permitam a realização de medidas e a quantificação do avanço do processo.
+
+O terceiro grande desafio tecnológico a ser desenvolvido no âmbito do Projeto é o desenvolvimento de ferramentas no SIG   utilizado pela Auren. Estas ferramentas a serem desenvolvidas são específicas para a utilização dos dados coletados pelos sensores utilizados no Projeto, visando a utilização das mesmas pela equipe de Engenharia da Auren. Tais ferramentas não estão disponíveis nos SIGs disponíveis em mercado e serão adequadas aos procedimentos de trabalho na elaboração dos projetos de obras de contenção de processos erosivos.
+
+Por fim, o último desafio tecnológico do projeto é o desenvolvimento dos procedimentos de comparação entre diferentes levantamentos realizados em um mesmo terreno.   Tal comparação já é realizada em diversas situações, pelos diferentes gestores de reservatórios. Contudo, estes processos analíticos não estão sistematizados e os procedimentos comparativos não estão publicados em manuais e periódicos reconhecidos nacionalmente.
+METODOLOGIA: A metodologia proposta se vale de técnicas de topografia clássica, fotogrametria, batimetria e modelagem tridimensional para a obtenção de informações espaciais georreferenciadas e precisas acerca dos processos erosivos, permitindo assim o acompanhamento ao longo do tempo de sua evolução e quantificação de material erodido e depositado.
+
+Topografia Básica
+Dois conjuntos distintos de dados topográficos estão sendo considerados, as estações de referência e os pontos de verificação. As estações de referência serão sempre uma por área de monitoramento e têm por objetivo apoiarem o posicionamento GNSS dos demais equipamentos em método de levantamento relativo cinemático.
+
+No método de posicionamento relativo cinemático (Post-Processed Kinematic - PPK), um receptor GNSS ocupa uma estação de referência cujas coordenadas são previamente conhecidas, e um segundo receptor deve ser instalado na plataforma que realizará o levantamento. Ambas as plataformas selecionadas para o projeto, VARP e Catamarã, possuem receptores PPK embarcados e permitem a utilização desse método de posicionamento.
+
+O segundo conjunto de dados topográficos diz respeito aos pontos de verificação (check points – CK) que serão utilizados para a verificação das precisões dos produtos gerados em cada um dos levantamentos. Em virtude das dimensões reduzidas de cada área de monitoramento, utiliza-se ao menos quatro pontos em cada área, três deles para a definição mínima de um sistema de coordenadas e um para redundância.
+
+Aquisição de Imagens Aéreas
+No P&D, os aerolevantamentos têm por finalidade prover imagens aéreas das áreas monitoradas para a geração de modelos de superfície e ortomosaico de imagens, de caráter regular. Dessa forma, foi criado um único plano de voo que será cumprido em cada uma das campanhas de campo, o qual já considera a legislação específica para operação de VARPs.
+
+Abaixo apresenta-se a síntese dos parâmetros de voo a serem adotados
+
+•	Altura de Voo: 120 metros
+•	GSD: 3 centímetros
+•	Sobreposição Lateral: 80%
+•	Sobreposição Longitudinal: 80%
+
+Considerando as características dos equipamentos selecionados, do voo e os métodos de posicionamento a serem adotados, é esperada a obtenção de produtos fotogramétricos com precisões de cerca de 10 cm em planimetria e 15 cm em altimetria.
+
+Processamento das Imagens
+As imagens do terreno coletadas a partir de plataformas aéreas são amplamente utilizadas como insumos às atividades de mapeamento. Tais imagens, quando submetidas a tratamentos matemáticos e computacionais específicos, dão origem ao MDT e Ortomosaico de Imagens.
+
+No contexto do P&D, os MDTs das áreas a serem monitoradas são de extrema importância pois, a partir deles é possível conhecer informações básicas sobre a área (altitude, declividade da vertente, desnível em relação à lâmina d’água, entre outras) e realizar a medição da evolução do processo erosivo através da medida do volume de material erodido entre duas épocas de monitoramento.
+
+O Ortomosaico de imagens é uma imagem que cobre a área total do levantamento, que tem por característica a escala constante e a projeção ortogonal, possibilitando a realização de medidas precisas sobre um ortomosaico como se fossem realizadas sobre o terreno e o acompanhamento do aumento da extensão dos processos erosivos ao longo da margem do reservatório.
+
+Levantamento Batimétrico
+O uso de batimetria para o monitoramento da gênese de processos erosivos é um dos grandes diferenciais desta proposta metodológica. As metodologias baseadas em levantamentos topográficos baseiam-se apenas na medida do deslocamento da crista do processo erosivo, desprezando o que acontece sob a lâmina d’água.
+
+Além da capacidade de detectar a formação de pipings e erosões subsuperficiais que acabam por desencadear o colapsamento de grandes blocos de materiais das margens dos reservatórios, a batimetria tem papel importante no estudo da deposição desse material no entorno dos processos erosivos, ou do carreamento do mesmo rio abaixo.
+INFORMAÇÃO COMPLEMENTAR: N/A
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

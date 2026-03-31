@@ -1,0 +1,98 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9071 - MATRIX COMERCIALIZADORA DE ENERGIA ELETRICA S/A - ANO :2021
+ID_PROJETO: 66818 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: NOVA PLATAFORMA DE MEDIÇÃO E DIMENSIONAMENTO DA DEMANDA DE ENERGIA
+DESCRIÇÂO: O presente projeto consiste no desenvolvimento soluções experimentais visando a viabilização de uma plataforma tecnológica proprietária, capaz de capturar a medição de consumo de usuários em plataforma externa da Câmera de Comercialização de Energia Elétrica - CCEE, contanto ainda com mecanismos sistêmicos de aplicação de regras contratuais e flexibilização do faturamento, com base nas variações de consumo, oferecendo, dessa forma, novas opções de contratações para o cliente.
+Por meio da nova solução tecnológica proposta esperava-se otimizar os processos de faturamento dos clientes a partir do correlacionamento de dados relacionados ao volume e preço da energia, exigindo com isso alto grau de precisão e velocidade de processamento de dados.
+O projeto de desenvolvimento experimental foi motivado pela observação de que no mercado de energia, há a possibilidade de clientes e fornecedores formalizarem contratos bilaterais de fornecimento de energia que podem ou ser estar atrelados ao consumo energético e, com isso, apesar do cliente contratar um volume pré-determinado de energia, posteriormente, baseado em seu consumo real, o faturamento poderá ser ajustado com base no montante contratado limitado às bandas pré-definidas, caracterizando assim a flexibilidade de fatura vs. consumo.
+Adicionalmente, em muitos casos, empresas compram parcelas de sua carga em diferentes momentos, com objetivo de estabelecer diferentes faixas de preço, com isso, é possível que um mesmo cliente tenha mais de um contrato com diferentes condições comerciais e opcionalidades, tais como flexibilidade ou outras, tornando o faturamento mensal de cada cliente um processo com diversas etapas de apuração.
+Atualmente a apuração do volume final é feita após a leitura da medição de energia, realizada pela distribuidora local e comunicada sistemicamente à Câmera de Comercialização de Energia Elétrica - CCEE. A partir disso, a CCEE disponibiliza um serviço de consulta chamado SCDE, que pode ser consumido via API específica e, com isso, disponibiliza o detalhamento horário do consumo mensal de cada ponto de medição.
+Além da flexibilidade, o processo de preparo para o faturamento mensal energético no mercado livre, frequentemente também levará em consideração outras variáveis, como:
+•	Consumo horário para fins de modulação e cálculo de exposição financeira;
+•	Proinfa – programa de incentivo a fontes alternativas de energia;
+•	Perdas elétricas;
+•	Entre outros.
+A partir das atividades de desenvolvimento experimental conduzidas ao longo do ano-base, esperava-se viabilizar um novo algoritmo que fosse capaz de coletar e processar os arquivos de medição, diretamente da CCEE e correlacioná-los automaticamente às respectivas regras contratuais, armazenadas em outra plataforma, configurando assim um processo multissistêmico e de alta complexidade em função das variações de padrões de dados e formatos de comunicação.
+
+PALAVRAS CHAVE: Medição de consumo energético; Consumo horário; SCDE; ajuste de contrato de energia; flexibilidade contratual; modulação; PLD; previsão de consumo; atendimento à carga; 
+ELEMENTO TECNOLÓGICO: Concepção de nova solução tecnológica para a coleta e orquestração de dados entre diferentes plataformas, possibilitando com isso, neste contexto específico de P&D, processar dados de medição de energia em períodos preestabelecidos, e análise de regras de faturamento de forma automática a partir da modelagem de parâmetros contratuais.
+A solução experimental concebida foi embarcada em interface web a partir da qual o cliente possa, de forma autônoma, verificar os cálculos, efetuar recompra ou comprar mais cotas de energia no mercado de curto prazo.
+A partir da nova solução tecnológica concebida possibilita-se automatiza o processo citado de análise de consumo e fatura, portanto, em preparo para a possível abertura do mercado livre de energia para mais consumidores, viabilizando crescimento seguro, performático e de fácil manutenção.
+A solução tecnológica foi arquitetada, a partir da execução de PoCs levando em consideração a criação de diferentes camadas orquestradas de forma sincronizada, considerando-se frontend, backend e middleware para comunicação com as plataformas e sistemas externos, tornando-a menos complexa graças a equalização dos protocolos de comunicação e algoritmos de transformação e processamento de diferentes modelos de dados.
+Sua viabilização foi baseada na modelagem computacional e de comunicação considerando protocolos TLS associados à SOAP possibilitando, com isso, abstrair a complexidade de comunicação, ao passo que, é disponibilizada uma interface simplificada para uso das informações por meio do estilo arquitetural REST e JSON para tráfego dos dados, substituindo a comunicação convencional considerando arquivos XML e protocolos SOAP.
+DESAFIO TECNOLÓGICO: Um dos grandes desafios tecnológicos do projeto estava relacionado ao desenvolvimento de uma prova de conceito de forma bem estruturada, segura, com baixa complexidade, fácil de manter e com custos baixos, porém sem que houvesse impactos ao potencial de escalabilidade da solução e de modo que a nova arquitetura sistêmica apresentasse, além de viabilidade técnico-funcional levando-se em consideração aspectos relacionados à vulnerabilidade informacional, viabilidade financeira para o processamento de dados em tempo real.
+A partir das experimentações e PoCs realizadas, contatou-se que seria possível utilizar serviços em nuvem, como máquinas virtuais, banco de dados, orquestradores e ferramenta de visualização, associados ao Azure Cloud.
+Além disso, em decorrência da solução experimental proposta envolver a comunicação e integração entre diferentes plataformas e sistemas, houve ainda o desafio relacionado à orquestração de serviços e aplicações entre os sistemas, levando em consideração seus respectivos padrões de comunicação e autenticação, sendo necessário descobrir como seria possível conceber uma solução agnóstica, porém que fosse performática e segura em relação aos processos de tráfego de dados.
+Neste caso, inicialmente foi criado um middleware responsável pela integração com uma das fontes de dados, a CCEE, que por sua vez disponibiliza uma API para consumo de dados de medição, que são necessários para os processos de apuração do consumo do cliente, sendo a comunicação realizada via protocolo SOAP, que possui requisitos específicos como a mensageria XML, além de ser uma estrutura complexa com elevada necessidade de manipulação. Concomitantemente, identificou-se a necessidade de instalar certificado TSL para efetuar a comunicação com a API. Dado a complexidade da solução inicialmente idealizada, foi proposta a concepção de um novo modelo de middleware responsável pela recepção de requisições REST do Billing, automaticamente convertê-los para protocolo SOAP e então redirecionar a requisição para os processos de orquestração.
+A partir da nova solução proposta, constatou-se a viabilidade técnica e funcional da normalização automatizada e performática da estrutura contextual do Billing, porém mantendo as características do SOAP somente no contexto do middleware de modo que não houvesse impactos quanto à confiabilidade e seguridade dos dados processados. A Concepção da solução proposta envolveu ainda o desenvolvimento de mecanismo de integração com o sistema legado onde são persistidos os dados e características de contratos com cada cliente, de modo que o sistema fosse capaz de calcular de forma autônoma o faturamento e acionar os processos de envio dos demonstrativos para os clientes.
+Com isso, identificou-se o desafio relacionado à automatização do processo principal, e seus subprocessos, como por exemplo de recompra e compra no curto prazo, além de respeitar alçadas de aprovação e preços. O desafio decorria do fato da solução, por ser autônoma, envolver a modelagem de informações em diferentes etapas de cálculo, sendo necessário com modelar e orquestrar os serviços de coleta e manipulação de dados, levando em consideração além dos processos em si, o momento de coleta dos dados. A fim de superar tal desafio, foi proposta a integração de solução de monitoria transacional, a fim de identificar automaticamente as alterações de estado dos dados e processos.
+
+
+METODOLOGIA: Inicialmente foram identificados os requisitos para o desenvolvimento de um processo complexo com muitas etapas e dependências, levando-se em consideração o curto prazo para o desenvolvimento.
+A partir disso foi feito um mapeamento dos requisitos e do processo do início ao fim, acompanhado por pesquisas relacionadas à Arquitetura de Software; Integração com CCEE; Integração com sistema legado; Modelagem de BPM; Interface com usuário com foco em agilidade e experiência; Monitoramento de processos.
+Após a fase de descoberta e concepção foi realizada outra pesquisa para definir questões técnicas como o uso de infraestrutura, serviços cloud, banco de dados e padrões de projetos, orientando uma prova de conceito utilizando a metodologia de gestão de projeto Cascata, que é composto pelas seguintes etapas: análise, projeto, implementação, testes.
+Na etapa de análise, é realizado o levantamento de requisitos funcionais e não funcionais, para na sequência serem detalhados e especificados. Após, inicia-se a implementação de todos os requisitos, para então iniciarem os testes e ajustes necessários.
+Por fim, o produto foi disponibilizado para um número limitado de clientes de forma controlada para coletar dados de uso, desempenho, experiência e performance. Com resultados positivos e boas avaliações iniciou-se etapa de criação de backlog de melhorias.
+Resumindo:
+1.	Mapeamento dos problemas e desafios
+2.	Mapeamento dos requisitos de negócio
+3.	Mapeamento do processo
+4.	Levantamento das PoCs necessárias
+5.	Estudos sobre Arquitetura de Software a ser adotada
+6.	Estudo sobre integração CCEE
+7.	PoC de integração com CCEE
+8.	Estudo sobre integração WBC
+9.	PoC da integração com WBC
+10.	Estudo sobre BPM
+11.	Pesquisa sobre ferramenta de BPM em java
+12.	PoC da ferramenta BPM
+13.	Estudo sobre UX (Experiência de usuário)
+14.	Prototipagem de telas e interação com usuário
+15.	Estudo de coleta de dados dos processos
+16.	Pesquisa de ferramentas para orquestração de coleta de dados
+17.	PoC de coleta de dados
+18.	Estudo de ferramentas de visualização de dados
+19.	Estudo sobre nuvem
+20.	Pesquisa sobre qual cloud pública usar
+21.	PoC de serviços e infraestrutura em Cloud
+22.	Desenho e definições da Arquitetura pós conclusões aprendidas nos estudos efetuados
+23.	Criação de ambientes (desenvolvimento, homologação e produção)
+24.	Implementação de infraestrutura
+25.	Configuração de git para hospedagem de código
+26.	Desenvolvimento da integração com CCEE
+27.	Implementação do certificado TSL na infraestrutura da integração com CCEE
+28.	Desenvolvimento da integração com WBC
+29.	Teste da integração com CCEE
+30.	Teste da integração com WBC
+31.	Desenvolvimento das regras de negócio back-end
+32.	Desenvolvimento das telas front-end
+33.	Teste de back-end e front-end
+34.	Desenvolvimento da inclusão do Activiti (ferramenta BPM)
+35.	Testes do Activiti (Ferramenta BPM)
+36.	Validação do comportamento do processo end-to-end, ou seja do início ao fim
+37.	Teste com usuário selecionados
+38.	Backlog de melhorias
+
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / A título de recomendação, sugerimos que para os projetos que tenham prazo de execução superior a um ano, seja apresentado um cronograma analítico que envolva todo o período de execução, com as seguintes informações: i) descrição das atividades realizadas e a ser realizadas em cada ano, a fim de evidenciar a evolução do projeto ao longo dos anos; ii) classificação das atividades em cada ano e III) os dispêndios que foram e serão realizados em cada atividade e ano. Em se tratando de projeto continuado, caso a análise das informações anuais não evidencie o seu caráter inovador, não há presunção de sua aceitação ou compromisso com a manutenção automática do benefício fiscal auferido.
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME: PROJETOS CONTINUADOS TITULO:  CORPO: A título de recomendação, sugerimos que para os projetos que tenham prazo de execução superior a um ano, seja apresentado um cronograma analítico que envolva todo o período de execução, com as seguintes informações: i) descrição das atividades realizadas e a ser realizadas em cada ano, a fim de evidenciar a evolução do projeto ao longo dos anos; ii) classificação das atividades em cada ano e III) os dispêndios que foram e serão realizados em cada atividade e ano. Em se tratando de projeto continuado, caso a análise das informações anuais não evidencie o seu caráter inovador, não há presunção de sua aceitação ou compromisso com a manutenção automática do benefício fiscal auferido. RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / A título de recomendação, sugerimos que para os projetos que tenham prazo de execução superior a um ano, seja apresentado um cronograma analítico que envolva todo o período de execução, com as seguintes informações: i) descrição das atividades realizadas e a ser realizadas em cada ano, a fim de evidenciar a evolução do projeto ao longo dos anos; ii) classificação das atividades em cada ano e III) os dispêndios que foram e serão realizados em cada atividade e ano. Em se tratando de projeto continuado, caso a análise das informações anuais não evidencie o seu caráter inovador, não há presunção de sua aceitação ou compromisso com a manutenção automática do benefício fiscal auferido.
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME: PROJETOS CONTINUADOS TITULO:  CORPO: A título de recomendação, sugerimos que para os projetos que tenham prazo de execução superior a um ano, seja apresentado um cronograma analítico que envolva todo o período de execução, com as seguintes informações: i) descrição das atividades realizadas e a ser realizadas em cada ano, a fim de evidenciar a evolução do projeto ao longo dos anos; ii) classificação das atividades em cada ano e III) os dispêndios que foram e serão realizados em cada atividade e ano. Em se tratando de projeto continuado, caso a análise das informações anuais não evidencie o seu caráter inovador, não há presunção de sua aceitação ou compromisso com a manutenção automática do benefício fiscal auferido. RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: 
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: 
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

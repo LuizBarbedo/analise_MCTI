@@ -1,0 +1,35 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62266 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 310200440-Desenvolvimento de uma célula  automatizada para formação de pacotes de rotores
+DESCRIÇÂO: Este projeto tem como objetivo o desenvolvimento de uma célula automatizada para a formação dos pacotes de rotores. O conceito da célula consiste em cinco operações: abastecimento das chapas, separação e medição dos pacotes, inclinação dos rotores, soldagem do pacote e armazenamento dos pacotes soldados. Desta maneira, há uma redução no custo do processo e eliminação no risco ergonômico para os operadores. Os principais desafios estão na separação do pacote, inclinação e soldagem do pacote de maneira automatizada. Pois o processo atual, essas operações são todas manuais. Com esta automatização pretende-se deixar o processo autônomo e contínuo. O resultado do projeto é ter uma maior competitividade da empresa no mercado através da redução dos custos do processo, com processo estável, melhor aproveitamento da mão de obra, redução de custo de fabricação e aumento da produtividade.
+
+PALAVRAS CHAVE: injeção de rotores; formação de pacotes de rotores; automatização na formação de rotores; rotores em alumínio; solda laser; 
+ELEMENTO TECNOLÓGICO: Desenvolver uma célula robotizada com aplicação de solda laser para junção das lâminas de rotores, formando desta maneira o pacote de rotor. O conceito da célula precisará garantir a separação dos pacotes conforme especificação, a inclinação das ranhuras e a junção das lâminas para movimentação do pacote e posterior processo de injeção do alumínio. Nesta separação de pacotes, como as lâminas tem uma variação de espessura, é necessário que o equipamento consiga absorver essas diferenças e entregue o pacote no comprimento especificado. Na etapa da inclinação do rotor, como há diversas especificações, o equipamento precisará atender diversos ângulos de inclinação, sem comprometer a rigidez do pacote. E por final, a operação de soldagem a laser precisará juntar todas as lâminas do pacote de forma compactada e sem haver uma grande área termicamente afetada.
+
+DESAFIO TECNOLÓGICO: Buscando soluções concretas para este conceito de célula, serão necessários diversos experimentos para validação dos melhores parâmetros para o processo. Onde o maior desafio de processo, está na junção por solda, para não haver uma grande área termicamente afetada, onde o rotor comprometa o desempenho do motor elétrico. Outro desafio, será realizar a separação do pacote padrão de lâminas para o pacote nominal especificado, de modo automático. Pois com a variação da espessura das lâminas, esta separação não é sempre uniforme.
+
+METODOLOGIA: Durante o ano de 2021 buscou-se desenvolver o conceito da célula robotizada através de simulações via software (Robot Studio), além de realizar testes práticos na soldagem das lâminas de rotores em corpos de prova (pacotes de lâminas com diversos tipos de aço para fins elétricos). Também foi fabricado um protótipo em escala 1:1 para simular a inclinação automática das lâminas de rotores. Próximos passos prevê detalhar a célula robotizada com base nos resultados das simulações e testes práticos desenvolvidos ao longo de 2021.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de ensino e pesquisa e pesquisadores com mestrado e doutorado.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Aguardando Analise
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

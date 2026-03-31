@@ -1,0 +1,36 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62130 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 330900072-Otimização da resistência a tração, dos fios de ligação, dos capacitores CMRW, através de solução integrada entre parâmetros da solda elétrica e design de produto levando a eliminação do uso da solda estanho.
+DESCRIÇÂO: Eliminar o uso de estanho, para solda do fio de ligação, na face metalizada das bobinas dos capacitores CMRW, usando somente a solda elétrica e mantendo a resistencia mecânica similar a encontrada quando utilizado a solda com estanho. Na indústria, de forma geral, o uso do estanho, sobre a solda elétrica, visa aumentar a resistencia mecânica da ligação do fio na bobina bem como otimizar a ligação elétrica. Remover o estanho significa ter que compensar os atributos, antes obtido com a solda estanho, fazendo uso somente da solda elétrica. O desafio imposto é justificado pelo ganho econômico na eliminação do uso de estanho e seus respectivos custos indiretos com fontes de solda, ponteias, resistências e as paradas de máquina para efeturar reparos e troca de componentes nas unidades de solda estanho. Também há benefícios ao meio ambiente com eliminação do descarte de fio de estanho.
+
+PALAVRAS CHAVE: Solda; Capacitor; Resistencia; Elétrica; Estanho
+ELEMENTO TECNOLÓGICO: Consiste na pesquisa da eliminação do estanho, mantendo somente a solda elétrica, para contactação dos fios nas bobinas dos capacitores da linha CMRW. O desafio tecnológico está em agregar a solda elétrica resistência mecânica suficiente para suportar as cargas mecânicas a qual é submetida em etapas subsequentes da linha de montagem além de ter o desempenho necessário, no que se refere a resistência elétrica, para atender aos requisitos de produto. Esta tecnologia de processo permitirá eliminação do estanho na solda da bobina; eliminação do consumo de materiais indiretos necessário a solda estanho; eliminação de inspeções e retrabalhos das soldas estanho; aumento de disponibilidade dos equipamentos automáticos de solda pela eliminação de intervenções oriundas das fontes de solda estanho; controle dos parametros do processo de solda elétrica; eliminação do sistema de exaustão para os fumos da solda estanho.
+
+DESAFIO TECNOLÓGICO: Para manter a atratividade financeira do projeto é necessário encontrar soluções técnicas que aumentem a resistência mecânica da solda elétrica sem recorrer ao aumento da camada de zinco das bobinas ou sem alterar o dimensional do fio de ligação. A disparidade da resistência mecânica atual do processo de solda estanho pode não ser atingida com a solda elétrica o que poderia direcionar o projeto para alteração do perfil do fio de ligação para aumento da área de contato e consequente aumento da resistência mecânica necessária. Encontrar o correto parâmetro entre resistência mecânica mínima necessária e alteração mínima no produto é o principal desafio do projeto.
+
+METODOLOGIA: Coletar e quantificar dados do processo atual. Realizar medições, em laboratório, da carga de rompimento das soldas estanho e solda elétrica, comparar dados e definir critérios para o desenvolvimento do processo de união do fio de ligação e bobina somente com a solda elétrica. Utilizar ferramentas da metodologia seis sigma, como análise de componentes de variação - COV, design de experimentos – DOE, análise de modos de falhas e efeitos – FMEA, utilizar mapa de raciocínio, realizar reuniões de brainstorm e reuniões de acompanhamento do desenvolvimento do projeto.
+
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de pesquisa e ensino superior, assim como a participação de colaboradores com mestrado e doutorado.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: O fato de a empresa utilizar como metodologia o rateio mensal dessa despesa é irrelevante. A Lei do Bem permite deduzir gastos com Pesquisa Básica, Pesquisa Aplicada, Desenvolvimento Tecnológico, Desenvolvimento de Protótipo, Tec. Ind. Básica e Apoio Técnico. Todavia, gastos com insumos básicos como energia elétrica são entendidos como obrigação da empresa e não podem ser dedutíveis pela Lei do Bem. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: O fato de a empresa utilizar como metodologia o rateio mensal dessa despesa é irrelevante. A Lei do Bem permite deduzir gastos com Pesquisa Básica, Pesquisa Aplicada, Desenvolvimento Tecnológico, Desenvolvimento de Protótipo, Tec. Ind. Básica e Apoio Técnico. Todavia, gastos com insumos básicos como energia elétrica são entendidos como obrigação da empresa e não podem ser dedutíveis pela Lei do Bem. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

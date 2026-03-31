@@ -1,0 +1,47 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6848 - FURNAS - CENTRAIS ELETRICAS S.A. - ANO :2021
+ID_PROJETO: 57067 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento de processos numéricos de alta ordem de convergência e processos experimentais de baixo custo para o estudo do escoamento de ventos sobre terrenos: estimativa do potencial eólico
+DESCRIÇÂO: Esse projeto traz a utilização da Dinâmica dos Fluidos através da ferramenta CFD (Computational Fluid Dynamic) possibilitando a previsão do potencial eólico de uma determinada região, além da influência direta na aquisição correta de terrenos e turbinas eólicas específicas para um dado regime de vento local. Como consequência, espera-se gerar uma condução de procedimentos que irão influenciar na produção de uma energia elétrica de melhor qualidade e com altos índices de continuidade.
+PALAVRAS CHAVE: Fluidodinâmica; Potencial Eólico; Modelagem Numérica; Modelagem Computacional; Interação fluido-estrutura.
+ELEMENTO TECNOLÓGICO: O projeto tem por objetivo o desenvolvimento de uma ferramenta de simulação de baixo custo formada por códigos e softwares de códigos abertos, associada a experimentos em túneis de vento para estudos de Interação Fluido-Estrutura (IFE), definindo processos de dimensionamento de torres eólicas, previsão de potencial eólico de áreas definidas, além de verificação dos mecanismos de fixação de linhas de transmissão, permitindo, assim, a previsão e minimização das falhas e quebras tanto de torres eólicas quanto de linhas de transmissão. A principal motivação para tal desenvolvimento pode ser descrita como o nível de incertezas nos recursos utilizados atualmente, além da necessidade de realização de modelagem de forma precisa, acurada e rápida, de maneira a garantir os estados de segurança e durabilidade dos empreendimentos de infraestrutura.
+
+A Dinâmica dos Fluidos é exatamente a área da ciência que dá os subsídios para a modelagem dos fluidos, como o ar e água, que são grandes responsáveis por comportamentos dominantes em vários tipos de empreendimentos civis, como sistemas eólicos, painéis fotovoltaicos, linhas de transmissão, barragens etc. Esta ciência possui um espectro gigantesco de aplicações e abordagens, grande parte delas distantes das validações experimentais pelas dificuldades de realização de campanhas laboratoriais, em túneis de vento, ou observacionais, com instrumentações em verdadeiras grandezas. Como cada abordagem é extremamente complexa e oriunda de área particular, cada modelador utiliza uma abordagem de Dinâmica dos Fluidos Computacional mais conveniente, a saber: Diferenças Finitas, Elementos Finitos, Volumes Finitos, Lattice-Boltzman, SPH, Turbulência etc, cada uma destas, ainda, com abordagem matemática, numérica e computacional personalizadas. Para contornar as dificuldades naturais de diferenças entre medidas de posição e variabilidade das respostas obtidas, dificilmente comparadas entre abordagens teóricas, e mais ainda comparadas com respostas oriundas de campanhas experimentais, os modeladores aplicam grandes coeficientes de segurança durante as aplicações. Isso é tão sério que os dados confiáveis utilizados para os estudos de viabilidade e dimensionamento dos empreendimentos eólicos são aqueles obtidos de torres anemométricas, que são menos suscetíveis aos grandes erros conceituais. Assim, o investimento em CFD (Computational Fluid Dinamics), personalizado aos empreendimentos eólicos, e ainda contando com pesquisadores reconhecidos nacionalmente, é algo que, exatamente por carregar grandes desafios, consiste em algo inovador e até pioneiro no cenário atual.
+DESAFIO TECNOLÓGICO: O principal desafio do projeto consistiu na simulação em três dimensões de uma situação de interação Fluido-Estrutura que demandou um alto poder computacional e necessitou de um modelo experimental e até mesmo real para sua validação. Ademais, se faz mister mencionar que para perpassar por essa barreira, utilizou-se de modelagem gradativa, a fim de estabelecer um comparativo entre as respostas simuladas com aquelas observadas em túneis de vento, além da adoção de expansão comedida de domínio iniciando análises em 2D. Atrelado a complexidade deste desafio, houve dificuldades para mobilizar pesquisador referencial no país com a qualificação técnica necessária para o desenvolvimento das atividades propostas.
+
+Nesse sentido, foi necessário um acúmulo de competências para o enfretamento tecnológico proposto, dentre as quais podem ser destacadas o desenvolvimento de algoritmos, implementações computacionais, avaliações de métodos numéricos, modelagem de sinais, experimentação aerodinâmica dentre outras. Essas atividades possibilitaram o enfrentamento de incertezas referentes ao controle de diferenças entre as respostas simuladas e as respostas observadas, a compatibilização metereológica dos processos computacionais dentro de limites convenientes e a discretização da realidade possível de ser modelada teoricamente para a obtenção de respostas adequadas.
+METODOLOGIA: Para o desenvolvimento do presente projeto, foram estabelecidas as seguintes etapas de metodologia:
+1. Desenvolvimentos numéricos (CFD):
+1.1. Especificação e aquisição dos equipamentos computacionais de alto desempenho - workstations e  cluster, de forma a ser possível realizar Simulações Numéricas Diretas (DNS) e/ou Simulação de Grandes Escalas (LES).
+1.2. Código numérico com o Método das Diferenças Finitas de segunda ordem de convergência numérica, em Fortran 90, que resolva as equações de Navier/Stokes para escoamentos incompressíveis.
+1.3. Código bidimensional com metodologia pseudo-espectral de Fourier acoplado ao método da fronteira para estudo de escoamentos sobre corpos fixos com geometrias conhecidas, corpos deformáveis, assim como de escoamentos sobre corpos rígidos e móveis, de modo a desenvolver um método para resolver problemas de Interação Fluido-Estrutura (IFE), estudando o fenômeno de “Vibração Induzida por Vórtices”.
+1.4. Simulações sobre corpos aerodinâmicos, especificamente, aerofólios com geometrias bem definidas (série NACA) e geometrias específicas para pás de turbinas eólicas e turbinas de eixo vertical (TEV). Obtendo campos de velocidade, pressão e as forças de sustentação e arrasto, de tal forma a prover estimativas do potencial eólico extraído do vento e obter a eficiência energética de uma TEV.
+1.5. Adaptação do código “Smoothed Particle Hydrodynamics” (SPH) para simulações sobre corpos com geometrias complexas, com comparações dos resultados do código Pseudo-spectral, validando assim os resultados.
+2. Desenvolvimentos experimentais (Túnel de vento):
+2.1. Mapeamento completo do túnel de vento, incluindo testes de calibração, determinação dos limites operacionais do Túnel de Vento, determinação dos perfis de velocidade e pressão para diversas velocidades de rotação do ventilador, com uso de diferentes equipamentos de medição (tubos de Pitot, anemômetros de fio quente e a técnica “Particle Image Velocimetry", mais conhecida como PIV).
+2.2. Realização de validações para o campo da aerodinâmica de turbinas eólicas utilizando experimentos de escoamentos sobre modelos de terrenos planos e corpos aerodinâmicos como, aerofólios da série NACA e aerofólios específicos de pás de turbinas eólicas.
+2.3. Realização de experimentos de escoamentos sobre protótipos de terrenos de interesse de Furnas.
+2.4. Desenvolvimento de instruções de trabalho (IT) contemplando os procedimentos experimentais realizados no túnel de vento.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

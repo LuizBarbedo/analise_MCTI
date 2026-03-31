@@ -1,0 +1,43 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8740 - ELECTROLUX DO BRASIL S/A - ANO :2021
+ID_PROJETO: 65547 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Electronics Lab Expansion
+DESCRIÇÂO: O projeto consiste no desenvolvimento interno de ensaios de pesquisa e desenvolvimento dos eletrodomésticos da Electrolux, trazendo para o laboratório de engenharia eletrônica da Electrolux (E-LAB) a capacidade de testar e validar a compatibilidade eletromagnética (EMC) dos produtos, para verificação de imunidade contra distúrbios de origem eletromagnética na eletrônica embarcada, que possam prejudicar o funcionamento dos eletrodomésticos.
+Atualmente esse processo é realizado a partir de parcerias com fornecedores externos, sendo que o desenvolvimento desse projeto é algo novo para empresa e implica da realização de pesquisas e novos conhecimentos por parte da equipe técnica da Electrolux para que o mesmo se torne viável.
+A partir desse projeto de pesquisa, é possível imprimir maior velocidade no processo de desenvolvimento de novos produtos e de melhoria nos produtos já existentes. Ademais, a empresa obtém ganhos com a simplificação logística, já que é possível utilizar protótipos menos robustos mecanicamente e nas suas versões mais preliminares nos testes antecipando verificações que normalmente ocorrem em etapas mais tardias no processo de desenvolvimento de produtos, além de obter um padrão de qualidade, mitigar riscos de perda de informações e, otimizar a resolução de problemas.
+
+PALAVRAS CHAVE: Ensaios EMC; Robustez Eletromagnética, Otimização de Processo; Redução de Custos.
+ELEMENTO TECNOLÓGICO: O novo processo traz a incorporação da capacidade de realização de testes EMC no E-LAB, agregando novos conhecimentos conceituais e técnicos para verificação de possíveis distúrbios de origem eletromagnética. Com o desenvolvimento dos testes no laboratório da Electrolux, a empresa consegue garantir maior segurança das informações confidenciais a respeito dos produtos, obtém um maior padrão de qualidade na realização dos ensaios, além de realizar ações corretivas com mais assertividade. Ademais, com a realização dos testes internamente, a empresa retém uma base de dados maior, podendo reavaliar os parâmetros dos testes e modificá-los quando necessário.
+Assume-se que quanto mais tardias as alterações acontecem, mais custosas são para um projeto. O novo processo traz maior simplicidade logística, permitindo o uso de protótipos mais preliminares e menos robustos nos testes, facilitando a adoção de ciclos mais ágeis de testes, aplicação de melhorias e novos testes de confirmação. Com os testes realizados em etapas antecipadas do ciclo de projetos, como testes de robustez e imunidade, a distúrbios eletromagnéticos conduzidos de modo comum e modo diferencial, é possível aplicar soluções com um impacto de custo menor, uma vez que os protótipos estão menos desenvolvidos.
+Para que o desenvolvimento desse novo processo fosse possível a Electrolux investiu em novas tecnologias como: gerador de distúrbios eletromagnéticos e acopladores, que geram condições críticas para o desenvolvimento do novo processo.
+
+DESAFIO TECNOLÓGICO: O desenvolvimento do novo projeto, teve como desafios do ponto de vista de barreira tecnológica a construção de um processo novo, onde a equipe de pesquisadores da Electrolux não possuía conhecimento prévio e os recursos necessários para realização da inovação.
+Durante a etapa de pesquisa, o processo apresentou incertezas em relação ao comportamento do produto (placa), uma vez que os ensaios foram definidos com novos parâmetros e com adição de novos ensaios, para se adequar aos padrões de qualidade nacionais e internacionais da empresa. Durante o desenvolvimento do projeto, houve a necessidade de ajustar os limites de tensão e tempo de alguns ensaios durante a perturbação gerada pelos equipamentos propostos, estabelecendo novos critérios de aceitação/aprovação ao processo de desenvolvimento de eletrônica embarcada da Electrolux.
+Ademais, o desenvolvimento do projeto também consegue mitigar o risco de vazar informações importantes de projetos, possibilitando também a realização de mais testes e correções mais rápidas, otimizando custos, aumentando a qualidade dos produtos e reduzindo os prazos médios da entrega de projetos de produto para o mercado. Em se tratando de mercado com poucas barreiras tecnológicas, time-to-market reduzido é um importante diferencial competitivo.
+
+METODOLOGIA: O desenvolvimento do projeto acontece de maneira sequencial com algumas atividades acontecendo em conjunto, conforme segue: aumento de área física disponível para o E-LAB, com início em janeiro de 2021 e término em abril de 2021; pesquisa de requisitos técnicos para a área de testes EMC e preparação da infraestrutura, com início em janeiro de 2021 e término previsto para maio de 2021; e construção e revisão dos testes com base nas normas internacionais: IEC 61000-4-6, IEC 61000-4-16 e IEC 61000-4-19, normas Electrolux Internas locais (embasadas nas exigências do mercado local), conciliadas com as normas Globais Electrolux.
+O serviço de execução de testes de robustez eletromagnética nos aparelhos eletrodomésticos, está prevista para início em julho de 2022 e previsão de término para dezembro de 2022.
+
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

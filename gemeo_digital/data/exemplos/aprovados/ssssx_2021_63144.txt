@@ -1,0 +1,75 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8144 - ITUMBIARA TRANSMISSORA DE ENERGIA S/A - ANO :2021
+ID_PROJETO: 63144 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Metodologia de manutenção de linha viva e avaliação de confiabilidade sob poluição de cadeias e isoladores com unidades quebradas para transmissão de UATCC
+DESCRIÇÂO:
+A necessidade de manutenção com instalações energizadas vem do fato de que é impossível desligar o sistema elétrico por razões de continuidade do fornecimento de energia e da segurança elétrica do   próprio sistema. Além disso, quanto maior o nível de tensão do sistema de transmissão, maior a importância da linha devido à capacidade de energia transportada, dificultando o desligue.  Manutenção e confiabilidade são dois conceitos importantes quando se trata da operação de Linhas de Transmissão (LTs) em todo o mundo, porém, diferentemente de outros países que possuem linhas de transmissão em ultra alta tensão (UAT ou UHV), as linhas de ± 800 kVCC implantadas no Brasil são compostas totalmente por cadeia de isoladores de vidro, cuja configuração de suspensão é do tipo “I” com uma única cadeia. Além disso, em LTs de corrente contínua, isoladores de vidro estão sujeitos a quebras espontâneas, o que poluição e umidificação no ambiente se fazem presentes.
+Adicionalmente, linhas de ultra alta tensão são caracterizadas por longas cadeias de isoladores com altas capacidades mecânicas, o que eleva consideravelmente seu peso e consequentemente as dificuldades de manuseio. Com o início da operação dessas linhas, e considerando que não há normas ou diretrizes que estabeleçam critérios para manutenção em linha viva em linhas de UAT no Brasil, está sendo proposto o desenvolvimento de metodologia para esse tipo de trabalho, assim como uma avaliação de desempenho dessas linhas com isoladores quebrados sob poluição, a fim de determinar o número limite de unidades intactas que assegurem a segurança do trabalho das equipes bem como a confiabilidade da LT, visando realizar as manutenções necessárias sem o desligamento da linha em questão de modo a reduzir inconvenientes em questões de interrupção da transmissão de energia e custos extras quanto as reformas e trocas de equipamentos necessários.
+Propõe-se então o desenvolvimento de uma metodologia de manutenção em linha viva a ser aplicada na linha de transmissão (LT) de ±800 kVCC para troca de isoladores quebrados, verificar as características mecânicas da ferramenta usada para substituir isoladores danificados na cadeia, e avaliar a confiabilidade sob poluição da linha de transmissão com isoladores quebrados.
+O objetivo será atingido através da realização de diversos testes laboratoriais e em campo para avaliar as diferentes formas seguras de aproximar o eletricista encarregado de trocar o isolador danificado na cadeia, em função das diferentes posições em que esta unidade se encontra, relativamente aos condutores, proposta que difere do procedimento comum de retirada da cadeia completa, uma vez que o eletricista nesta proposta fica sujeito a potenciais flutuantes à medida que precisa realizar o serviço ao longo da cadeia energizada.
+A Itumbiara Transmissora de Energia participa de forma conjunta do desenvolvimento desta linha de pesquisa com outras empresas do Grupo SGBH, durante o ano-base de 2021 ficou responsável pela realização dos testes finais de validação da nova metodologia e do projeto como um todo, realizando a avaliação teórica e em laboratório do comportamento de cadeira de isoladores de UATCC com unidades quebradas sob poluição.
+
+PALAVRAS CHAVE: Linha de transmissão,  Trabalhos em linha viva,  UHVDC,  Poluição em cadeias de Isoladores,
+
+ELEMENTO TECNOLÓGICO:
+A aplicação da tecnologia vácuo ultra alto UHV é recente, o que implica poucas informações disponível na literatura internacional. Desse modo buscou-se analisar as linhas de transmissão já aplicadas na China, uma vez que é o país com maior desenvolvimento neste campo e é, portanto, de onde vem a experiência prática de trabalho ao vivo, tendo LTs aplicando técnicas de manutenção de sistemas em ultra alta tensão em operação desde 2009. Espera-se adquirir conhecimentos para desenvolver novos métodos para melhorar a disponibilidade, diminuir as paralisações e reduzir os gastos relacionados a manutenções destas LTs. Essas demandas resultam na busca de novas soluções para manutenção baseada em condições realizadas na rede sem interrupções de operação.
+Com base no estudo teórico realizado acerca de sistemas de corrente alternada, foram elaborados parâmetros de filosofia de risco de falha para sistemas de corrente contínua, já que não existe informação em norma para sistemas de corrente contínua. Dessa forma, foram calculados a máxima distância de aproximação e o número mínimo de isoladores em perfeito estado para segurança em trabalho de linha viva, obtendo valores teóricos sobre a mínima distância de aproximação (6,58 metros) e sobre o número mínimo de isoladores em perfeito estado na cadeia (31 isoladores com 39 unidades em cadeia).
+Esses valores foram também validados em ensaios práticos aplicando-se nos condutores uma onda de tensão que simula uma falta na linha, foi estabelecido que é a pior condição que pode ocorrer durante o trabalho de manutenção em linha viva. O valor da sobretensão é calculado no projeto da linha, sendo de 1,76 pu. O procedimento deste tipo de ensaio é estabelecido utilizando-se o método dos acréscimos e decréscimos, com aplicação de 30 impulsos de tensão para cada configuração. A mínima distância de segurança foi estabelecida em 6,70 m e o número mínimo de unidades perfeitas foi confirmado em 31 isoladores na cadeia com 39 unidades.
+Após as validações finais dos testes realizados no ano-base de 2021, a Itumbiara Transmissora de Energia alcançou-se as seguintes conclusões quanto a metodologia de trabalho em linha viva e o desempenho de cadeias com isoladores quebrados sob poluição:
+• Os ensaios de laboratório foram fundamentais para determinar com segurança a presença do eletricista com roupa condutiva nas atividades a serem realizadas com a metodologia proposta para troca de isoladores quebrados em procedimento de trabalho em linha viva nas cadeias de suspensão dos bipolos de ±800 kV CC.
+• Os ensaios mecânicos realizados indicam que a ferramenta utilizada para a troca pontual de isoladores quebrados é adequada para aplicação nos isoladores testados.
+
+DESAFIO TECNOLÓGICO:
+Considerando que as etapas trabalhadas durante o ano-base estiveram voltadas para a validação dos desenvolvimentos tecnológicos até o momento, as barreiras encontradas nesse período foram referentes a realização e análise de resultados dos testes finais da metodologia em questão, verificando pontos de melhoria da proposta e garantindo a segurança dos profissionais envolvidos no processo. Para isso, buscou-se realizar uma execução completa do procedimento desenvolvido, porém devido a uma impossibilidade de desligamento da linha de campo que seria utilizada, bem como pelo fato de não ter sido homologado pelo Ministério do Trabalho o uso da roupa condutiva para sistemas de UAT até a data definida para realização desta etapa, foi acertada a execução desta atividade em estrutura montada em laboratório externo.
+Durante a avaliação de desempenho da cadeia com isoladores quebrados sob poluição, o desafio estava atrelado a formulação matemática, elaborada a partir de estudos teóricos e considerando metodologia de propagação de arco elétrico em cadeias energizadas com tensão em corrente contínua. Avaliação experimental desta etapa foi baseada no conceito fundamentado de linearidade estabelecido entre comprimento da cadeia e suportabilidade elétrica para cada nível de poluição adotado. Assim sendo, os ensaios no laboratório consideraram cadeias de isoladores com metade e um quarto do comprimento, ou seja, com 20 e 10 isoladores, respectivamente.
+A formulação proposta, considerando inicialmente o estudo para uma cadeia de isoladores sem isoladores danificados, apresentou grande aderência a resultados disponíveis na literatura onde se relaciona a tensão de descarga (Uf) com o nível de poluição (SDD). Dessa maneira, diferentes arranjos foram ensaiados para se avaliar proporcionalmente a presença de até 4 isoladores quebrados na cadeia original, resultando em dois níveis de poluição, representando as faixas de poluição leve e média. Assim, a equipe técnica desempenhou conhecimento para analisar o método de pré-depósito para a poluição dos isoladores a ser a adotado. Para ensaios de poluição em sistemas de corrente contínua, o processo de umidificação utilizado foi por névoa a vapor.
+Foram utilizadas como metodologias de ensaio no ano base de 2021: Verificação da suportabilidade para um nível de poluição definido com uma determinada tensão aplicada e determinação da tensão com 50% de probabilidade de descarga - U50 - para um nível de poluição definido.
+Muito embora a névoa atingisse um volume na tenda capaz de cobrir todos os isoladores, um fator inesperado foi observado quando o campo elétrico em corrente contínua mais intenso foi aplicado. Houve um processo de repulsão da névoa do centro onde a cadeia estava suspensa em direção à parede da tenda, reduzindo o efeito de umidificação dos isoladores. Esse efeito ficou mais evidenciado nos ensaios de determinação da tensão U50, que levou a níveis muito mais altos do que os esperados. Não foi encontrada na literatura nenhuma referência a esse efeito.
+Os resultados dos ensaios realizados com o nível de poluição leve com a presença de até 4 isoladores quebrados na cadeia completa (40 unidades), assumindo a linearidade mencionada anteriormente, indicam que esta condição não influencia no desempenho da cadeia. O resultado pela formulação matemática também apresenta a mesma avaliação. Contudo, para os ensaios realizados com nível de poluição médio, os resultados obtidos no laboratório indicaram que a suportabilidade da cadeia com até 4 isoladores quebrados não foram confirmados pelos resultados da modelagem. Neste caso, não se pode afirmar que o desempenho da cadeia com isoladores quebrados será observado com nível de poluição maior.
+
+METODOLOGIA:
+Etapa 1 (2019): Revisão do Estado da Arte e Revisão da Literatura,
+Etapa 2 (2019): Definição teórica da distância mínima de aproximação e número mínimo de isoladores de vidro,
+Etapa 3 (2019): Testes de laboratório para determinar a distância mínima de aproximação e o número mínimo de isoladores de vidro,
+Etapa 4 (2019): Testes mecânicos para verificar as características de resistência da ferramenta para substituir isoladores danificados localmente,
+Etapa 5 (2019 - 2020): Desenvolvimento de metodologia de manutenção de linha viva para ± 800kVDC,
+Etapa 6 (2020): Avaliação do cálculo teórico de desempenho de cadeias isolantes UHV DC com isoladores rompidos em condições de poluição,
+Etapa 7 (2020/2021): Realização de teste de laboratório para avaliar o desempenho das cadeias isolantes UHV DC com isoladores sob condições poluídas,
+Etapa 8 (2021): Análise de resultados e elaboração do relatório final.
+
+INFORMAÇÃO COMPLEMENTAR:
+O desempenho do trabalho ao vivo requer o uso de equipamentos, ferramentas e dispositivos que, em muitos casos, são específicos para a operação de trabalho.  O desenvolvimento de equipamentos e ferramentas baseia-se nos requisitos gerados para as necessidades de campo de experiências relacionadas com segurança do método de trabalho.  Com maior nível de tensão de linha, estrutura de torre mais alta e maior extensão da linha, o comprimento e a tonelagem das cordas do isolador aumentam e ferramentas maiores são necessárias para garantir a capacidade de trabalho de diferentes procedimentos vivos.
+Dessa forma, no ano-base de 2021, a Itumbiara Transmissão de Energia conduziu a realização dos testes finais de trabalho ao vivo, estudou e analisou local em total segurança para a realização do teste, desenvolveu ferramentas adequadas e aplicação de regras gerais e de condições de trabalho. As regras estabelecidas em condições de trabalho ao vivo foram baseadas em estudos, cálculos físicos e experimentos, bem como análises de risco no local realizadas para o desenvolvimento do trabalho ao vivo. Foram observados:
+• A presença de até 4 isoladores quebrados na cadeia, considerando o nível de poluição leve, não causa comprometimento no desempenho da linha na tensão de operação.
+• A posição relativa dos isoladores quebrados na cadeia não influencia o comportamento sob poluição.
+• Sugere-se que seja feito um monitoramento periódico da poluição para avaliar a necessidade de priorizar a troca de isoladores quebrados nas regiões avaliadas.
+• Modelo matemático aderente a resultados experimentais para cadeias sem isoladores quebrados (muitos resultados).
+Após as validações finais dos testes realizados no ano-base, alcançou-se os seguintes resultados quanto a metodologia de trabalho em linha viva e o desempenho de cadeias com isoladores quebrados sob poluição:
+• Definição de procedimento de troca de isoladores quebrados localmente na cadeia, sem a necessidade de retirada da cadeia completa.
+• Desenvolvimento de uma aplicação da mesma metodologia para as cadeias de ancoragem,
+• Elaboração de documento-base para a criação de Manual com o passo a passo para as intervenções com técnica de linha viva.
+• Confirmação da suportabilidade elétrica para cadeias de suspensão com até 4 unidades quebradas sob condição de poluição leve.
+• Indicação da necessidade de monitoramento do nível de poluição em diferentes pontos da linha para avaliação da necessidade de intervenção preventiva, aplicando-se o procedimento estabelecido de deslocamento do eletricista com roupa condutiva para executar a coleta de poluição sem a necessidade de retirada da cadeia.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

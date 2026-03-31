@@ -1,0 +1,66 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6848 - FURNAS - CENTRAIS ELETRICAS S.A. - ANO :2021
+ID_PROJETO: 57054 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento de sinergia entre as fontes hidrelétrica e solar com armazenamento de energias sazonais e intermitentes em sistemas a hidrogênio e eletroquímico SHSBH2
+DESCRIÇÂO: Este projeto trata do desenvolvimento de sinergia entre as fontes hidrelétrica e solar com armazenamento de energias sazonais e intermitentes em sistemas a hidrogênio e eletroquímico (SHSBH2). A proposta consiste no desenvolvimento de três etapas de atividades de pesquisa e desenvolvimento visando caracterizar, projetar, instalar e ensaiar sistemas pilotos de energia solar fotovoltaica e de armazenamento de energia, conjugados às instalações da Usina Hidrelétrica (UHE) Itumbiara.
+
+Neste sentido, foram realizadas (i) análise das características atuais do Sistema Interligado Nacional (SIN), tendo como referência as perspectivas adotadas no planejamento da expansão da matriz energética brasileira, e sobre tecnologias e conceitos de arranjos de aproveitamentos de fontes renováveis de energia e de sistemas de armazenamento de energia, em contexto de interação; (ii) desenvolvimento das especificações adequadas às normas técnicas, avaliações de todos os aspectos envolvidos no emprego de tecnologias de aproveitamento da irradiação solar fotovoltaica em áreas operacionais de usinas hidrelétricas; (iii) implantação, compreendendo todas as fases associadas à montagem eletromecânica, dos sistemas fotovoltaico flutuante, sistema de armazenamento a hidrogênio e sistema de armazenamento eletroquímico, além do sistema de supervisão para dar suporte à operação das plantas e ensaios operativos com as plantas a serem instaladas. Tais desenvolvimentos foram motivados principalmente pela preocupação de Furnas em não emitir GEE - Gás de Efeito Estufa e consequentemente, melhorar a performance da entrega dos produtos aos clientes.
+PALAVRAS CHAVE: Sinergia; fonte hidrelétrica; fonte solar; armazenamento; energias sazonais; UHE; matriz energética. 
+ELEMENTO TECNOLÓGICO: O elemento inovador do projeto é evidenciado pela prática das seguintes atividades: (i) ensaio e estudo da aplicabilidade em larga escala da sinergia entre as fontes solar e hidrelétrica, armazenando a energia gerada a partir da irradiação solar no reservatório da usina hidrelétrica e a partir do despacho conjugado das duas fontes; e (ii) emprego de sistema de armazenamento a hidrogênio, o que ainda não existe em operação no Brasil e é a única tecnologia que permite o armazenamento de volumes de energia da ordem de grandeza de TWh, compatível com a escala das fontes de energia do SIN; (iii) aprimoramento de suporte flutuantes para painéis fotovoltaicos em reservatórios de usinas hidroelétrica; (iv) desenvolvimento de sistema supervisor de comando e controle da planta de armazenamento de energia.
+
+Quanto ao sistema de armazenamento de hidrogênio, o hidrogênio é utilizado na indústria há bastante tempo. Entretanto,  a inovação proposta nesse projeto está relacionado ao modo como o Hidrogênio é obtido, de maneira que, no projeto em desenvolvimento, a inovação no Brasil é a forma como esse passa a ser retido. O Hidrogênio a ser obtido no projeto em andamento é denominado ""Hidrogênio Verde"" pois é obtido a partir da hidrólise da água utilizando energia limpa e renovável. Desta forma não há emissão de GEE - Gás de Efeito Estufa nem na obtenção nem na utilização.
+
+Com relação ao progresso da inovação, em 2021 permaneceu latente a necessidade de expansão e continuidade de determinados estudos e análises visando o desenvolvimento de algumas etapas do processo, de realização de discussões técnicas sobre a interligação da potência, bem como análise sobre a viabilidade de implantação da tecnologia em campo para compreender a melhor forma de emprego do sistema inovador em desenvolvimento. Ademais, cumpre mencionar a dedicação em estudos que permitam a interligação de potência, sendo essa considerada necessária no tocante às questões de segurança para a introdução de sistemas de energia alternativa interligados a sistemas tradicionais de geração e transmissão de energia, o que representou um avanço na pesquisa e no seu caráter de inovação.
+DESAFIO TECNOLÓGICO: Para o desenvolvimento do presente projeto, destaca-se a seguintes barreiras tecnológicas:
+1. Definição dos arranjos técnicos, regulatórios e comerciais de plantas de fontes renováveis de energia. O aumento da participação de plantas de fontes renováveis torna os sistemas de armazenamento de energia, tanto de hidrogênio quanto eletroquímico, como uma forma de estabilização do sistema. Sua montagem eletromecânica, ensaios operativos, e avaliação de custos permite o desenho e a aplicação das respectivas tecnologias em larga escala. Cumprindo mencionar que para que haja a inserção desse tipo de sistema, foi necessário a realização de estudos para cada sítio em que foi instalado, de maneira que esses apresentam características diferentes e a solução a ser adotada variou de acordo com a peculiaridade do caso. É válido dizer que este desafio permaneceu em 2021, contudo, a partir das atividades executadas foi possível concluir que a inserção deste tipo de sistema vai necessitar de estudos aprofundados para cada sítio onde for instalado. Os sítios, no caso UHE ou SE tem características diferentes e a análise desta inserção deverá ter solução caso a caso.
+2. No âmbito de aplicação dos resultados a serem alcançados com o presente projeto de pesquisa e desenvolvimento pode ser evidenciado a sua utilidade na orientação de esforços de adaptação do Sistema Integrado Nacional - SIN à transição energética que se observa na matriz energética brasileira, tendência essa corroborada pela observação do mesmo fenômeno em países do hemisfério norte, que precedem o Brasil nessa tendência. Dessa maneira, para que esse arranjo pudesse se materializar, foram realizados estudos com o intuito de propiciar o Operador Nacional do Sistema - ONS a apresentar o conhecimento necessário para sua efetiva utilização. Como resultado, compreendeu-se que a aplicação deste tipo de arranjo deverá ter estudos caso a caso e o Operador Nacional do Sistema - ONS deverá ter conhecimento para que sua utilização seja empregada corretamente.
+3. A acelerada inovação poderá tornar a planta ou as instalações tecnologicamente atrasada. Considerando-se que os equipamentos terão uma vida útil estimada de 20 anos, o desafio é, para o caso de necessidade de manutenção, a obtenção de peças sobressalentes para garantir esta vida útil.
+4. Necessidade de atualização profissional da equipe técnica, para a planta fotovoltaica, na qual é utilizado software que demanda treinamento para uso. Em relação aos equipamentos, os principais riscos são:
+•Rápida obsolescência dos equipamentos;
+•Dificuldade de aquisição de peças de reposição;
+•Indisponibilidade de fornecedores; e
+•Dificuldade de importação.
+5. Ainda, como desafios tecnológicos, pode-se citar a adequação e definição dos equipamentos, pois, devido a sua complexidade tecnológica e principalmente a constante evolução, exige-se estudos e avaliações amplas para definição das melhores opções. Ademais, há algumas questões enfrentadas que necessitam de aplicação e estudo sobre Normas Técnicas Internacionais, uma vez que no Brasil ainda não existem normas aprovadas e em aplicação. Um outro ponto de atenção diz respeito a utilização de plantas de produção de energia de fontes intermitentes em sistemas isolados, situação essa que pode ser mais simples. A interligação ao SIN requer mais estudos sobre sua conexão, de maneira que esses têm sido amplamente debatidos com a equipe do projeto e as equipes de FURNAS (Engenharia e Operação) para a execução desta interligação, que, posteriormente, deverá ser estudada esta interligação em funcionamento.
+METODOLOGIA: A metodologia do projeto ensejará atividades acadêmicas, particularmente na área de desenho e pesquisas com materiais e relativas ao despacho otimizado de unidades geradoras com as duas fontes, solar e hidrelétrica, o que permitirá uma maior aproximação das instituições de pesquisa brasileiras no acompanhamento e eventual contribuição na fronteira do desenvolvimento tecnológico na área de armazenamento de energia.
+Dentre as principais etapas da metodologia a ser empregada no desenvolvimento do projeto e instalação das plantas solar flutuante, e sistemas de armazenamento de energia, nos ensaios, modelagem, comparação, e, estabelecimento de condições de utilização em larga escala, das tecnologias de armazenamento (HES e ABES), na etapa conclusiva das atividades, destacamos:
+•Caracterização, especificação e instalação de uma planta fotovoltaico flutuante, conjugada com sistemas de armazenamento de energia com as  tecnologias identificadas como promissoras a curto prazo, para ensaios na pesquisa;
+•Medição e avaliação de parâmetros de eficiência e de operacionalidade dos sistemas de armazenamento: tempo de carga e descarga dos sistemas de armazenamento; qualidade da energia recuperada; eficiência das operações de carga e descarga; monitoramento de parâmetros eléctricos da operação (Tensão, Frequência, Corrente, Potência, Fator de Disponibilidade);
+•Avaliação de riscos operacionais em instalações de armazenamento em larga escala: Definição de protocolo de medições, especificação de grandezas, periodicidade, intervalos mínimos e máximos de coleta);
+•Modelagem e simulação da utilização das tecnologias ensaiadas, para aplicações em larga escala;
+•Aquisições de equipamentos;
+•Definição e conclusão de projetos executivos;
+•Instalação da planta fotovoltaica no solo (800 kWp);
+•Construção e Montagem Eletromecânica da planta fotovoltaica no solo;
+• Construção da planta de armazenamento de energia na UHE Itumbiara;
+•Montagem do Banco de Baterias;
+•Montagem da Casa de Controle e Subestação;
+•Recebimento parcial dos equipamentos (Falta a Célula de Combustível);
+•Desenvolvimento de flutuadores;
+•Discussão técnica de interligação de potência;
+•Licenciamento Ambiental IBAMA;
+•Foram produzidas uma dissertação de mestrado e seis artigos.
+
+Em síntese, a metodologia se baseou em atividades acadêmicas, particularmente na área de desenho e pesquisas com materiais, relativas ao despacho otimizado de unidades geradoras com as duas fontes, solar e hidrelétrica, situação essa capaz de permitir uma maior aproximação das instituições de pesquisa brasileiras no acompanhamento e eventual contribuição na fronteira do desenvolvimento tecnológico na área de armazenamento de energia. Neste sentido já houve a defesa e aprovação de tese de doutorado tratando das possibilidade de utilização de área dos reservatórios visando a integração da energia hidroelétrica com a fotovoltaica, o que representou um excelente resultado das pesquisas de inovação.
+INFORMAÇÃO COMPLEMENTAR: Foram presenciados desafios e imprevistos decorrentes da epidemia COVID - 19, impactando de forma direta, na complexidade do projeto.
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

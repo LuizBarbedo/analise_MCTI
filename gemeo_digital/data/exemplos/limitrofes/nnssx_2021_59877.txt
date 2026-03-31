@@ -1,0 +1,223 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7405 - INTELBRAS S.A. INDUSTRIA DE TELECOMUNICACAO ELETRONICA BRASILEIRA - ANO :2021
+ID_PROJETO: 59877 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: SIM NEXT GEN
+DESCRIÇÂO: "Escopo:
+O projeto consiste de uma ferramenta de software para monitoramento e controle de dispositivos de segurança Intelbras, como DVRs, NVRs, Câmeras IP, seja local ou remotamente. Faz parte do objetivo o domínio da tecnologia, visando implementações futuras, bem como a possibilidade de integração de produtos de outros fornecedores e tecnologias experimentais. O software integra as linhas atuais de produtos de vídeo monitoramento da marca Intelbras. Foram aplicados novos conceitos de usabilidade, interface e experiência do usuário.
+Durante o ano de 2020 identificamos novas necessidades do mercado e que foram incorporadas ao escopo do projeto:
+•	Software multiplataforma (Windows, MacOS e Linux);
+•	Interface amigável ao usuário, com design atual;
+•	Melhoras no serviço de conexões com os dispositivos;
+•	Integrações e disponibilização de recursos de busca forense para eventos.
+
+Resultados esperados:
+a) Com o SIM Next o usuário deverá poder visualizar suas câmeras em tempo real; acessar gravações remotamente; controlar saídas de alarme; alterar configurações dos dispositivos; buscar dispositivos automaticamente na rede.
+
+b) O Sistema Inteligente de Monitoramento (SIM) é um software gratuito para o monitoramento de imagens, compatível com equipamentos de CFTV Intelbras. Além disso, deve ser compatível com sistema operacional Microsoft Windows® 10 e ter capacidade para mais de 1000 dispositivos, entre DVRs, NVRs e câmeras IP Intelbras. Deve suportar múltiplas telas de visualização, com até 64 câmeras em cada;
+
+c) Deve permitir o uso da conta no Intelbras Guardian para migrar os dispositivos já cadastrados em outros aplicativos de monitoramento. Com o SIM Next deve ser possível gerenciar usuários por grupos, fazer configurações e backups remotamente, criar lista de dispositivos e realizar gravação local.
+d) O sistema deve oferecer recursos para facilitar a busca de imagens e na investigação de eventos, permitindo que o usuário localize facilmente gravações relacionadas à eventos de alarmes registrados no software.
+e) A pesquisa para desenvolvimento multiplataforma iniciada com base na arquitetura desenvolvida para o SIM Next será utilizada para iniciar um novo projeto, com início previsto em 2021, que possuirá uma interface de usuário amigável e poderá ser utilizado para gerar os pacotes de software para diversas plataformas e sistemas operacionais.
+Descrição da etapa atual (2020):
+1.	Adequação a LGPD:
+Durante o ano de 2020 iniciamos a adequação do software para atendimento às restrições impostas pela LGPD.
+Houve um extenso período de avaliação da legislação e impactos sobre o software, onde definimos critérios de segurança para garantir que o usuário do software possa ter gestão sobre as permissões de cada usuário, aumentando a segurança das informações armazenadas localmente e definimos a necessidade de autenticação da instalação do software vinculada a um usuário real, a fim de garantir que este tenha ciência e concordância com todos os dados que trafegam por nossos serviços e que possam ser armazenados ou utilizados pela Intelbras.
+
+2.	Necessidade de um software com interface amigável e atualizada:
+A necessidade por um software com interface mais amigável foi avaliada e iniciamos o desenvolvimento de uma nova interface para o software. Desenhamos as iterações com o usuário e definimos o escopo de recursos que esta persona específica necessita no software.
+Durante a pesquisa identificamos que este software atendia a uma demanda e persona diferente da que necessidade do SIM Next, então, decidimos por oferecer duas soluções ao mercado, uma mais adequada ao uso dos profissionais da área, mantendo as bases da interface atual e outra com um conceito atual, destinada aos usuários finais que desejem acessar os seus equipamentos de CFTV a partir de um computador pessoal.
+Este novo software também terá um papel importante como substituto da interface WEB dos dispositivos e do portal intelbrascloud.com.br, uma vez que estes produtos uti
+PALAVRAS CHAVE: 
+ELEMENTO TECNOLÓGICO: O Sistema Inteligente de Monitoramento – Intelbras SIM Next – é um software gratuito de supervisão de ambientes, desenvolvido para plataforma Windows, com foco principal no monitoramento de imagens. O software é compatível com equipamentos da Intelbras, oferecendo uma solução gratuita para monitoramento de ambientes, integrando solução de CFTV, alarme de intrusão e controle de acesso. É o primeiro produto da Intelbras nessa linha, com desenvolvimento interno, possibilitando o domínio da tecnologia para integrações posteriores
+
+DESAFIO TECNOLÓGICO: "O desenvolvimento e integração de ferramentas de software que interagem com dispositivos eletrônicos é, via de regra, um trabalho complexo, devido as especificidades de cada equipamento, protocolos de comunicação, interação remota etc. Essas dificuldades aumentam significativamente quando esses dispositivos são produtos de segurança com suporte a vídeo, devido a inúmeras questões envolvendo vídeo streaming e armazenamento. Os principais desafios foram:
+
+a) Desenvolver uma arquitetura de software rápida e estável para tratar com o volume de dados do tráfego de vídeo. Essa arquitetura deve ainda ser modular, que permita a integração de SDKs de múltiplos fabricantes, de forma a garantir que os usuários de produtos Intelbras possam utilizar um software único, independente do modelo de equipamento utilizado;
+
+b) Criar uma interface do usuário que possibilite a integração de eventos de diversas fontes sem tornar o seu uso confuso;
+
+c) Suporte à integração de Gravadores Digitais de Vídeo (DVRs) e Câmeras IP. Esses dispositivos utilizam protocolos de comunicação proprietários, nem sempre documentados de forma adequada, sem fluxo de sequência de mensagem claro e por vezes com inúmeros defeitos (bugs), dificultando o trabalho de integração e exigindo mais esforço do que geralmente se espera;
+
+d) Conexão com os dispositivos. Quando o SIM Next roda em máquina que se encontra na mesma rede dos dispositivos a conexão é simples e direta. Entretanto, quando o SIM roda remoto o cenário muda bastante e a conexão com os dispositivos passa a requerer outra aplicação, desenhada especificamente para estabelecer o link com os dispositivos. No início, quando os dispositivos CFTV ganharam mercado, para que fosse possível o acesso remoto era necessário a intervenção de um técnico, que se deslocava até o local onde estavam os dispositivos e reconfigurava o roteador/firewall doméstico ou da empresa, liberando portas de acesso. Atualmente a figura do técnico não é mais necessária e uma mudança na estratégia de conexão permitiu que uma solução em nuvem cuidasse do processo de estabelecimento de comunicação de forma automática. Ao final, a simplicidade e comodidade para o consumidor só é conseguida por conta de uma complexa interação entre o SIM Next e a solução de estabelecimento de conexão;
+
+e) Outro grande desafio se refere à compatibilidade com as diversas versões do sistema operacional e hardwares (máquinas) existentes no mercado. Os clientes que usam o SIM Next utilizam diversas versões do sistema operacional e, normalmente, computadores antigos ou de baixo custo, para os quais precisamos oferecer uma única distribuição do software;
+
+f) Suporte a saídas de alarme Multibox. Recentemente o marketing Intelbras identificou espaço no mercado para uma solução que permitisse a integração dos dispositivos CFTV com outros produtos relacionados com segurança, como portões, sensores etc. Multibox é um produto Intelbras que disponibiliza um conjunto de saídas, que permitem comandar outros produtos; e entradas, que possibilitam a conexão com sensores. A integração do Multibox com o SIM Next é mais um exemplo de desafio tecnológico;
+
+g) Desenvolvimento dos algoritmos de IVS, com base em redes neurais e machine learning, para detecção de face, LPR etc. Os algoritmos de análise de vídeo presentes em câmeras e DVRs, que no passado conseguiam apenas detectar se havia movimento em uma cena ou se determinada linha imaginária havia sido cruzada, evoluíram e atualmente conseguem executar funções complexas como a detecção de face, identificação de placas de automóveis (LPR), identificação de objetos etc. A integração dessas tecnologias no SIM Next tem sido outro grande esforço;
+
+h) Gravação local. Essa é outra função adicionada ao SIM Next. Com ela é possível efetuar a gravação dos arquivos de vídeo na própria máquina onde está instalado, funcionando como um backup, uma alternativa à gravação existente nos DVRs. O suporte a essa função não é algo simples, devido ao enor
+METODOLOGIA: "1) Metodologia:
+
+a) O projeto utiliza metodologias ágeis de desenvolvimento e geralmente trabalha com sprints de 2 semanas. Principais ferramentas:
+- Controle das atividades: JIRA;
+- Repositório para códigos fonte: GitLab;
+- Documentação do projeto: Confluence;
+- Comunicação da equipe: Teams.
+
+b) As etapas iniciais são dedicadas ao planejamento das entregas, detalhamentos, preparação do ambiente de desenvolvimento;
+
+c) Para cada entrega deve ser gerado:
+- Um “release notes”, listando as correções, melhorias e funcionalidades adicionadas;
+- Descrição da arquitetura: diagrama de blocos mostrando os componentes fundamentais da
+solução, como estão agrupados e como se relacionam (fluxo de comunicação);
+- Descrição das ferramentas que compõem os ambientes de desenvolvimento;
+- Descrição dos frameworks usados e para que estão sendo usados;
+- Como compilar a aplicação (modo manual e integração contínua);
+- A documentação técnica deverá ir para o seu repositório Git e para a página no confluence.
+
+2) Etapas:
+
+a) Levantamento de Requisitos (Nov 2015 a Dez de 2016):
+- Definição do escopo do projeto;
+- Funcionalidades;
+- Integrações e aplicações;
+- Validação entre desenvolvedor e equipe de teste (QA).
+
+b) Desenvolvimento e validação de etapas iniciais do projeto (2016/2017):
+- Desenvolvimento da arquitetura de software;
+- Interface do usuário;
+- Conexão com os dispositivos via P2P;
+- Suporte às funcionalidades básicas:
+. Gerenciamento dos dispositivos Intelbras;
+. Suporte a conexão simultânea com até 1.024 dispositivos, monitorando-os em tempo real;
+. Visualização simultânea de até 100 canais de vídeo 32 bits ou 256 64 bits;
+. Gerenciamento de permissões dos usuários;
+. Monitoramento em tempo real, simultâneo às gravações;
+. Registro de ações e tratamento dado aos eventos de alarme detectados pelo sistema;
+
+c) Desenvolvimento de funções mais complexas (2018):
+. Compatibilidade com câmeras Fisheye Intelbras (correções de imagem - Dewarping);
+. Controle PTZ de câmeras e entradas e saídas de alarmes em gravadores de vídeo;
+. Suporte a múltiplos monitores;
+. Grava imagens de forma contínua ou vinculada a eventos e agenda de gravação;
+. Função de Gravação local;
+. Integração de eventos básicos de dispositivos de CFTV;
+. Suporte à configuração de dispositivos de CFTV;
+
+
+d) Atualização e integrações (2019-2021)
+Nesta etapa estava previstas as seguintes atividades:
+. Adequação do sistema às restrições impostas pela LGPD
+. Integração com recursos avançados de IA dos dispositivos de CFTV, tais como o reconhecimento facial.
+. Recebimento de alertas de alarme, detecção de movimento, inteligência de vídeo (IVS);
+. Criação de lista de ações a serem executadas a partir de evento de alarme ou IVS;
+. Suporte a E-map, para visualização mais clara da localização dos dispositivos e eventos;
+. Integração com conta do Intelbras Cloud para importação da lista de dispositivos;
+. Melhoria no gerenciamento de memória em sistemas operacionais de 64 bits;
+. Utilização de recursos de aceleração por hardware de placas de vídeo compatíveis.
+. Integração e eventos de IVS dos dispositivos de CFTV;
+. Atualização do .Net framework;
+. Integração com a função de busca inteligente de movimento dos dispositivos;
+. Desenvolvimento e integração com o backend de monitoramento de instalações.
+. Integração com a conta Intelbras para adequação à LGPD e importação dedispositivos de outras aplicações de software conectadas à mesma conta
+
+e) Atualização da interface de usuário e novas integrações(2021-2022)
+. Integração com eventos de sistemas de alarme Intelbras
+. Integração com eventos de sistemas de controle de acesso Intelbras
+. Oferecer uma interface eficiente para realização de buscas forenses com o auxílio dos eventos captados pelos equipamentos de CFTV e de seus recursos de IA para reconhecimento avançado de eventos e reconhecimento facial.
+. Oferecer uma nova
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Não Recomendado
+DO_OBSERVACAO: <p>O projeto objetiva o desenvolvimento de software de monitoramento de câmeras de segurança. A descrição, o elemento tecnologicamente novo, as barreiras ou desafios tecnológicos e a metodologia não são apresentadas de forma clara e preenchem os requisitos estabelecidos na Lei do Bem. Após análise, este parecer não enquadra o projeto na categoria de projeto de pesquisa e inovação tecnológica.</p> / 
+DO_JUSTIFICATIVA_LIVRE: a empresa caracterizou uma inovação sem ter sido resultado de uma atividade de Pesquisa Básica Dirigida, Pesquisa Aplicada ou Desenvolvimento Experimental.A expressão “inovação” não pode ser utilizada de maneira absoluta, sem menção a um benchmarking ou outra forma de comparação que justifique a qualificação de inovação tecnológica. É importante ressaltar que o uso isolado da expressão inovação tecnológica como passível de benefício fiscal tem causado dificuldade no entendimento dos objetivos do Capítulo III da Lei do Bem. Não é a inovação em si que é objeto dos benefícios fiscais previstos na citada Lei e sim a pesquisa e o desenvolvimento tecnológico (pesquisa básica dirigida, pesquisa aplicada e desenvolvimento experimental), ou seja, atividades que buscam adquirir novos conhecimentos e onde ocorrem riscos tecnológicos, portanto, não se trata simplesmente de compra ou utilização nova tecnologia ou modernização tecnológica. <br/><br/>a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado. <br/><br/>o Manual de Frascati define alguns conceitos para diferenciar atividades de P&D e outras atividades correlatas.
+2.2 Estudo da Viabilidade (pag.73) O estudo de projetos da engenharia de acordo com as técnicas existentes, com a finalidade de fornecer informações adicionais antes de tomar qualquer decisão de implementação, não faz parte de P&D.
+2.3 Limites das atividades de P&D
+2.3.1 Critérios que permitem distinguir P&D das atividades correlatas (pag.84) O critério fundamental que permite distinguir entre P&D e as atividades correlatas é a existência em P&D de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. A tabela 2.1 adiciona certos critérios para distinguir o que é excluído de P&D.
+2.3.4 Problemas na fronteira entre P&D e outras atividades industriais
+Informações Gerais (pag.110) É preciso tomar cuidado para excluir as atividades que, embora façam sem dúvida parte do processo de inovação, só raramente são recursos para P&D. Este é o caso do depósito de patentes e concessão de licenças, dos estudos de mercado, da preparação do lançamento na fabricação de ferramentas e o redesenho da concepção de um processo de fabricação.
+Equipamentos e engenharia industrial (pag.128) No entanto, se o processo de ferramentaria se traduzir por novos trabalhos de P&D, tais como o progresso em máquinas e ferramentas de produção, as alterações feitas para os procedimentos de produção e controle de qualidade ou o desenvolvimento de novos métodos e padrões, então, estas atividades são classificadas em P&D.”(OCDE. Manual de Frascati. F.Iniciativas,2013)
+DO_JUSTIFICATIVA_PADRONIZADA - NOME: Descreveu a funcionalidade do produto/processo/serviço || Caracterizou uma inovação sem ter sido resultado de P&D || Diferença entre P&D e atividades correlatas (Manual Frascati) TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado.  || a empresa caracterizou uma inovação sem ter sido resultado de uma atividade de Pesquisa Básica Dirigida, Pesquisa Aplicada ou Desenvolvimento Experimental.A expressão “inovação” não pode ser utilizada de maneira absoluta, sem menção a um benchmarking ou outra forma de comparação que justifique a qualificação de inovação tecnológica. É importante ressaltar que o uso isolado da expressão inovação tecnológica como passível de benefício fiscal tem causado dificuldade no entendimento dos objetivos do Capítulo III da Lei do Bem. Não é a inovação em si que é objeto dos benefícios fiscais previstos na citada Lei e sim a pesquisa e o desenvolvimento tecnológico (pesquisa básica dirigida, pesquisa aplicada e desenvolvimento experimental), ou seja, atividades que buscam adquirir novos conhecimentos e onde ocorrem riscos tecnológicos, portanto, não se trata simplesmente de compra ou utilização nova tecnologia ou modernização tecnológica.  || o Manual de Frascati define alguns conceitos para diferenciar atividades de P&D e outras atividades correlatas.
+2.2 Estudo da Viabilidade (pag.73) O estudo de projetos da engenharia de acordo com as técnicas existentes, com a finalidade de fornecer informações adicionais antes de tomar qualquer decisão de implementação, não faz parte de P&D.
+2.3 Limites das atividades de P&D
+2.3.1 Critérios que permitem distinguir P&D das atividades correlatas (pag.84) O critério fundamental que permite distinguir entre P&D e as atividades correlatas é a existência em P&D de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. A tabela 2.1 adiciona certos critérios para distinguir o que é excluído de P&D.
+2.3.4 Problemas na fronteira entre P&D e outras atividades industriais
+Informações Gerais (pag.110) É preciso tomar cuidado para excluir as atividades que, embora façam sem dúvida parte do processo de inovação, só raramente são recursos para P&D. Este é o caso do depósito de patentes e concessão de licenças, dos estudos de mercado, da preparação do lançamento na fabricação de ferramentas e o redesenho da concepção de um processo de fabricação.
+Equipamentos e engenharia industrial (pag.128) No entanto, se o processo de ferramentaria se traduzir por novos trabalhos de P&D, tais como o progresso em máquinas e ferramentas de produção, as alterações feitas para os procedimentos de produção e controle de qualidade ou o desenvolvimento de novos métodos e padrões, então, estas atividades são classificadas em P&D.”(OCDE. Manual de Frascati. F.Iniciativas,2013) RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+PARECER_AVALIACAO: Não Recomendado
+PARECER_OBSERVACAO: <p>O projeto objetiva o desenvolvimento de software de monitoramento de câmeras de segurança. A descrição, o elemento tecnologicamente novo, as barreiras ou desafios tecnológicos e a metodologia não são apresentadas de forma clara e preenchem os requisitos estabelecidos na Lei do Bem. Após análise, este parecer não enquadra o projeto na categoria de projeto de pesquisa e inovação tecnológica.</p> / 
+PARECER_JUSTIFICATIVA_LIVRE: a empresa caracterizou uma inovação sem ter sido resultado de uma atividade de Pesquisa Básica Dirigida, Pesquisa Aplicada ou Desenvolvimento Experimental.A expressão “inovação” não pode ser utilizada de maneira absoluta, sem menção a um benchmarking ou outra forma de comparação que justifique a qualificação de inovação tecnológica. É importante ressaltar que o uso isolado da expressão inovação tecnológica como passível de benefício fiscal tem causado dificuldade no entendimento dos objetivos do Capítulo III da Lei do Bem. Não é a inovação em si que é objeto dos benefícios fiscais previstos na citada Lei e sim a pesquisa e o desenvolvimento tecnológico (pesquisa básica dirigida, pesquisa aplicada e desenvolvimento experimental), ou seja, atividades que buscam adquirir novos conhecimentos e onde ocorrem riscos tecnológicos, portanto, não se trata simplesmente de compra ou utilização nova tecnologia ou modernização tecnológica. <br/><br/>a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado. <br/><br/>o Manual de Frascati define alguns conceitos para diferenciar atividades de P&D e outras atividades correlatas.
+2.2 Estudo da Viabilidade (pag.73) O estudo de projetos da engenharia de acordo com as técnicas existentes, com a finalidade de fornecer informações adicionais antes de tomar qualquer decisão de implementação, não faz parte de P&D.
+2.3 Limites das atividades de P&D
+2.3.1 Critérios que permitem distinguir P&D das atividades correlatas (pag.84) O critério fundamental que permite distinguir entre P&D e as atividades correlatas é a existência em P&D de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. A tabela 2.1 adiciona certos critérios para distinguir o que é excluído de P&D.
+2.3.4 Problemas na fronteira entre P&D e outras atividades industriais
+Informações Gerais (pag.110) É preciso tomar cuidado para excluir as atividades que, embora façam sem dúvida parte do processo de inovação, só raramente são recursos para P&D. Este é o caso do depósito de patentes e concessão de licenças, dos estudos de mercado, da preparação do lançamento na fabricação de ferramentas e o redesenho da concepção de um processo de fabricação.
+Equipamentos e engenharia industrial (pag.128) No entanto, se o processo de ferramentaria se traduzir por novos trabalhos de P&D, tais como o progresso em máquinas e ferramentas de produção, as alterações feitas para os procedimentos de produção e controle de qualidade ou o desenvolvimento de novos métodos e padrões, então, estas atividades são classificadas em P&D.”(OCDE. Manual de Frascati. F.Iniciativas,2013)
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME: Caracterizou uma inovação sem ter sido resultado de P&D || Descreveu a funcionalidade do produto/processo/serviço || Diferença entre P&D e atividades correlatas (Manual Frascati) TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa caracterizou uma inovação sem ter sido resultado de uma atividade de Pesquisa Básica Dirigida, Pesquisa Aplicada ou Desenvolvimento Experimental.A expressão “inovação” não pode ser utilizada de maneira absoluta, sem menção a um benchmarking ou outra forma de comparação que justifique a qualificação de inovação tecnológica. É importante ressaltar que o uso isolado da expressão inovação tecnológica como passível de benefício fiscal tem causado dificuldade no entendimento dos objetivos do Capítulo III da Lei do Bem. Não é a inovação em si que é objeto dos benefícios fiscais previstos na citada Lei e sim a pesquisa e o desenvolvimento tecnológico (pesquisa básica dirigida, pesquisa aplicada e desenvolvimento experimental), ou seja, atividades que buscam adquirir novos conhecimentos e onde ocorrem riscos tecnológicos, portanto, não se trata simplesmente de compra ou utilização nova tecnologia ou modernização tecnológica.  || a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado.  || o Manual de Frascati define alguns conceitos para diferenciar atividades de P&D e outras atividades correlatas.
+2.2 Estudo da Viabilidade (pag.73) O estudo de projetos da engenharia de acordo com as técnicas existentes, com a finalidade de fornecer informações adicionais antes de tomar qualquer decisão de implementação, não faz parte de P&D.
+2.3 Limites das atividades de P&D
+2.3.1 Critérios que permitem distinguir P&D das atividades correlatas (pag.84) O critério fundamental que permite distinguir entre P&D e as atividades correlatas é a existência em P&D de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. A tabela 2.1 adiciona certos critérios para distinguir o que é excluído de P&D.
+2.3.4 Problemas na fronteira entre P&D e outras atividades industriais
+Informações Gerais (pag.110) É preciso tomar cuidado para excluir as atividades que, embora façam sem dúvida parte do processo de inovação, só raramente são recursos para P&D. Este é o caso do depósito de patentes e concessão de licenças, dos estudos de mercado, da preparação do lançamento na fabricação de ferramentas e o redesenho da concepção de um processo de fabricação.
+Equipamentos e engenharia industrial (pag.128) No entanto, se o processo de ferramentaria se traduzir por novos trabalhos de P&D, tais como o progresso em máquinas e ferramentas de produção, as alterações feitas para os procedimentos de produção e controle de qualidade ou o desenvolvimento de novos métodos e padrões, então, estas atividades são classificadas em P&D.”(OCDE. Manual de Frascati. F.Iniciativas,2013) RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: O projeto “SIM NEXT” é a concepção de um software desktop para o monitoramento de imagens compatíveis com os equipamentos de CFTV da Intelbras podendo ser utilizado em diferentes sistemas operacionais, como em Windows, MacOS e Linux. Além disso o software permite não apenas o monitoramento como também o gerenciamento de dispositivos permitindo a realização de gravações das imagens, o que possibilita o armazenamento local, além de ações que podem ser configuradas no software realizando o comando para os dispositivos a ele conectados, como por exemplo, um comando a um disposto de alarme quando existe uma detecção em algum ponto da imagem de uma câmera.
+
+Como elemento novo ou inovador, o projeto em si é uma inovação para empresa pois se trata de um desenvolvimento de software exclusivo pela Intelbras através de uma pesquisa aplicada decorrente de uma necessidade de complementar uma melhor interação do usuário com os produtos físicos da linha de negócio de CFTV da empresa. Por se tratar de um software, também teremos inovações incrementais em relação ao projeto inicial, já que se trata de um desenvolvimento continuo e de constante melhoria, visando sempre a melhor experiencia do usuário.
+
+Em termos de barreira ou desafio tecnológico a ser superável, o desenvolvimento e integração de ferramentas de software que interagem com dispositivos eletrônicos é, via de regra, um trabalho complexo, devido as especificidades de cada equipamento, protocolos de comunicação, interação remota etc. Essas dificuldades aumentam significativamente quando esses dispositivos são produtos de segurança com suporte a vídeo, devido a inúmeras questões envolvendo vídeo streaming e armazenamento. Os principais desafios foram:
+a) Desenvolver uma arquitetura de software rápida e estável para tratar com o volume de dados do tráfego de vídeo. Essa arquitetura deve ainda ser modular, que permita a integração de SDKs de múltiplos fabricantes, de forma a garantir que os usuários de produtos Intelbras possam utilizar um software único, independente do modelo de equipamento utilizado;
+b) Criar uma interface do usuário que possibilite a integração de eventos de diversas fontes sem tornar o seu uso confuso;
+c) Suporte à integração de Gravadores Digitais de Vídeo (DVRs) e Câmeras IP. Esses dispositivos utilizam protocolos de comunicação proprietários, nem sempre documentados de forma adequada, sem fluxo de sequência de mensagem claro e por vezes com inúmeros defeitos (bugs), dificultando o trabalho de integração e exigindo mais esforço do que geralmente se espera;
+d) Conexão com os dispositivos. Quando o SIM Next roda em máquina que se encontra na mesma rede dos dispositivos a conexão é simples e direta. Entretanto, quando o SIM roda remoto o cenário muda bastante e a conexão com os dispositivos passa a requerer outra aplicação, desenhada especificamente para estabelecer o link com os dispositivos. No início, quando os dispositivos CFTV ganharam mercado, para que fosse possível o acesso remoto era necessário a intervenção de um técnico, que se deslocava até o local onde estavam os dispositivos e reconfigurava o roteador/firewall doméstico ou da empresa, liberando portas de acesso. Atualmente a figura do técnico não é mais necessária e uma mudança na estratégia de conexão permitiu que uma solução em nuvem cuidasse do processo de estabelecimento de comunicação de forma automática. Ao final, a simplicidade e comodidade para o consumidor só é conseguida por conta de uma complexa interação entre o SIM Next e a solução de estabelecimento de conexão;
+e) Outro grande desafio se refere à compatibilidade com as diversas versões do sistema operacional e hardwares (máquinas) existentes no mercado. Os clientes que usam o SIM Next utilizam diversas versões do sistema operacional e, normalmente, computadores antigos ou de baixo custo, para os quais precisamos oferecer uma única distribuição do software;
+f) Suporte a saídas de alarme Multibox. Recentemente o marketing Intelbras identificou espaço no mercado para uma solução que permitisse a integração dos dispositivos CFTV com outros produtos relacionados com segurança, como portões, sensores etc. Multibox é um produto Intelbras que disponibiliza um conjunto de saídas, que permitem comandar outros produtos; e entradas, que possibilitam a conexão com sensores. A integração do Multibox com o SIM Next é mais um exemplo de desafio tecnológico;
+g) Desenvolvimento dos algoritmos de IVS, com base em redes neurais e machine learning, para detecção de face, LPR etc. Os algoritmos de análise de vídeo presentes em câmeras e DVRs, que no passado conseguiam apenas detectar se havia movimento em uma cena ou se determinada linha imaginária havia sido cruzada, evoluíram e atualmente conseguem executar funções complexas como a detecção de face, identificação de placas de automóveis (LPR), identificação de objetos etc. A integração dessas tecnologias no SIM Next tem sido outro grande esforço;
+
+Todos esses são de fato desafios que devem ser compreendidos durante o desenvolvimento do projeto.
+
+Como forma de metodologia para atender ou superar os desafios tecnológicos, podemos dizer que:
+
+•	Metodologia: o projeto utiliza metodologias ágeis de desenvolvimento com sprints quinzenais.
+
+•	Principais ferramentas:
+o	Controle das atividades: Jira;
+o	Comunicação da equipe: Teams e Reuniões;
+o	Repositório para códigos: GitLab
+o	Documentação do Projeto: Confluence
+
+•	Atividades relacionadas a Pesquisa:
+o	Especificações do produto (features)
+o	Definição Técnica do Projeto
+
+•	Atividades relacionadas ao Desenvolvimento:
+o	Desenvolvimento software (considerando o ano base de 2021);
+?	Adequação do sistema às restrições impostas pela LGPD.
+?	Integração com recursos avançados de IA dos dispositivos de CFTV, tais como o reconhecimento facial.
+?	Recebimento de alertas de alarme, detecção de movimento, inteligência de vídeo (IVS);
+?	Criação de lista de ações a serem executadas a partir de evento de alarme ou IVS;
+?	Suporte a E-map, para visualização mais clara da localização dos dispositivos e eventos;
+?	Integração com conta do Intelbras Cloud para importação da lista de dispositivos;
+?	Melhoria no gerenciamento de memória em sistemas operacionais de 64 bits;
+?	Utilização de recursos de aceleração por hardware de placas de vídeo compatíveis.
+?	Integração e eventos de IVS dos dispositivos de CFTV;
+?	Atualização do .Net framework;
+?	Integração com a função de busca inteligente de movimento dos dispositivos;
+?	Desenvolvimento e integração com o backend de monitoramento de instalações.
+?	Integração com a conta Intelbras para adequação à LGPD e importação dedispositivos de outras aplicações de software conectadas à mesma conta
+o	Testes de validação/confiabilidade;
+
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: O objetivo do projeto é o desenvolvimento de um software de integração de ferramentas de imagem que interagem com dispositivos eletrônicos da empresa. O projeto não obteve recomendação na etapa de mérito do projeto, tendo como motivador os seguintes critérios: Caracterizou uma inovação sem ter sido resultado de P&D, Descreveu a funcionalidade do produto/processo/serviço, Diferença entre P&D e atividades correlatas (Manual Frascati). As informações acrescidas pela empresa complementam as anteriormente fornecidas, solucionando os problemas de falta de clareza dos itens. Verificou-se que os itens de dispêndio são compatíveis com a atividade de P&DI relatada. Após análise, este parecer recomenda o Projeto nº 22 “SIM NEXT GEN” como projeto de desenvolvimento tecnológico. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME: Caracterizou uma inovação sem ter sido resultado de P&D || Descreveu a funcionalidade do produto/processo/serviço || Diferença entre P&D e atividades correlatas (Manual Frascati) TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa caracterizou uma inovação sem ter sido resultado de uma atividade de Pesquisa Básica Dirigida, Pesquisa Aplicada ou Desenvolvimento Experimental.A expressão “inovação” não pode ser utilizada de maneira absoluta, sem menção a um benchmarking ou outra forma de comparação que justifique a qualificação de inovação tecnológica. É importante ressaltar que o uso isolado da expressão inovação tecnológica como passível de benefício fiscal tem causado dificuldade no entendimento dos objetivos do Capítulo III da Lei do Bem. Não é a inovação em si que é objeto dos benefícios fiscais previstos na citada Lei e sim a pesquisa e o desenvolvimento tecnológico (pesquisa básica dirigida, pesquisa aplicada e desenvolvimento experimental), ou seja, atividades que buscam adquirir novos conhecimentos e onde ocorrem riscos tecnológicos, portanto, não se trata simplesmente de compra ou utilização nova tecnologia ou modernização tecnológica.  || a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado.  || o Manual de Frascati define alguns conceitos para diferenciar atividades de P&D e outras atividades correlatas.
+2.2 Estudo da Viabilidade (pag.73) O estudo de projetos da engenharia de acordo com as técnicas existentes, com a finalidade de fornecer informações adicionais antes de tomar qualquer decisão de implementação, não faz parte de P&D.
+2.3 Limites das atividades de P&D
+2.3.1 Critérios que permitem distinguir P&D das atividades correlatas (pag.84) O critério fundamental que permite distinguir entre P&D e as atividades correlatas é a existência em P&D de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. A tabela 2.1 adiciona certos critérios para distinguir o que é excluído de P&D.
+2.3.4 Problemas na fronteira entre P&D e outras atividades industriais
+Informações Gerais (pag.110) É preciso tomar cuidado para excluir as atividades que, embora façam sem dúvida parte do processo de inovação, só raramente são recursos para P&D. Este é o caso do depósito de patentes e concessão de licenças, dos estudos de mercado, da preparação do lançamento na fabricação de ferramentas e o redesenho da concepção de um processo de fabricação.
+Equipamentos e engenharia industrial (pag.128) No entanto, se o processo de ferramentaria se traduzir por novos trabalhos de P&D, tais como o progresso em máquinas e ferramentas de produção, as alterações feitas para os procedimentos de produção e controle de qualidade ou o desenvolvimento de novos métodos e padrões, então, estas atividades são classificadas em P&D.”(OCDE. Manual de Frascati. F.Iniciativas,2013) RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: O objetivo do projeto é o desenvolvimento de um software de integração de ferramentas de imagem que interagem com dispositivos eletrônicos da empresa. O projeto não obteve recomendação na etapa de mérito do projeto, tendo como motivador os seguintes critérios: Caracterizou uma inovação sem ter sido resultado de P&D, Descreveu a funcionalidade do produto/processo/serviço, Diferença entre P&D e atividades correlatas (Manual Frascati). As informações acrescidas pela empresa complementam as anteriormente fornecidas, solucionando os problemas de falta de clareza dos itens. Verificou-se que os itens de dispêndio são compatíveis com a atividade de P&DI relatada. Após análise, este parecer recomenda o Projeto nº 22 “SIM NEXT GEN” como projeto de desenvolvimento tecnológico. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME: Caracterizou uma inovação sem ter sido resultado de P&D || Descreveu a funcionalidade do produto/processo/serviço || Diferença entre P&D e atividades correlatas (Manual Frascati) TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa caracterizou uma inovação sem ter sido resultado de uma atividade de Pesquisa Básica Dirigida, Pesquisa Aplicada ou Desenvolvimento Experimental.A expressão “inovação” não pode ser utilizada de maneira absoluta, sem menção a um benchmarking ou outra forma de comparação que justifique a qualificação de inovação tecnológica. É importante ressaltar que o uso isolado da expressão inovação tecnológica como passível de benefício fiscal tem causado dificuldade no entendimento dos objetivos do Capítulo III da Lei do Bem. Não é a inovação em si que é objeto dos benefícios fiscais previstos na citada Lei e sim a pesquisa e o desenvolvimento tecnológico (pesquisa básica dirigida, pesquisa aplicada e desenvolvimento experimental), ou seja, atividades que buscam adquirir novos conhecimentos e onde ocorrem riscos tecnológicos, portanto, não se trata simplesmente de compra ou utilização nova tecnologia ou modernização tecnológica.  || a empresa descreveu as características que o produto/processo/serviço desenvolvido possui, isto é, suas funcionalidades ou o que “faz”. Não descreveu claramente como foi elaborado o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado.  || o Manual de Frascati define alguns conceitos para diferenciar atividades de P&D e outras atividades correlatas.
+2.2 Estudo da Viabilidade (pag.73) O estudo de projetos da engenharia de acordo com as técnicas existentes, com a finalidade de fornecer informações adicionais antes de tomar qualquer decisão de implementação, não faz parte de P&D.
+2.3 Limites das atividades de P&D
+2.3.1 Critérios que permitem distinguir P&D das atividades correlatas (pag.84) O critério fundamental que permite distinguir entre P&D e as atividades correlatas é a existência em P&D de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. A tabela 2.1 adiciona certos critérios para distinguir o que é excluído de P&D.
+2.3.4 Problemas na fronteira entre P&D e outras atividades industriais
+Informações Gerais (pag.110) É preciso tomar cuidado para excluir as atividades que, embora façam sem dúvida parte do processo de inovação, só raramente são recursos para P&D. Este é o caso do depósito de patentes e concessão de licenças, dos estudos de mercado, da preparação do lançamento na fabricação de ferramentas e o redesenho da concepção de um processo de fabricação.
+Equipamentos e engenharia industrial (pag.128) No entanto, se o processo de ferramentaria se traduzir por novos trabalhos de P&D, tais como o progresso em máquinas e ferramentas de produção, as alterações feitas para os procedimentos de produção e controle de qualidade ou o desenvolvimento de novos métodos e padrões, então, estas atividades são classificadas em P&D.”(OCDE. Manual de Frascati. F.Iniciativas,2013) RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

@@ -1,0 +1,46 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6848 - FURNAS - CENTRAIS ELETRICAS S.A. - ANO :2021
+ID_PROJETO: 57064 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Estudo Comparativo da Operação de Geradores Síncronos, de Indução e a Imãs Permanentes
+DESCRIÇÂO: O presente projeto tem por objetivo realizar a comparação da operação dos geradores síncronos, geradores de indução e geradores a ímãs permanentes em todas as aplicações e com vistas a obter resultados comparativos. Nesse contexto, serão analisados dois principais aspectos: (i) o desempenho dos próprios dispositivos, tomando como base rendimento, perdas, construção, formas de aplicação, dimensões relativas, coeficiente de aproveitamento, estimativa de custos e disponibilidade de materiais; e (ii) a interação com o Sistema de Energia Elétrica, incluindo análise em regime permanente, regulação de tensão, curto-circuito, dinâmica e estabilidade, controle, transitórios e proteção.
+PALAVRAS CHAVE: Geradores; Síncronos; Imãs.
+ELEMENTO TECNOLÓGICO: O projeto tem por objetivo estabelecer uma análise comparativa da operação de três diferentes tipos de geradores quando conectados ao Sistema Elétrico, quais sejam, o gerador síncrono, o gerador de indução e o gerador de ímãs permanentes. Este último deve ser desdobrado em dois ou três tipos: um de fluxo radial, um de fluxo axial e entreferro duplo, e um de fluxo axial e entreferro simples. Não há registro de literatura técnica que realize a comparação das diferentes tecnologias de geradores com aplicação no sistema elétrico e o uso do gerador de fluxo axial com entreferro simples, de modo que Furnas se destaca nesta inovação de processo. Assim, para o Sistema Eletrobras Furnas serão desenvolvidos manuais de aplicação e operação das diferentes tecnologias, o que pode resultar em ganhos energéticos para o sistema elétrico trazendo benefícios para o Setor Elétrico Brasileiro. Há ainda a possibilidade do desenvolvimento de novas ferramentas de decisão, no caso de novos empreendimentos, e a possível abertura de nova aplicação tecnológica de geradores com fluxo axial.
+
+Nesse contexto, a presente linha de pesquisa visa também desenvolver protótipos virtuais da máquina síncrona (gerador) utilizando Elementos Finitos, através de ferramentas computacionais específicas. Devem ser construídos modelos em 2D que permitam representar o mais fielmente possível o desempenho interno no que se refere a aspectos eletromagnéticos, térmicos e mecânicos. Ainda deve ser realizada a conexão com os sistemas externos, ou seja, a máquina primária de acionamento e o circuito elétrico que representa a rede. Especificamente, a ferramenta de Elementos Finitos mais familiar para a equipe do projeto é o Flux, da estadunidense Altair. Esta ferramenta já é direcionada a aplicações em baixa frequência, notadamente para máquinas elétricas, com simulação simultânea com o Simulink/Matlab.
+DESAFIO TECNOLÓGICO: Para o desenvolvimento do presente projeto foram encontrados desafios que puseram em xeque a materialização da inovação. Em primeiro plano, cumpre mencionar que a pesquisa proposta demanda de mão de obra qualificada e técnica especializada. Diante disso, uma das barreiras enfrentadas consistiu na ausência de disponibilidade de profissionais qualificados que pudessem contribuir no avanço do projeto. Dessa forma, foi necessário que a equipe atual empregasse grandes esforços para superar esse desafio com uma equipe pequena e, assim, conseguir avançar nos estudos e no desenvolvimento da tecnologia. Um outro desafio está relacionado a complexidade das etapas de comparação entre os geradores e a criação de modelos digitais por Equações de Estado e Elementos Finitos. Há muitos aspectos envolvendo esse estudo, tendo em vista que não consta na literatura técnica a comparação da operação destas máquinas, sendo necessário realizar muita pesquisa e experimentação para compreender o comportamento dos geradores e alcançar resultados satisfatórios.
+METODOLOGIA: Para o desenvolvimento dessa inovação, o projeto foi fragmentado em etapas, esquematizadas de forma lógica, para que fosse possível seguir uma linha de produção efetiva, conforme pode-se ver em:
+
+1. Levantamento bibliográfico sobre geradores síncronos, geradores de indução e geradores a ímãs permanentes de fluxo radial e axial;
+2. Levantamento bibliográfico sobre modelos térmicos e de propagação de calor em máquinas elétricas.
+3. Realização de Minicurso sobre geradores para a equipe envolvida no projeto.
+4. Realização de Minicurso sobre desempenho térmico e características de aquecimento e rendimento dos geradores síncronos, de indução e a ímãs permanentes, ministrado para toda a equipe envolvida no projeto.
+5. Realização de Minicurso sobre simulação digital através dos modelos por Elementos Finitos, ministrado para toda a equipe envolvida no projeto.
+6. Realização de Treinamento na operação do utilitário Flux (Flux2D e Flux3D), que deve ser realizado por dois membros da equipe de pesquisadores.
+7. Realização de Minicurso sobre simulação digital de máquinas utilizando o Flux2D, a ser  ministrado para toda a equipe do projeto.
+8. Simulação do gerador síncrono através do modelo 2D por Elementos Finitos.
+9. Simulação do gerador de indução duplamente alimentado através do modelo 2D por Elementos Finitos.
+10. Simulação do gerador de ímãs permanentes de fluxo radial através do modelo 2D por Elementos Finitos.
+11. Simulação do gerador de ímãs permanentes de fluxo axial através do modelo 3D por Elementos Finitos.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

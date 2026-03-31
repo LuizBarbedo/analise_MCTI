@@ -8,6 +8,10 @@ from pydantic import BaseModel, Field
 from typing import Optional
 import sys
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Carrega .env do diretório do projeto
+load_dotenv(Path(__file__).parent.parent / ".env")
 
 # Adiciona src ao path
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))

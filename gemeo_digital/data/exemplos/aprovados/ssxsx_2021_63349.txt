@@ -1,0 +1,110 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8192 - CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA - ANO :2021
+ID_PROJETO: 63349 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento de soluções tecnológicas para melhoria, monitoramento, padronização e estabilização de sistemas de transmissão de energia
+DESCRIÇÂO: A ISA CTEEP, maior empresa privada de transmissão do setor elétrico brasileiro, está presente em 17 estados do Brasil e é responsável por operar uma complexa rede de transmissão, por onde trafegam 33% de toda energia elétrica transmitida no Brasil. Essa compreende uma rede com aproximadamente 18,7 mil quilômetros de linhas de transmissão (LT). A coordenação de todo o sistema elétrico da ISA CTEEP é realizada por dois Centros de Controle da Operação. Esses são apoiados por sistemas de informação, que supervisionam e controlam as subestações e linhas para garantir serviços de qualidade com economia, segurança e eficiência.
+
+Em função da complexidade, extensão e novas demandas a instituição iniciou estudos para o desenvolvimento experimental de soluções tecnológicas a serem aplicadas em seus processos. Com isso, o presente projeto tem por objetivo o desenvolvimento de inovações tecnológicas que viabilizem a melhoria do processo de transmissão de energia, adotando materiais alternativos ao aço e novos sistemas de monitoramento e estabilização de linha.
+
+O projeto apresenta quatro atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica que trazem inovações para o mercado de energia a nível nacional e global, propondo novos dispositivos, materiais, conceitos de subestação para o futuro e sistemas ancilares mais eficientes. As temáticas trabalhadas em 2021 são detalhadas a seguir:
+
+1. Sistema de armazenamento em baterias: Trata-se de soluções voltadas para sistemas ancilares, que têm por função a estabilização da rede e aumento da qualidade da energia entregue ao cliente. O elemento inovador é o desenvolvimento de sistemas de armazenamento de energia em baterias, utilizando conjuntos de Íons de Lítio e células de hidrogênio. Os principais desafios desta pesquisa estão relacionados à criação dos arranjos das baterias, sistema de potência, e algoritmos de controle que se adeque à alta demanda de solicitação da rede.
+
+2. Subestações 4.0: Essa linha de pesquisa está relacionada ao conceito de subestações (SE) totalmente digitais, sendo conhecidas como 4.0. É um tema incipiente em todo o mundo, não se tendo soluções em escala industrial. Tem-se aqui a concepção de arquiteturas para viabilizar a criação e implementação futura dos SE 4.0. Seus principais desafios estão associados com à concepção e definição dos corretos parâmetros, configurações e estruturas das Subestações 4.0, uma vez que o tema é novo, não se tendo referenciais e regulamentações como base.
+
+3. CAID – Digitalização da Inspeção: Essa vertente diz respeito ao desenvolvimento de soluções tecnológicas que auxiliem os operadores no monitoramento e inspeção dos sistemas de transmissão. Tem-se como elemento inovador a digitalização do processo, passando a utilizar drones para captura das informações, um Data hub para armazenamento das informações e um sistema para análise das informações. As incertezas estão relacionadas a efetividade da solução, ganhos de processo, elevado volume de dados coletados, complexidade de operação e capacidade de processo dos sistemas desenvolvidos.
+
+4. Materiais alternativos ao aço: Com a necessidade de redução de massa e ganhos das propriedades mecânicas, diversos estudos foram realizados, sendo feita a proposição de materiais alternativos ao aço para componentes estruturais das torres de transmissão. Os elementos inovadores dessa linha estão ligados ao desenvolvimento de um elemento de junção em material plástico e aplicação de materiais compósitos em perfis estruturais. Para a análise e definição da aplicação de compósitos um algoritmo genérico para otimização e análise comparativo foi elaborado. Tem-se aqui uma grande contradição técnica, sendo essa o ganho de resistência e redução de massa, sendo propriedades antagônicas, gerando com isso diversos desafios tecnológicos.
+Continua em informações complementares
+PALAVRAS CHAVE: Transmissão de energia; materiais alternativos ao aço; subestação 4.0; monitoramento da inspeção; armazenamento por baterias
+ELEMENTO TECNOLÓGICO: O projeto tem como objetivo o desenvolvimento de inovações tecnológicas que viabilizem a melhoria do processo de transmissão de energia, adotando materiais alternativos ao aço e novos sistemas de monitoramento e estabilização de linha, destacando-se:
+
+1. Sistema de armazenamento em baterias: O elemento inovador é o Sistema de Armazenamento de Energia por Baterias (BESS – Battery Energy Storage System), utilizado em sistemas ancilares. A inovação adota baterias de Íons de Lítio e células de hidrogênio, sendo ambas as soluções inéditas para o mercado, pois não se tinha nada similar para esse tipo de aplicação, tornando a elaboração e estudos únicos para ISA CTEEP. O intuito é aumentar a disponibilidade e qualidade das transmissões de energia ao cliente final. O desenvolvimento tem como foco a proposição de arranjos tecnológicos que otimizem a utilização dos sistemas de armazenamento de energia de acordo com a demanda. Isso permite uma flexibilidade operacional e cria a necessidade de conjunto de potência com eletrônica dedicada e algoritmos de controle e gestão específicos para gerenciamento e tomada de decisões. Uma planta piloto inédita para o cenário nacional também foi desenvolvida em parceria com a USP (Universidade de São Paulo) para a realização de testes e experimentações.
+
+2. Subestações 4.0: Com a evolução dos dispositivos inteligentes, da internet, da computação móvel e de sistemas da informação, notou-se a necessidade de criar subestações (SE) completamente digitais, sendo essas denominadas 4.0. Visando elaborar e implementar esse conceito no mercado de energia nacional, estudos e análises foram realizados, de modo que fosse possível conceber: uma arquitetura eficiente e robusta; requisitos de proteção, legais e regulatórios; e protocolos de testes, comunicação e cyber segurança. Trata-se de um conceito inovador a nível global, não se tendo indícios de plantas em escala industrial que sejam consideradas 4.0.
+Por ser uma solução em estágio de pesquisa aplicada, há a necessidade de se criar normatizações e metodologias para o desenvolvimento e experimentações das soluções a serem desenvolvidas. Deve-se ressaltar que nessa concepção, o uso de inteligência artificial (IA) e internet das coisas (IoT) se mostram fundamentais para um controle totalmente autônomo. As perspectivas são de que o elemento inovador gere ganhos de gerenciamento, eficiência, segurança e custo para toda a cadeia.
+
+3. CAID – Digitalização da Inspeção: Devido a vasta extensão das redes de transmissões e o elevado número de equipamentos, o processo de inspeção se torna complexo e ineficiente, com isso surge a necessidade de se criar soluções tecnológicas que auxiliem os operadores. Nessa vertente, a Isa Cteep desenvolveu um conceito e metodologia de inspeção digital, na qual utiliza-se drones para realização das tarefas e captura das imagens. Esses alimentam um Data Hub que armazenam as informações, que posteriormente são avaliadas por um algoritmo inteligente, sendo esse denominado de Central de Análise de Imagens Digitais (CAID). Trata-se uma solução incipiente que traz ganhos de produtividade, qualidade e de tomada de decisão. Anteriormente a inspeção era feita de forma manual, demandando que o operador se deslocasse até as torres e subestações para realizar todos as verificações necessárias.
+
+Continuação no campo de informações complementares
+
+DESAFIO TECNOLÓGICO: O presente projeto traz soluções tecnológicas associadas a melhoria do processo de transmissão de energia, adotando materiais alternativos ao aço e novos sistemas de monitoramento e estabilização de linha. Alguns desafios são comuns às temáticas de pesquisa, tais como o atendimento dos requisitos de processo e itens regulatórios impostos pela Agência Nacional de Energia Elétrica (Aneel). Além disso, tem as seguintes incertezas tecnológicas:
+
+1. Sistema de armazenamento em baterias: Para essa linha de pesquisa o principal desafio está associado a criação de um arranjo tecnológicos para armazenando de energia por meio de baterias que seja viável para o fornecimento para a rede elétrica. Isso ocorre em função da complexidade do conjunto que compõe esse sistema, variação de demanda e falta de regulamentação acerca do tema. Para a armazenagem de energia nas baterias de Íons de Lítio, há dúvidas com relação ao sistema de controle e potência, demandando a criação de circuitos e lógicas específicas para controle de tensão, corrente e frequência. A superação desses desafios só foi possível devido às inúmeras simulações e experimentações. Com relação ao uso de hidrogênio para retenção da energia, tem-se incertezas associadas ao processo de hidrólise, sendo esse desconhecido pelo time técnico. Há também dúvidas com relação as tecnologias e topologias a serem utilizadas.
+
+2. Subestações 4.0: Por se tratar de um conceito incipiente a nível global, os principais desafios estão relacionados à definição da arquitetura, topologia e protocolo de comunicação, bem como aos requisitos de segurança a serem aplicados. Por não ser um tema regulamentado, tem-se dúvidas acerca das metodologias e validações aplicadas, sendo necessário consultar a literatura do estado da arte para criação de padrões. Há dúvidas ainda acerca da viabilidade técnica e funcional de aplicação, podendo ser inviabilizada pela falta de tecnologia e sistemas de controle.
+
+3. CAID – Digitalização da Inspeção: Em 2021 essa linha de pesquisa apresentou diversos desafios tecnológicos. O primeiro diz respeito a aplicação dos drones no processo de inspeção, não se tendo metodologia definida para a realização da atividade. Para sanar o problema fez-se necessária a criação de procedimentos para otimizar o uso das baterias dos dispositivos, reduzir o aquecimento e criar procedimentos vôos dos drones. Confirmando um desafio do ano anterior, teve-se problemas com o volume de dados gerados, sendo necessário reestruturar a arquitetura do Data Hub para redução do tempo de análise e maximização do processo. Houve ainda dúvidas com relação a efetividade do software desenvolvido para análise das informações e as suas novas funcionalidades, como, por exemplo, a geração automática de ordens de serviço. Isso ocorre em função dos diversos objetivos presentes nas imagens, que podem gerar uma análise equivocada. Ainda com relação a esse sistema, pondera-se a possibilidade de falhas em função da massa de dados e capacidade de processamento das imagens, podendo inviabilizar todo o processo.
+
+4. Materiais alternativos ao aço: Essa linha de pesquisa apresenta uma grande contradição técnica, devido à necessidade de se reduzir massa e incrementar a resistência, sendo propriedades antagônicas, gerando diversos desafios tecnológicos. Para os elementos de junção pondera-se a capacidade de se atender os requisitos de resistência mecânica e térmica, uma vez que os PRFV possuem características mecânicas inferiores ao aço. Tal desafio se confirmou ao longo dos testes em campo, sendo necessário reformular toda a estrutura.
+Para a aplicação de materiais compósitos, o maior desafio do ano ficou associado a criação do algoritmo para realização das análises, havendo dúvidas sobre a identificação das variáveis, condições de contorno e impactos dos parâmetros de processo na resposta. Além disso, houve grande esforço para definir a classe de materiais e realizar simulações para os estudos comparativos.
+
+METODOLOGIA: Os projetos apresentam metodologia de desenvolvimento particulares, tendo etapas específicas para cada um destes. A seguir são descritas as principais etapas e atividades de PD&I em cada um dos projetos.
+
+1. Sistema de armazenamento em baterias: Trata-se de um projeto que iniciou em 2017, sendo feito nos anos anteriores as etapas de revisão da literatura, concepção da solução, estudo das regulamentações, análise das tecnologias disponíveis e avaliação experimental de arranjos de armazenamento por meio de baterias. Em 2021 o projeto focou nas fases de análises e simulações dos arranjos compostos por baterias de Íons de Lítio e seus sistemas de controle, avaliações das condições de operação e oscilação da rede de energia brasileira, e estudos para utilização de hidrogênio para armazenamento. As principais atividades ocorridas no ano são encontradas no tópico de informações complementares.
+
+2. Subestações 4.0: Em função do grau de ineditismo da solução, ao longo de 2021 o projeto concentrou-se nas fases de revisão de literatura, concepção e desenho arquitetural da subestação e análises das condições de operações nacionais. Houve também atividades para levantamento e análise de dados das tecnologias que suportaram as Subestações 4.0. Tais informações são utilizadas para proposições de sistemas mais eficientes e pré-dispostos para comunicação entre os equipamentos. Baseado nos resultados prévios obtidos, foi especificada uma arquitetura para a subestação 4.0. Além disso, iniciou-se a montagem de uma planta piloto para avaliação das proposições realizadas, adquirindo sistemas de proteção para comunicarem entre si, de modo a validar as proposições realizadas. Os testes terão início no ano de 2022.
+
+3. CAID – Digitalização da Inspeção: Em 2019 foi feita uma pesquisa exploratória sobre as possíveis aplicações para drones, resultando no desenho do conceito da digitalização do processo de inspeção. Em 2020, executou-se a etapa de prototipagem da cadeia, testando e validando algumas fases, sendo essa em escala laboratorial. O conceito básico consiste em realizar o voo, capturar as informações, alimentar o Data Hub com as imagens e avaliar os dados obtidos. Para a realização da análise foi criada a Central de Análise de Imagens Digitais (CAID). Em 2021 o projeto concentrou-se na fase de validação em ambiente operacional, no qual foi realizado o desenvolvimento de forma escalonável e realizados os testes em campo, sendo avaliadas 18000 torres. Em função dos problemas e confirmações de desafios, fez-se necessário reestruturar o Data Hub e criar um novo sistema para análise das informações, estando ambos em processo de validação.
+
+4. Materiais alternativos ao aço: A linha de pesquisa para desenvolvimento de elementos de junção em resina termo fixas a base de éster iniciou no ano de 2020, sendo realizado o estudo da geometria e concepção inicial da solução. Em 2021 ocorreu a etapa de validação em laboratório e em ambiente relevante. Para isso foram construídos protótipos e realizada uma série de ensaios. Ao longo das análises em campo notou-se problemas atrelados a resistência do sistema, sendo necessária a alteração geométrica, o que acarretou no incremento de massa.
+A pesquisa relacionada a aplicação de materiais compósitos em componentes estruturais da linha de transmissão teve seu início no ano de 2021, contando com a fase de revisão da literatura, modelagem dos problemas e análises numéricas. A pesquisa iniciou com uma abordagem de se criar um perfil candidato. Com base nas avaliações realizadas, verificou-se que a metodologia adotada não atendia a complexidade do projeto, sendo necessário verificar a influência da troca de material em perfis para a estrutura de forma mais profunda. Com base nos estudos realizados, verificou-se a possibilidade de aplicar algoritmos de otimização, dando início ao desenvolvimento de uma solução em Python para criação de um algoritmo genético.
+
+Continua em  Informações Complementares 
+INFORMAÇÃO COMPLEMENTAR: Continuação 3.1.2. Descrição do Projeto
+Todas as vertentes contam com metodologias específicas, tendo como etapas comuns em 2021 a concepção da solução, análises de requisitos regulatórios, testes de viabilidade técnica e funcional, bem como validação em escala laboratorial e em ambiente relevante. Espera-se com resultados a inserção de novos produtos e melhoria dos processos como um todo.
+
+Elemento inovador:
+4. Materiais alternativos ao aço: Essa linha de pesquisa apresenta duas vertentes, a primeira associada a elaboração de elementos de junção em polímero reforçado com fibra de vidro (PRFV), sendo esse um sistema de resina termo fixa a base de éster vinílica. A segunda diz respeito a utilização de materiais compósitos a serem aplicados em torres de transmissão. Em geral os elementos estruturais do sistema de energia são feitos em aço e concreto, devido a elevada resistência mecânica, baixo custo e disponibilidade, sendo o uso das soluções inéditos para o mercado e sem nenhuma aplicação em campo nesse segmento. Em comparação com os modelos atuais, espera-se o incremento da resistência mecânica e à corrosão, redução de massa e maior competitividade da operação. Cabe ressaltar que as juntas desenvolvidas utilizam a tecnologia de pultrusão para fabricação dos perfis. Para viabilizar a aplicação dos materiais compósitos, foi desenvolvida uma rotina em Python com algoritmo genérico que simula diversas condições de contorno e compara o resultado entre diversos materiais.
+
+Atividades ocorridas ao longo de 2021 para as seguintes temáticas:
+1. Sistema de armazenamento:
+- Avaliação do armazenamento de energia no longo prazo utilizando hidrogênio em sistemas de grande porte;
+- Criação e implementação de estratégias de controle do sistema de armazenamento;
+- Desenvolvimento de ferramenta de simulação;
+- Estudos de casos da inserção de sistemas de armazenamento de energia com baterias de Íons de Lítio
+- Análise dos resultados obtidos em campo para cada uma das estratégias de controle simuladas;
+- Revisão bibliográfica da caracterização e do cálculo das flutuações da geração fotovoltaica;
+- Análise do comportamento das flutuações da geração fotovoltaica no país;
+- Dimensionamento e controle de sistemas de armazenamento de energia com baterias de Íons de Lítio para a mitigação das flutuações da geração fotovoltaica;
+- Proposição de características normativas dos equipamentos de interface de conexão com a rede;
+- Proposição dos procedimentos de ensaio para avaliação dos equipamentos de interface de conexão com a rede;
+- Avaliação dos projetos de norma por meio do ensaio de equipamento de interface de conexão com a rede;
+- Levantamento de bibliotecas de comunicação e desenvolvimento de controle dos equipamentos;
+- Testes de solicitação de carga para os sistemas de armazenamento de energia, de modo que esse compense a variação da rede;
+- Análises da atuação do sistema de controle dos sistemas com bateria de Íons de Lítio.
+4. Material alternativos ao aço:
+- Definição de critérios de projeto e congelamento de casos de carregamento das cargas;
+- Concepção preliminar da arquitetura geométrica;
+- Seleção de materiais;
+- Analise preliminar por elementos finitos (Fundação e estrutura);
+- Plano de ensaio para caracterização de perfis;
+- Concepção de perfis das juntas de ligação;
+- Criação de modelos virtuais das soluções;
+- Simulação numérica das modelagens realizadas
+- Construção de peças protótipos pra ensaios em laboratório
+- Realização dos ensaios tecnológicos dos perfis e juntas;
+- Realização de testes com os perfis da estrutura.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Aguardando Analise
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

@@ -1,0 +1,94 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9586 - USINAS ITAMARATI S/A - ANO :2021
+ID_PROJETO: 68783 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Indicadores On-line "O Livro"
+DESCRIÇÂO: O projeto para implementação do uso de business intelligence nas áreas de negócio da UISA busca integrar e otimizar a tomada de decisões das áreas tendo uma única fonte de dados para todos os dados da empresa. O projeto foi batizado como "O Livro" e já possui mais de 450 indicadores de diferentes áreas interagindo entre si e disponibilizando uma camada de visualização analítica na qual podemos utilizar análise preditiva, machine learning e inteligência artificial, tornando o dia a dia dos funcionários cada vez mais estratégico para a companhia.
+
+O Livro é um projeto que é muito desafiador, pois, encontramos resistência de funcionários para obtenção das informações em sistema, uma vez que adotamos como premissa a utilização de planilhas para disponibilização dos dados. Utilizamos somente dados provindos de sistemas das mais diversas fontes (Oracle, SQL, estruturados ou não). O maior de todos os desafios é prover informação de qualidade com governança de dados para nossos stakeholders para tomada de decisão.
+
+Os indicadores são utilizados de forma estratégica para companhia, sendo utilizados desde a operação até os diretores para decisões dos rumos da companhia.
+
+Na próxima fase do projeto iremos utilizar machine learning para manutenção preditiva e inteligência artificial para visualização de mapas e aplicação de herbicidas.
+PALAVRAS CHAVE: Agricultura 4.0, - Integração de Sistemas, Machine Learning e IA
+ELEMENTO TECNOLÓGICO: O projeto de implementação do portal de indicadores integrado ao datalake Google BigQuery, foi um projeto inovador devido a necessidade da companhia ter visibilidade das informações estratégicas para tomada de decisão, fazendo com que a empresa ganha-se  agilidade e otimização de vendas devido ao alto volume de dados utilizado.
+DESAFIO TECNOLÓGICO: A grande barreira encontrada foi com relação a cultura da companhia, visto que eram utilizados relatórios manuais nos quais demoravam-se dias ou até semanas para compartilhamento das informações para tomada de decisão. A partir do momento que conseguimos mostrar o valor de se ter a informação disponível a qualquer momento, conseguimos vencer a barreira e fazer com que os funcionários passassem a fazer tarefas mais estratégicas para companhia.
+METODOLOGIA: Foram utilizadas metodologias ágeis como forma de dar visibilidade aos stakeholders do que estava sendo desenvolvido e quando seriam as entregas com sprints definidas a cada 15 dias, assim sempre estamos ao lado dos nossos usuários e conseguimos fazer mais e entregas e com mais qualidade.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Não Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada.<br/><br/>a empresa descreveu o desenvolvimento de produtos/processos com tecnologias bem conhecidas, de amplo domínio. Ainda que constituam uma novidade para a empresa é necessário que a empresa se defrontou com barreiras técnicas que ela teve que superar com o desenvolvimento de pesquisa realizada internamente na empresa.
+DO_JUSTIFICATIVA_PADRONIZADA - NOME: Desenvolvimento de Produtos/Processos com tecnologias bem conhecidas, de amplo domínio. || Descrição de implementação de ferramentas de gestão que envolvem tecnologia TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa descreveu o desenvolvimento de produtos/processos com tecnologias bem conhecidas, de amplo domínio. Ainda que constituam uma novidade para a empresa é necessário que a empresa se defrontou com barreiras técnicas que ela teve que superar com o desenvolvimento de pesquisa realizada internamente na empresa. || a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada. RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+PARECER_AVALIACAO: Não Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada.<br/><br/>a empresa descreveu o desenvolvimento de produtos/processos com tecnologias bem conhecidas, de amplo domínio. Ainda que constituam uma novidade para a empresa é necessário que a empresa se defrontou com barreiras técnicas que ela teve que superar com o desenvolvimento de pesquisa realizada internamente na empresa.
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME: Descrição de implementação de ferramentas de gestão que envolvem tecnologia || Desenvolvimento de Produtos/Processos com tecnologias bem conhecidas, de amplo domínio. TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada. || a empresa descreveu o desenvolvimento de produtos/processos com tecnologias bem conhecidas, de amplo domínio. Ainda que constituam uma novidade para a empresa é necessário que a empresa se defrontou com barreiras técnicas que ela teve que superar com o desenvolvimento de pesquisa realizada internamente na empresa. RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: No intuito de trazer mais detalhes e um novo olhar sobre o projeto 10 - "O Livro", notadamente no intuito de afastar a leitura deste como simples implementação de ferramentas de gestão mas sim seu desenvolvimento e integração com demais sistemas, segue abaixo:
+
+1. Descrição Geral:
+O projeto para implementação do uso de business intelligence nas áreas de negócio da UISA busca integrar e otimizar a tomada de decisões das áreas tendo uma única fonte de dados para todos os dados da empresa. O projeto foi batizado como "O Livro" e já possui mais de 450 indicadores de diferentes áreas interagindo entre si e disponibilizando uma camada de visualização análitca na qual podemos utilizar análise preditiva, machine learning e inteligencia artificial, tornando o dia a dia dos funcionários cada vez mais estratégico para a companhia.
+
+O Livro é um projeto que é muito desafiador, pois, encontramos resistencia de funcionários para obtenção das informações em sistema, uma vez que adotamos como premissa a utilização de planilhas para disponibilização dos dados. Utilizamos somente dados provindos de sistemas das mais diversas fontes (Oracle, SQL, estruturados ou não). O maior de todos os desafios é prover informação de qualidade com governança de dados para nossos stakeholders para tomada de decisão.
+
+Os indicadores são utilizados de forma estratégica para companhia, sendo utilizados desde a operação até os diretores para decisões dos rumos da companhia.
+
+Na próxima fase do projeto iremos utilizar machine learning para manutenção preditiva e inteligencia artificial para visualização de mapas e aplicação de herbicidas.
+
+
+2. Elemento Novo ou Tecnologicamente Inovador:
+O projeto denominado "O Livro" veio para integrar todas as informações geradas pelo projeto JADI em um datalake totalmente integrado com coleta de dados nos sistemas existentes da companhia.
+
+Ele se utiliza de tecnologias como machine learning, inteligência artificial e outras para geração de dados estratégicos para tomada de decisão.
+
+Ele possui uma premissa de não se utilizar de dados de planilhas e/ou dados externos aos sistemas da UISA.
+
+Com os dados nesse datalake podemos criar insights para melhoria de resultados de vendas,  produtividade e até mesmo fazer análise climáticas com dados pluviométricos.
+
+3. Barreiras e Desafios tecnológicos superáveis:
+A grande barreira encontrada foi com relação a cultura da companhia, devido aos silos de dados de cada área de negócios ter seu relatório para mostrar a "mesma informação". Com a implementação do datalake essas informações foram centralizadas e integradas entre sistemas de forma a companhia ter uma fonte única de dados com criação de um portal para consulta dos indicadores de cada área.
+
+Com esses acessos os funcionários podem visualizar os indicadores de forma rápida e fácil e podem tomar decisões estratégicas para companhia.
+
+A utilização de tecnologias como inteligência artificial, machine learning e datalake, apesar de terem nomes bastante comentados, não eram são tão difundidas e foi necessário bastante estudo e busca de informações em bibliografias internacionais e parcerias com grandes empresas para implementação do projeto "O Livro".
+
+4. Metodologia:
+Foram utilizadas metologias ágeis como forma de dar visibilidade aos stakeholders do que estava sendo desenvolvido e quando seriam as entregas com sprints definidas a cada 15 dias, assim sempre estamos ao lado dos nossos usuários e conseguimos fazer mais e entregas e com mais qualidade.
+
+Foram aplicados treinamentos específicos para usuários específicos das áreas para difusão do "Livro" e como abordar a utilização do mesmo de forma a se interar das informações da empresa desde o board estratégico até os níveis operacionais com segregação de acessos a informação.
+
+
+Vinculação entre RH/Mão de Obra e a Linha de Pesquisa:
+Atividades:
+Coordenador de data science:
+1 - Responsável por se reunir e trabalhar junto das áreas de negócio na montagem dos escopos de trabalho e nas squads de entrega dos KPI's
+2 - Execução e validação técnica das visualizações dos dados
+3 - Pesquisa das melhoras de apresentação dos dados
+4 - Acompanhamento dos usuários na adoção e uso efetivo da solução de dados
+
+Engenheiro/Arquiteto de dados
+1 - Responsável pela estruturação dos dados no datalake
+2 - Desenvolvimento do catalogo de dados
+3 - Desenvolvimento das camadas de dados (Coleta, Processamento, Armazenamento e análise)
+4 - Responsável pela segurança das informações(quem pode acessar o dado e em qual momento)
+5 - Desenvolvimento dos pipelines de dados entre diversas fontes
+6 - Manter os dados organizados e disponibilizar queries aos consumidores de dados
+7 - Responsávelpela governança dos dados conforme LGPD.
+
+Cientistas de Dados
+1 - Desenvolver análises estáticas em cima dos dados liberados
+2 - Promover insights para as áreas de negócio para decisões
+3 - Entender os objetivos e requisitos das áreas de negócio para uso dos dados
+4 - Desenvolver visualizadores de dados conforme orientação e melhores práticas para visualição dos usuários finais
+5 - Avaliar e otimizar modelos de dados já existentes com novas fontes de dados
+DO_CONTESTAÇÃO_AVALIACAO: Não Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME: Descrição de implementação de ferramentas de gestão que envolvem tecnologia || Desenvolvimento de Produtos/Processos com tecnologias bem conhecidas, de amplo domínio. TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada. || a empresa descreveu o desenvolvimento de produtos/processos com tecnologias bem conhecidas, de amplo domínio. Ainda que constituam uma novidade para a empresa é necessário que a empresa se defrontou com barreiras técnicas que ela teve que superar com o desenvolvimento de pesquisa realizada internamente na empresa. RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+PARACER_CONTESTAÇÃO_AVALIACAO: Não Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: A empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica.  A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem.
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME: Desenvolvimento de Produtos/Processos com tecnologias bem conhecidas, de amplo domínio. || Descrição de implementação de ferramentas de gestão que envolvem tecnologia TITULO: No projeto nº <<NR_PROJETO>> || No projeto nº <<NR_PROJETO>> CORPO: a empresa descreveu o desenvolvimento de produtos/processos com tecnologias bem conhecidas, de amplo domínio. Ainda que constituam uma novidade para a empresa é necessário que a empresa se defrontou com barreiras técnicas que ela teve que superar com o desenvolvimento de pesquisa realizada internamente na empresa. || a empresa descreveu a implementação de uma ferramenta de gestão, que envolve tecnologia da informação, como o desenvolvimento de uma pesquisa tecnológica. A implementação de uma ferramenta de gestão não se enquadra no conceito de inovação tecnológica, assim, mesmo que seja uma inovação no âmbito da empresa, não está contemplada pelas atividades beneficiáveis pela Lei do Bem. Caso o objeto da pesquisa fosse uma evolução tecnológica relacionada a software que pode ter como serviço final uma ferramenta de gestão, esta atividade poderia ser contemplada. RODAPE: Dessa forma, o projeto apresentado não foi recomendado. || Dessa forma, o projeto apresentado não foi recomendado.
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

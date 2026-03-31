@@ -1,0 +1,44 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6848 - FURNAS - CENTRAIS ELETRICAS S.A. - ANO :2021
+ID_PROJETO: 57059 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Otimização do modelo meteorológico BRAMS, com validação experimental, para subsidiar aperfeiçoamentos de modelagens em sistemas eólicos.
+DESCRIÇÂO: Este projeto visa o desenvolvimento de uma plataforma para previsão de energia e desempenhos geomecânicos de sistemas eólicos a partir da utilização do modelo meteorológico BRAMS (Brazil Regional Atmospheric Modeling System) para subsidiar aperfeiçoamentos de modelagens em sistemas eólicos, o que representará o pioneirismo de Furnas na criação desse novo processo de previsão.
+
+PALAVRAS CHAVE: Meteorologia; Geomecânica; Previsões.
+ELEMENTO TECNOLÓGICO: A presente linha de pesquisa visa o desenvolvimento de uma plataforma com um modelo meteorológico, no caso, o modelo brasileiro BRAMS (Brazil Regional Atmospheric Modeling System) para subsidiar os modelos geomecânicos (fluidodinâmico, estrutural e geotécnico), com aplicação em sistema de monitoramento de linhas de transmissão (SMLT).
+
+Atualmente, as modelagens eólicas em infraestrutura, no âmbito da Engenharia Civil, se utilizam de cartas estáticas, como o Atlas Eólico/CRECESB e a NBR-6123. Com o advento do projeto, visou a melhoria nos desempenhos dinâmicos dos modelos geomecânicos através de um novo processo, uma vez que o mercado ainda convive com inúmeras limitações, riscos e dificuldades no tocante à utilização dos modelos previsores, principalmente em função da dificuldade de prever velocidades de vento com precisão, antecedência e sobretudo, economia de processamento computacional.
+
+A tentativa de fazer o BRAMS subsidiar diretamente os modelos geomecânicos, como é o escopo do projeto, é pioneira, desencadeando várias dificuldades que ainda precisarão ser superadas como, por exemplo, a adequação do tempo de processamento, resolução de grade, precisão e acurácia, para estimativas de séries temporais meteorológicas (velocidades de vento, radiação, chuva etc) num nível capaz de subsidiar os modelos de energia e de carregamentos estruturais satisfatoriamente. Assim, o projeto tem grande relevância para as atividades de Furnas e representa um grande ganho na área de inovação.
+DESAFIO TECNOLÓGICO: Tendo em vista que o projeto tem por escopo desenvolver um processo inédito de previsão metereológica com a integração do BRAMS, um dos primeiros desafios a serem superados é a ausência de estudos acadêmicos sobre o tema, de modo que foi necessário grandes esforços da equipe técnica de Furnas para conseguir produzir estudos aprofundados e conceitos a serem aplicados no desenvolvimento da inovação. Ademais, tendo em vista a complexidade do projeto, foi essencial a participação de diversos profissionais com as mais diversas expertises, dentre eles, graduados, mestres e doutores. Por fim, há de se dizer que a está sendo um grande desafio compreender e realizar a melhor forma de integração dos modelos processados em plataforma proprietária e livre, o que demanda a realização de diversos testes de viabilidade e experimentações que estão sendo realizadas pelos profissionais envolvidos no projeto.
+METODOLOGIA: Para o desenvolvimento do projeto, a metodologia planejada consiste na fragmentação lógica das principais etapas, quais sejam:
+1. Experimentação e personalização do BRAMS;
+2. Desenvolvimento de Modelagem CFD;
+3. Desenvolvimento de Modelagem Geomecânica (nas plataformas livre e proprietária);
+4. Validação experimental;
+5. Aplicações; e
+6. Desenvolvimento de Sistema de Monitoramento de Linhas de Transmissão (SMLT).
+Cumpre mencionar também que essas etapas ocorreram de forma simultânea, de forma que a Modelagem CFD já está em andamento com séries temporais meteorológicas, porém, fazendo testes sobre as capacidades de hardware; a modelagem geomecânica está em curso no ANSYS/ABAQUS e OpenFOAM/CodeAster; a validação experimental aguarda a aquisição do protótipo P_EOL. Estamos discutindo as aplicações, por ora, no domínio meteorológico (que deve preceder as aplicações geomecânicas) e estamos iniciando os estudos e desenvolvimento do SMLT piloto.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

@@ -3,11 +3,16 @@ Gêmeo Digital - Avaliador Lei do Bem
 Módulo principal de avaliação de projetos P&D&I
 """
 
+import json
+import os
+import re
 from dataclasses import dataclass, field
 from typing import Optional
 from enum import Enum
 import yaml
 from pathlib import Path
+from dotenv import load_dotenv
+from openai import OpenAI
 
 
 class Decisao(Enum):
@@ -180,7 +185,7 @@ class AvaliadorLeiBem:
     def __init__(
         self,
         area: str = "eletroeletronica",
-        modelo: str = "claude-3-5-sonnet-20241022",
+        modelo: str = "moonshotai/Kimi-K2-Instruct",
         api_key: Optional[str] = None,
         config_path: Optional[Path] = None
     ):
@@ -189,16 +194,18 @@ class AvaliadorLeiBem:
 
         Args:
             area: Área de avaliação (ex: eletroeletronica, quimica, software)
-            modelo: Modelo LLM a usar
-            api_key: Chave da API Anthropic (ou via env ANTHROPIC_API_KEY)
+            modelo: Modelo LLM a usar (padrão: Kimi-K2 via Nebius)
+            api_key: Chave da API Nebius (ou via env NEBIUS_API_KEY)
             config_path: Caminho para arquivos de configuração
         """
         self.area = area
         self.modelo = modelo
-        self.api_key = api_key
 
-        # Caminhos
+        # Carrega .env
         self.base_path = Path(__file__).parent.parent
+        load_dotenv(self.base_path / ".env")
+
+        self.api_key = api_key or os.environ.get("NEBIUS_API_KEY")
         self.config_path = config_path or self.base_path / "config"
         self.data_path = self.base_path / "data"
 
@@ -230,14 +237,30 @@ class AvaliadorLeiBem:
         return {}
 
     @property
-    def llm_client(self):
-        """Inicializa cliente LLM sob demanda"""
+    def llm_client(self) -> OpenAI:
+        """Inicializa cliente LLM sob demanda (Nebius API - OpenAI compatible)"""
         if self._llm_client is None:
-            # TODO: Implementar inicialização do cliente Anthropic
-            # from anthropic import Anthropic
-            # self._llm_client = Anthropic(api_key=self.api_key)
-            pass
+            if not self.api_key:
+                raise ValueError(
+                    "NEBIUS_API_KEY não configurada. "
+                    "Defina no .env ou passe via parâmetro api_key."
+                )
+            self._llm_client = OpenAI(
+                base_url="https://api.tokenfactory.nebius.com/v1/",
+                api_key=self.api_key,
+            )
         return self._llm_client
+
+    def _chamar_llm(self, system_prompt: str, user_prompt: str) -> str:
+        """Faz uma chamada ao LLM e retorna a resposta como texto"""
+        response = self.llm_client.chat.completions.create(
+            model=self.modelo,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+        )
+        return response.choices[0].message.content
 
     @property
     def rag_engine(self):
@@ -272,18 +295,32 @@ class AvaliadorLeiBem:
 
         return exemplos
 
-    def _carregar_exemplos_pasta(self, pasta: Path) -> list[dict]:
-        """Carrega exemplos de uma pasta"""
+    def _carregar_exemplos_pasta(self, pasta: Path) -> list[str]:
+        """Carrega exemplos de uma pasta (suporta .txt, .yaml, .json)"""
         exemplos = []
         if pasta.exists():
-            for arquivo in pasta.glob("*.yaml"):
+            for arquivo in sorted(pasta.glob("*.txt")):
+                with open(arquivo, encoding="utf-8") as f:
+                    exemplos.append(f.read())
+            for arquivo in sorted(pasta.glob("*.yaml")):
                 with open(arquivo, encoding="utf-8") as f:
                     exemplos.append(yaml.safe_load(f))
-            for arquivo in pasta.glob("*.json"):
-                import json
+            for arquivo in sorted(pasta.glob("*.json")):
                 with open(arquivo, encoding="utf-8") as f:
                     exemplos.append(json.load(f))
         return exemplos
+
+    def _formatar_exemplos(self, exemplos: list, max_exemplos: int = 3) -> str:
+        """Formata exemplos para incluir no prompt"""
+        if not exemplos:
+            return "[Nenhum exemplo disponível]"
+        textos = []
+        for i, ex in enumerate(exemplos[:max_exemplos]):
+            if isinstance(ex, str):
+                textos.append(f"--- Exemplo {i+1} ---\n{ex[:2000]}")
+            elif isinstance(ex, dict):
+                textos.append(f"--- Exemplo {i+1} ---\n{json.dumps(ex, ensure_ascii=False, indent=2)[:2000]}")
+        return "\n\n".join(textos)
 
     def avaliar(self, projeto: Projeto | dict) -> ResultadoAvaliacao:
         """
@@ -299,9 +336,158 @@ class AvaliadorLeiBem:
         if isinstance(projeto, dict):
             projeto = Projeto.from_dict(projeto)
 
-        # TODO: Implementar avaliação real com LLM
-        # Por enquanto, retorna resultado placeholder
-        return self._avaliar_placeholder(projeto)
+        # Carrega exemplos few-shot
+        exemplos = self.carregar_exemplos("todos")
+        exemplos_aprov = self._formatar_exemplos(exemplos.get("aprovados", []))
+        exemplos_rejeit = self._formatar_exemplos(exemplos.get("rejeitados", []))
+
+        # Monta system prompt
+        system_prompt = self.prompts.get("system_prompt", "").format(area=self.area)
+
+        # Monta prompt de avaliação
+        user_prompt = self.prompts.get("avaliacao_prompt", "").format(
+            titulo=projeto.titulo,
+            descricao=projeto.descricao,
+            elemento_novo=projeto.elemento_novo,
+            barreira_tecnologica=projeto.barreira_tecnologica,
+            metodologia=projeto.metodologia,
+            contexto_rag="[Base de conhecimento: Lei 11.196/2005, Manual de Frascati 2015, Manual Lei do Bem 2025]",
+            exemplos_aprovados=exemplos_aprov,
+            exemplos_rejeitados=exemplos_rejeit,
+        )
+
+        # Adiciona instrução para resposta em JSON
+        user_prompt += """
+
+IMPORTANTE: Além da análise acima, ao final da sua resposta inclua um bloco JSON
+delimitado por ```json e ``` com EXATAMENTE esta estrutura:
+
+```json
+{
+  "score_descricao": 7.0,
+  "score_elemento_novo": 6.5,
+  "score_barreira": 6.0,
+  "score_metodologia": 7.0,
+  "frascati_inovadora": true,
+  "frascati_criativa": true,
+  "frascati_incerta": true,
+  "frascati_sistematica": true,
+  "frascati_transferivel": false,
+  "decisao": "APROVADO",
+  "probabilidade_aprovacao": 75.0,
+  "parecer_resumido": "texto do parecer resumido",
+  "pontos_fortes": ["ponto 1", "ponto 2"],
+  "pontos_fracos": ["ponto 1", "ponto 2"],
+  "sugestoes_melhoria": ["sugestao 1", "sugestao 2"]
+}
+```
+Use os scores reais da sua avaliação, não os exemplos acima.
+"""
+
+        # Chama o LLM
+        resposta_texto = self._chamar_llm(system_prompt, user_prompt)
+
+        # Parseia a resposta
+        return self._parsear_resposta_llm(resposta_texto, projeto)
+
+    def _parsear_resposta_llm(self, resposta: str, projeto: Projeto) -> ResultadoAvaliacao:
+        """Parseia a resposta do LLM e constrói o ResultadoAvaliacao"""
+        # Extrai bloco JSON da resposta
+        dados = {}
+        json_match = re.search(r"```json\s*(\{.*?\})\s*```", resposta, re.DOTALL)
+        if json_match:
+            try:
+                dados = json.loads(json_match.group(1))
+            except json.JSONDecodeError:
+                pass
+
+        # Scores dos pilares
+        scores_pilares = {
+            "descricao": ScorePilar(
+                nome="Descrição do Projeto",
+                score=float(dados.get("score_descricao", 5.0)),
+                peso=0.15,
+                justificativa=self._extrair_justificativa(resposta, "Descrição"),
+                pontos_fortes=dados.get("pontos_fortes", [])[:2],
+                pontos_fracos=dados.get("pontos_fracos", [])[:2],
+            ),
+            "elemento_novo": ScorePilar(
+                nome="Elemento Novo/Inovador",
+                score=float(dados.get("score_elemento_novo", 5.0)),
+                peso=0.30,
+                justificativa=self._extrair_justificativa(resposta, "Elemento"),
+                pontos_fortes=dados.get("pontos_fortes", []),
+                pontos_fracos=dados.get("pontos_fracos", []),
+            ),
+            "barreira": ScorePilar(
+                nome="Barreira Tecnológica",
+                score=float(dados.get("score_barreira", 5.0)),
+                peso=0.30,
+                justificativa=self._extrair_justificativa(resposta, "Barreira"),
+                pontos_fortes=dados.get("pontos_fortes", []),
+                pontos_fracos=dados.get("pontos_fracos", []),
+            ),
+            "metodologia": ScorePilar(
+                nome="Metodologia",
+                score=float(dados.get("score_metodologia", 5.0)),
+                peso=0.25,
+                justificativa=self._extrair_justificativa(resposta, "Metodologia"),
+                pontos_fortes=dados.get("pontos_fortes", []),
+                pontos_fracos=dados.get("pontos_fracos", []),
+            ),
+        }
+
+        score_geral = sum(p.score_ponderado for p in scores_pilares.values())
+
+        frascati = AnaliseRascati(
+            inovadora=dados.get("frascati_inovadora", False),
+            criativa=dados.get("frascati_criativa", False),
+            incerta=dados.get("frascati_incerta", False),
+            sistematica=dados.get("frascati_sistematica", False),
+            transferivel=dados.get("frascati_transferivel", False),
+            justificativas={},
+        )
+
+        # Decisão
+        decisao_str = dados.get("decisao", "").upper()
+        if "APROVADO" in decisao_str and "DILIG" not in decisao_str:
+            decisao = Decisao.APROVADO
+        elif "DILIG" in decisao_str:
+            decisao = Decisao.DILIGENCIA
+        else:
+            decisao = Decisao.REJEITADO
+
+        prob = float(dados.get("probabilidade_aprovacao", 50.0))
+
+        # Parecer: usa o texto completo do LLM (sem o JSON)
+        parecer_detalhado = resposta
+        if json_match:
+            parecer_detalhado = resposta[:json_match.start()].strip()
+
+        return ResultadoAvaliacao(
+            titulo=projeto.titulo,
+            area=projeto.area,
+            score_geral=score_geral,
+            scores_pilares=scores_pilares,
+            frascati=frascati,
+            decisao=decisao,
+            probabilidade_aprovacao=prob,
+            parecer_resumido=dados.get("parecer_resumido", ""),
+            parecer_detalhado=parecer_detalhado,
+            pontos_fortes=dados.get("pontos_fortes", []),
+            pontos_fracos=dados.get("pontos_fracos", []),
+            sugestoes_melhoria=dados.get("sugestoes_melhoria", []),
+            similaridade_aprovados=0.0,
+            similaridade_rejeitados=0.0,
+        )
+
+    def _extrair_justificativa(self, resposta: str, secao: str) -> str:
+        """Extrai justificativa de uma seção da resposta do LLM"""
+        pattern = rf"\*?\*?{secao}.*?Justificativa:?\*?\*?\s*(.*?)(?:\n\*|\n###|\n\*\*|$)"
+        match = re.search(pattern, resposta, re.IGNORECASE | re.DOTALL)
+        if match:
+            return match.group(1).strip()[:500]
+        return ""
 
     def _avaliar_placeholder(self, projeto: Projeto) -> ResultadoAvaliacao:
         """Avaliação placeholder para testes (sem LLM)"""

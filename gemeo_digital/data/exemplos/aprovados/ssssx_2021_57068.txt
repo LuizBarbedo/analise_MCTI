@@ -1,0 +1,47 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6848 - FURNAS - CENTRAIS ELETRICAS S.A. - ANO :2021
+ID_PROJETO: 57068 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Aplicabilidade de inovadora tecnologia voltada para o desenvolvimento de um modelo de monitoramento inteligente dos ativos de transmissão
+DESCRIÇÂO: Este projeto de pesquisa tem por objetivo principal reduzir o nível de interrupções em equipamentos pertencentes aos ativos de transmissão por meio da previsão de seus defeitos, tendo em vista que ao deixarem de funcionar afetam diretamente a operação do Sistema Elétrico. O avanço da tecnologia possibilitou desenvolver competências e capacidades visando a previsão de defeitos em equipamentos (manutenção preditiva) por meio da análise de sintomas de falhas, utilizando-se de técnicas diversas como: acompanhamento termográfico, análise de óleos, análise de vibração e medição de espessuras.
+
+O presente projeto irá aprimorar a manutenção preditiva realizada atualmente em FURNAS, empregando técnicas de análise de dados em grande escala (Big Data) voltadas para predição. Estas técnicas permitem a identificação de informações “ocultas” em padrões de dados que, ao serem identificadas e estudadas, possibilitarão alertar para prováveis falhas não facilmente identificadas nos equipamentos acompanhados. Dessa maneira, as manutenções programadas envolvendo monitorados ativos de transmissão poderão ser mais bem alocadas de modo a evitar interrupções indesejadas e produzir melhor utilização dos ativos envolvidos por meio das possíveis postergações de suas paradas, produzindo, assim, maior ciclo de vida dos ativos.
+
+Dessa forma, o proposto é desenvolver modelos analíticos - denominados modelos de monitoramento inteligente dos ativos de transmissão - que irão atuar em conjunto com os métodos preditivos já experimentados e existentes, via levantamento e uso de uma quantidade abrangente de conhecimentos, de dados e de informações envolvidas nas interrupções a serem identificadas, estudadas e analisadas.
+PALAVRAS CHAVE: Subestações; Parcela Variável; Machine Learning; Big Data.
+ELEMENTO TECNOLÓGICO: O elemento inovador do presente projeto pode ser descrito como a aplicação de técnicas de Inteligência Artificial na predição de falhas de equipamentos de uma subestação. A ideia do projeto foi motivada pela necessidade (i) de aprimoramento dos planos de manutenção dos ativos de transmissão por meio de técnicas de IA, materializadas a partir da correlação dos dados de operação e manutenção de equipamentos em subestações de Furnas; (ii) da estruturação de um Data Lake corporativo e da integração dos principais sistemas de operação e manutenção se baseando em aspectos relacionados a nova base de ativos de transmissão da ANEEL (BDIT/SAGIT); (iii) da otimização do processo de Gestão de Ativos de Transmissão; e (iv) da minimização da indisponibilidade dos ativos com possível redução de parcela variável (PV).
+
+Nesse trabalho são utilizadas em sua maioria tecnologias disruptivas, inovadoras e pouco exploradas pela equipe de Furnas, de modo que os pesquisadores estão em processo de capacitação e aperfeiçoamento para garantir o pleno desenvolvimento da linha de pesquisa. Nesse contexto, é válido dizer que não foram identificadas no mercado soluções que pudessem resolver a questões particulares dos dados de Furnas, dada sua especificidade e complexidade.
+
+Para a execução do projeto, serão empregas e desenvolvidas tecnologias relacionadas ao armazenamento e computação em nuvem, estruturação de dados em data lakes (Big Data) e aplicação de técnicas de inteligência artificial (Machine Learning). Destaca-se também a aplicação de conceitos de ciência de dados, utilizando resultados Agnostic PAC Learning que fornecem estimativas para a complexidade amostral do conjunto de treinamento, em função das acurácias e confianças determinadas a priori. O uso destes resultados fornece um guia bem preciso, baseado na dimensão de Vapnik-Chervonenkis, para a escolha do tipo de algoritmo de aprendizado mais adequado para a os parâmetros finais estipulados, acurácia e confiança, além da estrutura do classificador inerente aos dados. Aos ativos inicialmente escolhidos para o início da modelagem, podem ser adicionados outros ativos que cumprem o papel de fornecer ao conjunto de treinamento à complexidade amostral necessária à provisão dos parâmetros de aprendizagem requeridos.
+DESAFIO TECNOLÓGICO: Uma das barreiras enfrentadas para a materialização do projeto pode ser descrita como a dificuldade atinente à coleta de uma quantidade suficiente de dados para permitir a utilização das técnicas de Machine Learning, de maneira que, foi necessário a capacitação técnica da equipe do projeto, uma vez que não foram identificadas soluções no mercado que dessem conta de questões exclusivas de dados, principalmente no que tange a nomenclatura dos equipamentos. Ademais, cumpre mencionar também a existência do desafio em mapear e relacionar os identificadores nas diversas fontes utilizadas, condição sine qua non para a materialização do projeto. Por fim, considera-se um grande desafio também a definição de processos e realização de estudos voltados para a escolha do tipo de algoritmo de aprendizado mais adequado para a os parâmetros finais estipulados no projeto de modo que superem as tecnologias atuais empregadas e traga maior acurácia e confiança na realização do processo.
+METODOLOGIA: A metodologia utilizada no projeto consistiu em:
+-Identificar as principais “Funções de Transmissão”, responsáveis pelas interrupções do sistema elétrico nos últimos anos, ao considerar as penalizações emitidas pela ANEEL, localizando os ativos de transmissão causadores de tais falhas;
+-Desenvolver, utilizando técnicas de Big Data, modelos para análise dos dados consolidados, visando obter indicadores que tornem possível prever ocorrências provocadoras de falhas nos ativos;
+-Aplicar os modelos analíticos desenvolvidos nos ativos selecionados, analisando os indicadores obtidos em conjunto com os métodos preditivos já utilizados (onde for possível), tendo em vista sugerir a programação das próximas paradas, objetivando utilização mais eficiente dos mesmos;
+-Identificar um conjunto de tipos de ativos responsáveis pelas referidas interrupções, selecionando as suas notas registradas nas correspondentes manutenções corretivas, incluindo outros dados e informações complementares referentes ao instante das falhas como: especificidades operacionais locais, condições atmosféricas, eventos peculiares ocorridos no dia, etc;
+-Levantar informações e dados disponíveis envolvendo os referidos ativos presentes nas “Funções de Transmissão”;
+-Preparar e montar uma grande base de dados com as informações obtidas, incluindo registros oriundos de diversas outras fontes como: sistemas de informações, leituras operacionais diversas, históricos de ocorrências, entre outros. Desse modo serão estruturados volumosos mananciais de dados para a realização de toda a pesquisa e desenvolvimento do projeto aqui proposto;
+-Especificar, adquirir e implantar uma plataforma (hardware e software para tratamento de dados em grande escala - Big Data) capaz de suportar o desenvolvimento dos modelos analíticos propostos, sua implantação e futura evolução.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

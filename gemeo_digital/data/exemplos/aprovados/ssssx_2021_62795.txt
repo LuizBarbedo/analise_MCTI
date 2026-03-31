@@ -1,0 +1,96 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8047 - COMPANHIA ENERGETICA DE PERNAMBUCO - ANO :2021
+ID_PROJETO: 62795 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: MÓDULO DE MEDIÇÃO - DESENVOLVIMENTO DE TECNOLOGIA NACIONAL PARA REDES ELÉTRICAS INTELIGENTES
+DESCRIÇÂO: Metodologia e laboratórios para a validação de protocolo de medição e comunicação garantindo interoperabilidade para todas as camadas do modelo OSI. Na camada de aplicação, será desenvolvido o padrão brasileiro do protocolo DLMS. Nas camadas mais baixas, propõe-se o uso dos protocolos PRIME e WI-SUN. Os impactos dos resultados deste projeto abrangem todo o setor elétrico brasileiro e internacional. As especificações de referência podem ser utilizadas por todos os sistemas de comunicação para redes elétricas inteligentes e servirão como referência para interoperabilidade entre os vários fabricantes de soluções para Smart Grids. As entidades, também, serão impactadas positivamente com a construção dos laboratórios de certificação para protocolos de comunicação, uma vez que estes prestarão um novo serviço que, atualmente, está indisponível no mercado brasileiro no âmbito das redes elétricas inteligentes. 
+PALAVRAS CHAVE: 
+ELEMENTO TECNOLÓGICO: A inovação do produto principal deste projeto caracteriza-se pelo desenvolvimento e testes de padrões de hardware e software embarcado para comunicação interoperável, voltados para aplicações de medição inteligente. Complementarmente, haverá o desenvolvimento de laboratórios de referência para os protocolos de rádio e comunicação pela rede elétrica que serão disponibilizados para certificação de interoperabilidade para as soluções de comunicação disponíveis no mercado. 
+DESAFIO TECNOLÓGICO: Atualmente, o mercado de comunicação para REI (Rede Elétrica Inteligente) carece de definições para a interoperabilidade entre os dispositivos em campo. Este problema torna-se maior quando da implantação massiva de sistemas inteligentes na distribuição, que acaba por direcionar para soluções proprietárias. A interoperabilidade é vital quando se leva em conta questões de competitividade e liberdade de escolha das distribuidoras. Visando atacar esse problema, existem iniciativas internacionais que buscam a interoperabilidade para diferentes meios de comunicação. Entre estas destacam-se os protocolos WI-SUN para rádios e PRIME para PLC. Além dos protocolos citados, ressalta-se, também, o protocolo DLMS para camada de aplicação entre medidores de energia. Atualmente, alguns destes protocolos encontram-se em fase de validação. 
+METODOLOGIA: O principal avanço que será alcançado com a aplicação dos resultados deste projeto serão as referências de interoperabilidade para várias tecnologias de comunicação. Estas referências serão fornecidas como padrões de construção e de testes funcionais, que poderão ser utilizadas por fabricantes de equipamentos e/ou sistemas de comunicação para medição. Os laboratórios de certificação servirão como referência para o mercado para validação da interoperabilidade dos sistemas desenvolvidos pelos fabricantes.
+
+Ao longo do ano foram executadas as seguintes etapas do projeto:
+
+
+
+BENCHMARK DOS SISTEMAS DE COMUNICAÇÃO DLMS/COSEM, PLC PRIME E WI-SUN E SEU ESTÁGIO ATUAL DE INTEROPERABILIDADE NO MUNDO
+
+Para verificar o estado da implementação do protocolo dlms no mercado brasileiro, realizou-se estudo do protocolo dlms através da documentação oficial (colored books) em comparação com a implementação dos fabricantes brasileiros (weg e siemens).
+
+Paralelamente, providenciou-se a produção de um relatório a respeito da posição do dlms na espanha e na europa. Desenvolveu-se um relatório integrado com as soluções no wi-sun e dlms sobre wi-sun.
+
+
+
+TRADUÇÃO E DEFINIÇÃO DA VERSÃO BRASILEIRA DO PROTOCOLO DLMS/COSEM
+
+Tradução e organização para elaboração das normas nbr iec:
+
+Elaboração do texto base do perfil dlms/cosem para apresentação ao grupo abnt/ce-003:013.001 - medidores integradores;
+
+
+
+ANÁLISE CRÍTICA DO INS E NORMAS PARA SMART METERS DA NEOENERGIA E PROPOSIÇÃO DE MELHORAMENTOS E COMPATIBILIZAÇÃO COM A REALIDADE BRASILEIRA
+
+
+
+Nesta etapa, foram feitos:
+
+Estudo da ins 97.20.06/2019 – electric smart meters – Iberdrola e dos procedimentos de distribuição da aneel módulos 8 e 5;
+
+Análise crítica dos documentos: comparação dos requisitos de um smart meter da ins com os prodist estudados;
+
+Estudo da definição e composição de objetos obis e do funcionamento do medidor weg disponível e do modelo osi/isso;
+
+Comparação dos objetos obis medidos pelo medidor da weg com os propostos pela ins e Comparação dos objetos obis propostos pela siemens com os propostos pela ins;
+
+Geração de proposta de objetos para o perfil brasileiro do protocolo dlms/cosem baseado nas sugestões do ins;
+
+Discussão do perfil com as equipes da neoenergia e iberdrola
+
+
+
+ETAPA: CRIAÇÃO DE CASOS DE USO DE REQUISITOS MÍNIMOS PARA CERTIFICAÇÃO DE MEDIDORES DLMS/COSEM
+
+Houve levantamento dos casos de medidores individuais monofásicos e polifásicos; avaliação das especificidades para medição centralizada; produção dos casos de testes para medidores individuais e produção dos casos de usos para medidores dlms.
+
+ETAPA: ELABORAÇÃO DO CADERNO DE TESTES PARA VALIDAÇÃO DO PROTOCOLO DLMS/COSEM
+
+Houve a verificação dos procedimentos de testes do protocolo dlms de acordo com própria aliança; levantamento dos casos de medidores individuais monofásicos e polifásicos; avaliação das especificidades para medição centralizada; produção dos casos de testes para medidores individuais.
+
+ETAPA: AQUISIÇÃO E MONTAGEM DA INFRAESTRUTURA DO LABORATÓRIO DE CERTIFICAÇÃO DLMS/COSEM, EM ANDAMENTO.
+
+Levantamento dos requisitos básicos para os laboratórios de testes e certificação wi-sun. Tais requisitos foram baseados nos laboratórios do lactec e apresentados à neoenergia para tomada de decisão sobre a localização destes Laboratórios;?levantamento dos equipamentos necessários para implantação dos laboratórios; levantamento da estrutura física – civil dos laboratórios a serem instalados na coelba.
+
+ETAPA: VERIFICAÇÃO DOS PROCEDIMENTOS DE TESTES DOS PROTOCOLOS PRIME E WI-SUN ESPECIFICADOS PELAS RESPECTIVAS ALIANÇAS, EM ANDAMENTO.
+
+Foi realizada verificação dos procedimentos de testes do protocolo wi-sun especificada pala aliança wi-sun; verificação dos procedimentos de testes do protocolo prime especificada pala aliança.
+INFORMAÇÃO COMPLEMENTAR: NEOENERGIA ELEKTRO - CNPJ 02.328.280/0001-97
+
+NEOENERGIA COSERN – CNPJ 08.324.196/0001-81
+
+NEOENERGIA PERNAMBUCO – CNPJ 10.835.932/0001-08
+
+Atividade em 2021: Acompanhamento das atividades executadas no projeto, por meio de reuniões semanais com as equipes; gestão financeira com base no cronograma físico-financeiro do projeto e análise técnica dos relatórios entregue, referente a cada etapa concluída no projeto.
+
+De cada empresa cooperada, participam colaboradores-pesquisadores com dedicação parcial na finalidade de contribuir para o desenvolvimento do projeto, contando com as especificidades locais.
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

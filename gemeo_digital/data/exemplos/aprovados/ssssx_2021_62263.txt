@@ -1,0 +1,35 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62263 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 310200434-Estudo para redução do macho central nas carcaças com extração axial W22
+DESCRIÇÂO: Objetivo do processo é a redução no custo de fabricação de carcaças produzidas na fundição que possuem o modo de extração axial. A alteração será feita com a redução no macho central, onde será confeccionado um macho segmentado, alterando o perfil a ser usinado nas peças brutas. Com a alteração do processo terão os ganhos: - Redução no custo com aterro industrial; - Redução no consumo de areia de macho; - Redução média no peso do macho; - Aumento de produtividade, devido ao aumento do número de cavidades na caixa de macho, consequente redução na carga máquina da macharia; - Redução no custo médio das peças; - Redução nos problemas com macho deslocado devido a caixa de macho mais simples;
+
+PALAVRAS CHAVE: Carcaças axiais; Macho central cold box; Moldagem Disa
+ELEMENTO TECNOLÓGICO: Para a fabricação de carcaças no modo axial é utilizado um macho em areia ligada quimicamente, esta areia possui um custo aproximadamente 20 vezes maior que o custo da areia verde. A proposta é elaborar um conceito de fabricação onde a confecção do diâmetro interno da carcaça seja produzido pela areia verde, mantendo apenas a caixa de ligação com o macho em areia ligada quimicamente, o qual não é possível remover no conceito atual do produto.
+
+DESAFIO TECNOLÓGICO: No estudo a melhoria irá alterar o diâmetro interno das carcaças, gerando um ângulo de extração e rebarbas. Isto irá gerar um esforço de corte na Usinagem muito maior que o atual, com isso o equipamento poderá não atender com a potência atual. Além disso pode gerar um maior desgaste nas ferramentas de corte, ou até mesmo possíveis quebras de ferramenta, e também poderá gerar alterações nas dimensões da peça usinada, que não atenderá os requisitos mínimos, inviabilizando o projeto.
+
+METODOLOGIA: Projetar e simular a situação futura para o processo no Metalúrgico IV, bem como a elaboração de protótipos para validação das simulações. Para o processo de usinagem serão produzidas peças para prototipagem para então utilizar a metodologia 6-Sigma para validação no novo processo e qual a melhor configuração de parâmetros de usinagem para contornar os possíveis problemas.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de ensino e pesquisa e pesquisadores com mestrado e doutorado.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

@@ -1,0 +1,47 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9532 - THERMO STAR EQUIPAMENTOS LTDA - ANO :2021
+ID_PROJETO: 68634 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Pesquisa e desenvolvimento de solução para controle de velocidade de aceleração do equipamento, redução no consumo de combustível e ruído.
+DESCRIÇÂO: A Thermo Star constrói sua história e mantém prestigiada reputação. Com produtos de qualidade, a indústria conserva, com excelência, seu nome no ramo em que atua. Assim sendo, para que esse status seja preservado, a empresa mantém seus investimentos em novas tecnologias, melhorando constantemente seus produtos.
+Nesse contexto, o projeto em pauta foi criado com o objetivo de desenvolver nova solução para controle da velocidade de aceleração do equipamento diesel. Produto responsável por gerar segurança e tranquilidade em longas viagens. O motor diesel independente propicia autonomia ao equipamento, aliado ao alto desempenho em toda sua operação.
+Com a melhoria feita no equipamento, a empresa almeja a redução no consumo de combustível. Possibilitando ao frotista, o deslocamento do caminhão em grandes centros urbanos, por meio da diminuição do ruído gerado pelo equipamento.
+Contudo, por se tratar da realização de melhorias com um intuito específico, desafios apareceram durante as criações e tiveram que ser superados pelos pesquisadores, os quais precisaram se empenhar em estudos, pesquisas e testes.
+PALAVRAS CHAVE: equipamento diesel; melhorias; tecnologia; redução; combustível; diminuição de ruido; desafios;
+ELEMENTO TECNOLÓGICO: Visando melhorias no equipamento diesel da empresa, o processo em tela, com propósito de trazer avanços, carrega inovação e novidade em seu corpo. Além de se atentar as tecnologias mais novas, para caminhar junto das necessidades da empresa.
+Desse modo, a Thermo Star inova com o projeto em tela ao desenvolver nova solução para controle da velocidade de aceleração do equipamento diesel. Com a melhoria feita no equipamento, a empresa reduz o consumo de combustível. Possibilitando ao frotista, o deslocamento do caminhão em grandes centros urbanos, por meio da diminuição do ruído gerado pelo equipamento.
+Além disso, a empresa passa garantir, por meio de uma solução nunca utilizada pela empresa, o controle de velocidade de aceleração do motor diesel Yanmar 3TNV70-apk. Posto que, tal modelo de motor, por si só, não possui um sistema automatizado para controlar a velocidade de rotação do motor, sendo unicamente possível alterar a velocidade manualmente através de uma chapa acoplada ao próprio motor.
+DESAFIO TECNOLÓGICO: Tendo em consideração a complexidade do projeto em foco, os pesquisadores tiveram uma sequência de desafios e obstáculos técnicos que exigiram grande dedicação e atenção para conquistarem os resultados pretendidos.
+O principal desafio se deu pelo fato de o modelo de motor em questão não possuir um sistema automatizado para controlar a velocidade de rotação do motor, sendo unicamente possível alterar a velocidade manualmente através de uma chapa acoplada ao próprio motor.
+O que tornou desafiador encontrar uma solução que pudesse ser acoplada ao atual painel elétrico da empresa, sem alterar o tamanho do comando elétrico. A solução encontrada para automatizar a aceleração do motor foi usar uma solenoide de aceleração.
+Assim, houve a necessidade de projetar um suporte para este novo componente, que deveria ficar em posição fixa, para que a velocidade atingida fosse a mesma velocidade exigida, não interferindo na capacidade de refrigeração. Desse modo, foi possível atingir este objetivo, controlando a velocidade do equipamento em duas velocidades, alta aceleração e baixa aceleração.
+METODOLOGIA: Para execução do projeto, realizaram-se estudos, pesquisas bibliográficas e análises de mercado no gênero para identificação das opções atualmente disponíveis de equipamentos necessários para elaboração das melhorias no equipamento, bem como suas configurações técnicas.
+Nessa perspectiva, adotou-se uma metodologia delimitada, baseada nas seguintes atividades:
+1.	Inicialmente foi realizado pesquisas e estudos para avaliar a viabilidade técnica e de custos;
+2.	Realização de estudo técnico para identificação da melhoria encontrada no mercado e suporte;
+3.	Após a aprovação do projeto, foi encaminhado para a criação no departamento de engenharia o modelamento matemático em software;
+4.	Finalizar o projeto mecânico e detalhamentos para a fabricação do suporte;
+5.	Após etapa, fabricação de 01pç protótipo para teste em laboratório; disponibilizado em testes pelo máximo tempo possível;
+Portanto, com o desenvolvimento dos novos elementos necessários para efetivação do projeto, são realizados testes em processo e os respectivos acompanhamento de resultados em laboratórios. Por fim, os últimos passos para concretização das melhorias do processo consistiram em validar e verificar os dados obtidos para conclusão.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

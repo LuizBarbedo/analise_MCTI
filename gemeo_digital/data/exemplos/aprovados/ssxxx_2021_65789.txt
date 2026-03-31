@@ -1,0 +1,64 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 8793 - IRACEMA TRANSMISSORA DE ENERGIA S. A. - ANO :2021
+ID_PROJETO: 65789 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: ESTUDO E DESENVOLVIMENTO DA APLICAÇÃO E VIABILIDADE DE CONVERSORES VSC PARA TRANSMISSÃO HVDC USANDO LINHAS AÉREAS
+DESCRIÇÂO:
+O sistema interligado brasileiro conta com uma rede EHVAC (Extra High Voltage AC) integrada, com transmissão de longa distância em HVDC (High Voltage DC). Nos últimos anos, vários projetos LCC-HVDC foram colocados em operação na rede elétrica brasileira, porém essa aplicação aumenta a possibilidade de ocorrências de falhas de comutação e as características de acoplamento interativo AC-DC são mais significativas. Assim, buscou-se estudar as características da aplicação de redes VSC-HVDC de modo a verificar a presença de vantagens técnicas sobre o sistema atual.
+Dadas as longas distâncias de transmissão no Brasil, o uso de linhas aéreas de transmissão é imprescindível, além de possuir regiões com infeeds HVDC totalizando cerca de 20 GW, com mais planejados para o futuro. Isso leva à necessidade de resolver problemas dinâmicos de desempenho em um ambiente de multi-infeed, particularmente associado à falha de comutação na LCC. Por essas razões, a opção de conversor HVDC para usar a tecnologia VSC é aplicável e muito atraente no sistema elétrico brasileiro.
+Dito isso, a transmissão HVDC usando conversores VSC não tem sido empregada no Brasil devido ao seu alto custo e outras dificuldades associadas ao uso em conjunto com linhas aéreas, como a exigência de extinção rápida do arco em uma linha de transmissão aérea (OHL), o principal ponto de aplicação esperado desta tecnologia no país. Atualmente existem links VSC-HVDC com OHLs em operação, porém exigem que os disjuntores CA sejam abertos para limpar falhas de linha, além de estarem em latitudes mais ao norte, onde o nível de descargas atmosféricas é mais baixo.
+Desse modo, o projeto propõe a realização de estudos e desenvolvimento de soluções para a viabilização técnica do uso de sistemas VSC-HVDC no Brasil. As soluções serão fornecidas a partir de aspectos de revisão do estado da arte das técnicas atuais, a investigação das características técnicas, construção de modelo digital e análise econômica.
+
+PALAVRAS CHAVE: Comutadores de Corrente Continua,  Projetos VSC-HVDC,  Voltage Source Commutation,
+
+ELEMENTO TECNOLÓGICO:
+O elemento de novidade do projeto decorre do ganho de conhecimento técnico sobre tecnologias VSC e suas aplicações e linhas aéreas HVDC e UHVDC, na qual a equipe técnica buscou capturar o máximo de informações possíveis sobre suas características únicas, pontos positivos e negativos em comparação com o sistema LCC atual e identificação de casos de aplicações em outros países de modo a desenvolver uma solução completa para sua aplicação no sistema elétrico brasileiro.
+A partir das revisões teóricas do material presente na literatura internacional sobre a aplicação de VSCs em outras partes do mundo, foi possível identificar os princípios de funcionamento básicos de cada topologia de conversor, foram realizadas comparações operativas com a tecnologia clássica LCC, discorrido sobre a composição dos equipamentos das estações conversoras, apresentados os controles clássicos dos conversores MMC, dentre outras questões correlatas. Foram também expostos os requisitos técnicos necessários para modelagem de sistemas VSC-UHVDC, incluindo a distinção entre os estudos de alta e de baixa frequência que justificam os diferentes softwares a serem utilizados nessa pesquisa, além da identificação de fenômenos como Estabilidade Eletromecânica, Estabilidade de Tensão, Estabilidade de Frequência, Distorções Harmônicas, entre outras ocorrências que podem impactar no sistema e devem ser considerados na análise de sistemas de potência durante as simulações.
+A equipe técnica realizou estudos sobre o cenário brasileiro com relação a tentativas e sucessos anteriores na aplicação de sistemas de VSC, bem como seu potencial de aplicação na expansão do Sistema Interligado Nacional (SIN). Com o propósito de verificar as capacidades técnicas da tecnologia e revisar as normas que regem os empreendimentos de energia dessa escala e magnitude. Dessa forma, foi possível concluir que no momento atual o investimento para a troca do sistema seria grande demais para viabilizar um projeto robusto, mesmo com os riscos inerentes da expansão de sistemas LCC ou CCC, porém espera-se que, a partir da consolidação das vantagens da aplicação da tecnologia e a realização de consultas públicas para referenciar a aplicação do VSC como opção no planejamento técnico de novos empreendimentos permita um aumento da relevância desta opção com o tempo e assim, juntamente com a atualização de regulamentos e normas frente a participação em consultas públicas das entidades de planejamento e regulação podem servir como estímulo na introdução da tecnologia de modo a definir o serviço operativo das estacoes conversoras na Rede.
+Além disso, foram expostos os requisitos técnicos necessários para modelagem de sistemas VSC-UHVDC, incluindo a distinção entre os estudos de alta e de baixa frequência que justificam os diferentes softwares a serem utilizados nessa pesquisa.
+
+DESAFIO TECNOLÓGICO:
+Embora o uso dos VSCs tenha surgido como uma solução para diversos problemas relacionados a transmissão HVDC usando os LCCs, a transmissão VSC-HVDC ainda possuem muitos problemas a serem superados ou ao menos minimizados. O principal deles estando relacionado ao fato de que linhas aéreas são mais expostas a curto-circuitos, seja devido a poluição ambiental, descargas atmosféricas, entre outros fatores ambientais que podem acarretar esse fenômeno. Um dos principais desafios da transmissão VSC-HVDC é controlar e eliminar curto-circuitos na linha CC, já que a corrente de curto-circuito CC não tem a passagem natural pelo zero (impossibilitando a utilização de disjuntores CA convencionais).Outro desafio a ser superado é a escolha da topologia e da tecnologia de eliminação de defeitos em linhas CC, sendo necessária a realização de estudos com as configurações mais atraentes considerando os principais aspectos, ou seja, a existência de aplicações comercial, vantagens técnicas e os custos potenciais. Para esse propósito, serão realizadas também simulações em sistemas mais simples, buscando comprovar a amplitude das vantagens técnicas identificadas e descartar opções menos atrativas.
+Também há desafios referentes a viabilização do intercâmbio entre áreas de forma robusta e flexível, principalmente considerando a variedade de cenários com o aumento progressivo de fontes alternativas de energia com características intermitentes e com demandas de potência reativa e suporte de tensão, uma vez que, associado a este aumento, podem ainda surgir problemas da redução relativa de inercia do sistema, que pode ser em parte atenuado pela inercia sintética do VSC.
+Todos esses pontos serão tratados a partir da realização de revisões de literatura e busca de casos existentes em outros países de modo a verificar soluções comuns e adaptáveis a realidade do sistema e clima brasileiros e desenvolver soluções próprias e escaláveis que consigam evoluir e se encaixar ao SIN e sua expansão continua.
+
+METODOLOGIA:
+1. Estudos teóricos e revisão do estado da arte sobre sistemas VSC e sua aplicação em linhas aéreas HVDC e UHVDC no Brasil e no mundo,  (2021)
+2. Visita a fabricantes e operadores de projetos VSC-HVDC que foram colocados em operação e em construção, para investigar a tecnologia aplicada em projetos existentes,  (2021)
+3. Estudos sobre características geográficas e climáticas da rede elétrica brasileira, além de estrutura energética, composição da carga etc., para identificar um elo hipotético no SIN, dando a estrutura do sistema HVDC (Híbrido ou não), a localização de envio do VSC e terminais de recepção, o comprimento de linhas aéreas, a capacidade e tensão,  (2021 – 2022)
+4. Estudar diferentes soluções de conversor VSC, focando na comparação característica de VSC full-bridge, ½-bridge VSC com disjuntores, bem como possíveis soluções multiterminais,  (2022)
+5. Proposição inicial de soluções de aplicação no Brasil e desenvolvimento de modelos digitais em PSCAD,  (2022)
+6. Definições de especificações dos modelos de simulação e de parâmetros de análise dos modelos digitais,  (2022)
+7. Realização de simulações de falhas em diferentes locais das linhas CC, CA e DC,  (2022)
+8. Desenvolvimento de modelos de frequência fundamental para uso no Anarede e no Anatem para o estudo do sistema por terceiros,  (2022)
+9. Modelagem de esquemas e malhas de controle para tratar a eliminação de falhas,  (2022 – 2023)
+10. Aplicação dos modelos em um sistema benchmark de dimensões moderada em um sistema equivalente com dimensões maiores, representativo de alguns possíveis projetos HVDC brasileiro para comparações do desempenho dinâmico do VSC-HVDC com o LCC-HVDC e HVDC-CCC,  (2023)
+11. Estudo de viabilidade econômica da utilização do VSC-UHVDC no SIN com linhas aéreas de longa distância,  (2023)
+12. Validação de resultados e desenvolvimento de proposta final,  (2023)
+
+INFORMAÇÃO COMPLEMENTAR:
+Durante o ano-base a Iracema Transmissora de Energia realizou todos os passos de pesquisa teórica e busca do histórico da evolução das diferentes aplicações de VSC-HVDCs no mundo e assim desenvolver um estudo de caso completo discutindo os princípios de funcionamento básicos de cada topologia de conversor, realizando comparações operativas com a tecnologia clássica LCC, detalhando a composição dos equipamentos das estacoes conversoras, apresentados os controles clássicos dos conversores MMC, dentre outras questões correlatas.
+A partir disto, o projeto seguira com o aprofundamento teórico das técnicas de controle utilizadas em conversoras com topologia MMC, haja vista que essa é a topologia em voga quando se tem projetos de transmissão em linhas aéreas em longas distancias e com níveis elevados de tensão e potência de transmissão tal como os vislumbrados na realidade brasileira. O objetivo é implementar tais controladores em modelagens nos softwares do pacote CEPEL e no PSCAD, criando os modelos, as simulações de estudo e os materiais de suporte para uso das ferramentas criadas.
+Adiante, os estudos serão concentrados em análises de desempenho dinâmico dos sistemas UHVDC-VSC-OHL com ênfase na capacidade de operação em sobrecarga e transferência de potência, na recuperação do elo CC após uma falha no sistema CA ou no sistema CC, com consequente determinação de tempos de recuperação da potência no elo, e na energização da linha e do conversor do sistema. Estudos complementares poderão ainda ser providos, tais como o de capacidade, por parte das estacoes conversoras, de regulação de tensão e provimento de inercia sintética, além da capacidade de realização de Black-start.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes.
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME: PARTICIPANTES TITULO:  CORPO: A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes. RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes.
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME: PARTICIPANTES TITULO:  CORPO: A título de recomendação para os próximos anos, a empresa deverá relacionar as atividades do projeto com os seus respectivos participantes. RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: 
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: 
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

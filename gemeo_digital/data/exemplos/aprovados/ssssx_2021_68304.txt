@@ -1,0 +1,66 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9432 - AES TIETE ENERGIA S.A. - ANO :2021
+ID_PROJETO: 68304 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimento experimental de estratégias para controle de vegetação em usinas fotovoltaicas (UFV)
+DESCRIÇÂO: A AES atua na geração e distribuição de energia elétrica e está construindo, há mais de 20 anos no Brasil, uma matriz sólida de inovação e sustentabilidade no setor energético. A empresa fornece energia 100 % renovável, estabelecendo ações inteligentes para construir um futuro mais limpo e acessível. Nesse sentido, a companhia tem se empenhado no desenvolvimento de soluções que promovam ganhos ambientais e econômicos em suas instalações.
+No presente projeto, estratégias foram propostas para controle do crescimento de vegetação nas áreas de instalação de placas empregadas nas usinas fotovoltaicas. A ocorrência dessas plantas causa sombreamento das placas (redução da eficiência produtiva), elevação do índice de erosão e maiores riscos de incêndio. Além disso, a manutenção constante dessas áreas, em decorrência do crescimento vegetal, resulta em maiores despesas, bem como na incidência de poeira nas instalações, o que diminui a eficiência energética do sistema.
+Nesse contexto, as seguintes estratégias foram propostas: (i) utilização de geotêxtil-não tecido, (ii) uso de aglomerantes naturais e (iii) substituição de vegetação em diferentes locais das usinas. Tais soluções estão sendo avaliadas de forma individual e, de acordo com os resultados obtidos, poderão ser empregadas conjuntamente. Dessa forma, além de controlar o crescimento da vegetação invasora, espera-se obter estruturação mecânica de partículas do solo (por meio do uso de aglomerantes), controle de processos erosivos, manutenção da permeabilidade das áreas tratadas e conservação da diversidade microbiana. Ademais, pretende-se evitar lixiviação de poluentes para águas subterrâneas e reduzir a propagação de incêndios.
+A estratégia utilizando geotêxteis para controle do crescimento vegetal em placas solares é inédita, possui facilidade de instalação e o material não propaga chamas. Em relação ao uso de aglomerantes, a proposta é utilizar materiais naturais para reduzir impactos ambientais e selecionar composição que preserve a permeabilidade das áreas tratadas. Por fim, a iniciativa que objetiva substituir a vegetação invasora, representa uma estratégia já empregada em áreas agrícolas, mas não aplicada em parques solares. Tal solução consiste no cultivo de leguminosas para reter o crescimento de plantas invasoras como as gramíneas.
+Os desafios tecnológicos vislumbrados na presente proposta estão relacionados à estabilidade e durabilidade do material geotêxtil e dos aglomerantes quando expostos ao ambiente em que serão empregados. Incertezas tecnológicas também foram identificadas em relação à invasão de gramíneas ao longo do crescimento das leguminosas. Para tanto, ensaios serão conduzidos em ambiente laboratorial e relevante para monitorar as tecnologias, bem como avaliar as suas propriedades e ajustar as formulações.
+Com as iniciativas propostas, almeja-se substituir os métodos convencionais de manutenção dos parques solares no qual agroquímicos e maquinários são empregados. Assim sendo, será possível alcançar ganhos ambientais, além de promover maior eficiência energética nas atividades das usinas.
+Nesse ínterim, a AES estabelece o desenvolvimento de tecnologias inovadoras, promove melhorias em suas instalações e reforça seu compromisso em mudar o futuro da energia no Brasil por meio de soluções mais sustentáveis e inteligentes.
+
+PALAVRAS CHAVE: Geotêxtil-não tecido; Aglomerante natural; Controle vegetativo; Tratamento do solo; Seiva de Jasmim Manga (Plumeria rubra); Usinas solares; Leguminosas.  
+ELEMENTO TECNOLÓGICO: O presente projeto prevê a elaboração de estratégias para controlar o crescimento de vegetação em parques solares. Para tanto, três tecnologias estão sendo estabelecidas com os objetivos de reduzir custos com recursos destinados à limpeza e manutenção dessas áreas, aumentar a produtividade energética das usinas e promover melhorias nos solos empregados. As seguintes iniciativas foram propostas:
+
+(i)	Utilização de material geotêxtil-não tecido. Geotêxteis-não tecidos são materiais produzidos com fios de poliéster que apresentam permeabilidade, resistência e propriedade filtrante. A tecnologia aqui proposta visa a aplicação inédita desse material na criação de uma barreira de luz que impedirá o processo fotossintético de vegetação invasora em parques solares. O geotêxtil já é utilizado em diversas obras como elemento de separação, material filtrante e reforço; mas não é comumente aplicado na inibição de desenvolvimento de cobertura vegetal pois normalmente aplica-se direto no solo como separação de camadas ou filtragem de lixiviados. Além de controlar o crescimento vegetativo, o material ainda atua na manutenção da permeabilidade e estabilidade do solo. Ademais, a solução apresenta propriedades antichamas, resolvendo o problema relacionado com incêndios nos tempos secos.
+
+(ii)	Uso de aglomerantes naturais. A estratégia envolve o uso de produtos naturais com propriedades aglomerantes que promovem estruturação do solo e, ao mesmo tempo, resultem em ganhos de permeabilidade. Para tanto, serão utilizadas diferentes formulações empregando-se produtos já desenvolvidos, bem como a avaliação de uma nova composição a base de seiva de Plumeria rubra. Ensaios serão conduzidos para verificar a eficiência dos produtos já existentes e adequar a extração e elaboração do novo aglomerante. Assim, será possível aplicar a solução nas usinas fotovoltaicas, além de possibilitar sua utilização em outros setores que almejam a estruturação de solos com manutenção da permeabilidade, como parques e calçadas.
+
+(iii)	Substituição de vegetação em diferentes locais das usinas. O uso de espécies de plantas leguminosas em parques solares representa uma alternativa ambientalmente viável para controle de crescimento vegetal indesejável. Para tanto, a presente iniciativa visa avaliar o efeito de duas espécies como substitutas ao crescimento de gramíneas. Essa solução tem sido aplicada para controle em áreas agrícolas, mas é inédita na área aqui proposta. As espécies escolhidas apresentam grande potencial forrageiro e podem providenciar melhorais para estruturação dos solos.
+
+A partir das iniciativas descritas, será possível eliminar o uso de maquinário para limpeza dos parques solares, o qual causa acúmulo de poeira nas placas e, consequentemente, resulta na redução do potencial energético das usinas. O crescimento vegetal nessas áreas também causa sombreamento nas instalações, prejudicando a atividade energética. As estratégias também minimizam os impactos gerados nos solos em decorrência da eliminação do uso de agroquímicos e manutenção da permeabilidade e diversidade microbiana.  Com isso, torna-se possível preservar o ambiente empregado nas usinas e implementar outras atividades caso os parques solares sejam desinstalados.
+
+O desenvolvimento do projeto, que ocorre em parceria com centros de pesquisas, é novo para o país e resultará em ganhos de conhecimento para toda a equipe envolvida. Além disso, as soluções resultam em redução de custos para a empresa, fornecem conhecimentos para a aplicação em outros setores e promovem melhorias ambientais. O trabalho resultará em publicações de artigos científicos e possui potencial para pedido de patentes.
+
+DESAFIO TECNOLÓGICO: Os desafios tecnológicos do projeto estiveram relacionados à estabilidade e durabilidade do material geotêxtil e aglomerantes naturais. O material geotêxtil ficará exposto sob intensa radiação ultravioleta e, com isso, pode sofrer perda de sua atividade e eficiência. Ademais, os aglomerantes naturais serão submetidos ao escoamento de água, além de, também, estar sob influência negativa da luz ultravioleta.
+Nesse sentido, foi necessário realizar testes em escala laboratorial visando a simulação dessas situações para verificar a durabilidade e estabilidade ao longo do tempo. Para solucionar o problema, serão propostas modificações na aplicação do material geotêxtil, como adição de camada de seixo, manta de sacrifício ou aditivação do material. Em relação aos aglomerantes, análises químicas serão conduzidas para verificar as propriedades dos materiais estabelecidos e avaliar quais os mais adequados para atuação no ambiente proposto.
+Também foram encontrados desafios tecnológicos durante o desenvolvimento da estratégia de substituição da vegetação nos parques solares. A vegetação invasora das áreas estudadas é adaptada a diversas condições, como diferentes tipos de solo e clima, além de possuir intensa produção de sementes. Por isso, há grande probabilidade de estas voltarem a crescer durante o estabelecimento das leguminosas. Para tanto, será necessário implementar monitoramento rigoroso do crescimento das gramíneas durante o estabelecimento das leguminosas.
+
+METODOLOGIA: O projeto foi iniciado em 2021 a partir da elaboração individual das três estratégias propostas. Inicialmente, foram realizadas coletas de solos em três usinas para verificação das tecnologias em ambiente laboratorial. Ensaios de granulometria e permeabilidade destes solos também foram desenvolvidos.
+Em relação aos ensaios envolvendo o uso de aglomerantes, foram conduzidos testes para definir qual a melhor estratégia para remoção da seiva de Jasmim Manga (Plumeria rubra), material que será estudado quanto à capacidade de atuar como aglomerante natural. Além disso, foram realizados testes para padronização dos ensaios de gotejamento e escoamento superficial para aplicação dos mesmos em ambiente laboratorial. Ainda neste ano, diferentes concentrações dos aglomerantes previamente selecionados foram avaliadas nos solos coletados. Os ensaios foram padronizados e melhorias foram propostas para as formulações.
+Quanto aos ensaios envolvendo o uso de materiais geotêxteis, foram iniciados os testes em laboratório para verificar novas possibilidades de produtos e substâncias que poderiam ser empregados como estabilizantes de solo e como protetor do material. Ainda em relação a essa estratégia, ensaios foram conduzidos para verificar o efeito de luz ultravioleta nos geotêxteis e, nesse contexto, foi avaliada a adição de dióxido de titânio no material para otimizar sua durabilidade.
+Para o desenvolvimento da iniciativa relacionada à substituição da vegetação, amostras de solo foram empregadas para análise de fertilidade visando a otimização para implantação das culturas de leguminosas.
+Para 2022, planeja-se dar continuidade aos experimentos de tolerância do material geotêxtil, encerrar as avaliações laboratoriais e iniciar os ensaios em ambiente relevante. Para tanto, será iniciada a montagem dos campos experimentais para substituição de vegetação no projeto referente à implementação de leguminosas e, também, para os experimentos com material geotêxtil e aglomerantes naturais.
+Para os ensaios com material geotêxtil e aglomerantes, serão realizadas diferentes estratégias, visando avaliar a aplicação das soluções em corredores e abaixo das placas solares. Em relação à iniciativa envolvendo a substituição da vegetação, as plantas serão cultivadas e avaliadas por registros fotográficos, avaliação do crescimento e intensidade de processos erosivos. Todos os experimentos em ambiente relevante serão avaliados durante 12 meses e, se necessário, ajustes serão realizados na formulação das tecnologias.
+
+INFORMAÇÃO COMPLEMENTAR: O projeto almeja agregar os seguintes conhecimentos ao estado da arte do setor:
+•	Conhecimentos de novas metodologias de controle de vegetação;
+•	Solução mista de controle de vegetação em UFV;
+•	Comportamento do geotêxtil em ambiente de placas solares e com elevada incidência de UV;
+•	Conhecimento de comportamento de aglomerantes inertes ao solo com características permeáveis
+•	Substituição de vegetações em ambientes de UFV.
+Além disso, como ganhos e benefícios, destaca-se que o setor elétrico ganhará possibilidade de maior viabilidade sustentável de usinas solares em climas de elevada sazonalidade pluviométrica. A redução de poeiras nas placas possibilitará maior eficiência global na conversão de energia.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

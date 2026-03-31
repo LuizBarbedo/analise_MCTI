@@ -1,0 +1,37 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7482 - WEG DRIVES & CONTROLS - AUTOMACAO LTDA - ANO :2021
+ID_PROJETO: 60650 - NATUREZA: Processo - TIPO: PB -  Pesquisa Básica - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 360800022-Estudo da eficiência dos planos de pintura da  WEG Automação expostos em ambiente classe C-5 - WDC
+DESCRIÇÂO: O projeto trata-se da análise de amostras pintadas com o principais planos de pintura ofertadas pela WEG Automação, estas amostras produzidas em produtos padrões (Painéis), também poderão ser utilizados algumas propostas de novos planos de pintura a fim de validar a possível eficiência. Esta análise se justifica em razão de as análises em corpos de prova não simularem a particularidades existentes em produtos, como geometrias complexa, soldas e substratos diferentes ( aço carbono, aço carbono zincado, alumínio e cobre). As amostras serão alocadas em ambiente com classificação de categoria de corrosividade C-5, onde o ambiente tende a ser com alta umidade, atmosfera agressiva e área costeira com alta salinidade. Por fim será elaborado relatório de análise, onde será demonstrado a evolução das características das amostras ao longo do tempo, assim como possível plano de ação por falhas e defeitos encontradas na pintura. Como beneficio trará maior confiabilidade no plano de pintura ofertado pela WEG Automação.
+
+PALAVRAS CHAVE: Pintura; Planos de Pintura; Salinidade; Corrosão; Painéis; Aço Carbono; Aço Carbono Zincado. 
+ELEMENTO TECNOLÓGICO: O elemento inovador deste projeto é a elaboração de análise prática de produtos da WEG Automação, expondo os equipamentos em ambiente conhecido como Classe C-5 com alta umidade e atmosfera agressiva em área de costa com alta salinidade, analisando se existe alguma falha ou defeito como oxidação, descascamento de tinta, empolamento, e outras falhas no esquema aplicado na amostra, a amostra será constituída de produto padrão da WAU (Painel) e será exposta em terreno próximo a orla marítima para execução de relatório de evolução do teste. Atualmente todos os ensaios de validação de planos de pintura são elaborados em corpos de prova em pequena escala e utilizando a exposição em equipamentos controlados estes simulando condições extremas, não evidenciando necessariamente uma condição real de um equipamento e suas particularidades.
+
+DESAFIO TECNOLÓGICO: O ambiente a ser exposto as amostras não é um ambiente controlado, podendo ocasionar em um resultado não compatível ao esperado ao decorrer e no relatório final do teste, também existe a dificuldade cumprir a rotina de monitoramento, verificando ou não o momento exato  do aparecimento de falhas e defeitos tendo em vista que o campo onde serão expostas as amostras não fica próximo as áreas fabris, além do desafio será a elaboração de ações para minimizar a possíveis falhas.
+
+METODOLOGIA: Foram coletadas e armazenadas as informações para depois fazermos o planejamento do experimento. Após feito o planejamento foram elaborados as amostras para os planos de pintura a pó, onde na primeira remessa não houve aprovação conforme normas, verificou-se que as amostras não haviam sido preparadas em conformidade e com isso optou-se a repetição dos ensaios. onde o Plano WAU-05 teve aprovação na categoria C-2 ABNT e C3 H ISO..
+
+INFORMAÇÃO COMPLEMENTAR: As alterações no processo, assim como a não fabricação conforme parâmetros das amostras podem influenciam no resultado, portanto o acompanhamento da fabricação e a verificação do tratamento interferem para que o resultado mostre que os ensaios e as análises condizem realmente com o processo.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>O projeto objetiva a verificação de pintura em ambientes específicos. Foram identificados itens de descrição, elemento tecnologicamente novo, desafio tecnológico e metodologia em consonância com a Lei do Bem. Após análise, este parecer recomenda o projeto 75 – “Estudo da eficiência dos planos de pintura da WEG Automação expostos em ambiente classe C-5 - WDC" como projeto de pesquisa e inovação tecnológica.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO: <p>O projeto objetiva a verificação de pintura em ambientes específicos. Foram identificados itens de descrição, elemento tecnologicamente novo, desafio tecnológico e metodologia em consonância com a Lei do Bem. Após análise, este parecer recomenda o projeto 75 – “Estudo da eficiência dos planos de pintura da WEG Automação expostos em ambiente classe C-5 - WDC" como projeto de pesquisa e inovação tecnológica.</p> / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: A empresa não apresentou em sua contestação informações novas que pudessem qualificar as despesas como dedutíveis pela Lei do Bem. Foram apresentadas despesas com eletricidade, gastos médicos com colaboradores e despesas de manutenção. Esses gastos não podem ser ligados diretamente ao desenvolvimento da pesquisa e, geralmente, são contrapartidas ou benefícios da empresa. Por este motivo, não foi recomendada a aprovação da contestação apresentada. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: A empresa não apresentou em sua contestação informações novas que pudessem qualificar as despesas como dedutíveis pela Lei do Bem. Foram apresentadas despesas com eletricidade, gastos médicos com colaboradores e despesas de manutenção. Esses gastos não podem ser ligados diretamente ao desenvolvimento da pesquisa e, geralmente, são contrapartidas ou benefícios da empresa. Por este motivo, não foi recomendada a aprovação da contestação apresentada. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

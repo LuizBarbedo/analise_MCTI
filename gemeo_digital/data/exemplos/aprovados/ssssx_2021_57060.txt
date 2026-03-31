@@ -1,0 +1,46 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6848 - FURNAS - CENTRAIS ELETRICAS S.A. - ANO :2021
+ID_PROJETO: 57060 - NATUREZA: Processo - TIPO: PA -  Pesquisa Aplicada - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Transdutores de Nano Tubos de Carbono-Pastas de Cimento para Monitoramento de Deformações Estáticas e Dinâmicas em Barragens de Concreto. 
+DESCRIÇÂO: O projeto tempo por objetivo desenvolver um inovador sensor a base de cimento e nanotubos de carbono capaz de medir deformação e temperatura dentro de uma massa de concreto.
+PALAVRAS CHAVE: Nano Tubos; Carbono; Deformação.
+ELEMENTO TECNOLÓGICO: O projeto tem como elemento inovador o desenvolvimento de um sensor a base de cimento e nanotubos de carbono capaz de medir deformação e temperatura dentro de uma massa de concreto. Esse sensor proposto poderá ser usado durante a construção e operação de elementos estruturais de concreto de barragens.
+
+A motivação do projeto se deu em razão de que o envelhecimento e a deterioração das estruturas de concreto provocados por agentes externos causa relevantes efeitos econômicos e sociais. Assim, o desenvolvimento dessa ferramenta permitirá a detecção de falhas estruturais, por meio do monitoramento das relações de tensão e de deformações dos elementos críticos da estrutura, proporcionando um maior nível de segurança operacional da estrutura e diminuindo os custos de reparação.
+
+No mercado, há estruturas de grande porte, geralmente, com uma sofisticada instrumentação cujos sensores, muitas vezes importados, possuem alto custo. Assim, o sensor proposto no projeto tem o propósito de reduzir os custos da instrumentação já que poderá ser produzido por um procedimento simples, não demandando equipamentos sofisticados para sua fabricação, o que representa um enorme e inovador avanço tecnológico.
+
+O conhecimento no qual se baseia para realização do sensor está em fase de desenvolvimento, não tendo a ciência implementado o dispositivo comercialmente por haver lacunas sem resposta ou com a necessidade de consolidação do conhecimento através de resultados de diferentes pesquisas. Sendo assim, o propósito de se ter um sensor com a utilização de nanotubos de carbono deve ser considerado um estudo inédito pelas respostas que ainda necessitam ser encontradas para se garantir os resultados necessários para a segurança dos dados obtidos pelo dispositivo, o que caracteriza mais uma vez a inovação presente no projeto.
+
+Cumpre ressaltar que não existe alternativa similar no mercado no tocante à sensores de nanotubos de carbono. Assim, são muitos gargalos tecnológicos a serem vencidos para se chegar em um produto industrial. Em 2021 foram desenvolvidas as matrizes cimentícias para a inserção dos nanotubos via solução aquosa, e a própria técnica de diluição e concentração dos nanotubos em aditivo para mistura no cimento. Foi o 1º gargalo tecnológico vencido. Os demais, como determinar os setups de ensaio, calibração, inserção em concreto e determinação da incerteza associada à medição serão os desafios para 2022.
+DESAFIO TECNOLÓGICO: O desafio do projeto é determinar a concentração mínima de nanotubos necessária para atingir o patamar de percolação elétrica e, posteriormente, determinar os limites de operação do sensor e conseguir a reprodutibilidade dos dados obtidos em sensores produzidos em diferentes momentos. Complementarmente, agrega a necessidade de determinar metodologias de aplicação e monitorar os sensores em ambientes estruturais reais. Com relação aos riscos envolvidos, o risco maior seria da não implementação do sensor para diferentes regimes de esforços e matrizes cimentícias. Assim, para enfretamento da barreira, será necessário o levantamento de pesquisas e estudo sobre os pontos levantados, bem como a aplicação de testes e realização de estudo de viabilidade técnica.
+
+Ademais, há de se mencionar também, a barreira referente ao concreto do CCR, de maneira que esse tem, por natureza, baixa pasta e baixo consumo de cimento por questões econômicas e ambientais, sendo necessário então, a realização de testes capazes de providenciar respostas em termos de deformação e sua correta interpretação, que varia de acordo com a solicitação de multidisciplinariedade entre a parte mecânica e a área de simulação computacional.
+
+Em 2021 os desafios permaneceram os mesmos e as tarefas foram estruturadas para sua superação. Nesse sentido, foi identificada a necessidade de colocar os sensores embutidos em diferentes tipos de concretos, sendo que o mais desafiador é o CCR, porque tem dificuldade de aderência ao sensor. Isto vale para os sensores convencionais também, o CCR é sempre desafiador pela sua própria natureza de baixa pasta e baixo consumo de cimento por questões econômicas e ambientais. Torná-lo um material automonitorante é um grande desafio. Mesmo os tipo usuais de concreto é preciso tomar diversos cuidados tecnológicos na aplicação, para vencer as questões de segregação, exsudação, aderência, posicionamento. Também a avaliação das respostas em termos de deformação, sua correta interpretação de acordo com a situação de solicitação requer uma multidisciplinariedade entre a parte mecânica e a área de simulação computacional.
+METODOLOGIA: A metodologia constitui em uma revisão literária extensa, para observar a importância do assunto no meio técnico e determinar o ponto de partida para os estudos iniciais. Após a etapa em questão, os estudos serão para determinar um sensor estável, para isso, serão necessárias a realização de testes, análises técnicas de resultados e estudos sobre a viabilidade técnica da inovação. Em seguimento, a partir do dispositivo elaborado, será necessário verificar a interação com a matriz cimentícia no qual ele estará emergido. Para tal fato, diversos estudos englobando reologia, sistemas elétricos e simulações computacionais serão adotados para subsidiar os resultados da pesquisa.
+
+Com os avanços realizados ao longo de 2021, o projeto se encontra na fase de inserção dos sensores desenvolvidos em matrizes de concreto. Para isso, foi realizado um setup de medição em corrente alternada, corrente contínua para verificar qual o modo de medição compatível com a deformação mecânica, estudos de diversas configurações de forma dos sensores e de colocação de fios e placas de suporte à medição, e, por último, testes com diversos impermeabilizantes, uma vez que a umidade interna do sensor afeta a qualidade da resposta.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

@@ -1,0 +1,54 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6749 - MAR GIRIUS CONTINENTAL INDUSTRIA DE CONT ELETRICOS LTDA - ANO :2021
+ID_PROJETO: 56246 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Desenvolvimentos de painéis e funcionalidades para os maquinários
+DESCRIÇÂO: Com o propósito de atribuir melhorias para os processos da MarGirius, os pesquisadores iniciaram o projeto que tem por objetivo aumentar sua eficiência e competitividade no mercado. Foi desenvolvida uma análise prévia para o modelamento e implementação de otimizações tecnológicas aos painéis de comando e controle, e posteriormente, iniciaram-se os estudos em prol da busca de possíveis melhorias.
+No ano-base 2021 foram desenvolvidos os seguintes estudos:
+Visando o desenvolvimento e integração de cada maquinário foram desempenhados estudos e pesquisas voltados para a identificação de elementos com caráter tecnológicos apropriados para o modelamento de painéis elétricos e pneumáticos específicos cada equipamento de acordo com suas funcionalidades, a fim de potencializar a operacionalização dos processos, permitindo que os equipamentos atuem nas condições e formas corretas.
+Sendo que, para cada variabilidade das máquinas implementadas deve-se realizar a estruturação de parâmetros para o pleno desempenho do equipamento, assim como de todo o processo produtivo. Com isso, realizaram-se estudos para identificação da fonte de alimentação apropriada em conformidade com o datasheet (folhas de dados) de cada máquina. Destaca-se que, este fator alimentação de tensão e corrente dos equipamentos apresenta-se com grande importância para que seu desempenho seja maximizado. Houve, também, o desempenho de estudos e pesquisas com a premissa de realizar o modelamento para a implementação dos sistemas pneumáticos, com o intuito de possibilitar a injeção ar às máquinas. Bem como, foram realizadas as apropriações dos equipamentos satélites que fazem a interconexão destas máquinas inseridas ao processo produtivo.
+Ainda, foram desempenhados estudos e pesquisas para o desenvolvimento das programações dos comandos lógicos programáveis, aliados aos softwares de controle e comando dos painéis das máquinas para a integração IHM (Interação humano–computador), sendo que, são desenvolvimentos efetuados de modo individual para que garanta a boa funcionalidade do maquinário.
+PALAVRAS CHAVE: Desenvolvimento de Painéis; Pesquisa; Aumento de Qualidade; Otimização; Inovação.
+ELEMENTO TECNOLÓGICO: As inovações atribuídas neste projeto consistem na elaboração de painéis com tecnologias específicas e aprimoradas para comando e controle de cada tipo de maquinário disposto no processo produtivo. Desta forma, toda parte elétrica e pneumática desenvolveu-se mediante a utilização de técnicas e equipamentos exclusivos, possibilitando assim uma otimizada operacionalização para todo o processo desempenhado na MarGirius.
+Para tanto, em decorrência da implementação de novas máquinas para a produção de componentes com funcionalidades aprimoradas, foi necessário realizar a reestruturação de parâmetros estruturais para garantir o pleno funcionamento destes elementos inseridos no ciclo produtivo.
+À vista disso, para cada máquina é preciso realizar alterações como:
+•	Desenvolvimento e enquadramento da fonte de alimentação, garantindo que os parâmetros de tensão e corrente sejam aplicados de forma a potencializar o funcionamento deste equipamento;
+•	Modelamento do esquema elétrico de cada equipamento, possibilitando assim realizar a disposição dos componentes de forma assertiva,
+•	Modelamento dos sistemas pneumáticos, realizando a distribuição dos condutores de injeção de ar para a alimentação destes novos maquinários inseridos;
+•	Desenvolvimento de modelamento para realizar a interação dos equipamentos periféricos que englobam toda instalação dos processos produtivos;
+•	programações dos Softwares e dos comandos lógicos programáveis (CLP);
+•	Desenvolvimento do sistema IHM para a integração dos comandos aos operadores.
+Cabe ressaltar que, em decorrência dos estudos e pesquisas desempenhados foi possível realizar a incrementação aos maquinários soluções aplicáveis para o desenvolvimento de painéis integrados aos comandos e controle, aprimorando assim o desempenho e dinâmica dos processos produtivos.
+DESAFIO TECNOLÓGICO: Em função dos diversos aspectos inovadores pretendidos por parte dos colaboradores da MarGirius, foi necessário ultrapassar inúmeras barreiras tecnológicas, para que pudessem alcançar os critérios de eficiência e melhoria ao processo desempenhado internamente.
+Assim, para o desenvolvimento inerente aos desenvolvimentos de painéis e funcionalidades para os maquinários, para cada variedade das funções desempenhadas por estes elementos, deve-se realizar a estruturação de programações para a integração das bibliotecas que permitem a implementação de novas funcionalidades aos comandos lógicos programáveis (CLP), caracterizando assim como principal desafio para a operacionalização de forma inteligente dos sistemas.
+Por fim, ressalta-se que em decorrência dos estudos e pesquisas para a aplicação dos incrementos tecnológicos, foi possível superar as barreiras tecnológicas, possibilitando desempenhar uma maior qualidade aos produtos produzidos pela implementação de painéis com integração programática às máquinas com alto índice tecnológico e, com isso, atingindo os avanços científicos projetados pelos pesquisadores.
+METODOLOGIA: A MarGirius se vale de diversas metodologias para a criação de seus processos, dependendo do propósito dos processos desenvolvidos, tempo de investimento no projeto e colaboradores especializados na área. Tais métodos não são excludentes, podendo, portanto, serem combinados ou mesmo realizados isoladamente, porém é de praxe da empresa prezar pela interligação de métodos a fim de proporcionar um processo produtivo dinâmico e eficiente.
+Por conta dessa prática, o aprendizado gerado torna-se de fácil acepção e altamente utilitário, não desperdiçando tempo desnecessário em etapas morosas.
+Com o fim de compreender melhor os problemas dos clientes, a metodologia costuma iniciar por uma fase investigativa, aprimorando o recorte do desafio a ser enfrentado, sendo essa etapa uma das mais importantes visando o atendimento personalizado e direcionado às necessidades do cliente.
+Em linhas gerais, respeitando as especificidades de cada demanda, os métodos utilizados apresentam as seguintes etapas:
+•	Desenvolvimento dos modelamentos (desenho do painel elétrico da máquina), por meio de softwares, assim, são inseridos as legendas, controle, conexões, esquema elétrico, sensores e CLPs, cada módulo de expansão da máquina.
+•	As etapas de desenho e esquematização dos painéis são efetuadas com auxílio de software e programas para realização das programações, como o Solidworks.
+Tal processo faz com que o próprio trabalho das equipes nos projetos constituía em si um experimento e uma inovação, vez que gera conhecimento sobre os modos de lidar com cada tipo de desafio, adequação de cada metodologia, organização de ferramentas e materiais necessários para o pleno desenvolvimento e no aprimoramento das competências dos colaboradores da MarGirius.
+INFORMAÇÃO COMPLEMENTAR: Ainda, cumpre salientar que o presente projeto encontrou respaldo no art. 2º, inciso II, alínea “c” da Instrução Normativa n. 1.187/2011, que considera Desenvolvimento Experimental “os trabalhos sistemáticos delineados a partir de conhecimentos pré-existentes, visando a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos”.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: De acordo com o pedido de reconsideração, a empresa destaca a importância das atividades dos recursos humanos para o desenvolvimento do projeto, porém, a quantidade de horas do profissional excede 2640 h/anual, considerando a atuação em diferentes projetos, sem justificativas. Por este motivo, este dispêndio não foi recomendado.  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: De acordo com o pedido de reconsideração, a empresa destaca a importância das atividades dos recursos humanos para o desenvolvimento do projeto, porém, a quantidade de horas do profissional excede 2640 h/anual, considerando a atuação em diferentes projetos, sem justificativas. Por este motivo, este dispêndio não foi recomendado.  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

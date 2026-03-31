@@ -1,0 +1,38 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62145 - NATUREZA: Processo - TIPO: PB -  Pesquisa Básica - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 320400156-Elevado consumo de inserto R-245 no processo de fresamento
+DESCRIÇÂO: O propósito principal do projeto é estudar e identificar os fatores que influenciam de forma mais significativa no desgaste precoce do inserto R245-12 T3 M-PM 4330 utilizado principalmente no processo de fresamento/mandrilamento de pés de carcaças fabricas de aço carbono 1020, buscando aumentar a vida útil da ferramenta consequentemente reduzindo consumo e custo com a aquisição da mesma, visto que o custo anual com a aquisição desse ferramental está sempre na cabeça de pareto quando comparado ao custo com a aquisição das outras ferramentas utilizadas no departamento de usinagem da WEG Energia.
+
+PALAVRAS CHAVE: Fresamento - Inserto - Usinagem
+ELEMENTO TECNOLÓGICO: Consiste na pesquisa e na utilização de técnicas de experimentos chamados DOE ’s (Design of Experiments) buscando compreender e identificar os fatores que mais influenciam no desgaste precoce dos insertos utilizados no processo de usinagem (Fresamento e mandrilamento) de componentes de motores e geradores elétricos de grande porte, buscando mitigar e/ou eliminar o desgaste precoce desse tipo de ferramenta aumentando o tempo de vida útil dos mesmos.
+Entende-se como elemento inovador a utilização de corpos de prova para executar experimentos de DOE de falha forçada, provocando falhas durante o processo combinando variações extremas de parâmetros, condições e estratégias de usinagem, aspectos que neste processo de usinagem aqui na WEG Energia nunca antes foram analisados. As investigações prosseguirão com acompanhamento (Medição do nível de desgaste) em cada variação nas condições de usinagem, com o objetivo de identificar qual, ou quais fatores que mais influenciam no desgaste precoce destes insertos. A principal saída do trabalho será identificar esses fatores e buscar contorná-los com alteração de processo e geometrias de ferramentas se necessário.
+
+DESAFIO TECNOLÓGICO: Devido à complexidade do tema, fresamento e mandrilamento em componentes de máquinas elétricas girantes de grande porte, os desafios encontrados neste projeto estão relacionados a quantificar a influência de fatores externos (não conhecidos) no aspecto do desgaste precoce em insertos de usinagem, fatores como parâmetros de usinagem (Profundidade e velocidade de corte, avanço, etc), geometria das ferramentas, usinagem com ou sem refrigeração, vibração da ferramenta e/ou máquina, fixação e rigidez da peça, etc. Mesmo tendo conhecimento em ferramentas de six sigmas (DOE, COV, MÊS, OFAT, etc), a identificação dos fatores que maior influenciam no desgaste precoce foram barreiras e desafios a serem ultrapassados.
+
+METODOLOGIA: Testes foram realizados com diversos fornecedores buscando alternativas no mercado, a fim de verificar possíveis alternativas no mercado que possuam um custo benefício melhor comparado ao inserto utilizado atualmente, na qual desenvolvemos o inserto HNPJ0905ANSNHD KCPK30 que apresentou resultados muito satisfatórios quando comparado ao fornecedor atual.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de pesquisa e ensino superior, assim como a participação de colaboradores com mestrado e doutorado.</p><p>A “Vinculação entre Recursos Humanos e a Linha de Pesquisa” não corresponde com o RH apresentado no formulário.&nbsp;</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:
+As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:
+As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

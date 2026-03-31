@@ -1,0 +1,85 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 6817 - COPEL DISTRIBUICAO S.A. - ANO :2021
+ID_PROJETO: 56724 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: DESENVOLVIMENTO DE NOVAS TECNOLOGIAS PARA VIABILIZAR TECNOLOGICAMENTE O USO DE VEÍCULOS ELÉTRICOS NO BRASIL
+DESCRIÇÂO:
+No cenário automotivo brasileiro é estatisticamente comprovado que automóveis a combustão, tanto de pequeno, médio e grande porte são a grande maioria em relação aos veículos presente no estado. Este cenário deve sofrer grande alteração nos próximos anos com a entrada no mercado dos veículos híbridos e elétricos.
+Esta mudança afetará, de forma imediata, os combustíveis fósseis, uma vez que os veículos elétricos não necessitarão deste tipo de combustível e, no caso dos híbridos, o consumo é muito menor, cerca de 3 vezes menor que a média atual.
+Do ponto de vista dos veículos elétricos, o combustível é a energia elétrica para ser armazenada nas baterias, que quer dizer infraestrutura de fornecimento de energia por parte das distribuidoras e da localização dos pontos de recarga nas cidades e nas rodovias.
+Neste contexto, é de se imaginar que o crescimento da inserção no mercado dos veículos elétricos será seguido de uma necessidade de se ter mais pontos de recarga nos ambientes urbanos em especial. Esta demanda deverá ser atendida na forma de se distribuir os pontos de recarga, entretanto haverá concentração em determinados pontos, pois serão, por exemplo, vias de grande movimento ou centros comerciais/industriais de grande aglomeração de pessoas e de veículos elétricos.
+Com isto, haverá a necessidade de se prover energia em quantidade suficiente para recargas lentas, semirrápidas e rápidas em períodos muito variados, onde o proprietário poderá optar por um abastecimento pontual, de oportunidade ou então de carga rápida em função do próximo trajeto a ser percorrido pelo veículo elétrico.
+Isto cria, portanto, um novo mercado que deverá prover soluções para garantir tais abastecimentos pensando na satisfação e segurança do usuário de veículo elétrico, como também na segurança da instalação e do sistema energético que alimenta tal instalação, para que não incorra em problemas de qualidade de energia como afundamentos, oscilações etc.
+Este projeto vem com a proposta de apresentar um posto do futuro no sentido de que o projeto possa oferecer uma solução para compor um rol de equipamentos voltados ao fornecimento de energia para recarga de veículos elétricos, integrando com fontes alternativas de energia e armazenamento, para que a concessionária tenha uma carga nova no seu sistema, mas com comportamento resistivo, ou seja, equilibrado nas 3 fases, com fator de potência unitário, sem distorções harmônicas e com capacidade de ser controlada, no intuito de que se possa definir o consumo para evitar os períodos de grande consumo de energia (horário de ponta).
+Consta também para o projeto como subobjetivo o desenvolvimento de um módulo de comunicação e integração entre a distribuidora de energia elétrica e as plataformas de gestão de energia pelo lado da demanda (GLD), destinadas à mobilidade elétrica.
+O modulo permitirá que as plataformas de GLD gerenciem cargas móveis, operadas no seu sistema, apoiada também em medições da rede elétrica e dados históricos, disponibilizados pela distribuidora de energia.
+
+PALAVRAS CHAVE: Veículos elétricos,  automação,  sistemas de comunicação,  algoritmos de controle,  sistemas computacionais,  baterias,  geração distribuída.
+
+ELEMENTO TECNOLÓGICO:
+O elemento novo presente na linha de pesquisa consiste no aprendizado técnico gerado à equipe de desenvolvedores, em que incentivam a participação para o programa de transformação digital referente ao desenvolvimento do projeto, a respeito das cinco tecnologias essenciais para a composição da plataforma de gestão de energia pelo lado da demanda na mobilidade elétrica. São elas: blockchain, cloud computing, Inteligência Artificial (AI), Internet da Coisas e cibersegurança. O programa traz conhecimentos aprofundados sobre tecnologias chave da transformação digital, de forma totalmente prática. Os objetivos do aprendizado para o projeto são: compreender a arquitetura da nuvem e evoluir a partir do GitHub, a fim de aproveitar ao máximo o rendimento de suas plataformas e ferramentas, colocar em prática os conhecimentos adquiridos para criar um aplicativo de chat a partir de websockets e utilizar ao máximo as novas tendências tecnológicas a fim de proporcionar ao consumidor a melhor acessibilidade de utilização da plataforma.
+Agregando tecnologicamente ao Posto do Futuro, há a construção de um sistema fotovoltaico que cobrirá os veículos elétricos durante a recarga (car port) e fornecerá energia para a composição: eletropostos e armazenamento de energia.
+Outro conhecimento adquirido no desenvolvimento da linha de pesquisa esteve presente na construção do servidor OCPP para comunicação com Eletropostos, em que foram realizadas pesquisas sobre bibliotecas de comunicação com carregadores elétricos através do protocolo OCPP 1.6. Como forma de resolução para a problemática, optou-se pela utilização da linguagem python por ser uma tecnologia para rápida prototipação e muito difundida. Foi implementado o sistema ocpp_comm_python contendo um servidor websockt e um servidor HTTP. Para o servidor websockt foi utilizada a biblioteca com versão 8.1 que se dá a comunicação entre carregadores elétricos e o CentralSystem, já o servidor HTTP realiza a comunicação com sistemas externos, como o Beckend do CentralSystem.
+Houve a elaboração do protótipo de telas da Central System utilizando a ferramenta Adobe XD, onde é possível visualizar as funções do sistema, aspectos visuais da interface (hierarquia e organização das funções), bem como a interação entre as telas.
+A tecnologia inovadora para a linha tem como também o desenvolvimento de estudos bibliográficos, pré-arquitetura do sistema, um caderno de atributos da plataforma, caderno de atributos do aplicativo, caderno de atributos das interfaces, cadernos de atributos do hardware e o workstatement do projeto. O intuito das pesquisas tem como objetivo as estruturações iniciais para o sistema virtual bilhetagem e analítico, com especificações de requisitos técnicos para o hardware e desenvolvimento das etapas que formarão o sistema.
+Por fim, o elemento novo busca a integração de todos os entes do Posto do Futuro e do sistema de comunicação com a concessionária, que deve ser confiável e robusto a tal ponto que permita o controle de acesso em cada tipo de recarga, como também a monitoração dos eletropostos com relação a demanda de energia.
+
+DESAFIO TECNOLÓGICO:
+O principal desafio do projeto é a implantação de um Posto do Futuro com o conceito de integração de painel fotovoltaico com armazenamento de energia e recarga de baterias de veículos elétricos. Tudo sob o controle de um sistema de gestão para controlar os entes com o intuito de otimizar o desempenho de cada parte.
+Exclusivamente sobre os sistemas fotovoltaicos e armazenamento de energia, é necessário atenção especial na integração de ambos com controle externo que deve ser o grande desafio neste tópico, já que em todos os projetos e pesquisas averiguados, isto foi tratado separadamente, com operações independentes.
+Diante dos custos para se obter um veículo elétrico, sendo este essencial para o desenvolvimento de experimentos laboratoriais, o desafio causado pela falta do automóvel gerou grandes dúvidas acerca dos parâmetros de desempenho do eletroposto, as quais impactaram no dimensionamento de suas partes e peças.
+Outra barreira a ser superada é o então desconhecimento na aplicação comercial dos eletropostos gerando incertezas técnicas na comunicação para controle da potência disponibilizada para a recarga em horários de pico (alta demanda). A grande demanda de consumo de energia elétrica, gerada pela implementação do incentivo de VEs passa a ser um desafio habitual no desenvolvimento do projeto, visto que as redes de distribuição são construídas para atender o horário de pico de demanda com finalidade de atender toda a sua carga, logo os horários fora de pico resultam no uso ineficiente da rede elétrica. Como proposta de solução para a barreira foi desenvolvido o sistema GLD, fazendo com que consumidores finais sejam estimulados a trocarem o seu horário de consumo através de tarifas de desconto.
+Portanto, com o auto engajamento da utilização de veículos elétricos, será necessário sanar hipóteses criadas pela alta expectativa de utilização de abastecimento energético, em um cenário onde a adoção de VEs levará à maior necessidade de geração de carga. Assim, deve haver estudos que estimulem ao desenvolvimento de novas tecnologias sustentáveis, bem como medidas para elevar a eficiência energética e aproveitar melhor os mecanismos atuais utilizados para abastecimento de energia.
+
+METODOLOGIA:
+Etapa 01 (2019/2020)
+- Pesquisa técnica sobre veículos elétricos, sistemas de carregamento, limites de potência e comunicação,
+- Estudos sobre as formas de carga e descarga de VEs, os limites de potência para recarga e as formas de comunicação com os VEs para autorização do processo,
+- Pesquisar e definir sistema de armazenamento para a aplicação do Posto do Futuro: identificação das características dos sistemas de armazenamento de energia para aplicação e abastecimento de VEs,
+- Projetar diversas arquiteturas para o sistema fotovoltaico com capacidade de controlar carga/descarga da bateria,
+- Estudar tecnologias que permitirão a integração do sistema fotovoltaico com o restante do sistema de armazenamento,
+- Definir os parâmetros do sistema computacional: plataforma, acesso, banco de dados etc.: pesquisar e elaborar documento técnico sobre as características do sistema computacional, plataforma de acesso para usuários, banco de dados para acesso, nuvem ou banco proprietário etc.,
+- Definir o algoritmo de controle dos entes do Posto do Futuro: pesquisar e desenvolver o algoritmo de controle para integração e controle de todos os entes do projeto que fazem parte do Posto do Futuro.
+Etapa 02 (2021-2022)
+- Startup do sistema de operação em modo grid tie e programação separada de cada item para avaliar o comportamento a fim de permitir a validação e determinar o início da integração de todo o sistema e forma do Posto do Futuro,
+- Reuniões de acompanhamento com a empresa Innovation Office para definição de requisitos do roteiro tecnológico do projeto,
+- Testes em ambiente controlado do sistema: testar de forma exaustiva o sistema de gestão em laboratório para avaliar o desempenho na intenção de identificar possíveis necessidades de evolução nas suas partes integrantes e com isso evitar danos no Posto do Futuro,
+- Implantação no piloto: integração com os entes e com a base da concessionária e da empresa,
+Testes de campo: eventuais correções técnicas na infraestrutura dos eletropostos, no sistema fotovoltaico/armazenamento de energia e nos sistemas desenvolvidos ou instalados para operação no projeto,
+- Finalização da instalação do sistema fotovoltaico e comissionamento,
+- Realização de treinamento com a empresa SAFT para operação e manutenção do banco estacionário de baterias de íons de lítio adquiridas para o projeto,
+- Continuação do desenvolvimento do sistema web e início da implementação do controle de alto nível na controladora National Instruments (NI),
+- Elaboração de modelos de negócio para mobilidade elétrica e aplicação piloto,
+
+INFORMAÇÃO COMPLEMENTAR:
+Durante o ano base o projeto se dedicou em estudos para desenvolvimento técnico do projeto e destinando o ano base 2021 para elaboração de pilotos e realização de testes de validação técnica do projeto.
+Durante o ano base, as principais atividades realizadas foram:
+- Estudos e pesquisas técnicas para analisar a demanda de carga e respectivo comportamento de uma população de VEs escolhidos para esta etapa.
+- Pesquisar sobre veículos elétricos: sistemas de carregamento, limites de potência e comunicação.
+- Pesquisar e definir sistema de comunicação e gestão de dados.
+- Pesquisa sobre tecnologias de baterias atualmente disponíveis e suas características operacionais.
+- Estudos sobre impacto de uma quantidade de recargas simultâneas na rede de energia.
+- Benchmarking técnico de comportamento do sistema de distribuição de energia considerando o recarregamento doméstico (sem agendamento) e o cenário controlado (com agendamento).
+- Desenvolvimento de algoritmo de controle de demanda permitindo estabelecer o limite de potência por horário, permitindo assim flexibilidade de configuração e controle do eletroposto. O limite de potência será realizado de acordo com a potência disponível.
+
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: 
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: 
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

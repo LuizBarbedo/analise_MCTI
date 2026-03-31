@@ -1,0 +1,49 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 9532 - THERMO STAR EQUIPAMENTOS LTDA - ANO :2021
+ID_PROJETO: 68635 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: Bancada de testes
+DESCRIÇÂO: Consolidada como líder do mercado nacional desde o início das atividades em 2006, a Thermo Star é uma empresa voltada a produção de equipamentos de refrigeração para transporte de alta performance e busca, constantemente, proporcionar uma experiência única aos seus clientes com uma ampla linha de produtos de qualidade e ótimo custo benefício.
+Para tanto, investe frequentemente em novas tecnologias, como no projeto em tela. Neste, foi desenvolvido uma bancada de testes, quer dizer, uma máquina, que avalia o desempenho do produto final. Assim, com uso de um conjunto de instrumentos, métodos e técnicas que visam a resolução de problemas, consegue facilitar e melhorar a conferência de diversos equipamentos do controle de refrigeração para que fiquem de acordo com o produto solicitado pelo cliente.
+Com o novo plano, a empresa consegue manter seus equipamentos com qualidade e prestígio, aliando matérias-primas de última geração, entrega rápida, preços competitivos e oferecendo economia, segurança e confiança dos fregueses.
+Por se tratar da realização de melhorias com um intuito específico, desafios apareceram durante as criações e tiveram que ser superados pelos pesquisadores, os quais precisaram se empenhar em estudos, pesquisas e testes.
+PALAVRAS CHAVE: equipamentos; desenvolvimento; refrigeração; tecnologia; qualidade; desafios;
+ELEMENTO TECNOLÓGICO: Comprometida com a inovação unida à excelência na entrega do serviço, a Thermo Star, observa a evolução dos meios tecnológicos no setor que atua e busca aplicar novas técnicas para realizar avanços nos produtos que oferece aos clientes.
+Desse modo, a empresa inova ao desenvolver uma bancada de testes, quer dizer, uma máquina, que avalia o desempenho do produto. De forma que consegue facilitar e melhorar a conferência de diversos equipamentos do controle de refrigeração para que fiquem de acordo com o produto solicitado pelo cliente.
+Nesse sentido, é novo para a empresa tal processo de testes dos equipamentos fabricados, que por meio do desenvolvimento e elaboração de uma Bancada para teste automático das máquinas, com comunicação integrada ao sistema, capaz de identificar e mensurar todos os parâmetros necessários para garantir o melhor funcionamento do equipamento.
+A elaboração do presente estudo traz todos os modelos das máquinas do portfólio atual da empresa e quais são os limites mínimos e máximos de cada parâmetro. A nova bancada, também, gera um relatório em PDF que se comunica com o sistema PROTHEUS, para arquivamento do relatório gerado.
+DESAFIO TECNOLÓGICO: Por conta de o projeto conter alta tecnológica e objetivar a criação de bancadas de testes, equipamento novo e específico para os procedimentos da Thermo Star, foram encontradas barreiras para efetivamente alcançar as metas estipuladas pelo projeto.
+Assim, uma das dificuldades encontradas foi a falta de um exemplo para seguir. Isso porque, se trata de um projeto dedicado em exclusivo para as necessidades da empresa, sem parâmetros para balizamento externo. O que fez necessário um estudo completo e aprofundado da engenharia elétrica dos equipamentos.
+Em estudo identificou-se que existem em média 18 parâmetros para os modelos de equipamentos no portfólio atual. O que, fez necessário identificar quais são os limites mínimos e máximos de cada parâmetro pré-determinados e para cada equipamento medido. Assim, conforme sua tensão específica, ele averiguará se as correntes e sinais estão dentro dos limites programados emitindo um “APROVADO”. Para esta ação foi desenvolvido um software de gerenciamento e adquirido painel elétrico com componentes supervisórios específicos para interpretar as medições.
+Outro desafio, foi criar um modelo ajustável em que todos os parâmetros pudessem ser escolhidos no teste e também com a opção de editar o modelo da máquina, para que em novos equipamentos existisse a opção de execução dos testes até atualizar o software. Após estudos, verificou-se que cada máquina possui um número serial único e deverá registrar separadamente seu relatório.
+METODOLOGIA: Para execução do projeto, realizaram-se estudos, pesquisas bibliográficas e análises de mercado no gênero para identificação das opções atualmente disponíveis de equipamentos necessários para elaboração do projeto, bem como suas configurações técnicas.
+Nessa perspectiva, adotou-se uma metodologia delimitada, baseada nas seguintes atividades:
+1.	Realização de estudo técnico; considerando 19 Modelos de equipamentos; Tensão de entrada; Valor de tensão de alimentação da placa; Tipo de tensão; componentes a serem medidos dentro de cada máquina.
+2.	Após a aprovação do projeto, foi encaminhado para os devidos registros;
+3.	Registros de Medições no teste do elétrico; teste do acoplado; de corrente e ou tensão no positivo; de alimentação da placa; dos Ventiladores da Condensadora e Evaporadora entre outros componentes;
+4.	Após o projeto foi encaminhado aos fornecedores para a confecção dos painéis e software os especificas para projeto;
+5.	Após etapa, efetuado os primeiros testes de calibração
+6.	Após a realização dos testes, o projeto teve seu resultado final alcançado, favorecendo a empresa a oferecer ao mercado um produto diferenciado, com controle de qualidade apurado e certificando que o produto atende aos requisitos estabelecidos.
+Por fim, os últimos passos para concretização do projeto consistiram em validar e verificar os dados obtidos para conclusão.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO:  / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO:  / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO:  / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 

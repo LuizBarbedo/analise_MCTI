@@ -1,0 +1,52 @@
+INICIO PROJETO ==================================================================
+ID_EMPRESA_ANO: 7956 - WEG EQUIPAMENTOS ELETRICOS S/A - ANO :2021
+ID_PROJETO: 62206 - NATUREZA: Processo - TIPO: DE -  Desenvolvimento Experimental - SETOR: Eletroeletrônica (até 2024)
+PROJETO - NOME: 310600107-Desenvolvimento de isolamento elétrico para eixos de motores
+DESCRIÇÂO: Novo projeto de isolamento elétrico dos rolamentos das carcaças ABNT 225 a 450 de todas as linhas de motores elétricos, aplicado pelo processo de aspersão térmica no eixo, o qual tem como objetivo aumentar a robustez da solução à fabricação e aplicação, reduzindo as variações dimensionais e aumentando o isolamento do rolamento a passagem de corrente.
+Comparado com o processo atual, onde as tampas dos motores são isoladas por anéis de ferro fundido e filme isolante NKN (nomex-kapton-nomex), a aspersão térmica torna-se uma melhor solução por sua estabilidade dimensional,  maior isolamento elétrico e menor custo de transformação. O processo atual demanda diversas etapas de fabricação que estão sujeitas à alguns modos de falha, os quais estão vinculados diretamente com a performance do produto, que neste caso é o motor montado na aplicação, e como consequência a solicitação de garantia em caso de falha relacionada e a insatisfação do cliente.
+Olhando para o mercado de motores elétricos nesta faixa de carcaça (ABNT 225 a 450), as duas soluções são aplicadas atualmente por nossos concorrentes, com base em catálogos e visitas em feiras do segmento observa-se que há um aumento significativo nos últimos anos do conceito de eixo isolado, o que nos leva a considerar que essa opção é uma tendência para o desenvolvimento de novas linhas.
+Para aplicação deste conceito como uma novo solução se faz necessário entender o escopo com base nos testes já mencionados, onde o limite da aplicação pode estar relacionado as cargas aplicadas, ao tamanho do rolamento, aos níveis de vibração e aos mais diversos fatores vinculados a aplicação destes.
+PALAVRAS CHAVE: Aspersão térmica; Cerâmica; Isolamento; Eixo; Mancal; Óxido de alumínio.
+ELEMENTO TECNOLÓGICO: Desenvolvimento de uma nova solução para o isolamento elétrico de mancais nas carcaças ABNT 225 a 450 de todas as linhas de motores elétricos. Atualmente os rolamentos são isolados por um cubo intermediário isolado que é montado na tampa do motor, o qual tem como função principal inibir a passagem de corrente elétrica entre o eixo e a carcaça pelos elementos girantes do rolamento. Este conceito de produto possui algumas limitações que dificulta a expansão do escopo e não é robusto ao processo atual de fabricação, onde as variações sujeitas a este estão vinculadas a deformação de geometria e ao baixo nível de isolamento elétrico.
+No novo projeto o isolamento elétrico será aplicado no eixo pelo processo de aspersão térmica, o qual consiste em aplicar uma camada de isolante sobre uma determinada região. Este processo mostra-se mais robusto a aplicação dos motores elétricos, sendo que o material aplicado neste caso será a cerâmica, o qual possui boa estabilidade dimensional e elevada rigidez dielétrica.
+Para validar o novo produto, a fabricação dos protótipos será direcionada para avaliar a robustez deste as mais diversas aplicação do motor e as possíveis variações de processo. Os testes previsto tem como objetivo avaliar a resistência mecânica e química sempre utilizando o critério de isolamento elétrico para validação dos protótipos.
+DESAFIO TECNOLÓGICO: O processo de aspersão térmica para isolamento de eixo é inovador, o qual deve ser submetido a testes para ser validado junto ao processo atual de usinagem do eixo, prensagem do rotor e montagem do motor. Por se tratar de uma etapa adicional, o mesmo possui um elevado risco que pode comprometer a cadeia inteira de fabricação do motor. Para o produto a inovação está vinculada as especificações de projeto, que devem ser avaliadas para absorver o escopo do projeto e as mais diversas aplicações.
+O processo em avaliação possui alguns riscos para a qualidade do produto final, onde o uso da cerâmica (óxido de alumínio) pode apresentar alguns agravantes à fixação do rolamento e ao isolamento elétrico deste. Os testes planejados com a metodologia six-sigma  tem com objetivo avaliar a resistência mecânica da cerâmica associada ao perfil do eixo e a espessura da camada, e quanto ao isolamento elétrico este pode ser avaliado mediante a absorção de umidade, contaminantes e rachaduras na cerâmica, os quais podem estar presentes durante o processo de fabricação e na aplicação do motor.
+METODOLOGIA: - Desenvolvimento de geometria para corpo de prova para avaliação de superfície com aspersão.
+- Avaliação da cadeia de fornecedores e suas tecnologias para a deposição de material cerâmico sobre aço, com o foco nos processos de alto desempenho e fácil capacitação interna.
+- Desenvolvimento de solução alternativa à aspersão, com a montagem de buchas de cerâmica sobre o eixo ou tampa de ferro fundido.
+- Definição do escopo das amostras com base na aplicação do projeto e custos.
+- Revisão da literatura para definição do campo de tolerância aplicado interface, considerando a diferença no coeficiente de dilatação e escopo da aplicação.
+- Alinhamento do projeto com o fornecedor para avaliação do campo de tolerância proposto em relação a capabilidade do processo de fabricação.
+- Projeto das protótipos conforme os parâmetros de projeto e processo apresentados.
+- Definição do plano de teste para avaliar os casos críticos com base nos cálculos de fator de segurança. Considerando os principais modos de falha associados a interface de dois componentes com diferentes matérias primas, onde o fator temperatura é considerado relevante devido a elevada diferença entre os coeficientes de dilatação da cerâmica e aço/ferro fundido. Nas extremidades dos campos de tolerância são identificados os principais modos de falha, componente solto devido a baixa interferência e a quebra do componente devido a elevada interferência.
+- Aquisição das buchas para testes internos conforme plano de amostragem, 5 unidades do modelo para tampa e 5 unidades do modelo para o eixo.
+- Avaliação dimensional das protótipos em máquina tridimensional para levantamento do perfil de deformação da peça física em relação ao processo de fabricação proposto.
+- Realização dos testes de montagem conforme o casamento dimensional entre os protótipos, identificando os casos extremos dentro do campo de tolerância. O eixo foi submetido à baixas temperaturas (aproximadamente -80°C) com a mistura de gelo seco (dióxido de carbono sólido) e álcool etílico absoluto para permitir a montagem deslizante da bucha de cerâmica. Esse processo foi realizado três vezes, com as seguintes análises:
+- O primeiro conjunto foi mantido a temperatura ambiente para análise de trincas com o aumento gradativo da interferência respectivo ao aumento da temperatura, onde observou-se a alta influência das deformações do perfil no fator de segurança devido a quebra da bucha.
+- O segundo conjunto foi levado a uma estufa para a análise de trincas com o aumento gradativo da interferência respectivo ao aumento da temperatura, onde observou-se uma boa correlação dos dados de cálculo do fator de segurança com o protótipo.
+- O terceiro conjunto foi mantido a temperatura ambiente para análise de trincas com o aumento gradativo da interferência respectivo ao aumento da temperatura, onde observou-se que falhas superficiais comprometem o fator de segurança da bucha.
+- Compilado dos resultados e formatação do relatório.
+INFORMAÇÃO COMPLEMENTAR: 
+DO_AVALIACAO: Recomendado
+DO_OBSERVACAO: <p>Recomenda-se a colaboração com instituições de ensino e pesquisa e pesquisadores com mestrado e doutorado.</p> / 
+DO_JUSTIFICATIVA_LIVRE: 
+DO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARECER_AVALIACAO: Recomendado
+PARECER_OBSERVACAO:  / 
+PARECER_JUSTIFICATIVA_LIVRE: 
+PARECER_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+CONTESTAÇÃO APRESENTADA PELA EMPRESA: 
+DO_CONTESTAÇÃO_AVALIACAO: Recomendado
+DO_CONTESTAÇÃO_OBSERVACAO: As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+DO_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+PARACER_CONTESTAÇÃO_AVALIACAO: Recomendado
+PARACER_CONTESTAÇÃO_OBSERVACAO: As despesas médicas e gastos com plano de saúde de colaboradores, assim como os custos proporcionais de energia elétrica utilizadas no P&D e que foram apresentados pela empresa na prestação de contas não são dedutíveis pela Lei do Bem. Dessa forma, estas despesas não podem ser consideradas na prestação de contas. / 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_LIVRE: 
+PARACER_CONTESTAÇÃO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
+RECURSO ADMINISTRATIVO APRESENTADO PELA EMPRESA: 
+RECURSO_AVALIACAO: 
+RECURSO_OBSERVACAO:  / 
+RECURSO_JUSTIFICATIVA_LIVRE: 
+RECURSO_JUSTIFICATIVA_PADRONIZADA - NOME:  TITULO:  CORPO:  RODAPE: 
